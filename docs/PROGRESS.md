@@ -123,3 +123,24 @@ YES24 원제 필드로 확정: The Poisoner's Handbook → 『CSI IN 모던타�
 - 같은 책이 여러 목록에 나오면 이미 만든 리뷰 요약을 재사용한다(`build_data._review_by_work`).
 - 한계: 기준 도서가 랭킹 10위 안에 든 적이 없으면 제목 질의가 안 된다. 일본 소스와 영미권 소스를 한 목록에서 섞는 것은 아직 안 된다(영미권 집계가 코드화되지 않음).
 
+
+## 6. Gemini(Google 검색 그라운딩)로 Reddit 후보 수집 (2026-11-13)
+- `scripts/gemini_candidates.py` (gemini-2.5-flash, Reddit만 검색하도록 지시). 결과 `data/community/tinker.gemini.json`.
+- 출처 도메인 100% reddit.com, 후보 56권 (2회 호출, 비용 수백 원 수준).
+- 기준 시트 40권 중 13권 포함. 시트가 놓쳤던 롱테일 14권 중 찾은 것은 1권(The Matarese Circle) → 누적 재현율 28/40 (70%).
+- 시트의 롱테일은 특정 Reddit 스레드 하나에서 온 것으로 보이며(일부는 gold.json에서 오류 의심), 일반 검색으로는 재현되지 않는다.
+- 대신 시트에 없던 Reddit 롱테일 38권 확보: Ross Thomas, John Lawton, Adam Hall(퀼러), Alan Furst 시리즈, Len Deighton 3부작, Trevanian, Nelson DeMille 등.
+- Gemini API는 2026-10부터 선불(Prepay) 전용. 잔액 0이면 402.
+
+## 10. 소스 등록부와 영미권·일본 통합 추천 (2026-11-13)
+- **소스 등록부**: `scripts/sources.json`에 소스 44개(영미권 23, 일본 21)를 등록하고 `scripts/sources.py`가 위키백과에서 수집한다. 소스 목록 문서 `docs/SOURCES.md`는 자동 생성(상태·연도 범위·건수 포함). 현재 8,400여 건.
+  - 영미권: Edgar, CWA Gold/Steel Dagger, Anthony, Hugo, Nebula, Clarke, Locus, Booker, Pulitzer(소설·논픽션·역사), National Book Award, Baillie Gifford, FT Business Book, Royal Society Science, Wolfson, Kirkus, Publishers Weekly 연간 베스트셀러.
+  - 일본: このミス, 週刊文春, 本格ミステリ・ベスト10, ミステリが読みたい!, 本格ミステリ大賞, 江戸川乱歩賞, 大藪春彦賞, 本屋大賞, 直木賞, 芥川賞, 山本周五郎賞, 吉川英治文学新人賞, 日本SF大賞, 星雲賞, 大宅壮一ノンフィクション賞, 講談社本田靖春ノンフィクション賞, 開高健ノンフィクション賞, 新書大賞, 小林秀雄賞.
+  - 못 읽은 것: 日本推理作家協会賞(보류), Women's Prize(일부), 本屋大賞 ノンフィクション本大賞(요청 제한).
+- **통합 추천** `scripts/recommend.py`: 장르·제목 질의 모두 영미권과 일본 소스를 함께 집계한다. `build_ja_list.py`는 이것으로 대체해 삭제.
+  - 국내판 우선: 후보를 넉넉히 뽑아 국내판을 확인한 뒤, 미번역은 지역별 1/5까지만 '미번역 명작'으로 싣는다.
+  - 영어 원제 매칭 추가(`find_korean_en`). YES24가 영어 원제로 직접 검색된다.
+- **만든 목록**: `mystery-mix`(미스터리 2016~2026, 38권: 국내판 30, 전자책 28) · `like-kokurojo`(『흑뢰성』 기준 25권, 영미권 6권 포함) · `nonfiction-mix`(논픽션 29권: 국내판 23, 전자책 14). `ja-mystery`는 `mystery-mix`로 대체.
+- 잡은 오류: 부제 앞 제목이 관사뿐인 책(A (Very) Short History…)이 엉뚱한 책에 붙던 문제, 제목만 같은 다른 저자 책(Black Widow), 베스트셀러 소스가 장르 목록에 섞이던 문제(Atomic Habits).
+- 남은 일: 판매량 축 확장(일본 연간 베스트셀러 — トーハン·日販, Oricon. Amazon은 약관상 수집하지 않고 PA-API도 종료), 언론 연간 결산(NYT·Guardian·朝日 등 — 위키백과에 표가 없어 페이지별 수집기 필요), 새 목록의 리뷰 수집·요약, 소스별 저자 칸 품질 점검.
+

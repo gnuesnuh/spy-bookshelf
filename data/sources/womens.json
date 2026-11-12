@@ -1,0 +1,128 @@
+[
+ {
+  "source": "womens",
+  "year": 1960,
+  "rank": null,
+  "result": "win",
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1985,
+  "rank": null,
+  "result": "win",
+  "title": "The Handmaid's Tale",
+  "author": "Margaret Atwood",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1997,
+  "rank": null,
+  "result": "win",
+  "title": "Harry Potter",
+  "author": "J. K. Rowling",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1938,
+  "rank": null,
+  "result": "win",
+  "title": "Rebecca",
+  "author": "Daphne du Maurier",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1992,
+  "rank": null,
+  "result": "win",
+  "title": "The Secret History",
+  "author": "Donna Tartt",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1948,
+  "rank": null,
+  "result": "win",
+  "title": "I Capture the Castle",
+  "author": "Dodie Smith",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1963,
+  "rank": null,
+  "result": "win",
+  "title": "The Bell Jar",
+  "author": "Sylvia Plath",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1987,
+  "rank": null,
+  "result": "win",
+  "title": "Beloved",
+  "author": "Toni Morrison",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 2003,
+  "rank": null,
+  "result": "win",
+  "title": "We Need to Talk About Kevin",
+  "author": "Lionel Shriver",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 2003,
+  "rank": null,
+  "result": "win",
+  "title": "The Time Traveler's Wife",
+  "author": "Audrey Niffenegger",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1969,
+  "rank": null,
+  "result": "win",
+  "title": "I Know Why the Caged Bird Sings",
+  "author": "Maya Angelou",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1962,
+  "rank": null,
+  "result": "win",
+  "title": "The Golden Notebook",
+  "author": "Doris Lessing",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1982,
+  "rank": null,
+  "result": "win",
+  "title": "The Color Purple",
+  "author": "Alice Walker",
+  "lang": "en"
+ },
+ {
+  "source": "womens",
+  "year": 1977,
+  "rank": null,
+  "result": "win",
+  "title": "The Women's Room",
+  "author": "Marilyn French",
+  "lang": "en"
+ }
+]

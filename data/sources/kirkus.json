@@ -1,0 +1,2108 @@
+[
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "win",
+  "title": "Euphoria",
+  "author": "Lily King",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Blazing World",
+  "author": "Siri Hustvedt",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "All Our Names",
+  "author": "Dinaw Mengestu",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "Florence Gordon",
+  "author": "Brian Morton",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Remedy for Love",
+  "author": "Bill Roorbach",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Paying Guests",
+  "author": "Sarah Waters",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "win",
+  "title": "A Little Life",
+  "author": "Hanya Yanagihara",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "The Incarnations",
+  "author": "Susan Barker",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "A Manual for Cleaning Women",
+  "author": "Lucia Berlin / Stephen Emerson",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Fates and Furies",
+  "author": "Lauren Groff",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "The Story of My Teeth",
+  "author": "Valeria Luiselli / Christina MacSweeney",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "The Book of Aron",
+  "author": "Jim Shepard",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "win",
+  "title": "The Sport of Kings",
+  "author": "C. E. Morgan",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Imagine Me Gone",
+  "author": "Adam Haslett",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Carousel Court",
+  "author": "Joe McGinniss Jr.",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Barkskins",
+  "author": "Annie Proulx",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "A Gentleman in Moscow",
+  "author": "Amor Towles",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "The Underground Railroad",
+  "author": "Colson Whitehead",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "win",
+  "title": "What It Means When a Man Falls from the Sky",
+  "author": "Lesley Nneka Arimah",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Exit West",
+  "author": "Mohsin Hamid",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "White Tears",
+  "author": "Hari Kunzru",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Her Body and Other Parties",
+  "author": "Carmen Maria Machado",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "The Ninth Hour",
+  "author": "Alice McDermott",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Sing, Unburied, Sing",
+  "author": "Jesmyn Ward",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "win",
+  "title": "Severance",
+  "author": "Ling Ma",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Halsey Street",
+  "author": "Naima Coster",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Florida",
+  "author": "Lauren Groff",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Mourning",
+  "author": "Eduardo Halfon / Lisa Dillman / Daniel Hahn",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Heads of the Colored People",
+  "author": "Nafissa Thompson-Spires",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Tell the Machine Goodnight",
+  "author": "Katie Williams",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "win",
+  "title": "The Nickel Boys",
+  "author": "Colson Whitehead",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "Cantoras",
+  "author": "Carolina De Robertis",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "The Other Americans",
+  "author": "Laila Lalami",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "Lost Children Archive",
+  "author": "Valeria Luiselli",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "Territory of Light",
+  "author": "Yūko Tsushima / Geraldine Harcourt",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "On Earth We're Briefly Gorgeous",
+  "author": "Ocean Vuong",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "win",
+  "title": "Luster",
+  "author": "Raven Leilani",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Black Sunday",
+  "author": "Tola Rotimi Abraham",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Fiebre Tropical",
+  "author": "Juliana Delgado Lopera",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "The Lying Life of Adults",
+  "author": "Elena Ferrante / Ann Goldstein",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Deacon King Kong",
+  "author": "James McBride",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Shuggie Bain",
+  "author": "Douglas Stuart",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "win",
+  "title": "Harrow",
+  "author": "Joy Williams",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "The Dangers of Smoking in Bed",
+  "author": "Mariana Enríquez / Megan McDowell",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "The Love Songs of W.E.B. Du Bois",
+  "author": "Honorée Fanonne Jeffers",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "My Monticello",
+  "author": "Jocelyn Nicole Johnson",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Bolla",
+  "author": "Pajtim Statovci / David Hackston",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Harlem Shuffle",
+  "author": "Colson Whitehead",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "win",
+  "title": "Trust",
+  "author": "Hernan Diaz",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "Scary Monsters",
+  "author": "Michelle de Kretser",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "God's Children Are Little Broken Things",
+  "author": "Arinze Ifeakandu",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "Mecca",
+  "author": "Susan Straight",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "Scattered All Over the Earth",
+  "author": "Yoko Tawada / Margaret Mitsutani",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "The Books of Jacob",
+  "author": "Olga Tokarczuk / Jennifer Croft",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "win",
+  "title": "The Heaven & Earth Grocery Store",
+  "author": "James McBride",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Witness",
+  "author": "Jamel Brinkley",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Birnam Wood",
+  "author": "Eleanor Catton",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "White Cat, Black Dog",
+  "author": "Kelly Link",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "The Bee Sting",
+  "author": "Paul Murray",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Let Us Descend",
+  "author": "Jesmyn Ward",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "win",
+  "title": "James",
+  "author": "Percival Everett",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Say Hello to My Little Friend",
+  "author": "Jennine Capó Crucet",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "The Mighty Red",
+  "author": "Louise Erdrich",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Prophet Song",
+  "author": "Paul Lynch",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Playground",
+  "author": "Richard Powers",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Margo's Got Money Troubles",
+  "author": "Rufi Thorpe",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "win",
+  "title": "The Slip",
+  "author": "Lucas Schaefer",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "The Loneliness of Sonia and Sunny",
+  "author": "Kiran Desai",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "The Wilderness",
+  "author": "Angela Flournoy",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Isola",
+  "author": "Allegra Goodman",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "A Guardian and a Thief",
+  "author": "Megha Majumdar",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Flesh",
+  "author": "David Szalay",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "win",
+  "title": "Kin",
+  "author": "Tayari Jones",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "This Is Where the Serpent Lives",
+  "author": "Daniyal Mueenuddin",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Eating Ashes",
+  "author": "Brenda Navarro Megan McDowell",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Luna, Phoenix, Queen",
+  "author": "Julie Orringer",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "John of John",
+  "author": "Douglas Stuart",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Cool Machine",
+  "author": "Colson Whitehead",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "win",
+  "title": "Can't We Talk About Something More Pleasant?",
+  "author": "Roz Chast",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "Jonathan Swift: His Life and His World",
+  "author": "Leo Damrosch",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Sixth Extinction: An Unnatural History",
+  "author": "Elizabeth Kolbert",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Lagoon: How Aristotle Invented Science",
+  "author": "Armand Marie Leroi",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "Capital in the Twenty-First Century",
+  "author": "Thomas Piketty / Arthur Goldhammer",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "Just Mercy: A Story of Justice and Redemption",
+  "author": "Bryan Stevenson",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "win",
+  "title": "Between the World and Me",
+  "author": "Ta-Nehisi Coates",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Whirlwind: The American Revolution and the War That Won It",
+  "author": "John Ferling",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "H is for Hawk",
+  "author": "Helen Macdonald",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "The Deluge: The Great War, America and the Remaking of the Global Order, 1916–1931",
+  "author": "Adam Tooze",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Pacific: Silicon Chips and Surfboards, Coral Reefs and Atom Bombs, Brutal Dictators, Fading Empires, and the Coming Collision of the World's Superpowers",
+  "author": "Simon Winchester",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "The Invention of Nature: Alexander von Humboldt's New World",
+  "author": "Andrea Wulf",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "win",
+  "title": "In the Darkroom",
+  "author": "Susan Faludi",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "At the Existentialist Café: Freedom, Being, and Apricot Cocktails",
+  "author": "Sarah Bakewell",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Evicted: Poverty and Profit in the American City",
+  "author": "Matthew Desmond",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "The Black Presidency: Barack Obama and the Politics of Race in America",
+  "author": "Michael Eric Dyson",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Truevine: Two Brothers, a Kidnapping, and a Mother's Quest: A True Story of the Jim Crow South",
+  "author": "Beth Macy",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+  "author": "JD Vance",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "win",
+  "title": "The Gulf: The Making of an American Sea",
+  "author": "Jack E. Davis",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "The Seeds of Life: From Aristotle to da Vinci, from Sharks' Teeth to Frogs' Pants, the Long and Strange Quest to Discover Where Babies Come",
+  "author": "Edward Dolnick",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Priestdaddy: A Memoir",
+  "author": "Patricia Lockwood",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Tell Me How It Ends: An Essay in Forty Questions",
+  "author": "Valeria Luiselli / Lizzie Davis",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "The Cooking Gene: A Journey Through African American Culinary History in the Old South",
+  "author": "Michael W. Twitty",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Henry David Thoreau: A Life",
+  "author": "Laura Walls",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "win",
+  "title": "Call Them by Their True Names: American Crises (and Essays)",
+  "author": "Rebecca Solnit",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "American Prison: A Reporter's Undercover Journey into the Business of Punishment",
+  "author": "Shane Bauer",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Heavy: An American Memoir",
+  "author": "Kiese Laymon",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Dopesick: Dealers, Doctors, and the Drug Company That Addicted America",
+  "author": "Beth Macy",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Heartland: A Memoir of Working Hard and Being Broke in the Richest Country on Earth",
+  "author": "Sarah Smarsh",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "The Road to Unfreedom: Russia, Europe, America",
+  "author": "Timothy Snyder",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "win",
+  "title": "How We Fight for Our Lives: A Memoir",
+  "author": "Saeed Jones",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "Go Ahead in the Rain: Notes to A Tribe Called Quest",
+  "author": "Hanif Abdurraqib",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "When Death Takes Something from You Give It Back: Carl's Book",
+  "author": "Naja Marie Aidt / Denise Newman",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+  "author": "Patrick Radden Keefe",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "The Ungrateful Refugee: What Immigrants Never Tell You",
+  "author": "Dina Nayeri",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "No Visible Bruises: What We Don't Know About Domestic Violence Can Kill Us",
+  "author": "Rachel Louise Snyder",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "win",
+  "title": "Stakes Is High: Life After the American Dream",
+  "author": "Mychal Denzel Smith",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "A Furious Sky: The Five-Hundred-Year History of America's Hurricanes",
+  "author": "Eric Jay Dolin",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Fathoms: The World in the Whale",
+  "author": "Rebecca Giggs",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "The Address Book: What Street Addresses Reveal About Identity, Race, Wealth, and Power",
+  "author": "Deirdre Mask",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "World of Wonders: In Praise of Fireflies, Whale Sharks, and Other Astonishments",
+  "author": "Aimee Nezhukumatathil / Fumi Nakamura",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Caste: The Origins of Our Discontents",
+  "author": "Isabel Wilkerson",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "win",
+  "title": "Punch Me Up to the Gods: A Memoir",
+  "author": "Brian Broome",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "People Love Dead Jews: Reports From a Haunted Present",
+  "author": "Dara Horn",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "All That She Carried: The Journey of Ashley's Sack, a Black Family Keepsake",
+  "author": "Tiya Miles",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Seek You: A Journey Through American Loneliness",
+  "author": "Kristen Radtke",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Lightning Flowers: My Journey to Uncover the Cost of Saving a Life",
+  "author": "Katherine E. Standefer",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Horizontal Vertigo: A City Called Mexico",
+  "author": "Juan Villoro / Alfred MacAdam",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "win",
+  "title": "In Sensorium",
+  "author": "Tanaïs",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "By Hands Now Known",
+  "author": "Margaret A. Burnham",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "The Facemaker",
+  "author": "Lindsey Fitzharris",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "The 1619 Project",
+  "author": "Nikole Hannah-Jones",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "These Precious Days",
+  "author": "Ann Patchett",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "An Immense World",
+  "author": "Ed Yong",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "win",
+  "title": "Our Migrant Souls: A Meditation on the Meanings and Myths of \"Latino",
+  "author": "Héctor Tobar",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Red Memory: The Afterlives of China's Cultural Revolution",
+  "author": "Tania Branigan",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Mr. B: George Balanchine's 20th Century",
+  "author": "Jennifer Homans",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "How Not to Kill Yourself: A Portrait of the Suicidal Mind",
+  "author": "Clancy Martin",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "How to Say Babylon: A Memoir",
+  "author": "Safiya Sinclair",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Master Slave Husband Wife: An Epic Journey From Slavery to Freedom",
+  "author": "Ilyon Woo",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "win",
+  "title": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
+  "author": "Adam Higginbotham",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "The Achilles Trap: Saddam Hussein, the CIA, and the Origins of America's Invasion of Iraq",
+  "author": "Steve Coll",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Feeding Ghosts: A Graphic Memoir",
+  "author": "Tessa Hulls",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "The Garden Against Time: In Search of a Common Paradise",
+  "author": "Olivia Laing",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Undue Burden: Life and Death Decisions in Post-Roe America",
+  "author": "Shefali Luthra",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Another Word for Love: A Memoir",
+  "author": "Carvell Wallace",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "win",
+  "title": "King of Kings: The Iranian Revolution: A Story of Hubris, Delusion and Catastrophic Miscalculation",
+  "author": "Scott Anderson",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Baldwin: A Love Story",
+  "author": "Nicholas Boggs",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck",
+  "author": "Sophie Elmhirst",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "America, América: A New History of the New World",
+  "author": "Greg Grandin",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Black in Blues: How a Color Tells the Story of My People",
+  "author": "Imani Perry",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Mother Mary Comes to Me",
+  "author": "Arundhati Roy",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "win",
+  "title": "Catch the Devil: A True Story of Murder, Deception, and Injustice on the Gulf Coast",
+  "author": "Pamela Colloff",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Keeper of My Kin: Memoir of an Immigrant Daughter",
+  "author": "Ada Ferrer",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth",
+  "author": "Patrick Radden Keefe",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Defiance: A Memoir of Awakening, Rebellion, and Survival in Syria",
+  "author": "Loubna Mrie",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "A Hymn to Life: Shame Has To Change Sides",
+  "author": "Gisèle Pelicot, with Judith Perrignon Natasha Lehrer Ruth Diver",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "A World Appears: A Journey Into Consciousness",
+  "author": "Michael Pollan",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "win",
+  "title": "Aviary Wonders Inc.: Spring Catalog and Instruction Manual",
+  "author": "Kate Samworth",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "El Deafo",
+  "author": "Cece Bell",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Right Word: Roget and His Thesaurus",
+  "author": "Jen Bryant / Melissa Sweet",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Key That Swallowed Joey Pigza",
+  "author": "Jack Gantos",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Story of Owen: Dragon Slayer of Trondheim",
+  "author": "E. K. Johnston",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Freedom Summer Murders",
+  "author": "Don Mitchell",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "win",
+  "title": "Echo",
+  "author": "Pam Muñoz Ryan / Dinara Mirtalipova",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "The Game of Love and Death",
+  "author": "Martha Brockenbrough",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "The New Small Person",
+  "author": "Lauren Child",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Shadowshaper",
+  "author": "Daniel José Older",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Funny Bones: Posada and His Day of the Dead Calaveras",
+  "author": "Duncan Tonatiuh",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Lillian's Right to Vote: A Celebration of the Voting Rights Act of 1965",
+  "author": "Jonah Winter / Shane W. Evans",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "win",
+  "title": "As Brave as You",
+  "author": "Jason Reynolds",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Thunder Boy Jr.",
+  "author": "Sherman Alexie / Yuyi Morales",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Freedom Over Me: Eleven Slaves, Their Lives and Dreams Brought to Life by Ashley Bryan",
+  "author": "Ashley Bryan",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "The Reader",
+  "author": "Traci Chee",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "We Will Not Be Silent: The White Rose Student Resistance Movement That Defied Adolf Hitler",
+  "author": "Russell Freedman",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Burn Baby Burn",
+  "author": "Meg Medina",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "win",
+  "title": "The Marrow Thieves",
+  "author": "Cherie Dimaline",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Walk with Me",
+  "author": "Jairo Buitrago / Rafael Yockteng / Elisa Amado",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Bronze and Sunflower",
+  "author": "Cao Wenxuan / Helen Wang / Meilo So",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "It All Comes Down to This",
+  "author": "Karen English",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Me Tall, You Small",
+  "author": "Lilli L'Arronge / Madeleine Stratford",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "The Hate U Give",
+  "author": "Angie Thomas",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "win",
+  "title": "Crown: An Ode to the Fresh Cut",
+  "author": "Derrick Barnes / Gordon C. James",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "The Poet X",
+  "author": "Elizabeth Acevedo",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Children of Blood and Bone",
+  "author": "Tomi Adeyemi",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Merci Suárez Changes Gears",
+  "author": "Meg Medina",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Dreamers",
+  "author": "Yuyi Morales",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Harbor Me",
+  "author": "Jacqueline Woodson",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "win",
+  "title": "New Kid",
+  "author": "Jerry Craft / Jim Callahan",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "The Undefeated",
+  "author": "Kwame Alexander / Kadir Nelson",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "Imagine",
+  "author": "Juan Felipe Herrera / Lauren Castillo",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "On the Come Up",
+  "author": "Angie Thomas",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "The Other Side: Stories of Central American Teen Refugees Who Dream of Crossing the Border",
+  "author": "Juan Pablo Villalobos / Rosalind Harvey",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "Genesis Begins Again",
+  "author": "Alicia D. Williams",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "win",
+  "title": "I Am Every Good Thing",
+  "author": "Derrick Barnes / Gordon C. James",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Clap When You Land",
+  "author": "Elizabeth Acevedo",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "The Girl and the Ghost",
+  "author": "Hanna Alkaf",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Fighting Words",
+  "author": "Kimberly Brubaker Bradley",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "We Are Water Protectors",
+  "author": "Carole Lindstrom / Michaela Goade",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Stamped: Racism, Antiracism, and You",
+  "author": "Ibram X. Kendi and Jason Reynolds",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "win",
+  "title": "All Thirteen: The Incredible Cave Rescue of the Thai Boys' Soccer Team",
+  "author": "Christina Soontornvat",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "The Life I'm In",
+  "author": "Sharon G. Flake",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Legacy: Women Poets of the Harlem Renaissance",
+  "author": "Nikki Grimes",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Your Mama",
+  "author": "NoNieqa Ramos / Jacqueline Alcántara",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "The Surprising Power of a Good Dumpling",
+  "author": "Wai Chim",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Unspeakable: The Tulsa Race Massacre",
+  "author": "Carole Boston Weatherford / Floyd Cooper",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "win",
+  "title": "Himawari House",
+  "author": "Harmony Becker",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "Coffee, Rabbit, Snowdrop, Lost",
+  "author": "Betina Birkjær",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "How You Grow Wings",
+  "author": "Rimma Onoseta",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "The Golden Hour",
+  "author": "Niki Smith",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "The Troubled Girls of Dragomir Academy",
+  "author": "Anne Ursu",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "The Year We Learned to Fly",
+  "author": "Jacqueline Woodson / Rafael López",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "win",
+  "title": "America Redux: Visual Stories from Our Dynamic History",
+  "author": "Ariel Aberg-Riger",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Together We Swim",
+  "author": "Valerie Bolling / Kaylani Juanita",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "The Eternal Return of Clara Hart",
+  "author": "Louise Finch",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Julia and the Shark",
+  "author": "Kiran Millwood Hargrave / Tom de Freston",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "The Skull: A Tyrolean Folktale",
+  "author": "Jon Klassen",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "João by a Thread",
+  "author": "Roger Mello / Daniel Hahn",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "win",
+  "title": "Gather",
+  "author": "Kenneth M. Cadow",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Bright Red Fruit",
+  "author": "Safia Elhillo",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "We Who Produce Pearls",
+  "author": "Joanna Ho / Amanda Phingbodhipakkiya",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Safiyyah's War",
+  "author": "Hiba Noor Khan",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "There Was a Party for Langston",
+  "author": "Jason Reynolds / Jerome Pumphrey / Jarrett Pumphrey",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Shark Teeth",
+  "author": "Sherri Winston",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "win",
+  "title": "Everybelly",
+  "author": "Thao Lam",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "The Incredibly Human Henson Blayze",
+  "author": "Derrick Barnes",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "John the Skeleton",
+  "author": "Triinu Laan / Marja-Liisa Plats / Adam Cullen",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Butterfly Heart",
+  "author": "Moa Backe Åstot / Agnes Broomé",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Death in the Jungle: Murder, Betrayal and the Lost Dream of Jonestown",
+  "author": "Candace Fleming",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Island Storm",
+  "author": "Brian Floca / Sydney Smith",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "win",
+  "title": "Anger Is Only a Shadow",
+  "author": "Elizabeth Acevedo",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Navigating Night",
+  "author": "Julie Leung Angie Kang",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Electric Birds of Pothakudi",
+  "author": "Karthika Naïr Joëlle Jolivet",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "The Lovely Dark",
+  "author": "Matthew Fox",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "This Is a Door",
+  "author": "Daniel Nayeri",
+  "lang": "en"
+ },
+ {
+  "source": "kirkus",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "When It's Your Turn for Midnight",
+  "author": "Blessing Musariri",
+  "lang": "en"
+ }
+]

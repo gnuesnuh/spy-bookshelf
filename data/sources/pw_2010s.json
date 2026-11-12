@@ -1,0 +1,902 @@
+[
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 1,
+  "result": "rank",
+  "title": "The Girl Who Kicked the Hornet's Nest",
+  "author": "Stieg Larsson",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 2,
+  "result": "rank",
+  "title": "The Confession",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 3,
+  "result": "rank",
+  "title": "The Help",
+  "author": "Kathryn Stockett",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 4,
+  "result": "rank",
+  "title": "Safe Haven",
+  "author": "Nicholas Sparks",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 5,
+  "result": "rank",
+  "title": "Dead or Alive",
+  "author": "Tom Clancy",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 6,
+  "result": "rank",
+  "title": "Sizzling Sixteen",
+  "author": "Janet Evanovich",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 7,
+  "result": "rank",
+  "title": "Cross Fire",
+  "author": "James Patterson",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 8,
+  "result": "rank",
+  "title": "Freedom",
+  "author": "Jonathan Franzen",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 9,
+  "result": "rank",
+  "title": "Port Mortuary",
+  "author": "Patricia Cornwell",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2010,
+  "rank": 10,
+  "result": "rank",
+  "title": "Full Dark, No Stars",
+  "author": "Stephen King",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 1,
+  "result": "rank",
+  "title": "The Litigators",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 2,
+  "result": "rank",
+  "title": "11/22/63",
+  "author": "Stephen King",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 3,
+  "result": "rank",
+  "title": "The Best of Me",
+  "author": "Nicholas Sparks",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 4,
+  "result": "rank",
+  "title": "Smokin' Seventeen",
+  "author": "Janet Evanovich",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 5,
+  "result": "rank",
+  "title": "A Dance with Dragons",
+  "author": "George R. R. Martin",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 6,
+  "result": "rank",
+  "title": "Explosive Eighteen",
+  "author": "Janet Evanovich",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 7,
+  "result": "rank",
+  "title": "Kill Alex Cross",
+  "author": "James Patterson",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 8,
+  "result": "rank",
+  "title": "Micro",
+  "author": "Michael Crichton",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 9,
+  "result": "rank",
+  "title": "Dead Reckoning",
+  "author": "Charlaine Harris",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2011,
+  "rank": 10,
+  "result": "rank",
+  "title": "Locked On",
+  "author": "Tom Clancy and Mark Greaney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 1,
+  "result": "rank",
+  "title": "Fifty Shades of Grey",
+  "author": "E. L. James",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 2,
+  "result": "rank",
+  "title": "The Hunger Games",
+  "author": "Suzanne Collins",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 3,
+  "result": "rank",
+  "title": "Fifty Shades Darker",
+  "author": "E. L. James",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 4,
+  "result": "rank",
+  "title": "Fifty Shades Freed",
+  "author": "E. L. James",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 5,
+  "result": "rank",
+  "title": "Catching Fire",
+  "author": "Suzanne Collins",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 6,
+  "result": "rank",
+  "title": "Mockingjay",
+  "author": "Suzanne Collins",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 7,
+  "result": "rank",
+  "title": "Diary of a Wimpy Kid: The Third Wheel",
+  "author": "Jeff Kinney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 8,
+  "result": "rank",
+  "title": "Fifty Shades trilogy",
+  "author": "E. L. James",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 9,
+  "result": "rank",
+  "title": "The Mark of Athena",
+  "author": "Rick Riordan",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2012,
+  "rank": 10,
+  "result": "rank",
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 1,
+  "result": "rank",
+  "title": "Diary of a Wimpy Kid: Hard Luck",
+  "author": "Jeff Kinney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 2,
+  "result": "rank",
+  "title": "Inferno",
+  "author": "Dan Brown",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 3,
+  "result": "rank",
+  "title": "The House of Hades",
+  "author": "Rick Riordan",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 4,
+  "result": "rank",
+  "title": "Divergent",
+  "author": "Veronica Roth",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 5,
+  "result": "rank",
+  "title": "Sycamore Row",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 6,
+  "result": "rank",
+  "title": "Diary of a Wimpy Kid: The Third Wheel",
+  "author": "Jeff Kinney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 7,
+  "result": "rank",
+  "title": "Allegiant",
+  "author": "Veronica Roth",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 8,
+  "result": "rank",
+  "title": "The Fault in Our Stars",
+  "author": "John Green",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 9,
+  "result": "rank",
+  "title": "Doctor Sleep",
+  "author": "Stephen King",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2013,
+  "rank": 10,
+  "result": "rank",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 1,
+  "result": "rank",
+  "title": "The Fault in Our Stars",
+  "author": "John Green",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 2,
+  "result": "rank",
+  "title": "Diary of a Wimpy Kid: The Long Haul",
+  "author": "Jeff Kinney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 3,
+  "result": "rank",
+  "title": "Divergent",
+  "author": "Veronica Roth",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 4,
+  "result": "rank",
+  "title": "Insurgent",
+  "author": "Veronica Roth",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 5,
+  "result": "rank",
+  "title": "Killing Patton",
+  "author": "Bill O'Reilly",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 6,
+  "result": "rank",
+  "title": "Allegiant",
+  "author": "Veronica Roth",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 7,
+  "result": "rank",
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 8,
+  "result": "rank",
+  "title": "The Fault in Our Stars",
+  "author": "John Green",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 9,
+  "result": "rank",
+  "title": "The Fault in Our Stars",
+  "author": "John Green",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2014,
+  "rank": 10,
+  "result": "rank",
+  "title": "Frozen",
+  "author": "Victoria Saxon",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 1,
+  "result": "rank",
+  "title": "Go Set a Watchman",
+  "author": "Harper Lee",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 2,
+  "result": "rank",
+  "title": "Grey",
+  "author": "E. L. James",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 3,
+  "result": "rank",
+  "title": "The Girl on the Train",
+  "author": "Paula Hawkins",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 4,
+  "result": "rank",
+  "title": "All the Light We Cannot See",
+  "author": "Anthony Doerr",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 5,
+  "result": "rank",
+  "title": "The Martian",
+  "author": "Andy Weir",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 6,
+  "result": "rank",
+  "title": "Rogue Lawyer",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 7,
+  "result": "rank",
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 8,
+  "result": "rank",
+  "title": "See Me",
+  "author": "Nicholas Sparks",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 9,
+  "result": "rank",
+  "title": "Gray Mountain",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2015,
+  "rank": 10,
+  "result": "rank",
+  "title": "The Nightingale",
+  "author": "Kristin Hannah",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 1,
+  "result": "rank",
+  "title": "The Girl on the Train",
+  "author": "Paula Hawkins",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 2,
+  "result": "rank",
+  "title": "A Man Called Ove",
+  "author": "Fredrik Backman",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 3,
+  "result": "rank",
+  "title": "The Whistler",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 4,
+  "result": "rank",
+  "title": "Me Before You",
+  "author": "Jojo Moyes",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 5,
+  "result": "rank",
+  "title": "Me Before You",
+  "author": "Jojo Moyes",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 6,
+  "result": "rank",
+  "title": "Two by Two",
+  "author": "Nicholas Sparks",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 7,
+  "result": "rank",
+  "title": "The Girl on the Train",
+  "author": "Paula Hawkins",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 8,
+  "result": "rank",
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 9,
+  "result": "rank",
+  "title": "Me Before You",
+  "author": "Jojo Moyes",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2016,
+  "rank": 10,
+  "result": "rank",
+  "title": "All the Light We Cannot See",
+  "author": "Anthony Doerr",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 1,
+  "result": "rank",
+  "title": "Wonder",
+  "author": "R.J. Palacio",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 2,
+  "result": "rank",
+  "title": "Milk and Honey",
+  "author": "Rupi Kaur",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 3,
+  "result": "rank",
+  "title": "Diary of a Wimpy Kid: The Getaway",
+  "author": "Jeff Kinney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 4,
+  "result": "rank",
+  "title": "Origin",
+  "author": "Dan Brown",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 5,
+  "result": "rank",
+  "title": "You Are a Badass",
+  "author": "Jen Sincero",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 6,
+  "result": "rank",
+  "title": "A Man Called Ove",
+  "author": "Fredrik Backman",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 7,
+  "result": "rank",
+  "title": "Oh, the Places You'll Go!",
+  "author": "Dr. Seuss",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 8,
+  "result": "rank",
+  "title": "The Woman in Cabin 10",
+  "author": "Ruth Ware",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 9,
+  "result": "rank",
+  "title": "The Rooster Bar",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2017,
+  "rank": 10,
+  "result": "rank",
+  "title": "Camino Island",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 1,
+  "result": "rank",
+  "title": "Diary of a Wimpy Kid: The Meltdown",
+  "author": "Jeff Kinney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 2,
+  "result": "rank",
+  "title": "The Wonky Donkey",
+  "author": "Craig Smith",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 3,
+  "result": "rank",
+  "title": "Dog Man and Cat Kid",
+  "author": "Dav Pilkey",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 4,
+  "result": "rank",
+  "title": "The President Is Missing",
+  "author": "Bill Clinton and James Patterson",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 5,
+  "result": "rank",
+  "title": "Dog Man",
+  "author": "Dav Pilkey",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 6,
+  "result": "rank",
+  "title": "A Wrinkle in Time",
+  "author": "Madeleine L’Engle",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 7,
+  "result": "rank",
+  "title": "Crazy Rich Asians",
+  "author": "Kevin Kwan",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 8,
+  "result": "rank",
+  "title": "The Reckoning",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 9,
+  "result": "rank",
+  "title": "A Day in the Life of Marlon Bundo",
+  "author": "Jill Twiss",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2018,
+  "rank": 10,
+  "result": "rank",
+  "title": "Oh, the Places You'll Go!",
+  "author": "Dr. Seuss",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 1,
+  "result": "rank",
+  "title": "Where the Crawdads Sing",
+  "author": "Delia Owens",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 2,
+  "result": "rank",
+  "title": "Dog Man: For Whom the Ball Rolls",
+  "author": "Dav Pilkey",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 3,
+  "result": "rank",
+  "title": "Diary of a Wimpy Kid: Wrecking Ball",
+  "author": "Jeff Kinney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 4,
+  "result": "rank",
+  "title": "Dog Man: Brawl of the Wild",
+  "author": "Dav Pilkey",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 5,
+  "result": "rank",
+  "title": "Diary of an Awesome Friendly Kid",
+  "author": "Jeff Kinney",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 6,
+  "result": "rank",
+  "title": "The Tattooist of Auschwitz",
+  "author": "Heather Morris",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 7,
+  "result": "rank",
+  "title": "Dog Man: Fetch 22",
+  "author": "Dav Pilkey",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 8,
+  "result": "rank",
+  "title": "The Guardians",
+  "author": "John Grisham",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 9,
+  "result": "rank",
+  "title": "The Institute",
+  "author": "Stephen King",
+  "lang": "en"
+ },
+ {
+  "source": "pw_2010s",
+  "year": 2019,
+  "rank": 10,
+  "result": "rank",
+  "title": "Guts",
+  "author": "Raina Telgemeier",
+  "lang": "en"
+ }
+]

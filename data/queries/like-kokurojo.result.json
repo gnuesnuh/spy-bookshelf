@@ -1,8 +1,8 @@
 {
  "slug": "like-kokurojo",
  "query": "흑뢰성",
- "title": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
- "subtitle": "일본 랭킹(이 미스터리가 대단해! · 주간문춘 미스터리 베스트10)에서 기준 도서와 같은 해에 함께 오른 작품, 같은 작가의 작품, 비슷한 시기 상위작을 모았다",
+ "title": "『흑뢰성』을 좋아했다면 — 25선",
+ "subtitle": "기준 도서와 같은 해 같은 소스에 함께 오른 작품, 같은 작가의 작품, 같은 장르의 비슷한 시기 상위작. 소스: Anthony Award, Edgar Award, CWA Gold Dagger, CWA Ian Fleming Steel Dagger, 週刊文春ミステリーベスト10, 本格ミステリ大賞, 本格ミステリ・ベスト10, 本屋大賞, このミステリーがすごい!, ミステリが読みたい!",
  "updated": "2026-11-13",
  "books": [
   {
@@ -12,13 +12,13 @@
    "author": "요네자와 호노부",
    "author_orig": "米澤穂信",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2021 1위 · このミス 2022 1위",
-   "summary": "기준 도서. 주간문춘 미스터리 베스트10 2021년 1위.",
+   "awards": "このミステリーがすごい! 2022 1위 · 本格ミステリ大賞 2022 수상 · 週刊文春ミステリーベスト10 2021 1위 · 本格ミステリ・ベスト10 2022 1위 · ミステリが読みたい! 2022 1위 · 本屋大賞 2022 9위",
+   "summary": "기준 도서. このミステリーがすごい! 2022 1위.",
    "grq": "",
    "note": "",
    "score": 0.0,
    "id": "like-kokurojo-1",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
@@ -68,8 +68,8 @@
     "date": "2022",
     "verdict": "confirmed"
    },
-   "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/777114233/xlarge",
+   "untranslated": false,
    "review": {
     "text": "전국시대 역사와 추리를 결합한 독창적인 구성, 복선 회수와 격조 있는 분위기, 몰입감이 높이 평가된다. 반면 일본 역사와 신분 제도, 인명과 지명에 익숙하지 않으면 이해하기 어렵고 재미가 줄어든다는 의견이 있다. 결말이 아쉽거나 인물 해석이 어색하다는 평도 있다.",
     "pros": [
@@ -91,35 +91,33 @@
    }
   },
   {
-   "category": "같은 해 함께 오른 작품",
-   "title": "테스카틀리포카",
-   "original": "テスカトリポカ",
-   "author": "사토 기와무",
-   "author_orig": "佐藤究",
+   "category": "같은 작가",
+   "title": "왕과 서커스",
+   "original": "王とサーカス",
+   "author": "요네자와 호노부",
+   "author_orig": "米澤穂信",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2021 2위 · このミス 2022 2위",
-   "summary": "기준 도서와 같은 2022년 이 미스터리가 대단해!에서 2위(기준 도서 1위), 함께 오른 랭킹 2곳.",
+   "awards": "このミステリーがすごい! 2016 1위 · 週刊文春ミステリーベスト10 2015 1위 · ミステリが読みたい! 2016 1위 · 本格ミステリ・ベスト10 2016 3위 · 本屋大賞 2016 6위",
+   "summary": "기준 도서와 같은 작가의 작품. このミステリーがすごい! 2016 1위.",
    "grq": "",
    "note": "",
-   "score": 18.0,
+   "score": 27.1,
    "id": "like-kokurojo-2",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
-     "status": "yes",
-     "url": "https://www.millie.co.kr/v3/search/result/%ED%85%8C%EC%8A%A4%EC%B9%B4%ED%8B%80%EB%A6%AC%ED%8F%AC%EC%B9%B4",
-     "matched": "테스카틀리포카",
-     "reviews": 29,
+     "status": "no",
      "source": "auto",
-     "sheet": ""
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%99%95%EA%B3%BC%20%EC%84%9C%EC%BB%A4%EC%8A%A4"
     },
     "ridi": {
      "status": "buy",
-     "url": "https://ridibooks.com/books/754038453",
-     "matched": "테스카틀리포카",
-     "rating": 4.7,
-     "count": 6,
+     "url": "https://ridibooks.com/books/371002583",
+     "matched": "왕과 서커스",
+     "rating": 4.8,
+     "count": 16,
      "source": "auto",
      "sheet": ""
     },
@@ -127,98 +125,34 @@
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%85%8C%EC%8A%A4%EC%B9%B4%ED%8B%80%EB%A6%AC%ED%8F%AC%EC%B9%B4"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%99%95%EA%B3%BC%20%EC%84%9C%EC%BB%A4%EC%8A%A4"
     },
     "yes24": {
      "status": "yes",
      "source": "api",
      "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/119861437",
-     "matched": "테스카틀리포카",
+     "url": "https://www.yes24.com/product/goods/105536774",
+     "matched": "왕과 서커스",
      "rating": 9.4,
      "sheet": "",
      "paper": {
       "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/116992861",
-      "matched": "테스카틀리포카"
+      "url": "https://www.yes24.com/product/goods/29078187",
+      "matched": "왕과 서커스"
      }
     }
    },
    "goodreads": null,
    "korean": {
     "how": "원제 일치",
-    "title": "테스카틀리포카",
-    "original": "テスカトリポカ",
-    "publisher": "직선과곡선",
-    "date": "2023",
+    "title": "왕과 서커스",
+    "original": "王とサ-カス",
+    "publisher": "엘릭시르",
+    "date": "2016",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/754038453/xlarge"
-  },
-  {
-   "category": "같은 해 함께 오른 작품",
-   "title": "흉인저의 살인",
-   "original": "兇人邸の殺人",
-   "author": "이마무라 마사히로",
-   "author_orig": "今村昌弘",
-   "lang": "ja",
-   "awards": "週刊文春ベスト10 2021 3위 · このミス 2022 4위",
-   "summary": "기준 도서와 같은 2021년 주간문춘 미스터리 베스트10에서 3위(기준 도서 1위), 함께 오른 랭킹 2곳.",
-   "grq": "",
-   "note": "",
-   "score": 15.0,
-   "id": "like-kokurojo-3",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%ED%9D%89%EC%9D%B8%EC%A0%80%EC%9D%98%20%EC%82%B4%EC%9D%B8"
-    },
-    "ridi": {
-     "status": "buy",
-     "url": "https://ridibooks.com/books/371003101",
-     "matched": "흉인저의 살인",
-     "rating": 4.2,
-     "count": 11,
-     "source": "auto",
-     "sheet": ""
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%9D%89%EC%9D%B8%EC%A0%80%EC%9D%98%20%EC%82%B4%EC%9D%B8"
-    },
-    "yes24": {
-     "status": "yes",
-     "source": "api",
-     "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/123702555",
-     "matched": "흉인저의 살인",
-     "rating": 9.6,
-     "sheet": "",
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/122957296",
-      "matched": "흉인저의 살인"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "수동 검수",
-    "title": "흉인저의 살인",
-    "original": "",
-    "publisher": "엘릭시르",
-    "date": "2023",
-    "verdict": "likely"
-   },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/371003101/xlarge"
+   "cover": "https://img.ridicdn.net/cover/371002583/xlarge",
+   "untranslated": false
   },
   {
    "category": "같은 작가",
@@ -227,13 +161,13 @@
    "author": "요네자와 호노부",
    "author_orig": "米澤穂信",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2023 1위 · このミス 2024 1위",
-   "summary": "기준 도서와 같은 작가의 작품. 주간문춘 미스터리 베스트10 2023년 1위.",
+   "awards": "このミステリーがすごい! 2024 1위 · 週刊文春ミステリーベスト10 2023 1위 · 本格ミステリ・ベスト10 2024 2위 · ミステリが読みたい! 2024 1위 · 本格ミステリ大賞 2024 후보",
+   "summary": "기준 도서와 같은 작가의 작품. このミステリーがすごい! 2024 1위.",
    "grq": "",
    "note": "",
-   "score": 12.0,
-   "id": "like-kokurojo-4",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 27.0,
+   "id": "like-kokurojo-3",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
@@ -283,62 +217,8 @@
     "date": "2024",
     "verdict": "likely"
    },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/777144288/xlarge"
-  },
-  {
-   "category": "같은 해 함께 오른 작품",
-   "title": "機龍警察 白骨街道",
-   "original": "機龍警察 白骨街道",
-   "author": "쓰키무라 료에",
-   "author_orig": "月村了衛",
-   "lang": "ja",
-   "awards": "このミス 2022 3위 · 週刊文春ベスト10 2021 7위",
-   "summary": "기준 도서와 같은 2022년 이 미스터리가 대단해!에서 3위(기준 도서 1위), 함께 오른 랭킹 2곳.",
-   "grq": "",
-   "note": "",
-   "score": 12.0,
-   "id": "like-kokurojo-5",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%E6%A9%9F%E9%BE%8D%E8%AD%A6%E5%AF%9F%20%E7%99%BD%E9%AA%A8%E8%A1%97%E9%81%93"
-    },
-    "ridi": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://ridibooks.com/search?q=%E6%A9%9F%E9%BE%8D%E8%AD%A6%E5%AF%9F%20%E7%99%BD%E9%AA%A8%E8%A1%97%E9%81%93"
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E6%A9%9F%E9%BE%8D%E8%AD%A6%E5%AF%9F%20%E7%99%BD%E9%AA%A8%E8%A1%97%E9%81%93"
-    },
-    "yes24": {
-     "status": "no",
-     "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E6%A9%9F%E9%BE%8D%E8%AD%A6%E5%AF%9F%20%E7%99%BD%E9%AA%A8%E8%A1%97%E9%81%93",
-     "sheet": ""
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "못 찾음",
-    "title": null,
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "none"
-   },
-   "untranslated": true,
-   "cover": ""
+   "cover": "https://img.ridicdn.net/cover/777144288/xlarge",
+   "untranslated": false
   },
   {
    "category": "같은 작가",
@@ -347,13 +227,13 @@
    "author": "요네자와 호노부",
    "author_orig": "米澤穂信",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2014 1위 · このミス 2015 1위",
-   "summary": "기준 도서와 같은 작가의 작품. 주간문춘 미스터리 베스트10 2014년 1위.",
+   "awards": "このミステリーがすごい! 2015 1위 · 週刊文春ミステリーベスト10 2014 1위 · 本格ミステリ・ベスト10 2015 2위 · ミステリが読みたい! 2015 1위 · 本屋大賞 2015 7위",
+   "summary": "기준 도서와 같은 작가의 작품. このミステリーがすごい! 2015 1위.",
    "grq": "",
    "note": "",
-   "score": 12.0,
-   "id": "like-kokurojo-6",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 27.0,
+   "id": "like-kokurojo-4",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
@@ -401,136 +281,190 @@
     "date": "2015",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/371002076/xlarge"
+   "cover": "https://img.ridicdn.net/cover/371002076/xlarge",
+   "untranslated": false
   },
   {
-   "category": "같은 작가",
-   "title": "왕과 서커스",
-   "original": "王とサーカス",
-   "author": "요네자와 호노부",
-   "author_orig": "米澤穂信",
+   "category": "같은 해 함께 오른 작품",
+   "title": "흉인저의 살인",
+   "original": "兇人邸の殺人",
+   "author": "이마무라 마사히로",
+   "author_orig": "今村昌弘",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2015 1위 · このミス 2016 1위",
-   "summary": "기준 도서와 같은 작가의 작품. 주간문춘 미스터리 베스트10 2015년 1위.",
+   "awards": "週刊文春ミステリーベスト10 2021 3위 · 本格ミステリ・ベスト10 2022 3위 · このミステリーがすごい! 2022 4위 · ミステリが読みたい! 2022 5위",
+   "summary": "기준 도서와 같은 해 같은 소스: 週刊文春ミステリーベスト10 2021 3위 (기준 도서는 2021 1위), 겹친 소스 4곳.",
    "grq": "",
    "note": "",
-   "score": 12.0,
+   "score": 27.0,
+   "id": "like-kokurojo-5",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%9D%89%EC%9D%B8%EC%A0%80%EC%9D%98%20%EC%82%B4%EC%9D%B8"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/371003101",
+     "matched": "흉인저의 살인",
+     "rating": 4.2,
+     "count": 11,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%9D%89%EC%9D%B8%EC%A0%80%EC%9D%98%20%EC%82%B4%EC%9D%B8"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/123702555",
+     "matched": "흉인저의 살인",
+     "rating": 9.6,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/122957296",
+      "matched": "흉인저의 살인"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "수동 검수",
+    "title": "흉인저의 살인",
+    "original": "",
+    "publisher": "엘릭시르",
+    "date": "2023",
+    "verdict": "likely"
+   },
+   "cover": "https://img.ridicdn.net/cover/371003101/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "같은 해 함께 오른 작품",
+   "title": "여섯명의 거짓말쟁이 대학생",
+   "original": "六人の嘘つきな大学生",
+   "author": "아사쿠라 아키나리",
+   "author_orig": "浅倉秋成",
+   "lang": "ja",
+   "awards": "本格ミステリ・ベスト10 2022 4위 · 本屋大賞 2022 5위 · 週刊文春ミステリーベスト10 2021 6위 · 本格ミステリ大賞 2022 후보 · このミステリーがすごい! 2022 8위 · ミステリが読みたい! 2022 8위",
+   "summary": "기준 도서와 같은 해 같은 소스: 本格ミステリ・ベスト10 2022 4위 (기준 도서는 2022 1위), 겹친 소스 6곳.",
+   "grq": "",
+   "note": "",
+   "score": 26.7,
+   "id": "like-kokurojo-6",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%97%AC%EC%84%AF%EB%AA%85%EC%9D%98%20%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9F%81%EC%9D%B4%20%EB%8C%80%ED%95%99%EC%83%9D"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1013000087",
+     "matched": "여섯 명의 거짓말쟁이 대학생",
+     "rating": 4.5,
+     "count": 94,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%97%AC%EC%84%AF%EB%AA%85%EC%9D%98%20%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9F%81%EC%9D%B4%20%EB%8C%80%ED%95%99%EC%83%9D"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/105358862",
+     "matched": "여섯명의 거짓말쟁이 대학생",
+     "rating": 9.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/105050060",
+      "matched": "여섯명의 거짓말쟁이 대학생"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "수동 검수",
+    "title": "여섯명의 거짓말쟁이 대학생",
+    "original": "",
+    "publisher": "북플라자",
+    "date": "2021",
+    "verdict": "likely"
+   },
+   "cover": "https://img.ridicdn.net/cover/1013000087/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "같은 해 함께 오른 작품",
+   "title": "蒼海館の殺人",
+   "original": "蒼海館の殺人",
+   "author": "아쓰카와 다쓰미",
+   "author_orig": "阿津川辰海",
+   "lang": "ja",
+   "awards": "本格ミステリ・ベスト10 2022 2위 · このミステリーがすごい! 2022 5위 · ミステリが読みたい! 2022 4위 · 本格ミステリ大賞 2022 후보 · 週刊文春ミステリーベスト10 2021 8위",
+   "summary": "기준 도서와 같은 해 같은 소스: 本格ミステリ・ベスト10 2022 2위 (기준 도서는 2022 1위), 겹친 소스 5곳.",
+   "grq": "",
+   "note": "",
+   "score": 26.7,
    "id": "like-kokurojo-7",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%99%95%EA%B3%BC%20%EC%84%9C%EC%BB%A4%EC%8A%A4"
+     "url": "https://www.millie.co.kr/v3/search/result/%E8%92%BC%E6%B5%B7%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA"
     },
     "ridi": {
-     "status": "buy",
-     "url": "https://ridibooks.com/books/371002583",
-     "matched": "왕과 서커스",
-     "rating": 4.8,
-     "count": 16,
+     "status": "no",
      "source": "auto",
-     "sheet": ""
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%E8%92%BC%E6%B5%B7%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%99%95%EA%B3%BC%20%EC%84%9C%EC%BB%A4%EC%8A%A4"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E8%92%BC%E6%B5%B7%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA"
     },
     "yes24": {
-     "status": "yes",
-     "source": "api",
-     "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/105536774",
-     "matched": "왕과 서커스",
-     "rating": 9.4,
-     "sheet": "",
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/29078187",
-      "matched": "왕과 서커스"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "원제 일치",
-    "title": "왕과 서커스",
-    "original": "王とサ-カス",
-    "publisher": "엘릭시르",
-    "date": "2016",
-    "verdict": "confirmed"
-   },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/371002583/xlarge"
-  },
-  {
-   "category": "같은 작가",
-   "title": "겨울철 한정 봉봉 쇼콜라 사건",
-   "original": "冬期限定ボンボンショコラ事件",
-   "author": "요네자와 호노부",
-   "author_orig": "米澤穂信",
-   "lang": "ja",
-   "awards": "週刊文春ベスト10 2024 2위 · このミス 2025 2위",
-   "summary": "기준 도서와 같은 작가의 작품. 주간문춘 미스터리 베스트10 2024년 2위.",
-   "grq": "",
-   "note": "",
-   "score": 11.4,
-   "id": "like-kokurojo-8",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
      "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EA%B2%A8%EC%9A%B8%EC%B2%A0%20%ED%95%9C%EC%A0%95%20%EB%B4%89%EB%B4%89%20%EC%87%BC%EC%BD%9C%EB%9D%BC%20%EC%82%AC%EA%B1%B4"
-    },
-    "ridi": {
-     "status": "buy",
-     "url": "https://ridibooks.com/books/371003401",
-     "matched": "겨울철 한정 봉봉 쇼콜라 사건 하",
-     "rating": 4.8,
-     "count": 31,
-     "source": "auto",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E8%92%BC%E6%B5%B7%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA",
      "sheet": ""
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B2%A8%EC%9A%B8%EC%B2%A0%20%ED%95%9C%EC%A0%95%20%EB%B4%89%EB%B4%89%20%EC%87%BC%EC%BD%9C%EB%9D%BC%20%EC%82%AC%EA%B1%B4"
-    },
-    "yes24": {
-     "status": "yes",
-     "source": "api",
-     "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/141305864",
-     "matched": "겨울철 한정 봉봉 쇼콜라 사건 : 상",
-     "rating": 9.9,
-     "sheet": "",
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/140199007",
-      "matched": "겨울철 한정 봉봉 쇼콜라 사건 상, 하 세트"
-     }
     }
    },
    "goodreads": null,
    "korean": {
-    "how": "원제 일치",
-    "title": "겨울철 한정 봉봉 쇼콜라 사건 상, 하 세트",
-    "original": "冬期限定ボンボンショコラ事件 ",
-    "publisher": "엘릭시르",
-    "date": "2024",
-    "verdict": "confirmed"
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
    },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/371003401/xlarge"
+   "cover": "",
+   "untranslated": true
   },
   {
    "category": "같은 작가",
@@ -539,13 +473,13 @@
    "author": "요네자와 호노부",
    "author_orig": "米澤穂信",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2011 2위 · このミス 2012 2위",
-   "summary": "기준 도서와 같은 작가의 작품. 주간문춘 미스터리 베스트10 2011년 2위.",
+   "awards": "このミステリーがすごい! 2012 2위 · 本格ミステリ・ベスト10 2012 1위 · 週刊文春ミステリーベスト10 2011 2위 · ミステリが読みたい! 2012 1위 · 本格ミステリ大賞 2011 후보",
+   "summary": "기준 도서와 같은 작가의 작품. このミステリーがすごい! 2012 2위.",
    "grq": "",
    "note": "",
-   "score": 11.4,
-   "id": "like-kokurojo-9",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 26.7,
+   "id": "like-kokurojo-8",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
@@ -593,8 +527,192 @@
     "date": "2012",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/371003503/xlarge"
+   "cover": "https://img.ridicdn.net/cover/371003503/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "같은 해 함께 오른 작품",
+   "title": "테스카틀리포카",
+   "original": "テスカトリポカ",
+   "author": "사토 기와무",
+   "author_orig": "佐藤究",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2022 2위 · 週刊文春ミステリーベスト10 2021 2위 · ミステリが読みたい! 2022 2위",
+   "summary": "기준 도서와 같은 해 같은 소스: このミステリーがすごい! 2022 2위 (기준 도서는 2022 1위), 겹친 소스 3곳.",
+   "grq": "",
+   "note": "",
+   "score": 25.2,
+   "id": "like-kokurojo-9",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%85%8C%EC%8A%A4%EC%B9%B4%ED%8B%80%EB%A6%AC%ED%8F%AC%EC%B9%B4",
+     "matched": "테스카틀리포카",
+     "reviews": 29,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/754038453",
+     "matched": "테스카틀리포카",
+     "rating": 4.7,
+     "count": 6,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%85%8C%EC%8A%A4%EC%B9%B4%ED%8B%80%EB%A6%AC%ED%8F%AC%EC%B9%B4"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/119861437",
+     "matched": "테스카틀리포카",
+     "rating": 9.4,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/116992861",
+      "matched": "테스카틀리포카"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "테스카틀리포카",
+    "original": "テスカトリポカ",
+    "publisher": "직선과곡선",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754038453/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "같은 작가",
+   "title": "추상오단장",
+   "original": "追想五断章",
+   "author": "요네자와 호노부",
+   "author_orig": "米澤穂信",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2010 4위 · ミステリが読みたい! 2010 3위 · 本格ミステリ・ベスト10 2010 4위 · 週刊文春ミステリーベスト10 2009 5위 · 本格ミステリ大賞 2010 후보",
+   "summary": "기준 도서와 같은 작가의 작품. このミステリーがすごい! 2010 4위.",
+   "grq": "",
+   "note": "",
+   "score": 23.9,
+   "id": "like-kokurojo-10",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%B6%94%EC%83%81%EC%98%A4%EB%8B%A8%EC%9E%A5"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/371003040",
+     "matched": "개정판 | 추상오단장",
+     "rating": 4.9,
+     "count": 15,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%B6%94%EC%83%81%EC%98%A4%EB%8B%A8%EC%9E%A5"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/121948862",
+     "matched": "추상오단장",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/120793554",
+      "matched": "추상오단장"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "추상오단장",
+    "original": "追想五斷章 ",
+    "publisher": "엘릭시르",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/371003040/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "같은 해 함께 오른 작품",
+   "title": "機龍警察 白骨街道",
+   "original": "機龍警察 白骨街道",
+   "author": "쓰키무라 료에",
+   "author_orig": "月村了衛",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2022 3위 · ミステリが読みたい! 2022 3위 · 週刊文春ミステリーベスト10 2021 7위",
+   "summary": "기준 도서와 같은 해 같은 소스: このミステリーがすごい! 2022 3위 (기준 도서는 2022 1위), 겹친 소스 3곳.",
+   "grq": "",
+   "note": "",
+   "score": 18.4,
+   "id": "like-kokurojo-11",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%E6%A9%9F%E9%BE%8D%E8%AD%A6%E5%AF%9F%20%E7%99%BD%E9%AA%A8%E8%A1%97%E9%81%93"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%E6%A9%9F%E9%BE%8D%E8%AD%A6%E5%AF%9F%20%E7%99%BD%E9%AA%A8%E8%A1%97%E9%81%93"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E6%A9%9F%E9%BE%8D%E8%AD%A6%E5%AF%9F%20%E7%99%BD%E9%AA%A8%E8%A1%97%E9%81%93"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E6%A9%9F%E9%BE%8D%E8%AD%A6%E5%AF%9F%20%E7%99%BD%E9%AA%A8%E8%A1%97%E9%81%93",
+     "sheet": ""
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "",
+   "untranslated": true
   },
   {
    "category": "같은 해 함께 오른 작품",
@@ -603,13 +721,13 @@
    "author": "치넨 미키토",
    "author_orig": "知念実希人",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2021 4위 · このミス 2022 9위",
-   "summary": "기준 도서와 같은 2021년 주간문춘 미스터리 베스트10에서 4위(기준 도서 1위), 함께 오른 랭킹 2곳.",
+   "awards": "週刊文春ミステリーベスト10 2021 4위 · 本格ミステリ・ベスト10 2022 5위 · 本屋大賞 2022 8위 · このミステリーがすごい! 2022 9위",
+   "summary": "기준 도서와 같은 해 같은 소스: 週刊文春ミステリーベスト10 2021 4위 (기준 도서는 2021 1위), 겹친 소스 4곳.",
    "grq": "",
    "note": "",
-   "score": 9.0,
-   "id": "like-kokurojo-10",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 17.4,
+   "id": "like-kokurojo-12",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
@@ -659,91 +777,39 @@
     "date": "2022",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/777111714/xlarge"
+   "cover": "https://img.ridicdn.net/cover/777111714/xlarge",
+   "untranslated": false
   },
   {
    "category": "같은 해 함께 오른 작품",
-   "title": "蒼海館の殺人",
-   "original": "蒼海館の殺人",
-   "author": "아쓰카와 다쓰미",
-   "author_orig": "阿津川辰海",
+   "title": "오마리가 살인사건",
+   "original": "大鞠家殺人事件",
+   "author": "아시베 다쿠",
+   "author_orig": "芦辺拓",
    "lang": "ja",
-   "awards": "このミス 2022 5위 · 週刊文春ベスト10 2021 8위",
-   "summary": "기준 도서와 같은 2022년 이 미스터리가 대단해!에서 5위(기준 도서 1위), 함께 오른 랭킹 2곳.",
+   "awards": "本格ミステリ大賞 2022 수상 · ミステリが読みたい! 2023 3위 · 本格ミステリ・ベスト10 2022 6위 · このミステリーがすごい! 2023 8위",
+   "summary": "기준 도서와 같은 해 같은 소스: 本格ミステリ大賞 2022 수상 (기준 도서는 2022 수상), 겹친 소스 2곳.",
    "grq": "",
    "note": "",
-   "score": 9.0,
-   "id": "like-kokurojo-11",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 17.3,
+   "id": "like-kokurojo-13",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
-     "status": "no",
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%98%A4%EB%A7%88%EB%A6%AC%EA%B0%80%20%EC%82%B4%EC%9D%B8%EC%82%AC%EA%B1%B4",
+     "matched": "오마리가 살인사건",
+     "reviews": 0,
      "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%E8%92%BC%E6%B5%B7%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA"
-    },
-    "ridi": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://ridibooks.com/search?q=%E8%92%BC%E6%B5%B7%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA"
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E8%92%BC%E6%B5%B7%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA"
-    },
-    "yes24": {
-     "status": "no",
-     "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E8%92%BC%E6%B5%B7%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA",
      "sheet": ""
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "못 찾음",
-    "title": null,
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "none"
-   },
-   "untranslated": true,
-   "cover": ""
-  },
-  {
-   "category": "같은 해 함께 오른 작품",
-   "title": "여섯명의 거짓말쟁이 대학생",
-   "original": "六人の嘘つきな大学生",
-   "author": "아사쿠라 아키나리",
-   "author_orig": "浅倉秋成",
-   "lang": "ja",
-   "awards": "週刊文春ベスト10 2021 6위 · このミス 2022 8위",
-   "summary": "기준 도서와 같은 2021년 주간문춘 미스터리 베스트10에서 6위(기준 도서 1위), 함께 오른 랭킹 2곳.",
-   "grq": "",
-   "note": "",
-   "score": 8.0,
-   "id": "like-kokurojo-12",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%97%AC%EC%84%AF%EB%AA%85%EC%9D%98%20%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9F%81%EC%9D%B4%20%EB%8C%80%ED%95%99%EC%83%9D"
     },
     "ridi": {
      "status": "buy",
-     "url": "https://ridibooks.com/books/1013000087",
-     "matched": "여섯 명의 거짓말쟁이 대학생",
-     "rating": 4.5,
-     "count": 94,
+     "url": "https://ridibooks.com/books/6327000002",
+     "matched": "오마리가 살인사건",
+     "rating": 3.3,
+     "count": 3,
      "source": "auto",
      "sheet": ""
     },
@@ -751,88 +817,100 @@
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%97%AC%EC%84%AF%EB%AA%85%EC%9D%98%20%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9F%81%EC%9D%B4%20%EB%8C%80%ED%95%99%EC%83%9D"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%98%A4%EB%A7%88%EB%A6%AC%EA%B0%80%20%EC%82%B4%EC%9D%B8%EC%82%AC%EA%B1%B4"
     },
     "yes24": {
      "status": "yes",
      "source": "api",
      "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/105358862",
-     "matched": "여섯명의 거짓말쟁이 대학생",
-     "rating": 9.3,
+     "url": "https://www.yes24.com/product/goods/196773435",
+     "matched": "오마리가 살인사건",
+     "rating": 9.6,
      "sheet": "",
      "paper": {
       "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/105050060",
-      "matched": "여섯명의 거짓말쟁이 대학생"
+      "url": "https://www.yes24.com/product/goods/196012550",
+      "matched": "오마리가 살인사건"
      }
     }
    },
    "goodreads": null,
    "korean": {
-    "how": "수동 검수",
-    "title": "여섯명의 거짓말쟁이 대학생",
-    "original": "",
-    "publisher": "북플라자",
-    "date": "2021",
-    "verdict": "likely"
+    "how": "원제 일치",
+    "title": "오마리가 살인사건",
+    "original": "大鞠家殺人事件",
+    "publisher": "더블샷",
+    "date": "2026",
+    "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/1013000087/xlarge"
+   "cover": "https://img.ridicdn.net/cover/6327000002/xlarge",
+   "untranslated": false
   },
   {
-   "category": "비슷한 시기 상위작",
-   "title": "たかが殺人じゃないか 昭和24年の推理小説",
-   "original": "たかが殺人じゃないか 昭和24年の推理小説",
-   "author": "쓰지 마사키",
-   "author_orig": "辻真先",
+   "category": "같은 해 함께 오른 작품",
+   "title": "소녀 동지여 적을 쏴라",
+   "original": "同志少女よ、敵を撃て",
+   "author": "아이사카 토마",
+   "author_orig": "逢坂冬馬",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2020 1위 · このミス 2021 1위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 주간문춘 미스터리 베스트10 2020년 1위.",
+   "awards": "本屋大賞 2022 1위 · ミステリが読みたい! 2023 2위 · このミステリーがすごい! 2023 7위 · 週刊文春ミステリーベスト10 2022 7위",
+   "summary": "기준 도서와 같은 해 같은 소스: 本屋大賞 2022 1위 (기준 도서는 2022 9위).",
    "grq": "",
    "note": "",
-   "score": 6.0,
-   "id": "like-kokurojo-13",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 14.6,
+   "id": "like-kokurojo-14",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
-     "status": "no",
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%86%8C%EB%85%80%20%EB%8F%99%EC%A7%80%EC%97%AC%20%EC%A0%81%EC%9D%84%20%EC%8F%B4%EB%9D%BC",
+     "matched": "소녀 동지여 적을 쏴라",
+     "reviews": 22,
      "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%E3%81%9F%E3%81%8B%E3%81%8C%E6%AE%BA%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%20%E6%98%AD%E5%92%8C24%E5%B9%B4%E3%81%AE%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AC"
+     "sheet": ""
     },
     "ridi": {
-     "status": "no",
+     "status": "buy",
+     "url": "https://ridibooks.com/books/4803002231",
+     "matched": "소녀 동지여 적을 쏴라",
+     "rating": 4.6,
+     "count": 12,
      "source": "auto",
-     "sheet": "",
-     "url": "https://ridibooks.com/search?q=%E3%81%9F%E3%81%8B%E3%81%8C%E6%AE%BA%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%20%E6%98%AD%E5%92%8C24%E5%B9%B4%E3%81%AE%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AC"
+     "sheet": ""
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E3%81%9F%E3%81%8B%E3%81%8C%E6%AE%BA%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%20%E6%98%AD%E5%92%8C24%E5%B9%B4%E3%81%AE%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AC"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%86%8C%EB%85%80%20%EB%8F%99%EC%A7%80%EC%97%AC%20%EC%A0%81%EC%9D%84%20%EC%8F%B4%EB%9D%BC"
     },
     "yes24": {
-     "status": "no",
+     "status": "yes",
      "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E3%81%9F%E3%81%8B%E3%81%8C%E6%AE%BA%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%20%E6%98%AD%E5%92%8C24%E5%B9%B4%E3%81%AE%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AC",
-     "sheet": ""
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/122141884",
+     "matched": "소녀 동지여 적을 쏴라",
+     "rating": 9.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/122090970",
+      "matched": "소녀 동지여 적을 쏴라"
+     }
     }
    },
    "goodreads": null,
    "korean": {
-    "how": "못 찾음",
-    "title": null,
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "none"
+    "how": "원제 일치",
+    "title": "소녀 동지여 적을 쏴라",
+    "original": "同志少女よ,敵を擊て ",
+    "publisher": "다산책방",
+    "date": "2023",
+    "verdict": "confirmed"
    },
-   "untranslated": true,
-   "cover": ""
+   "cover": "https://img.ridicdn.net/cover/4803002231/xlarge",
+   "untranslated": false
   },
   {
    "category": "비슷한 시기 상위작",
@@ -841,13 +919,13 @@
    "author": "아오사키 유고",
    "author_orig": "青崎有吾",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2024 1위 · このミス 2025 1위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 주간문춘 미스터리 베스트10 2024년 1위.",
+   "awards": "このミステリーがすごい! 2025 1위 · 週刊文春ミステリーベスト10 2024 1위 · 本格ミステリ大賞 2024 수상 · 本格ミステリ・ベスト10 2025 1위 · ミステリが読みたい! 2025 1위",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 일본 작품. このミステリーがすごい! 2025 1위 외 4건.",
    "grq": "",
    "note": "",
-   "score": 6.0,
-   "id": "like-kokurojo-14",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 14.1,
+   "id": "like-kokurojo-15",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
@@ -897,8 +975,8 @@
     "date": "2025",
     "verdict": "confirmed"
    },
-   "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/777174342/xlarge",
+   "untranslated": false,
    "review": {
     "text": "사람이 죽지 않고 치열하면서도 상쾌한 두뇌 배틀로, 술술 읽히며 우정과 청춘의 정서가 좋다는 평이 많다. 정통 추리보다 도박 만화 같은 대결물에 가까워 취향을 탄다는 지적이 있고, 라이트노벨 문체와 내용이 유치하다는 의견도 있다. 수상 이력에 비해 의아하다는 반응도 나온다.",
     "pros": [
@@ -920,99 +998,33 @@
    }
   },
   {
-   "category": "같은 해 함께 오른 작품",
-   "title": "백조와 박쥐",
-   "original": "白鳥とコウモリ",
-   "author": "히가시노 게이고",
-   "author_orig": "東野圭吾",
-   "lang": "ja",
-   "awards": "週刊文春ベスト10 2021 5위",
-   "summary": "기준 도서와 같은 2021년 주간문춘 미스터리 베스트10에서 5위(기준 도서 1위).",
-   "grq": "",
-   "note": "",
-   "score": 6.0,
-   "id": "like-kokurojo-15",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "yes",
-     "url": "https://www.millie.co.kr/v3/search/result/%EB%B0%B1%EC%A1%B0%EC%99%80%20%EB%B0%95%EC%A5%90",
-     "matched": "백조와 박쥐",
-     "reviews": 730,
-     "source": "auto",
-     "sheet": ""
-    },
-    "ridi": {
-     "status": "buy",
-     "url": "https://ridibooks.com/books/593000897",
-     "matched": "백조와 박쥐",
-     "rating": 4.5,
-     "count": 234,
-     "source": "auto",
-     "sheet": ""
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B0%B1%EC%A1%B0%EC%99%80%20%EB%B0%95%EC%A5%90"
-    },
-    "yes24": {
-     "status": "yes",
-     "source": "api",
-     "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/103280365",
-     "matched": "백조와 박쥐",
-     "rating": 9.4,
-     "sheet": "",
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/103152391",
-      "matched": "백조와 박쥐"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "원제 일치",
-    "title": "백조와 박쥐",
-    "original": "白鳥とコウモリ",
-    "publisher": "현대문학",
-    "date": "2021",
-    "verdict": "confirmed"
-   },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/593000897/xlarge"
-  },
-  {
    "category": "비슷한 시기 상위작",
-   "title": "지금부터의 내일",
-   "original": "それまでの明日",
-   "author": "하라 료",
-   "author_orig": "原尞",
+   "title": "시인장의 살인",
+   "original": "屍人荘の殺人",
+   "author": "이마무라 마사히로",
+   "author_orig": "今村昌弘",
    "lang": "ja",
-   "awards": "このミス 2019 1위 · 週刊文春ベスト10 2018 2위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 이 미스터리가 대단해! 2019년 1위.",
+   "awards": "このミステリーがすごい! 2018 1위 · 本格ミステリ大賞 2018 수상 · 週刊文春ミステリーベスト10 2017 1위 · 本格ミステリ・ベスト10 2018 1위 · 本屋大賞 2018 3위 · ミステリが読みたい! 2019 2위",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 일본 작품. このミステリーがすごい! 2018 1위 외 6건.",
    "grq": "",
    "note": "",
-   "score": 5.7,
+   "score": 13.3,
    "id": "like-kokurojo-16",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%A7%80%EA%B8%88%EB%B6%80%ED%84%B0%EC%9D%98%20%EB%82%B4%EC%9D%BC"
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8B%9C%EC%9D%B8%EC%9E%A5%EC%9D%98%20%EC%82%B4%EC%9D%B8"
     },
     "ridi": {
      "status": "buy",
-     "url": "https://ridibooks.com/books/1570000180",
-     "matched": "지금부터의 내일",
-     "rating": 4,
-     "count": 11,
+     "url": "https://ridibooks.com/books/371001770",
+     "matched": "시인장의 살인",
+     "rating": 3.8,
+     "count": 63,
      "source": "auto",
      "sheet": ""
     },
@@ -1020,114 +1032,52 @@
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%A7%80%EA%B8%88%EB%B6%80%ED%84%B0%EC%9D%98%20%EB%82%B4%EC%9D%BC"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8B%9C%EC%9D%B8%EC%9E%A5%EC%9D%98%20%EC%82%B4%EC%9D%B8"
     },
     "yes24": {
      "status": "yes",
      "source": "api",
      "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/97412524",
-     "matched": "지금부터의 내일",
-     "rating": 9.1,
+     "url": "https://www.yes24.com/product/goods/62815662",
+     "matched": "시인장의 살인",
+     "rating": 8.3,
      "sheet": "",
      "paper": {
       "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/97314804",
-      "matched": "지금부터의 내일"
+      "url": "https://www.yes24.com/product/goods/62169752",
+      "matched": "시인장의 살인"
      }
     }
    },
    "goodreads": null,
    "korean": {
     "how": "원제 일치",
-    "title": "지금부터의 내일",
-    "original": "それまでの明日",
-    "publisher": "김영사",
-    "date": "2021",
+    "title": "시인장의 살인",
+    "original": "屍人莊の殺人",
+    "publisher": "엘릭시르",
+    "date": "2018",
     "verdict": "confirmed"
    },
+   "cover": "https://img.ridicdn.net/cover/371001770/xlarge",
    "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/1570000180/xlarge"
-  },
-  {
-   "category": "비슷한 시기 상위작",
-   "title": "빛의 현관",
-   "original": "ノースライト",
-   "author": "요코야마 히데오",
-   "author_orig": "横山秀夫",
-   "lang": "ja",
-   "awards": "週刊文春ベスト10 2019 1위 · このミス 2020 2위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 주간문춘 미스터리 베스트10 2019년 1위.",
-   "grq": "",
-   "note": "",
-   "score": 5.7,
-   "id": "like-kokurojo-17",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "yes",
-     "url": "https://www.millie.co.kr/v3/search/result/%EB%B9%9B%EC%9D%98%20%ED%98%84%EA%B4%80",
-     "matched": "빛의 현관",
-     "reviews": 20,
-     "source": "auto",
-     "sheet": ""
-    },
-    "ridi": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://ridibooks.com/search?q=%EB%B9%9B%EC%9D%98%20%ED%98%84%EA%B4%80"
-    },
-    "crema": {
-     "status": "yes",
-     "url": "https://cremaclub.yes24.com/BookClub/Detail/95995313",
-     "matched": "빛의 현관",
-     "rating": 9.1,
-     "reviews": 325,
-     "source": "auto",
-     "sheet": ""
-    },
-    "yes24": {
-     "status": "no",
-     "source": "api",
-     "note": "연결된 eBook은 절판·판매 종료",
-     "url": "https://www.yes24.com/Product/Goods/95995313",
-     "sheet": "",
-     "bookRating": 9.1,
-     "paper": {
-      "status": "절판",
-      "url": "https://www.yes24.com/product/goods/94417405",
-      "matched": "빛의 현관"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "원제 일치",
-    "title": "빛의 현관",
-    "original": "ノ-スライト",
-    "publisher": "검은숲",
-    "date": "2020",
-    "verdict": "confirmed"
-   },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/95995313/L",
    "review": {
-    "text": "건축가가 의뢰받아 지은 집을 둘러싼 이야기로, 집과 삶의 의미를 깊이 생각하게 한다는 반응이 이어진다. 평점은 대체로 높고 인생과 건축에 대한 사색이 인상적이라는 평이 있다. 반면 이야기가 잘 나가지 않아 읽는 데 시간이 걸렸다는 의견이 있다.",
+    "text": "폐쇄된 공간에 참신한 설정을 도입해 끝까지 긴장감 있게 읽힌다는 호평이 있다. 반면 라이트노벨 같은 가벼운 문체와 작위적인 트릭, 전통 추리를 기대한 독자에게는 어긋나는 느낌이 지적된다. 소재는 참신하나 내용은 평범하다는 의견도 있어 호불호가 크다.",
     "pros": [
-     "삶과 집의 의미를 곱씹게 하는 사색"
+     "참신한 설정과 몰입감",
+     "결말까지 이어지는 긴장감"
     ],
     "cons": [
-     "진행이 더뎌 읽는 데 시간이 걸림"
+     "라이트노벨 같은 가벼운 문체",
+     "작위적이고 추리가 밋밋함",
+     "전통 추리를 기대하면 아쉬움"
     ],
     "domestic": "",
     "sources": {
      "goodreads": 0,
-     "ridi": 0,
-     "yes24": 5
+     "ridi": 10,
+     "yes24": 0
     },
-    "hash": "5ab15f5ebac7a28a09438b40a607d7d7",
+    "hash": "e50e9f9f531e5c3b18d1b1f40220ead1",
     "by": "Claude(세션 내 요약)"
    }
   },
@@ -1138,13 +1088,13 @@
    "author": "시라이 도모유키",
    "author_orig": "白井智之",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2022 2위 · このミス 2023 2위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 주간문춘 미스터리 베스트10 2022년 2위.",
+   "awards": "本格ミステリ大賞 2023 수상 · このミステリーがすごい! 2023 2위 · 本格ミステリ・ベスト10 2023 1위 · 週刊文春ミステリーベスト10 2022 2위 · ミステリが読みたい! 2023 4위",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 일본 작품. 本格ミステリ大賞 2023 수상 외 4건.",
    "grq": "",
    "note": "",
-   "score": 5.4,
-   "id": "like-kokurojo-18",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 12.8,
+   "id": "like-kokurojo-17",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
@@ -1197,8 +1147,8 @@
     "date": "2023",
     "verdict": "confirmed"
    },
-   "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/3188000019/xlarge",
+   "untranslated": false,
    "review": {
     "text": "사이비 교단을 배경으로 추리 규칙을 뒤흔드는 거듭된 반전과 해결의 번복이 충격적이고 흥미롭다는 평이 있다. 반면 기괴하고 얽힌 전개, 많은 등장인물, 억지스러운 설정과 긴 분량 탓에 지루하고 몰입이 어렵다는 의견도 뚜렷하다. 불쾌한 정서와 인물의 감정 결여를 아쉬워하는 독자도 있어 호불호가 크게 갈린다.",
     "pros": [
@@ -1222,34 +1172,32 @@
   },
   {
    "category": "비슷한 시기 상위작",
-   "title": "투명인간은 밀실에 숨는다",
-   "original": "透明人間は密室に潜む",
-   "author": "아쓰카와 다쓰미",
-   "author_orig": "阿津川辰海",
+   "title": "영매탐정 조즈카",
+   "original": "medium 霊媒探偵城塚翡翠",
+   "author": "아이자와 사코",
+   "author_orig": "相沢沙呼",
    "lang": "ja",
-   "awards": "週刊文春ベスト10 2020 2위 · このミス 2021 2위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 주간문춘 미스터리 베스트10 2020년 2위.",
+   "awards": "このミステリーがすごい! 2020 1위 · 本格ミステリ大賞 2020 수상 · 本格ミステリ・ベスト10 2020 1위 · 週刊文春ミステリーベスト10 2019 5위 · 本屋大賞 2020 6위 · 本格ミステリ・ベスト10 2000 8위",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 일본 작품. このミステリーがすごい! 2020 1위 외 5건.",
    "grq": "",
    "note": "",
-   "score": 5.4,
-   "id": "like-kokurojo-19",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 12.0,
+   "id": "like-kokurojo-18",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
-     "status": "yes",
-     "url": "https://www.millie.co.kr/v3/search/result/%ED%88%AC%EB%AA%85%EC%9D%B8%EA%B0%84%EC%9D%80%20%EB%B0%80%EC%8B%A4%EC%97%90%20%EC%88%A8%EB%8A%94%EB%8B%A4",
-     "matched": "투명인간은 밀실에 숨는다",
-     "reviews": 25,
+     "status": "no",
      "source": "auto",
-     "sheet": ""
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%98%81%EB%A7%A4%ED%83%90%EC%A0%95%20%EC%A1%B0%EC%A6%88%EC%B9%B4"
     },
     "ridi": {
      "status": "buy",
-     "url": "https://ridibooks.com/books/777105727",
-     "matched": "투명인간은 밀실에 숨는다",
-     "rating": 3.7,
-     "count": 15,
+     "url": "https://ridibooks.com/books/1570000201",
+     "matched": "영매탐정 조즈카",
+     "rating": 3.9,
+     "count": 95,
      "source": "auto",
      "sheet": ""
     },
@@ -1257,450 +1205,93 @@
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%88%AC%EB%AA%85%EC%9D%B8%EA%B0%84%EC%9D%80%20%EB%B0%80%EC%8B%A4%EC%97%90%20%EC%88%A8%EB%8A%94%EB%8B%A4"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%98%81%EB%A7%A4%ED%83%90%EC%A0%95%20%EC%A1%B0%EC%A6%88%EC%B9%B4"
     },
     "yes24": {
      "status": "yes",
      "source": "api",
      "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/115033890",
-     "matched": "투명인간은 밀실에 숨는다",
-     "rating": 9.5,
-     "sheet": "",
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/108605104",
-      "matched": "투명인간은 밀실에 숨는다"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "원제 일치",
-    "title": "투명인간은 밀실에 숨는다",
-    "original": "透明人間は密室に潛む",
-    "publisher": "리드비(READbie)",
-    "date": "2022",
-    "verdict": "confirmed"
-   },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/777105727/xlarge"
-  },
-  {
-   "category": "비슷한 시기 상위작",
-   "title": "당신이 누군가를 죽였다",
-   "original": "あなたが誰かを殺した",
-   "author": "히가시노 게이고",
-   "author_orig": "東野圭吾",
-   "lang": "ja",
-   "awards": "週刊文春ベスト10 2023 2위 · このミス 2024 3위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 주간문춘 미스터리 베스트10 2023년 2위.",
-   "grq": "",
-   "note": "",
-   "score": 5.1,
-   "id": "like-kokurojo-20",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "yes",
-     "url": "https://www.millie.co.kr/v3/search/result/%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EB%88%84%EA%B5%B0%EA%B0%80%EB%A5%BC%20%EC%A3%BD%EC%98%80%EB%8B%A4",
-     "matched": "당신이 누군가를 죽였다",
-     "reviews": 246,
-     "source": "auto",
-     "sheet": ""
-    },
-    "ridi": {
-     "status": "buy",
-     "url": "https://ridibooks.com/books/4759002048",
-     "matched": "당신이 누군가를 죽였다",
-     "rating": 4.2,
-     "count": 65,
-     "source": "auto",
-     "sheet": ""
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EB%88%84%EA%B5%B0%EA%B0%80%EB%A5%BC%20%EC%A3%BD%EC%98%80%EB%8B%A4"
-    },
-    "yes24": {
-     "status": "yes",
-     "source": "api",
-     "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/132923226",
-     "matched": "당신이 누군가를 죽였다",
+     "url": "https://www.yes24.com/product/goods/101989058",
+     "matched": "영매탐정 조즈카",
      "rating": 9.2,
      "sheet": "",
      "paper": {
       "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/128917300",
-      "matched": "당신이 누군가를 죽였다 (선라이즈 에디션)"
+      "url": "https://www.yes24.com/product/goods/101987654",
+      "matched": "영매탐정 조즈카"
      }
     }
    },
    "goodreads": null,
    "korean": {
     "how": "원제 일치",
-    "title": "당신이 누군가를 죽였다 (선라이즈 에디션)",
-    "original": "あなたが誰かを殺した ",
-    "publisher": "북다",
-    "date": "2024",
+    "title": "영매탐정 조즈카",
+    "original": "medium-靈媒探偵城塚翡翠 ",
+    "publisher": "비채",
+    "date": "2021",
     "verdict": "confirmed"
    },
+   "cover": "https://img.ridicdn.net/cover/1570000201/xlarge",
    "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/4759002048/xlarge",
    "review": {
-    "text": "가가 형사의 재등장을 반기고 많은 인물에도 술술 읽히며 몰입된다는 호평이 있다. 반면 마지막에 숨겨둔 사정을 한꺼번에 풀어내는 방식이라 반전을 위한 반전처럼 느껴지고 예측 가능하다는 불만이 반복된다. 이름값에 비해 아쉽다는 반응과 만족하는 반응이 나뉜다.",
+    "text": "영매라는 설정 뒤에 숨은 반전과 마지막 해설편의 카타르시스, 강렬한 캐릭터가 호평받는다. 반면 라이트노벨 같은 분위기와 히로인 설정이 거슬리고, 막판에 사건을 몰아 풀어 조잡하며 트릭이 인상적이지 않다는 불만도 있다. 소개글만큼의 큰 충격은 아니라는 평도 있어 호불호가 갈린다.",
     "pros": [
-     "가가 형사 재등장",
-     "술술 읽히는 몰입감"
+     "설정을 뒤집는 반전과 해설편",
+     "인상적인 캐릭터"
     ],
     "cons": [
-     "억지스럽고 예측 가능한 반전",
-     "복선 없이 막판에 몰아서 설명"
+     "라이트노벨 같은 가벼운 분위기",
+     "막판 몰아치는 해결과 평범한 트릭"
     ],
     "domestic": "",
     "sources": {
      "goodreads": 0,
-     "ridi": 9,
+     "ridi": 8,
      "yes24": 0
     },
-    "hash": "b2a9c79be4c7a5266625f7b8a606f10b",
+    "hash": "745a7a3645bc7443f58880236a0cbb74",
     "by": "Claude(세션 내 요약)"
    }
   },
   {
-   "category": "비슷한 시기 상위작",
-   "title": "무죄의 여름",
-   "original": "ベルリンは晴れているか",
-   "author": "후카미도리 노와키",
-   "author_orig": "深緑野分",
+   "category": "같은 해 함께 오른 작품",
+   "title": "忌名の如き贄るもの",
+   "original": "忌名の如き贄るもの",
+   "author": "미쓰다 신조",
+   "author_orig": "三津田信三",
    "lang": "ja",
-   "awards": "このミス 2019 2위 · 週刊文春ベスト10 2018 3위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 이 미스터리가 대단해! 2019년 2위.",
+   "awards": "このミステリーがすごい! 2022 7위 · ミステリが読みたい! 2022 6위 · 本格ミステリ・ベスト10 2022 8위 · 週刊文春ミステリーベスト10 2021 10위",
+   "summary": "기준 도서와 같은 해 같은 소스: このミステリーがすごい! 2022 7위 (기준 도서는 2022 1위), 겹친 소스 4곳.",
    "grq": "",
    "note": "",
-   "score": 5.1,
-   "id": "like-kokurojo-21",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "yes",
-     "url": "https://www.millie.co.kr/v3/search/result/%EB%AC%B4%EC%A3%84%EC%9D%98%20%EC%97%AC%EB%A6%84",
-     "matched": "무죄의 여름",
-     "reviews": 10,
-     "source": "auto",
-     "sheet": ""
-    },
-    "ridi": {
-     "status": "buy",
-     "url": "https://ridibooks.com/books/510001228",
-     "matched": "무죄의 여름",
-     "rating": 3.5,
-     "count": 2,
-     "source": "auto",
-     "sheet": ""
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%AC%B4%EC%A3%84%EC%9D%98%20%EC%97%AC%EB%A6%84"
-    },
-    "yes24": {
-     "status": "yes",
-     "source": "api",
-     "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/109141543",
-     "matched": "무죄의 여름",
-     "rating": 9.9,
-     "sheet": "",
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/108236568",
-      "matched": "무죄의 여름"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "원제 일치",
-    "title": "무죄의 여름",
-    "original": "ベルリンは晴れているか",
-    "publisher": "알에이치코리아(RHK)",
-    "date": "2022",
-    "verdict": "confirmed"
-   },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/510001228/xlarge"
-  },
-  {
-   "category": "비슷한 시기 상위작",
-   "title": "방주",
-   "original": "方舟",
-   "author": "유키 하루오",
-   "author_orig": "夕木春央",
-   "lang": "ja",
-   "awards": "週刊文春ベスト10 2022 1위 · このミス 2023 4위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 주간문춘 미스터리 베스트10 2022년 1위.",
-   "grq": "",
-   "note": "",
-   "score": 5.1,
-   "id": "like-kokurojo-22",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
+   "score": 11.7,
+   "id": "like-kokurojo-19",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
    "sheet": {},
    "stores": {
     "millie": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EB%B0%A9%EC%A3%BC"
-    },
-    "ridi": {
-     "status": "buy",
-     "url": "https://ridibooks.com/books/3520000049",
-     "matched": "방주",
-     "rating": 4.3,
-     "count": 75,
-     "source": "auto",
-     "sheet": ""
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B0%A9%EC%A3%BC"
-    },
-    "yes24": {
-     "status": "yes",
-     "source": "api",
-     "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/119490258",
-     "matched": "방주",
-     "rating": 9.1,
-     "sheet": "",
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/117380427",
-      "matched": "방주"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "원제 일치",
-    "title": "방주",
-    "original": "方舟 ",
-    "publisher": "블루홀6",
-    "date": "2023",
-    "verdict": "confirmed"
-   },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/3520000049/xlarge",
-   "review": {
-    "text": "결말의 반전이 압도적이라는 평이 압도적으로 많고, 최근 몇 년 사이 손꼽히는 쾌감이라는 반응이 이어진다. 폐쇄된 공간의 분위기는 무난한 편이고 반전 외에는 평범하거나 지루하다는 지적이 있다. 반전이 불쾌하거나 인물 묘사가 부실하다고 낮게 평가하는 독자도 있어 스포일러를 피해 읽으라는 의견이 많다.",
-    "pros": [
-     "결말 반전의 강한 충격과 쾌감",
-     "어둡고 폐쇄적인 분위기"
-    ],
-    "cons": [
-     "반전 외에는 평범하고 지루함",
-     "인물 묘사와 결말이 불쾌하다는 평"
-    ],
-    "domestic": "",
-    "sources": {
-     "goodreads": 0,
-     "ridi": 9,
-     "yes24": 0
-    },
-    "hash": "67a1cab4d1e5b2c613ef3761f2f1e622",
-    "by": "Claude(세션 내 요약)"
-   }
-  },
-  {
-   "category": "비슷한 시기 상위작",
-   "title": "침묵의 퍼레이드",
-   "original": "沈黙のパレード",
-   "author": "히가시노 게이고",
-   "author_orig": "東野圭吾",
-   "lang": "ja",
-   "awards": "週刊文春ベスト10 2018 1위 · このミス 2019 4위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 주간문춘 미스터리 베스트10 2018년 1위.",
-   "grq": "",
-   "note": "",
-   "score": 5.1,
-   "id": "like-kokurojo-23",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%B9%A8%EB%AC%B5%EC%9D%98%20%ED%8D%BC%EB%A0%88%EC%9D%B4%EB%93%9C"
+     "url": "https://www.millie.co.kr/v3/search/result/%E5%BF%8C%E5%90%8D%E3%81%AE%E5%A6%82%E3%81%8D%E8%B4%84%E3%82%8B%E3%82%82%E3%81%AE"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://ridibooks.com/search?q=%EC%B9%A8%EB%AC%B5%EC%9D%98%20%ED%8D%BC%EB%A0%88%EC%9D%B4%EB%93%9C"
+     "url": "https://ridibooks.com/search?q=%E5%BF%8C%E5%90%8D%E3%81%AE%E5%A6%82%E3%81%8D%E8%B4%84%E3%82%8B%E3%82%82%E3%81%AE"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%B9%A8%EB%AC%B5%EC%9D%98%20%ED%8D%BC%EB%A0%88%EC%9D%B4%EB%93%9C"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E5%BF%8C%E5%90%8D%E3%81%AE%E5%A6%82%E3%81%8D%E8%B4%84%E3%82%8B%E3%82%82%E3%81%AE"
     },
     "yes24": {
      "status": "no",
      "source": "api",
      "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%B9%A8%EB%AC%B5%EC%9D%98%20%ED%8D%BC%EB%A0%88%EC%9D%B4%EB%93%9C",
-     "sheet": "",
-     "bookRating": 9.6,
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/143381588",
-      "matched": "침묵의 퍼레이드"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "수동 검수",
-    "title": "침묵의 퍼레이드",
-    "original": "",
-    "publisher": "재인",
-    "date": "2025",
-    "verdict": "likely"
-   },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/143381588/L"
-  },
-  {
-   "category": "비슷한 시기 상위작",
-   "title": "폭탄",
-   "original": "爆弾",
-   "author": "오승호",
-   "author_orig": "呉勝浩",
-   "lang": "ja",
-   "awards": "このミス 2023 1위 · 週刊文春ベスト10 2022 4위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 이 미스터리가 대단해! 2023년 1위.",
-   "grq": "",
-   "note": "",
-   "score": 5.1,
-   "id": "like-kokurojo-24",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%ED%8F%AD%ED%83%84"
-    },
-    "ridi": {
-     "status": "buy",
-     "url": "https://ridibooks.com/books/3520000050",
-     "matched": "폭탄",
-     "rating": 4.3,
-     "count": 23,
-     "source": "auto",
-     "sheet": ""
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%8F%AD%ED%83%84"
-    },
-    "yes24": {
-     "status": "yes",
-     "source": "api",
-     "note": "판매중",
-     "url": "https://www.yes24.com/product/goods/119878093",
-     "matched": "폭탄",
-     "rating": 9.6,
-     "sheet": "",
-     "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/119034058",
-      "matched": "폭탄"
-     }
-    }
-   },
-   "goodreads": null,
-   "korean": {
-    "how": "수동 검수",
-    "title": "폭탄",
-    "original": "爆?",
-    "publisher": "블루홀6",
-    "date": "2023",
-    "verdict": "likely"
-   },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/3520000050/xlarge",
-   "review": {
-    "text": "아슬아슬한 긴장감과 살아 있는 캐릭터, 딱 떨어지지 않는 미묘한 결말이 좋았다는 평이 있다. 한편 번역투와 오타가 많고 문장이 잘못 끊겨 집중하기 어려웠다는 강한 불만도 있다. 리뷰 수가 적어 의견이 갈리며, 번역 품질이 호불호의 핵심 변수다.",
-    "pros": [
-     "팽팽한 긴장감",
-     "개성 있는 캐릭터"
-    ],
-    "cons": [
-     "어색한 번역투와 오타"
-    ],
-    "domestic": "",
-    "sources": {
-     "goodreads": 0,
-     "ridi": 4,
-     "yes24": 0
-    },
-    "hash": "1f9e7282ce97497690f5c8daa2faf72c",
-    "by": "Claude(세션 내 요약)"
-   }
-  },
-  {
-   "category": "비슷한 시기 상위작",
-   "title": "鵼の碑",
-   "original": "鵼の碑",
-   "author": "교고쿠 나쓰히코",
-   "author_orig": "京極夏彦",
-   "lang": "ja",
-   "awards": "このミス 2024 2위 · 週刊文春ベスト10 2023 3위",
-   "summary": "기준 도서와 비슷한 시기의 랭킹 상위작. 이 미스터리가 대단해! 2024년 2위.",
-   "grq": "",
-   "note": "",
-   "score": 5.1,
-   "id": "like-kokurojo-25",
-   "list": "『흑뢰성』을 좋아했다면 — 일본 미스터리 25선",
-   "sheet": {},
-   "stores": {
-    "millie": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%E9%B5%BC%E3%81%AE%E7%A2%91"
-    },
-    "ridi": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://ridibooks.com/search?q=%E9%B5%BC%E3%81%AE%E7%A2%91"
-    },
-    "crema": {
-     "status": "no",
-     "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E9%B5%BC%E3%81%AE%E7%A2%91"
-    },
-    "yes24": {
-     "status": "no",
-     "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E9%B5%BC%E3%81%AE%E7%A2%91",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E5%BF%8C%E5%90%8D%E3%81%AE%E5%A6%82%E3%81%8D%E8%B4%84%E3%82%8B%E3%82%82%E3%81%AE",
      "sheet": ""
     }
    },
@@ -1713,8 +1304,433 @@
     "date": null,
     "verdict": "none"
    },
-   "untranslated": true,
-   "cover": ""
+   "cover": "",
+   "untranslated": true
+  },
+  {
+   "category": "비슷한 시기 영미권 상위작",
+   "title": "블루버드, 블루버드",
+   "original": "Bluebird, Bluebird",
+   "author": "애티카 로크",
+   "author_orig": "Attica Locke",
+   "lang": "en",
+   "awards": "Edgar Award 2018 수상 · CWA Ian Fleming Steel Dagger 2018 수상 · Anthony Award 2018 수상 · CWA Gold Dagger 2018 후보",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 영미권 작품. Edgar Award 2018 수상 외 3건.",
+   "grq": "Bluebird, Bluebird",
+   "note": "",
+   "score": 9.6,
+   "id": "like-kokurojo-20",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B8%94%EB%A3%A8%EB%B2%84%EB%93%9C%2C%20%EB%B8%94%EB%A3%A8%EB%B2%84%EB%93%9C",
+     "matched": "블루버드, 블루버드",
+     "reviews": 9,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/2751000009",
+     "matched": "블루버드, 블루버드",
+     "rating": 3.5,
+     "count": 2,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B8%94%EB%A3%A8%EB%B2%84%EB%93%9C%2C%20%EB%B8%94%EB%A3%A8%EB%B2%84%EB%93%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/101978881",
+     "matched": "블루버드, 블루버드",
+     "rating": 8.7,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/96673539",
+      "matched": "블루버드, 블루버드"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Bluebird, Bluebird",
+    "author": "Attica Locke",
+    "rating": 3.83,
+    "count": 33116,
+    "work": "55271375",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529613007i/40605488._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/40605488-bluebird-bluebird"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "블루버드, 블루버드",
+    "original": "BLUEBIRD, BLUEBIRD",
+    "publisher": "네버모어",
+    "date": "2020",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/2751000009/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "비슷한 시기 영미권 상위작",
+   "title": "노벰버 로드",
+   "original": "November Road",
+   "author": "루 버니",
+   "author_orig": "Lou Berney",
+   "lang": "en",
+   "awards": "CWA Ian Fleming Steel Dagger 2020 수상 · Anthony Award 2019 수상 · CWA Gold Dagger 2020 후보",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 영미권 작품. CWA Ian Fleming Steel Dagger 2020 수상 외 2건.",
+   "grq": "November Road",
+   "note": "",
+   "score": 6.6,
+   "id": "like-kokurojo-21",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%85%B8%EB%B2%B0%EB%B2%84%20%EB%A1%9C%EB%93%9C",
+     "matched": "노벰버 로드",
+     "reviews": 7,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/2751000007",
+     "matched": "노벰버 로드",
+     "rating": 4.3,
+     "count": 10,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%85%B8%EB%B2%B0%EB%B2%84%20%EB%A1%9C%EB%93%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/89741048",
+     "matched": "노벰버 로드",
+     "rating": 9.5,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/85730660",
+      "matched": "노벰버 로드"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "November Road",
+    "author": "Lou Berney",
+    "rating": 3.87,
+    "count": 14630,
+    "work": "56808220",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527113022i/35430011._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/35430011-november-road"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "노벰버 로드",
+    "original": "November Road (2018)",
+    "publisher": "네버모어",
+    "date": "2020",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/2751000007/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "비슷한 시기 영미권 상위작",
+   "title": "내 눈물이 너를 베리라",
+   "original": "Razorblade Tears",
+   "author": "S. A. 코스비",
+   "author_orig": "S. A. Cosby",
+   "lang": "en",
+   "awards": "Anthony Award 2022 수상 · Edgar Award 2022 후보 · CWA Gold Dagger 2022 후보 · CWA Ian Fleming Steel Dagger 2022 후보",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 영미권 작품. Anthony Award 2022 수상 외 3건.",
+   "grq": "Razorblade Tears",
+   "note": "",
+   "score": 6.0,
+   "id": "like-kokurojo-22",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%82%B4%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%A5%BC%20%EB%B2%A0%EB%A6%AC%EB%9D%BC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%82%B4%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%A5%BC%20%EB%B2%A0%EB%A6%AC%EB%9D%BC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%82%B4%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%A5%BC%20%EB%B2%A0%EB%A6%AC%EB%9D%BC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%82%B4%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%A5%BC%20%EB%B2%A0%EB%A6%AC%EB%9D%BC",
+     "sheet": "",
+     "bookRating": 8.9,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/116205656",
+      "matched": "내 눈물이 너를 베리라"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Razorblade Tears",
+    "author": "S.A. Cosby",
+    "rating": 4.12,
+    "count": 193890,
+    "work": "85600094",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636739235i/54860585._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/54860585-razorblade-tears"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "내 눈물이 너를 베리라",
+    "original": "Razorblade Tears",
+    "publisher": "네버모어",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/116205656/L",
+   "untranslated": false
+  },
+  {
+   "category": "비슷한 시기 영미권 상위작",
+   "title": "굿 걸 배드 걸",
+   "original": "Good Girl, Bad Girl",
+   "author": "마이클 로보텀",
+   "author_orig": "Michael Robotham",
+   "lang": "en",
+   "awards": "CWA Gold Dagger 2020 수상 · Edgar Award 2020 후보",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 영미권 작품. CWA Gold Dagger 2020 수상 외 1건.",
+   "grq": "Good Girl, Bad Girl",
+   "note": "",
+   "score": 4.2,
+   "id": "like-kokurojo-23",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B5%BF%20%EA%B1%B8%20%EB%B0%B0%EB%93%9C%20%EA%B1%B8"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EA%B5%BF%20%EA%B1%B8%20%EB%B0%B0%EB%93%9C%20%EA%B1%B8"
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/120511457",
+     "matched": "굿 걸 배드 걸",
+     "rating": 9.7,
+     "reviews": 62,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Goods/120511457",
+     "sheet": "",
+     "bookRating": 9.7,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/117327150",
+      "matched": "굿 걸 배드 걸"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Good Girl, Bad Girl",
+    "author": "Michael Robotham",
+    "rating": 4.15,
+    "count": 45047,
+    "work": "65814506",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561903187i/42202019._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/42202019-good-girl-bad-girl"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "굿 걸 배드 걸",
+    "original": "Good Girl, Bad Girl",
+    "publisher": "북로드",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/120511457/L",
+   "untranslated": false
+  },
+  {
+   "category": "비슷한 시기 영미권 상위작",
+   "title": "We Begin at the End",
+   "original": "We Begin at the End",
+   "author": "Chris Whitaker",
+   "author_orig": "Chris Whitaker",
+   "lang": "en",
+   "awards": "CWA Gold Dagger 2021 수상 · CWA Ian Fleming Steel Dagger 2021 후보",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 영미권 작품. CWA Gold Dagger 2021 수상 외 1건.",
+   "grq": "We Begin at the End",
+   "note": "",
+   "score": 4.2,
+   "id": "like-kokurojo-24",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/We%20Begin%20at%20the%20End"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=We%20Begin%20at%20the%20End"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=We%20Begin%20at%20the%20End"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/117084794",
+     "matched": "We Begin at the End",
+     "rating": 0,
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "We Begin at the End",
+    "author": "Chris  Whitaker",
+    "rating": 4.17,
+    "count": 199004,
+    "work": "72270070",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603742175i/50279680._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/50279680-we-begin-at-the-end"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://image.yes24.com/goods/117084794/L",
+   "untranslated": true
+  },
+  {
+   "category": "비슷한 시기 영미권 상위작",
+   "title": "검은 황무지",
+   "original": "Blacktop Wasteland",
+   "author": "S. A. 코스비",
+   "author_orig": "S. A. Cosby",
+   "lang": "en",
+   "awards": "Anthony Award 2021 수상 · CWA Gold Dagger 2021 후보",
+   "summary": "기준 도서와 같은 장르, 비슷한 시기의 영미권 작품. Anthony Award 2021 수상 외 1건.",
+   "grq": "Blacktop Wasteland",
+   "note": "",
+   "score": 3.6,
+   "id": "like-kokurojo-25",
+   "list": "『흑뢰성』을 좋아했다면 — 25선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B2%80%EC%9D%80%20%ED%99%A9%EB%AC%B4%EC%A7%80",
+     "matched": "검은 황무지",
+     "reviews": 12,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/2751000011",
+     "matched": "검은 황무지",
+     "rating": 4.1,
+     "count": 9,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B2%80%EC%9D%80%20%ED%99%A9%EB%AC%B4%EC%A7%80"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/108043717",
+     "matched": "검은 황무지",
+     "rating": 9.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/105536421",
+      "matched": "검은 황무지"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Blacktop Wasteland",
+    "author": "S.A. Cosby",
+    "rating": 4.07,
+    "count": 67999,
+    "work": "72729856",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573874784i/51182571._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/51182571-blacktop-wasteland"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "검은 황무지",
+    "original": "Blacktop Wasteland",
+    "publisher": "네버모어",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/2751000011/xlarge",
+   "untranslated": false
   }
  ]
 }

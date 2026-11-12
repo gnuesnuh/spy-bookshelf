@@ -1,0 +1,2651 @@
+{
+ "slug": "mystery-mix",
+ "query": "미스터리·스릴러",
+ "title": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+ "subtitle": "장르 질의. 어워드 수상 10점·후보 4점, 랭킹 (11-순위)점에 소스 가중치를 곱해 합산. 소스: Anthony Award, Edgar Award, CWA Gold Dagger, Publishers Weekly 연간 베스트셀러 소설, CWA Ian Fleming Steel Dagger, 週刊文春ミステリーベスト10, 本格ミステリ大賞, 本格ミステリ・ベスト10, 本屋大賞, このミステリーがすごい! 외 2곳",
+ "updated": "2026-11-13",
+ "books": [
+  {
+   "category": "영미권",
+   "title": "블루버드, 블루버드",
+   "original": "Bluebird, Bluebird",
+   "author": "애티카 로크",
+   "author_orig": "Attica Locke",
+   "lang": "en",
+   "awards": "Edgar Award 2018 수상 · CWA Ian Fleming Steel Dagger 2018 수상 · Anthony Award 2018 수상 · CWA Gold Dagger 2018 후보",
+   "summary": "Edgar Award 2018 수상 외 3건에 오른 작품.",
+   "grq": "Bluebird, Bluebird",
+   "note": "",
+   "score": 100.0,
+   "id": "mystery-mix-1",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B8%94%EB%A3%A8%EB%B2%84%EB%93%9C%2C%20%EB%B8%94%EB%A3%A8%EB%B2%84%EB%93%9C",
+     "matched": "블루버드, 블루버드",
+     "reviews": 9,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/2751000009",
+     "matched": "블루버드, 블루버드",
+     "rating": 3.5,
+     "count": 2,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B8%94%EB%A3%A8%EB%B2%84%EB%93%9C%2C%20%EB%B8%94%EB%A3%A8%EB%B2%84%EB%93%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/101978881",
+     "matched": "블루버드, 블루버드",
+     "rating": 8.7,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/96673539",
+      "matched": "블루버드, 블루버드"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Bluebird, Bluebird",
+    "author": "Attica Locke",
+    "rating": 3.83,
+    "count": 33116,
+    "work": "55271375",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529613007i/40605488._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/40605488-bluebird-bluebird"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "블루버드, 블루버드",
+    "original": "BLUEBIRD, BLUEBIRD",
+    "publisher": "네버모어",
+    "date": "2020",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/2751000009/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "일본",
+   "title": "시인장의 살인",
+   "original": "屍人荘の殺人",
+   "author": "이마무라 마사히로",
+   "author_orig": "今村昌弘",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2018 1위 · 本格ミステリ大賞 2018 수상 · 週刊文春ミステリーベスト10 2017 1위 · 本格ミステリ・ベスト10 2018 1위 · 本屋大賞 2018 3위 · ミステリが読みたい! 2019 2위",
+   "summary": "このミステリーがすごい! 2018 1위 외 6건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 100.0,
+   "id": "mystery-mix-2",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8B%9C%EC%9D%B8%EC%9E%A5%EC%9D%98%20%EC%82%B4%EC%9D%B8"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/371001770",
+     "matched": "시인장의 살인",
+     "rating": 3.8,
+     "count": 63,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8B%9C%EC%9D%B8%EC%9E%A5%EC%9D%98%20%EC%82%B4%EC%9D%B8"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/62815662",
+     "matched": "시인장의 살인",
+     "rating": 8.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/62169752",
+      "matched": "시인장의 살인"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "시인장의 살인",
+    "original": "屍人莊の殺人",
+    "publisher": "엘릭시르",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/371001770/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "폐쇄된 공간에 참신한 설정을 도입해 끝까지 긴장감 있게 읽힌다는 호평이 있다. 반면 라이트노벨 같은 가벼운 문체와 작위적인 트릭, 전통 추리를 기대한 독자에게는 어긋나는 느낌이 지적된다. 소재는 참신하나 내용은 평범하다는 의견도 있어 호불호가 크다.",
+    "pros": [
+     "참신한 설정과 몰입감",
+     "결말까지 이어지는 긴장감"
+    ],
+    "cons": [
+     "라이트노벨 같은 가벼운 문체",
+     "작위적이고 추리가 밋밋함",
+     "전통 추리를 기대하면 아쉬움"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 0,
+     "ridi": 10,
+     "yes24": 0
+    },
+    "hash": "e50e9f9f531e5c3b18d1b1f40220ead1",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "일본",
+   "title": "흑뢰성",
+   "original": "黒牢城",
+   "author": "요네자와 호노부",
+   "author_orig": "米澤穂信",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2022 1위 · 本格ミステリ大賞 2022 수상 · 週刊文春ミステリーベスト10 2021 1위 · 本格ミステリ・ベスト10 2022 1위 · ミステリが読みたい! 2022 1위 · 本屋大賞 2022 9위",
+   "summary": "このミステリーがすごい! 2022 1위 외 5건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 90.4,
+   "id": "mystery-mix-3",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%9D%91%EB%A2%B0%EC%84%B1",
+     "matched": "흑뢰성",
+     "reviews": 124,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/777114233",
+     "matched": "흑뢰성",
+     "rating": 4.7,
+     "count": 91,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%9D%91%EB%A2%B0%EC%84%B1"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/117494410",
+     "matched": "흑뢰성",
+     "rating": 9.5,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/112229385",
+      "matched": "흑뢰성"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "흑뢰성",
+    "original": "黑牢城 ",
+    "publisher": "리드비(READbie)",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/777114233/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "일본",
+   "title": "지뢰 글리코",
+   "original": "地雷グリコ",
+   "author": "아오사키 유고",
+   "author_orig": "青崎有吾",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2025 1위 · 週刊文春ミステリーベスト10 2024 1위 · 本格ミステリ大賞 2024 수상 · 本格ミステリ・ベスト10 2025 1위 · ミステリが読みたい! 2025 1위",
+   "summary": "このミステリーがすごい! 2025 1위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 86.7,
+   "id": "mystery-mix-4",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%A7%80%EB%A2%B0%20%EA%B8%80%EB%A6%AC%EC%BD%94",
+     "matched": "지뢰 글리코",
+     "reviews": 149,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/777174342",
+     "matched": "지뢰 글리코",
+     "rating": 4.7,
+     "count": 23,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%A7%80%EB%A2%B0%20%EA%B8%80%EB%A6%AC%EC%BD%94"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/176986722",
+     "matched": "만화 지뢰 글리코",
+     "rating": 10,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/147561210",
+      "matched": "지뢰 글리코"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "지뢰 글리코",
+    "original": "地雷グリコ",
+    "publisher": "리드비(READbie)",
+    "date": "2025",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/777174342/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "일본",
+   "title": "명탐정의 제물",
+   "original": "名探偵のいけにえ 人民教会殺人事件",
+   "author": "시라이 도모유키",
+   "author_orig": "白井智之",
+   "lang": "ja",
+   "awards": "本格ミステリ大賞 2023 수상 · このミステリーがすごい! 2023 2위 · 本格ミステリ・ベスト10 2023 1위 · 週刊文春ミステリーベスト10 2022 2위 · ミステリが読みたい! 2023 4위",
+   "summary": "本格ミステリ大賞 2023 수상 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 78.6,
+   "id": "mystery-mix-5",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%AA%85%ED%83%90%EC%A0%95%EC%9D%98%20%EC%A0%9C%EB%AC%BC",
+     "matched": "명탐정의 제물",
+     "reviews": 120,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/3188000019",
+     "matched": "명탐정의 제물",
+     "rating": 4,
+     "count": 68,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/120521636",
+     "matched": "명탐정의 제물",
+     "rating": 9.3,
+     "reviews": 1139,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/120521636",
+     "matched": "명탐정의 제물",
+     "rating": 9.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/120500139",
+      "matched": "명탐정의 제물"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "명탐정의 제물",
+    "original": "名探偵のいけにえ ",
+    "publisher": "내친구의서재",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/3188000019/xlarge",
+   "untranslated": false
+  },
+  {
+   "category": "일본",
+   "title": "가연물",
+   "original": "可燃物",
+   "author": "요네자와 호노부",
+   "author_orig": "米澤穂信",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2024 1위 · 週刊文春ミステリーベスト10 2023 1위 · 本格ミステリ・ベスト10 2024 2위 · ミステリが読みたい! 2024 1위 · 本格ミステリ大賞 2024 후보",
+   "summary": "このミステリーがすごい! 2024 1위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 74.0,
+   "id": "mystery-mix-6",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B0%80%EC%97%B0%EB%AC%BC",
+     "matched": "가연물",
+     "reviews": 79,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/777144288",
+     "matched": "가연물",
+     "rating": 3.9,
+     "count": 27,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B0%80%EC%97%B0%EB%AC%BC"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/140066029",
+     "matched": "가연물 可燃物",
+     "rating": 9.6,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/132379021",
+      "matched": "가연물 可燃物"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "수동 검수",
+    "title": "가연물 可燃物",
+    "original": "",
+    "publisher": "리드비(READbie)",
+    "date": "2024",
+    "verdict": "likely"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/777144288/xlarge"
+  },
+  {
+   "category": "일본",
+   "title": "영매탐정 조즈카",
+   "original": "medium 霊媒探偵城塚翡翠",
+   "author": "아이자와 사코",
+   "author_orig": "相沢沙呼",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2020 1위 · 本格ミステリ大賞 2020 수상 · 本格ミステリ・ベスト10 2020 1위 · 週刊文春ミステリーベスト10 2019 5위 · 本屋大賞 2020 6위 · 本格ミステリ・ベスト10 2000 8위",
+   "summary": "このミステリーがすごい! 2020 1위 외 5건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 73.8,
+   "id": "mystery-mix-7",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%98%81%EB%A7%A4%ED%83%90%EC%A0%95%20%EC%A1%B0%EC%A6%88%EC%B9%B4"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1570000201",
+     "matched": "영매탐정 조즈카",
+     "rating": 3.9,
+     "count": 95,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%98%81%EB%A7%A4%ED%83%90%EC%A0%95%20%EC%A1%B0%EC%A6%88%EC%B9%B4"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/101989058",
+     "matched": "영매탐정 조즈카",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/101987654",
+      "matched": "영매탐정 조즈카"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "영매탐정 조즈카",
+    "original": "medium-靈媒探偵城塚翡翠 ",
+    "publisher": "비채",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/1570000201/xlarge"
+  },
+  {
+   "category": "일본",
+   "title": "투명인간은 밀실에 숨는다",
+   "original": "透明人間は密室に潜む",
+   "author": "아쓰카와 다쓰미",
+   "author_orig": "阿津川辰海",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2021 2위 · 本格ミステリ・ベスト10 2021 1위 · 週刊文春ミステリーベスト10 2020 2위 · ミステリが読みたい! 2021 3위 · 本格ミステリ大賞 2021 후보",
+   "summary": "このミステリーがすごい! 2021 2위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 69.0,
+   "id": "mystery-mix-8",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%88%AC%EB%AA%85%EC%9D%B8%EA%B0%84%EC%9D%80%20%EB%B0%80%EC%8B%A4%EC%97%90%20%EC%88%A8%EB%8A%94%EB%8B%A4",
+     "matched": "투명인간은 밀실에 숨는다",
+     "reviews": 25,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/777105727",
+     "matched": "투명인간은 밀실에 숨는다",
+     "rating": 3.7,
+     "count": 15,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%88%AC%EB%AA%85%EC%9D%B8%EA%B0%84%EC%9D%80%20%EB%B0%80%EC%8B%A4%EC%97%90%20%EC%88%A8%EB%8A%94%EB%8B%A4"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/115033890",
+     "matched": "투명인간은 밀실에 숨는다",
+     "rating": 9.5,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/108605104",
+      "matched": "투명인간은 밀실에 숨는다"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "투명인간은 밀실에 숨는다",
+    "original": "透明人間は密室に潛む",
+    "publisher": "리드비(READbie)",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/777105727/xlarge"
+  },
+  {
+   "category": "영미권",
+   "title": "노벰버 로드",
+   "original": "November Road",
+   "author": "루 버니",
+   "author_orig": "Lou Berney",
+   "lang": "en",
+   "awards": "CWA Ian Fleming Steel Dagger 2020 수상 · Anthony Award 2019 수상 · CWA Gold Dagger 2020 후보",
+   "summary": "CWA Ian Fleming Steel Dagger 2020 수상 외 2건에 오른 작품.",
+   "grq": "November Road",
+   "note": "",
+   "score": 68.8,
+   "id": "mystery-mix-9",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%85%B8%EB%B2%B0%EB%B2%84%20%EB%A1%9C%EB%93%9C",
+     "matched": "노벰버 로드",
+     "reviews": 7,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/2751000007",
+     "matched": "노벰버 로드",
+     "rating": 4.3,
+     "count": 10,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%85%B8%EB%B2%B0%EB%B2%84%20%EB%A1%9C%EB%93%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/89741048",
+     "matched": "노벰버 로드",
+     "rating": 9.5,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/85730660",
+      "matched": "노벰버 로드"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "November Road",
+    "author": "Lou Berney",
+    "rating": 3.87,
+    "count": 14630,
+    "work": "56808220",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527113022i/35430011._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/35430011-november-road"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "노벰버 로드",
+    "original": "November Road (2018)",
+    "publisher": "네버모어",
+    "date": "2020",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/2751000007/xlarge"
+  },
+  {
+   "category": "일본",
+   "title": "잃어버린 얼굴",
+   "original": "失われた貌",
+   "author": "사쿠라다 도모야",
+   "author_orig": "櫻田智也",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2026 1위 · 週刊文春ミステリーベスト10 2025 1위 · ミステリが読みたい! 2026 1위 · 本格ミステリ・ベスト10 2026 3위 · 本屋大賞 2026 9위",
+   "summary": "このミステリーがすごい! 2026 1위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 68.6,
+   "id": "mystery-mix-10",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EC%96%BC%EA%B5%B4",
+     "matched": "잃어버린 얼굴",
+     "reviews": 139,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/4239000361",
+     "matched": "잃어버린 얼굴",
+     "rating": 4.5,
+     "count": 60,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/177646097",
+     "matched": "잃어버린 얼굴",
+     "rating": 9.5,
+     "reviews": 81,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/177646097",
+     "matched": "잃어버린 얼굴",
+     "rating": 9.5,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/177508307",
+      "matched": "잃어버린 얼굴"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "잃어버린 얼굴",
+    "original": "失われた貌",
+    "publisher": "반타",
+    "date": "2026",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/4239000361/xlarge",
+   "review": {
+    "text": "얼굴 없는 시체라는 강렬한 시작과 치밀한 수사 과정, 촘촘한 복선 회수, 허투루 쓰이지 않은 인물 구성이 호평받는다. 자극적인 소재에 비해 담백하고 정석적이라는 평이 있고, 일본 특유의 음습한 분위기를 언급하는 독자가 많다. 뚜렷한 단점 지적은 거의 없다.",
+    "pros": [
+     "강렬한 도입과 치밀한 수사 전개",
+     "촘촘한 복선과 완성도 높은 구성",
+     "묵직하고 음습한 분위기"
+    ],
+    "cons": [],
+    "domestic": "",
+    "sources": {
+     "goodreads": 0,
+     "ridi": 10,
+     "yes24": 5
+    },
+    "hash": "d40a198b0f32d86a9370dae040e8b247",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "일본",
+   "title": "방주",
+   "original": "方舟",
+   "author": "유키 하루오",
+   "author_orig": "夕木春央",
+   "lang": "ja",
+   "awards": "週刊文春ミステリーベスト10 2022 1위 · 本格ミステリ・ベスト10 2023 2위 · このミステリーがすごい! 2023 4위 · ミステリが読みたい! 2023 6위 · 本格ミステリ大賞 2023 후보 · 本屋大賞 2023 7위",
+   "summary": "週刊文春ミステリーベスト10 2022 1위 외 5건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 68.5,
+   "id": "mystery-mix-11",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B0%A9%EC%A3%BC"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/3520000049",
+     "matched": "방주",
+     "rating": 4.3,
+     "count": 75,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B0%A9%EC%A3%BC"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/119490258",
+     "matched": "방주",
+     "rating": 9.1,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/117380427",
+      "matched": "방주"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "방주",
+    "original": "方舟 ",
+    "publisher": "블루홀6",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/3520000049/xlarge",
+   "review": {
+    "text": "결말의 반전이 압도적이라는 평이 압도적으로 많고, 최근 몇 년 사이 손꼽히는 쾌감이라는 반응이 이어진다. 폐쇄된 공간의 분위기는 무난한 편이고 반전 외에는 평범하거나 지루하다는 지적이 있다. 반전이 불쾌하거나 인물 묘사가 부실하다고 낮게 평가하는 독자도 있어 스포일러를 피해 읽으라는 의견이 많다.",
+    "pros": [
+     "결말 반전의 강한 충격과 쾌감",
+     "어둡고 폐쇄적인 분위기"
+    ],
+    "cons": [
+     "반전 외에는 평범하고 지루함",
+     "인물 묘사와 결말이 불쾌하다는 평"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 0,
+     "ridi": 9,
+     "yes24": 0
+    },
+    "hash": "67a1cab4d1e5b2c613ef3761f2f1e622",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "영미권",
+   "title": "내 눈물이 너를 베리라",
+   "original": "Razorblade Tears",
+   "author": "S. A. 코스비",
+   "author_orig": "S. A. Cosby",
+   "lang": "en",
+   "awards": "Anthony Award 2022 수상 · Edgar Award 2022 후보 · CWA Gold Dagger 2022 후보 · CWA Ian Fleming Steel Dagger 2022 후보",
+   "summary": "Anthony Award 2022 수상 외 3건에 오른 작품.",
+   "grq": "Razorblade Tears",
+   "note": "",
+   "score": 62.5,
+   "id": "mystery-mix-12",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%82%B4%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%A5%BC%20%EB%B2%A0%EB%A6%AC%EB%9D%BC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%82%B4%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%A5%BC%20%EB%B2%A0%EB%A6%AC%EB%9D%BC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%82%B4%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%A5%BC%20%EB%B2%A0%EB%A6%AC%EB%9D%BC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%82%B4%20%EB%88%88%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%A5%BC%20%EB%B2%A0%EB%A6%AC%EB%9D%BC",
+     "sheet": "",
+     "bookRating": 8.9,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/116205656",
+      "matched": "내 눈물이 너를 베리라"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Razorblade Tears",
+    "author": "S.A. Cosby",
+    "rating": 4.12,
+    "count": 193890,
+    "work": "85600094",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636739235i/54860585._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/54860585-razorblade-tears"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "내 눈물이 너를 베리라",
+    "original": "Razorblade Tears",
+    "publisher": "네버모어",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/116205656/L"
+  },
+  {
+   "category": "일본",
+   "title": "빛의 현관",
+   "original": "ノースライト",
+   "author": "요코야마 히데오",
+   "author_orig": "横山秀夫",
+   "lang": "ja",
+   "awards": "週刊文春ミステリーベスト10 2019 1위 · このミステリーがすごい! 2020 2위 · ミステリが読みたい! 2020 2위 · 本屋大賞 2020 4위",
+   "summary": "週刊文春ミステリーベスト10 2019 1위 외 3건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 61.3,
+   "id": "mystery-mix-13",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B9%9B%EC%9D%98%20%ED%98%84%EA%B4%80",
+     "matched": "빛의 현관",
+     "reviews": 20,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%B9%9B%EC%9D%98%20%ED%98%84%EA%B4%80"
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/95995313",
+     "matched": "빛의 현관",
+     "rating": 9.1,
+     "reviews": 325,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Goods/95995313",
+     "sheet": "",
+     "bookRating": 9.1,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/94417405",
+      "matched": "빛의 현관"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "빛의 현관",
+    "original": "ノ-スライト",
+    "publisher": "검은숲",
+    "date": "2020",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/95995313/L",
+   "review": {
+    "text": "건축가가 의뢰받아 지은 집을 둘러싼 이야기로, 집과 삶의 의미를 깊이 생각하게 한다는 반응이 이어진다. 평점은 대체로 높고 인생과 건축에 대한 사색이 인상적이라는 평이 있다. 반면 이야기가 잘 나가지 않아 읽는 데 시간이 걸렸다는 의견이 있다.",
+    "pros": [
+     "삶과 집의 의미를 곱씹게 하는 사색"
+    ],
+    "cons": [
+     "진행이 더뎌 읽는 데 시간이 걸림"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 0,
+     "ridi": 0,
+     "yes24": 5
+    },
+    "hash": "5ab15f5ebac7a28a09438b40a607d7d7",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "일본",
+   "title": "무죄의 여름",
+   "original": "ベルリンは晴れているか",
+   "author": "후카미도리 노와키",
+   "author_orig": "深緑野分",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2019 2위 · 本屋大賞 2019 3위 · 週刊文春ミステリーベスト10 2018 3위 · 大藪春彦賞 2019 수상 · ミステリが読みたい! 2019 10위",
+   "summary": "このミステリーがすごい! 2019 2위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 60.5,
+   "id": "mystery-mix-14",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%AC%B4%EC%A3%84%EC%9D%98%20%EC%97%AC%EB%A6%84",
+     "matched": "무죄의 여름",
+     "reviews": 10,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/510001228",
+     "matched": "무죄의 여름",
+     "rating": 3.5,
+     "count": 2,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%AC%B4%EC%A3%84%EC%9D%98%20%EC%97%AC%EB%A6%84"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/109141543",
+     "matched": "무죄의 여름",
+     "rating": 9.9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/108236568",
+      "matched": "무죄의 여름"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "무죄의 여름",
+    "original": "ベルリンは晴れているか",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/510001228/xlarge"
+  },
+  {
+   "category": "일본",
+   "title": "폭탄",
+   "original": "爆弾",
+   "author": "오승호",
+   "author_orig": "呉勝浩",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2023 1위 · ミステリが読みたい! 2023 1위 · 本屋大賞 2023 4위 · 週刊文春ミステリーベスト10 2022 4위",
+   "summary": "このミステリーがすごい! 2023 1위 외 3건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 59.0,
+   "id": "mystery-mix-15",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%8F%AD%ED%83%84"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/3520000050",
+     "matched": "폭탄",
+     "rating": 4.3,
+     "count": 23,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%8F%AD%ED%83%84"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/119878093",
+     "matched": "폭탄",
+     "rating": 9.6,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/119034058",
+      "matched": "폭탄"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "수동 검수",
+    "title": "폭탄",
+    "original": "爆?",
+    "publisher": "블루홀6",
+    "date": "2023",
+    "verdict": "likely"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/3520000050/xlarge",
+   "review": {
+    "text": "아슬아슬한 긴장감과 살아 있는 캐릭터, 딱 떨어지지 않는 미묘한 결말이 좋았다는 평이 있다. 한편 번역투와 오타가 많고 문장이 잘못 끊겨 집중하기 어려웠다는 강한 불만도 있다. 리뷰 수가 적어 의견이 갈리며, 번역 품질이 호불호의 핵심 변수다.",
+    "pros": [
+     "팽팽한 긴장감",
+     "개성 있는 캐릭터"
+    ],
+    "cons": [
+     "어색한 번역투와 오타"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 0,
+     "ridi": 4,
+     "yes24": 0
+    },
+    "hash": "1f9e7282ce97497690f5c8daa2faf72c",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "일본",
+   "title": "낙원은 탐정의 부재",
+   "original": "楽園とは探偵の不在なり",
+   "author": "샤센도 유키",
+   "author_orig": "斜線堂有紀",
+   "lang": "ja",
+   "awards": "週刊文春ミステリーベスト10 2020 3위 · ミステリが読みたい! 2021 2위 · 本格ミステリ・ベスト10 2021 4위 · このミステリーがすごい! 2021 6위 · 本格ミステリ大賞 2021 후보",
+   "summary": "週刊文春ミステリーベスト10 2020 3위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 56.3,
+   "id": "mystery-mix-16",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%82%99%EC%9B%90%EC%9D%80%20%ED%83%90%EC%A0%95%EC%9D%98%20%EB%B6%80%EC%9E%AC"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/3520000033",
+     "matched": "낙원은 탐정의 부재",
+     "rating": 4.6,
+     "count": 18,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%82%99%EC%9B%90%EC%9D%80%20%ED%83%90%EC%A0%95%EC%9D%98%20%EB%B6%80%EC%9E%AC"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/108804008",
+     "matched": "낙원은 탐정의 부재",
+     "rating": 9.7,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/106225748",
+      "matched": "낙원은 탐정의 부재"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "낙원은 탐정의 부재",
+    "original": "樂園とは探偵の不在なり",
+    "publisher": "블루홀6",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/3520000033/xlarge"
+  },
+  {
+   "category": "일본",
+   "title": "마안갑의 살인",
+   "original": "魔眼の匣の殺人",
+   "author": "이마무라 마사히로",
+   "author_orig": "今村昌弘",
+   "lang": "ja",
+   "awards": "本格ミステリ・ベスト10 2020 2위 · このミステリーがすごい! 2020 3위 · 週刊文春ミステリーベスト10 2019 3위 · ミステリが読みたい! 2020 3위",
+   "summary": "本格ミステリ・ベスト10 2020 2위 외 3건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 56.3,
+   "id": "mystery-mix-17",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%A7%88%EC%95%88%EA%B0%91%EC%9D%98%20%EC%82%B4%EC%9D%B8"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/371002352",
+     "matched": "마안갑의 살인",
+     "rating": 4.4,
+     "count": 33,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%A7%88%EC%95%88%EA%B0%91%EC%9D%98%20%EC%82%B4%EC%9D%B8"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/101659495",
+     "matched": "마안갑의 살인",
+     "rating": 9.1,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/101659561",
+      "matched": "마안갑의 살인"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "마안갑의 살인",
+    "original": "魔眼の匣の殺人",
+    "publisher": "엘릭시르",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/371002352/xlarge",
+   "review": {
+    "text": "고립된 건물과 예언이 주는 으스스한 분위기, 안정적인 전개와 만족스러운 트릭, 결말의 신선함이 좋다는 평이 많다. 전작보다 낫다는 의견이 있고 시리즈 최고작이라는 반응도 있다. 라이트노벨 같은 느낌이 남는다는 점이 약간 아쉽다는 소수 의견이 있다.",
+    "pros": [
+     "으스스한 폐쇄 공간 분위기",
+     "탄탄한 트릭과 결말"
+    ],
+    "cons": [
+     "라이트노벨 같은 가벼움"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 0,
+     "ridi": 5,
+     "yes24": 0
+    },
+    "hash": "26d5bb1c1fc6d5cfdacecd9fbe41c2c4",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "일본",
+   "title": "엘리펀트 헤드",
+   "original": "エレファントヘッド",
+   "author": "시라이 도모유키",
+   "author_orig": "白井智之",
+   "lang": "ja",
+   "awards": "本格ミステリ・ベスト10 2024 1위 · このミステリーがすごい! 2024 4위 · 週刊文春ミステリーベスト10 2023 4위 · 本格ミステリ大賞 2024 후보 · ミステリが読みたい! 2024 7위",
+   "summary": "本格ミステリ・ベスト10 2024 1위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 55.7,
+   "id": "mystery-mix-18",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%97%98%EB%A6%AC%ED%8E%80%ED%8A%B8%20%ED%97%A4%EB%93%9C",
+     "matched": "엘리펀트 헤드",
+     "reviews": 81,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/3188000027",
+     "matched": "엘리펀트 헤드",
+     "rating": 4,
+     "count": 54,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%97%98%EB%A6%AC%ED%8E%80%ED%8A%B8%20%ED%97%A4%EB%93%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/139769129",
+     "matched": "엘리펀트 헤드",
+     "rating": 8.9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/134857890",
+      "matched": "엘리펀트 헤드"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "엘리펀트 헤드",
+    "original": "エレファントヘッド ",
+    "publisher": "내친구의서재",
+    "date": "2024",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/3188000027/xlarge"
+  },
+  {
+   "category": "일본",
+   "title": "왕과 서커스",
+   "original": "王とサーカス",
+   "author": "요네자와 호노부",
+   "author_orig": "米澤穂信",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2016 1위 · 週刊文春ミステリーベスト10 2015 1위 · ミステリが読みたい! 2016 1위 · 本格ミステリ・ベスト10 2016 3위 · 本屋大賞 2016 6위",
+   "summary": "このミステリーがすごい! 2016 1위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 55.7,
+   "id": "mystery-mix-19",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%99%95%EA%B3%BC%20%EC%84%9C%EC%BB%A4%EC%8A%A4"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/371002583",
+     "matched": "왕과 서커스",
+     "rating": 4.8,
+     "count": 16,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%99%95%EA%B3%BC%20%EC%84%9C%EC%BB%A4%EC%8A%A4"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/105536774",
+     "matched": "왕과 서커스",
+     "rating": 9.4,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/29078187",
+      "matched": "왕과 서커스"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "원제 일치",
+    "title": "왕과 서커스",
+    "original": "王とサ-カス",
+    "publisher": "엘릭시르",
+    "date": "2016",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/371002583/xlarge"
+  },
+  {
+   "category": "영미권",
+   "title": "굿 걸 배드 걸",
+   "original": "Good Girl, Bad Girl",
+   "author": "마이클 로보텀",
+   "author_orig": "Michael Robotham",
+   "lang": "en",
+   "awards": "CWA Gold Dagger 2020 수상 · Edgar Award 2020 후보",
+   "summary": "CWA Gold Dagger 2020 수상 외 1건에 오른 작품.",
+   "grq": "Good Girl, Bad Girl",
+   "note": "",
+   "score": 43.8,
+   "id": "mystery-mix-20",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B5%BF%20%EA%B1%B8%20%EB%B0%B0%EB%93%9C%20%EA%B1%B8"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EA%B5%BF%20%EA%B1%B8%20%EB%B0%B0%EB%93%9C%20%EA%B1%B8"
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/120511457",
+     "matched": "굿 걸 배드 걸",
+     "rating": 9.7,
+     "reviews": 62,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Goods/120511457",
+     "sheet": "",
+     "bookRating": 9.7,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/117327150",
+      "matched": "굿 걸 배드 걸"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Good Girl, Bad Girl",
+    "author": "Michael Robotham",
+    "rating": 4.15,
+    "count": 45047,
+    "work": "65814506",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561903187i/42202019._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/42202019-good-girl-bad-girl"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "굿 걸 배드 걸",
+    "original": "Good Girl, Bad Girl",
+    "publisher": "북로드",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/120511457/L"
+  },
+  {
+   "category": "영미권",
+   "title": "검은 황무지",
+   "original": "Blacktop Wasteland",
+   "author": "S. A. 코스비",
+   "author_orig": "S. A. Cosby",
+   "lang": "en",
+   "awards": "Anthony Award 2021 수상 · CWA Gold Dagger 2021 후보",
+   "summary": "Anthony Award 2021 수상 외 1건에 오른 작품.",
+   "grq": "Blacktop Wasteland",
+   "note": "",
+   "score": 37.5,
+   "id": "mystery-mix-21",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B2%80%EC%9D%80%20%ED%99%A9%EB%AC%B4%EC%A7%80",
+     "matched": "검은 황무지",
+     "reviews": 12,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/2751000011",
+     "matched": "검은 황무지",
+     "rating": 4.1,
+     "count": 9,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B2%80%EC%9D%80%20%ED%99%A9%EB%AC%B4%EC%A7%80"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/108043717",
+     "matched": "검은 황무지",
+     "rating": 9.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/105536421",
+      "matched": "검은 황무지"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Blacktop Wasteland",
+    "author": "S.A. Cosby",
+    "rating": 4.07,
+    "count": 67999,
+    "work": "72729856",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573874784i/51182571._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/51182571-blacktop-wasteland"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "검은 황무지",
+    "original": "Blacktop Wasteland",
+    "publisher": "네버모어",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/2751000011/xlarge"
+  },
+  {
+   "category": "영미권",
+   "title": "보라선 열차와 사라진 아이들",
+   "original": "Djinn Patrol on the Purple Line",
+   "author": "디파 아나파라",
+   "author_orig": "Deepa Anappara",
+   "lang": "en",
+   "awards": "Edgar Award 2021 수상",
+   "summary": "Edgar Award 2021 수상.",
+   "grq": "Djinn Patrol on the Purple Line",
+   "note": "",
+   "score": 31.2,
+   "id": "mystery-mix-22",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B3%B4%EB%9D%BC%EC%84%A0%20%EC%97%B4%EC%B0%A8%EC%99%80%20%EC%82%AC%EB%9D%BC%EC%A7%84%20%EC%95%84%EC%9D%B4%EB%93%A4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%B3%B4%EB%9D%BC%EC%84%A0%20%EC%97%B4%EC%B0%A8%EC%99%80%20%EC%82%AC%EB%9D%BC%EC%A7%84%20%EC%95%84%EC%9D%B4%EB%93%A4"
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/105782951",
+     "matched": "보라선 열차와 사라진 아이들",
+     "rating": 9.2,
+     "reviews": 102,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Goods/105782951",
+     "sheet": "",
+     "bookRating": 9.2,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/105054519",
+      "matched": "보라선 열차와 사라진 아이들"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Djinn Patrol on the Purple Line",
+    "author": "Deepa Anappara",
+    "rating": 3.8,
+    "count": 12360,
+    "work": "70486068",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569249414i/45755173._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/45755173-djinn-patrol-on-the-purple-line"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "보라선 열차와 사라진 아이들",
+    "original": "Djinn Patrol on the Purple Line",
+    "publisher": "북로드",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/105782951/L"
+  },
+  {
+   "category": "영미권",
+   "title": "어느 사형에 관한 기록",
+   "original": "Notes on an Execution",
+   "author": "단야 쿠카프카",
+   "author_orig": "Danya Kukafka",
+   "lang": "en",
+   "awards": "Edgar Award 2023 수상",
+   "summary": "Edgar Award 2023 수상.",
+   "grq": "Notes on an Execution",
+   "note": "",
+   "score": 31.2,
+   "id": "mystery-mix-23",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%96%B4%EB%8A%90%20%EC%82%AC%ED%98%95%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B8%B0%EB%A1%9D"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/682001635",
+     "matched": "어느 사형에 관한 기록",
+     "rating": 3.8,
+     "count": 5,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%96%B4%EB%8A%90%20%EC%82%AC%ED%98%95%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B8%B0%EB%A1%9D"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/124422038",
+     "matched": "어느 사형에 관한 기록",
+     "rating": 9.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/124028090",
+      "matched": "어느 사형에 관한 기록"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Notes on an Execution",
+    "author": "Danya Kukafka",
+    "rating": 4.02,
+    "count": 165486,
+    "work": "90380789",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631888297i/57773248._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/57773248-notes-on-an-execution"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "어느 사형에 관한 기록",
+    "original": "Notes on an Execution",
+    "publisher": "황금가지",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/682001635/xlarge"
+  },
+  {
+   "category": "영미권",
+   "title": "드라이",
+   "original": "The Dry",
+   "author": "제인 하퍼",
+   "author_orig": "Jane Harper",
+   "lang": "en",
+   "awards": "CWA Gold Dagger 2017 수상",
+   "summary": "CWA Gold Dagger 2017 수상.",
+   "grq": "The Dry",
+   "note": "",
+   "score": 31.2,
+   "id": "mystery-mix-24",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%93%9C%EB%9D%BC%EC%9D%B4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%93%9C%EB%9D%BC%EC%9D%B4"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%93%9C%EB%9D%BC%EC%9D%B4"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%93%9C%EB%9D%BC%EC%9D%B4",
+     "sheet": "",
+     "bookRating": 8.7,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/44147795",
+      "matched": "드라이"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Dry",
+    "author": "Jane Harper",
+    "rating": 4.06,
+    "count": 279645,
+    "work": "47804789",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456113132i/27824826._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/27824826-the-dry"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "드라이",
+    "original": "The Dry",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/44147795/L",
+   "review": {
+    "text": "가뭄에 시달리는 호주 작은 마을의 분위기와 탄탄한 구성, 과거와 현재가 얽힌 미스터리가 호평받으며 범인을 짐작해도 동기는 맞추기 어렵다는 평이다. 한편 전개가 느리고 긴장감이 부족하며 과장된 호평에 못 미친다는 의견도 많다.",
+    "pros": [
+     "생생한 배경 묘사",
+     "촘촘한 구성과 미스터리",
+     "입체적인 인물"
+    ],
+    "cons": [
+     "느린 전개",
+     "기대에 못 미치는 긴장감"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "b82dc6eebfdfd047a25d660b154270b5",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "영미권",
+   "title": "낯선 자의 일기",
+   "original": "The Stranger Diaries",
+   "author": "엘리 그리피스",
+   "author_orig": "Elly Griffiths",
+   "lang": "en",
+   "awards": "Edgar Award 2020 수상",
+   "summary": "Edgar Award 2020 수상.",
+   "grq": "The Stranger Diaries",
+   "note": "",
+   "score": 31.2,
+   "id": "mystery-mix-25",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%82%AF%EC%84%A0%20%EC%9E%90%EC%9D%98%20%EC%9D%BC%EA%B8%B0",
+     "matched": "낯선 자의 일기",
+     "reviews": 41,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/2177000103",
+     "matched": "낯선 자의 일기",
+     "rating": 3.6,
+     "count": 56,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/103614768",
+     "matched": "낯선 자의 일기",
+     "rating": 8.3,
+     "reviews": 77,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/103614768",
+     "matched": "낯선 자의 일기",
+     "rating": 8.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/103206629",
+      "matched": "낯선 자의 일기"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Stranger Diaries",
+    "author": "Elly Griffiths",
+    "rating": 3.86,
+    "count": 47887,
+    "work": "58794499",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532738769i/40796097._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/40796097-the-stranger-diaries"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "낯선 자의 일기",
+    "original": "The Stranger Diaries",
+    "publisher": "나무옆의자",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/2177000103/xlarge"
+  },
+  {
+   "category": "영미권",
+   "title": "걸 온 더 트레인",
+   "original": "The Girl on the Train",
+   "author": "폴라 호킨스",
+   "author_orig": "Paula Hawkins",
+   "lang": "en",
+   "awards": "Publishers Weekly 연간 베스트셀러 소설 2016 1위 · Publishers Weekly 연간 베스트셀러 소설 2015 3위 · CWA Ian Fleming Steel Dagger 2015 후보 · Publishers Weekly 연간 베스트셀러 소설 2016 7위",
+   "summary": "Publishers Weekly 연간 베스트셀러 소설 2016 1위 외 3건에 오른 작품.",
+   "grq": "The Girl on the Train",
+   "note": "",
+   "score": 26.2,
+   "id": "mystery-mix-26",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B1%B8%20%EC%98%A8%20%EB%8D%94%20%ED%8A%B8%EB%A0%88%EC%9D%B8"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EA%B1%B8%20%EC%98%A8%20%EB%8D%94%20%ED%8A%B8%EB%A0%88%EC%9D%B8"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B1%B8%20%EC%98%A8%20%EB%8D%94%20%ED%8A%B8%EB%A0%88%EC%9D%B8"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EA%B1%B8%20%EC%98%A8%20%EB%8D%94%20%ED%8A%B8%EB%A0%88%EC%9D%B8",
+     "sheet": "",
+     "bookRating": 9.6,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/148408216",
+      "matched": "걸 온 더 트레인"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "rating": 3.96,
+    "count": 3410544,
+    "work": "41107568",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1748242265i/22557272._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/22557272-the-girl-on-the-train"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "걸 온 더 트레인",
+    "original": "The Girl on the Train",
+    "publisher": "&(앤드)",
+    "date": "2025",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/148408216/L"
+  },
+  {
+   "category": "영미권",
+   "title": "죄를 지은 모두 피를 흘리리",
+   "original": "All the Sinners Bleed",
+   "author": "S. A. 코스비",
+   "author_orig": "S. A. Cosby",
+   "lang": "en",
+   "awards": "Edgar Award 2024 후보 · CWA Ian Fleming Steel Dagger 2024 후보",
+   "summary": "Edgar Award 2024 후보 외 1건에 오른 작품.",
+   "grq": "All the Sinners Bleed",
+   "note": "",
+   "score": 25.0,
+   "id": "mystery-mix-27",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%A3%84%EB%A5%BC%20%EC%A7%80%EC%9D%80%20%EB%AA%A8%EB%91%90%20%ED%94%BC%EB%A5%BC%20%ED%9D%98%EB%A6%AC%EB%A6%AC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%A3%84%EB%A5%BC%20%EC%A7%80%EC%9D%80%20%EB%AA%A8%EB%91%90%20%ED%94%BC%EB%A5%BC%20%ED%9D%98%EB%A6%AC%EB%A6%AC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%A3%84%EB%A5%BC%20%EC%A7%80%EC%9D%80%20%EB%AA%A8%EB%91%90%20%ED%94%BC%EB%A5%BC%20%ED%9D%98%EB%A6%AC%EB%A6%AC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%A3%84%EB%A5%BC%20%EC%A7%80%EC%9D%80%20%EB%AA%A8%EB%91%90%20%ED%94%BC%EB%A5%BC%20%ED%9D%98%EB%A6%AC%EB%A6%AC",
+     "sheet": "",
+     "bookRating": 9.2,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/154827618",
+      "matched": "죄를 지은 모두 피를 흘리리"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "All the Sinners Bleed",
+    "author": "S.A. Cosby",
+    "rating": 4.19,
+    "count": 155123,
+    "work": "97563754",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663544598i/61884832._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/61884832-all-the-sinners-bleed"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "죄를 지은 모두 피를 흘리리",
+    "original": "All The Sinners Bleed",
+    "publisher": "네버모어",
+    "date": "2025",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/154827618/L"
+  },
+  {
+   "category": "영미권",
+   "title": "메이드",
+   "original": "The Maid",
+   "author": "니타 프로스",
+   "author_orig": "Nita Prose",
+   "lang": "en",
+   "awards": "Edgar Award 2023 후보 · Anthony Award 2023 후보",
+   "summary": "Edgar Award 2023 후보 외 1건에 오른 작품.",
+   "grq": "The Maid",
+   "note": "",
+   "score": 22.5,
+   "id": "mystery-mix-28",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%A9%94%EC%9D%B4%EB%93%9C",
+     "matched": "메이드",
+     "reviews": 65,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%A9%94%EC%9D%B4%EB%93%9C"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%A9%94%EC%9D%B4%EB%93%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "종이책에 연결된 eBook",
+     "url": "https://www.yes24.com/product/goods/117310765",
+     "sheet": "",
+     "matched": "메이드",
+     "rating": 9.4,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/117082811",
+      "matched": "메이드"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Maid",
+    "author": "Nita Prose",
+    "rating": 3.74,
+    "count": 746065,
+    "work": "86048177",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643228739i/55196813._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/55196813-the-maid"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "메이드",
+    "original": "The Maid",
+    "publisher": "마시멜로",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/117082811/L"
+  },
+  {
+   "category": "영미권",
+   "title": "네 이름은 어디에",
+   "original": "Before You Knew My Name",
+   "author": "재클린 부블리츠",
+   "author_orig": "Jacqueline Bublitz",
+   "lang": "en",
+   "awards": "CWA Gold Dagger 2022 후보",
+   "summary": "CWA Gold Dagger 2022 후보.",
+   "grq": "Before You Knew My Name",
+   "note": "",
+   "score": 12.5,
+   "id": "mystery-mix-29",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%84%A4%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EC%96%B4%EB%94%94%EC%97%90"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%84%A4%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EC%96%B4%EB%94%94%EC%97%90"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%84%A4%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EC%96%B4%EB%94%94%EC%97%90"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%84%A4%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EC%96%B4%EB%94%94%EC%97%90",
+     "sheet": "",
+     "bookRating": 9.5,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/109747395",
+      "matched": "네 이름은 어디에"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Before You Knew My Name",
+    "author": "Jacqueline Bublitz",
+    "rating": 3.77,
+    "count": 34626,
+    "work": "87762634",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664988564i/60321522._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/60321522-before-you-knew-my-name"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "네 이름은 어디에",
+    "original": "Before You Knew My Name",
+    "publisher": "밝은세상",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/109747395/L"
+  },
+  {
+   "category": "영미권",
+   "title": "콜드 스토리지",
+   "original": "Cold Storage",
+   "author": "데이비드 켑",
+   "author_orig": "David Koepp",
+   "lang": "en",
+   "awards": "CWA Ian Fleming Steel Dagger 2020 후보",
+   "summary": "CWA Ian Fleming Steel Dagger 2020 후보.",
+   "grq": "Cold Storage",
+   "note": "",
+   "score": 12.5,
+   "id": "mystery-mix-30",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%BD%9C%EB%93%9C%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/682001437",
+     "matched": "콜드 스토리지",
+     "rating": 4.2,
+     "count": 10,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%BD%9C%EB%93%9C%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/97687094",
+     "matched": "콜드 스토리지",
+     "rating": 8,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/97647973",
+      "matched": "콜드 스토리지"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Cold Storage",
+    "author": "David Koepp",
+    "rating": 3.72,
+    "count": 18599,
+    "work": "67077263",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563753252i/43229556._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/43229556-cold-storage"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "콜드 스토리지",
+    "original": "Cold Storage",
+    "publisher": "황금가지",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/682001437/xlarge"
+  },
+  {
+   "category": "미번역 명작 (일본)",
+   "title": "涙香迷宮",
+   "original": "涙香迷宮",
+   "author": "다케모토 겐지",
+   "author_orig": "竹本健治",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2017 1위 · 本格ミステリ大賞 2017 수상 · 週刊文春ミステリーベスト10 2016 3위 · ミステリが読みたい! 2017 2위 · 本格ミステリ・ベスト10 2017 4위",
+   "summary": "このミステリーがすごい! 2017 1위 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 76.6,
+   "id": "mystery-mix-31",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%E6%B6%99%E9%A6%99%E8%BF%B7%E5%AE%AE"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%E6%B6%99%E9%A6%99%E8%BF%B7%E5%AE%AE"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E6%B6%99%E9%A6%99%E8%BF%B7%E5%AE%AE"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E6%B6%99%E9%A6%99%E8%BF%B7%E5%AE%AE",
+     "sheet": ""
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": ""
+  },
+  {
+   "category": "미번역 명작 (일본)",
+   "title": "夜と霧の誘拐",
+   "original": "夜と霧の誘拐",
+   "author": "가사이 기요시",
+   "author_orig": "笠井潔",
+   "lang": "ja",
+   "awards": "本格ミステリ大賞 2026 수상 · このミステリーがすごい! 2026 2위 · 本格ミステリ・ベスト10 2026 2위 · 週刊文春ミステリーベスト10 2025 6위 · ミステリが読みたい! 2026 6위",
+   "summary": "本格ミステリ大賞 2026 수상 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 66.6,
+   "id": "mystery-mix-32",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%E5%A4%9C%E3%81%A8%E9%9C%A7%E3%81%AE%E8%AA%98%E6%8B%90"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%E5%A4%9C%E3%81%A8%E9%9C%A7%E3%81%AE%E8%AA%98%E6%8B%90"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E5%A4%9C%E3%81%A8%E9%9C%A7%E3%81%AE%E8%AA%98%E6%8B%90"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E5%A4%9C%E3%81%A8%E9%9C%A7%E3%81%AE%E8%AA%98%E6%8B%90",
+     "sheet": ""
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": ""
+  },
+  {
+   "category": "미번역 명작 (일본)",
+   "title": "刀と傘 明治京洛推理帖",
+   "original": "刀と傘 明治京洛推理帖",
+   "author": "이부키 아몬",
+   "author_orig": "伊吹亜門",
+   "lang": "ja",
+   "awards": "本格ミステリ大賞 2019 수상 · ミステリが読みたい! 2020 1위 · 本格ミステリ・ベスト10 2020 4위 · このミステリーがすごい! 2020 5위 · 週刊文春ミステリーベスト10 2019 10위",
+   "summary": "本格ミステリ大賞 2019 수상 외 4건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 57.7,
+   "id": "mystery-mix-33",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%E5%88%80%E3%81%A8%E5%82%98%20%E6%98%8E%E6%B2%BB%E4%BA%AC%E6%B4%9B%E6%8E%A8%E7%90%86%E5%B8%96"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%E5%88%80%E3%81%A8%E5%82%98%20%E6%98%8E%E6%B2%BB%E4%BA%AC%E6%B4%9B%E6%8E%A8%E7%90%86%E5%B8%96"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E5%88%80%E3%81%A8%E5%82%98%20%E6%98%8E%E6%B2%BB%E4%BA%AC%E6%B4%9B%E6%8E%A8%E7%90%86%E5%B8%96"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E5%88%80%E3%81%A8%E5%82%98%20%E6%98%8E%E6%B2%BB%E4%BA%AC%E6%B4%9B%E6%8E%A8%E7%90%86%E5%B8%96",
+     "sheet": ""
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": ""
+  },
+  {
+   "category": "미번역 명작 (일본)",
+   "title": "たかが殺人じゃないか 昭和24年の推理小説",
+   "original": "たかが殺人じゃないか 昭和24年の推理小説",
+   "author": "쓰지 마사키",
+   "author_orig": "辻真先",
+   "lang": "ja",
+   "awards": "このミステリーがすごい! 2021 1위 · 週刊文春ミステリーベスト10 2020 1위 · 本格ミステリ・ベスト10 2021 4위 · 本格ミステリ大賞 2021 후보",
+   "summary": "このミステリーがすごい! 2021 1위 외 3건에 오른 작품.",
+   "grq": "",
+   "note": "",
+   "score": 55.9,
+   "id": "mystery-mix-34",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%E3%81%9F%E3%81%8B%E3%81%8C%E6%AE%BA%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%20%E6%98%AD%E5%92%8C24%E5%B9%B4%E3%81%AE%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%E3%81%9F%E3%81%8B%E3%81%8C%E6%AE%BA%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%20%E6%98%AD%E5%92%8C24%E5%B9%B4%E3%81%AE%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%E3%81%9F%E3%81%8B%E3%81%8C%E6%AE%BA%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%20%E6%98%AD%E5%92%8C24%E5%B9%B4%E3%81%AE%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%E3%81%9F%E3%81%8B%E3%81%8C%E6%AE%BA%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%20%E6%98%AD%E5%92%8C24%E5%B9%B4%E3%81%AE%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AC",
+     "sheet": ""
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": ""
+  },
+  {
+   "category": "미번역 명작 (영미권)",
+   "title": "Spook Street",
+   "original": "Spook Street",
+   "author": "Mick Herron",
+   "author_orig": "Mick Herron",
+   "lang": "en",
+   "awards": "CWA Ian Fleming Steel Dagger 2017 수상 · CWA Gold Dagger 2017 후보",
+   "summary": "CWA Ian Fleming Steel Dagger 2017 수상 외 1건에 오른 작품.",
+   "grq": "Spook Street",
+   "note": "",
+   "score": 43.8,
+   "id": "mystery-mix-35",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Spook%20Street"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Spook%20Street"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Spook%20Street"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/38148238",
+     "matched": "Spook Street",
+     "rating": 0,
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Spook Street",
+    "author": "Mick Herron",
+    "rating": 4.42,
+    "count": 38747,
+    "work": "50757874",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674412726i/83745917._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/83745917-spook-street"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://image.yes24.com/goods/38148238/L"
+  },
+  {
+   "category": "미번역 명작 (영미권)",
+   "title": "We Begin at the End",
+   "original": "We Begin at the End",
+   "author": "Chris Whitaker",
+   "author_orig": "Chris Whitaker",
+   "lang": "en",
+   "awards": "CWA Gold Dagger 2021 수상 · CWA Ian Fleming Steel Dagger 2021 후보",
+   "summary": "CWA Gold Dagger 2021 수상 외 1건에 오른 작품.",
+   "grq": "We Begin at the End",
+   "note": "",
+   "score": 43.8,
+   "id": "mystery-mix-36",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/We%20Begin%20at%20the%20End"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=We%20Begin%20at%20the%20End"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=We%20Begin%20at%20the%20End"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/117084794",
+     "matched": "We Begin at the End",
+     "rating": 0,
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "We Begin at the End",
+    "author": "Chris  Whitaker",
+    "rating": 4.17,
+    "count": 199004,
+    "work": "72270070",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603742175i/50279680._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/50279680-we-begin-at-the-end"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://image.yes24.com/goods/117084794/L"
+  },
+  {
+   "category": "미번역 명작 (영미권)",
+   "title": "Like a Sister",
+   "original": "Like a Sister",
+   "author": "Kellye Garrett",
+   "author_orig": "Kellye Garrett",
+   "lang": "en",
+   "awards": "Anthony Award 2023 수상 · Edgar Award 2023 후보",
+   "summary": "Anthony Award 2023 수상 외 1건에 오른 작품.",
+   "grq": "Like a Sister",
+   "note": "",
+   "score": 37.5,
+   "id": "mystery-mix-37",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Like%20a%20Sister"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Like%20a%20Sister"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Like%20a%20Sister"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/33429443",
+     "matched": "Like A Sister",
+     "rating": 0,
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Like a Sister",
+    "author": "Kellye Garrett",
+    "rating": 3.24,
+    "count": 14537,
+    "work": "90170685",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623356533i/58310680._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/58310680-like-a-sister"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://image.yes24.com/goods/33429443/L"
+  },
+  {
+   "category": "미번역 명작 (영미권)",
+   "title": "Agent Seventeen",
+   "original": "Agent Seventeen",
+   "author": "John Brownlow",
+   "author_orig": "John Brownlow",
+   "lang": "en",
+   "awards": "CWA Ian Fleming Steel Dagger 2023 수상",
+   "summary": "CWA Ian Fleming Steel Dagger 2023 수상.",
+   "grq": "Agent Seventeen",
+   "note": "",
+   "score": 31.2,
+   "id": "mystery-mix-38",
+   "list": "미스터리·스릴러 — 영미권 + 일본 2016~2026년 상위 38선",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Agent%20Seventeen"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Agent%20Seventeen"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Agent%20Seventeen"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Agent%20Seventeen",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Agent Seventeen",
+    "author": "John Brownlow",
+    "rating": 4.0,
+    "count": 3769,
+    "work": "92948929",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695164671i/127975734._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/127975734-agent-seventeen"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695164671i/127975734._SX240_.jpg"
+  }
+ ]
+}

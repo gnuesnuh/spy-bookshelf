@@ -246,6 +246,9 @@ def find_korean_edition(book):
     if matching.is_ja(book["original"]):   # 일본어 원제: 일본어 제목·저자로 찾는다
         item, how, _ = matching.find_korean_ja(book["original"], book.get("author_orig") or book["author"])
         return item, how
+    if book.get("lang") == "en" and book.get("author_orig"):   # 소스 캐시에서 온 책: 영어 저자명으로 찾는다
+        item, how, _ = matching.find_korean_en(book["original"], book["author_orig"])
+        return item, how
     return matching.find_korean(book["original"], book["author"])
 
 
@@ -434,6 +437,9 @@ def enrich(b):
     stores, cand = check(b)
     b["stores"] = stores
     gr = cand["goodreads"]
+    if b.get("lang") == "en" and b.get("author_orig"):   # 소스 캐시에서 온 책: 저자 성이 맞는 결과만 쓴다(동명 도서 방지)
+        last = matching.en(b["author_orig"].split()[-1])
+        gr = [g for g in gr if last and last in matching.en(g["author"])]
     pick = GR_PICK.get(b.get("title"), {}).get("i", 0)
     b["goodreads"] = gr[pick] if pick is not None and len(gr) > pick else None
     k = cand.pop("korean")

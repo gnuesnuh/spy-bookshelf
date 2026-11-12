@@ -422,3 +422,48 @@ def find_korean_ja(title, author_ja, author_info=None):
 
 def norm_ko(s):
     return re.sub("[^0-9a-z가-힣]", "", (s or "").lower())
+
+
+def find_korean_en(title, author_en):
+    """영어 원제+영어 저자명 → (국내판 YES24 상품 또는 None, 근거, 한국어 저자명 또는 None).
+
+    소스 캐시(어워드 표)에는 한글 저자명이 없으므로, YES24 가 원제로도 검색되는 점을 쓴다.
+    originalTitle 이 원제와 맞고, 번역서이며, 저자 성의 음역 골격이 어긋나지 않아야 인정한다.
+    """
+    o = en(title)
+    main = en(re.split(r"[:(]", title)[0])          # 부제 앞의 본 제목
+    last = author_en.split()[-1] if author_en.split() else author_en
+    a_sk = skel(re.sub("[^a-z]", "", last.lower()))
+    seen, failed = {}, False
+    for q in dict.fromkeys([re.split(r"[:(]", title)[0].strip(), title, re.split(r"[:(]", title)[0].strip() + " " + last]):
+        rows = search(q, 1)
+        if rows is None:
+            failed = True
+            continue
+        for i in rows:
+            ot = en(i.get("originalTitle"))
+            if not ot or not re.search("[가-힣]", i.get("title") or "") or "역" not in (i.get("author") or ""):
+                continue
+            ot_main = en(re.split(r"[:(]", i.get("originalTitle") or "")[0])
+            ok = (ot == o or (len(main) >= 5 and ot_main == main) or (min(len(ot), len(o)) >= 10 and (ot in o or o in ot))
+                  or (len(o) >= 8 and difflib.SequenceMatcher(None, ot, o).ratio() >= 0.88))
+            if not ok:
+                continue
+            b_sk = skel(roman(korean_author_of(i).split()[-1])) if korean_author_of(i) else ""
+            if len(a_sk) >= 2 and (len(b_sk) < 2 or difflib.SequenceMatcher(None, a_sk, b_sk).ratio() < 0.5):
+                continue   # 제목만 같은 다른 저자의 책
+            seen[i["itemId"]] = i
+        if seen:
+            break
+
+    def rank(i):
+        tt = i.get("title") or ""
+        vol = re.search("(\\d+)\\s*권?\\s*$", tt)
+        return (not any(w in tt for w in SKIP), "판매중" in (i.get("itemStatus") or ""),
+                -int(vol.group(1)) if vol else 0, i.get("salePoint") or 0)
+
+    if seen:
+        best = max(seen.values(), key=rank)
+        return best, "원제 일치", korean_author_of(best)
+    return None, ("확인 불가" if failed else "못 찾음"), None
+

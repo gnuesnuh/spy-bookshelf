@@ -1,0 +1,3323 @@
+[
+ {
+  "source": "edgar",
+  "year": 1954,
+  "rank": null,
+  "result": "win",
+  "title": "Beat Not the Bones",
+  "author": "Charlotte Jay",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1955,
+  "rank": null,
+  "result": "win",
+  "title": "The Long Goodbye",
+  "author": "Raymond Chandler",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1956,
+  "rank": null,
+  "result": "win",
+  "title": "Beast in View",
+  "author": "Margaret Millar",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1956,
+  "rank": null,
+  "result": "nom",
+  "title": "The Case of the Talking Bug",
+  "author": "The Gordons",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1956,
+  "rank": null,
+  "result": "nom",
+  "title": "The Talented Mr. Ripley",
+  "author": "Patricia Highsmith",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1957,
+  "rank": null,
+  "result": "win",
+  "title": "A Dram of Poison",
+  "author": "Charlotte Armstrong",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1957,
+  "rank": null,
+  "result": "nom",
+  "title": "The Man Who Didn't Fly",
+  "author": "Margot Bennett",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1957,
+  "rank": null,
+  "result": "nom",
+  "title": "Night Fell on Georgia",
+  "author": "Charles Samuels and Louise Samuels",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1958,
+  "rank": null,
+  "result": "win",
+  "title": "Room to Swing",
+  "author": "Ed Lacy",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1958,
+  "rank": null,
+  "result": "nom",
+  "title": "The Longest Second",
+  "author": "Bill Ballinger",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1958,
+  "rank": null,
+  "result": "nom",
+  "title": "The Night of the Good Children",
+  "author": "Marjorie Carleton",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1958,
+  "rank": null,
+  "result": "nom",
+  "title": "The Bushman Who Came Back",
+  "author": "Arthur Upfield",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1959,
+  "rank": null,
+  "result": "win",
+  "title": "The Eighth Circle",
+  "author": "Stanley Ellin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1959,
+  "rank": null,
+  "result": "nom",
+  "title": "The Madhouse in Washington Square",
+  "author": "David Alexander",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1959,
+  "rank": null,
+  "result": "nom",
+  "title": "The Woman in the Woods (Miss Fenny as Charity Blackstock)",
+  "author": "Lee Blackstock",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1959,
+  "rank": null,
+  "result": "nom",
+  "title": "A Gentleman Called",
+  "author": "Dorothy Salisbury Davis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1960,
+  "rank": null,
+  "result": "win",
+  "title": "The Hours Before Dawn",
+  "author": "Celia Fremlin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1960,
+  "rank": null,
+  "result": "nom",
+  "title": "The List of Adrian Messenger",
+  "author": "Philip MacDonald",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1961,
+  "rank": null,
+  "result": "win",
+  "title": "The Progress of a Crime",
+  "author": "Julian Symons",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1961,
+  "rank": null,
+  "result": "nom",
+  "title": "The Traces of Brillhart",
+  "author": "Herbert Brean",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1961,
+  "rank": null,
+  "result": "nom",
+  "title": "The Devil's Own",
+  "author": "Peter Curtis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1961,
+  "rank": null,
+  "result": "nom",
+  "title": "Watcher in the Shadows",
+  "author": "Geoffrey Household",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1962,
+  "rank": null,
+  "result": "win",
+  "title": "Gideon's Fire",
+  "author": "J. J. Marric",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1962,
+  "rank": null,
+  "result": "nom",
+  "title": "Nightmare",
+  "author": "Anne Blaisdell",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1962,
+  "rank": null,
+  "result": "nom",
+  "title": "The Green Stone",
+  "author": "Suzanne Blanc",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1962,
+  "rank": null,
+  "result": "nom",
+  "title": "The Night of Wenceslas",
+  "author": "Lionel Davidson",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1962,
+  "rank": null,
+  "result": "nom",
+  "title": "The Wycherly Woman",
+  "author": "Ross Macdonald",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1963,
+  "rank": null,
+  "result": "win",
+  "title": "Death and the Joyful Woman",
+  "author": "Ellis Peters",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1963,
+  "rank": null,
+  "result": "nom",
+  "title": "The Zebra-Striped Hearse",
+  "author": "Ross Macdonald",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1963,
+  "rank": null,
+  "result": "nom",
+  "title": "Seance",
+  "author": "Mark McShane",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1963,
+  "rank": null,
+  "result": "nom",
+  "title": "The Evil Wish",
+  "author": "Jean Potts",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1963,
+  "rank": null,
+  "result": "nom",
+  "title": "Knave of Hearts",
+  "author": "Dell Shannon",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1963,
+  "rank": null,
+  "result": "nom",
+  "title": "The Ballad of the Running Man",
+  "author": "Shelley Smith",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1964,
+  "rank": null,
+  "result": "win",
+  "title": "The Light of Day",
+  "author": "Eric Ambler",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1964,
+  "rank": null,
+  "result": "nom",
+  "title": "The Make-Believe Man",
+  "author": "Elizabeth Fenwick",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1964,
+  "rank": null,
+  "result": "nom",
+  "title": "Grieve for the Past",
+  "author": "Stanton Forbes",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1964,
+  "rank": null,
+  "result": "nom",
+  "title": "The Expendable Man",
+  "author": "Dorothy B. Hughes",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1964,
+  "rank": null,
+  "result": "nom",
+  "title": "The Player on the Other Side",
+  "author": "Ellery Queen",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1965,
+  "rank": null,
+  "result": "win",
+  "title": "The Spy Who Came in from the Cold",
+  "author": "John le Carré",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1965,
+  "rank": null,
+  "result": "nom",
+  "title": "The Night of the Generals",
+  "author": "Hans Hellmut Kirst",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1965,
+  "rank": null,
+  "result": "nom",
+  "title": "The Fiend",
+  "author": "Margaret Millar",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1965,
+  "rank": null,
+  "result": "nom",
+  "title": "This Rough Magic",
+  "author": "Mary Stewart",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1966,
+  "rank": null,
+  "result": "win",
+  "title": "The Quiller Memorandum",
+  "author": "Adam Hall",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1966,
+  "rank": null,
+  "result": "nom",
+  "title": "The Pale Betrayer",
+  "author": "Dorothy Salisbury Davis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1966,
+  "rank": null,
+  "result": "nom",
+  "title": "Funeral in Berlin",
+  "author": "Len Deighton",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1966,
+  "rank": null,
+  "result": "nom",
+  "title": "The Perfect Murder",
+  "author": "H. R. F. Keating",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1966,
+  "rank": null,
+  "result": "nom",
+  "title": "The Far Side of the Dollar",
+  "author": "Ross Macdonald",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1966,
+  "rank": null,
+  "result": "nom",
+  "title": "Airs Above the Ground",
+  "author": "Mary Stewart",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1967,
+  "rank": null,
+  "result": "win",
+  "title": "King of the Rainy Country",
+  "author": "Nicolas Freeling",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1967,
+  "rank": null,
+  "result": "nom",
+  "title": "Odds Against",
+  "author": "Dick Francis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1967,
+  "rank": null,
+  "result": "nom",
+  "title": "Killer Dolphin",
+  "author": "Ngaio Marsh",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1967,
+  "rank": null,
+  "result": "nom",
+  "title": "The Busy Body",
+  "author": "Donald E. Westlake",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1968,
+  "rank": null,
+  "result": "win",
+  "title": "God Save the Mark",
+  "author": "Donald E. Westlake",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1968,
+  "rank": null,
+  "result": "nom",
+  "title": "The Gift Shop",
+  "author": "Charlotte Armstrong",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1968,
+  "rank": null,
+  "result": "nom",
+  "title": "Lemon in the Basket",
+  "author": "Charlotte Armstrong",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1968,
+  "rank": null,
+  "result": "nom",
+  "title": "A Parade of Cockeyed Creatures",
+  "author": "George Baxt",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1968,
+  "rank": null,
+  "result": "nom",
+  "title": "Flying Finish",
+  "author": "Dick Francis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1968,
+  "rank": null,
+  "result": "nom",
+  "title": "Rosemary's Baby",
+  "author": "Ira Levin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1968,
+  "rank": null,
+  "result": "nom",
+  "title": "A Private Disgrace",
+  "author": "Victoria Lincoln",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1969,
+  "rank": null,
+  "result": "win",
+  "title": "A Case of Need",
+  "author": "Michael Crichton",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1969,
+  "rank": null,
+  "result": "nom",
+  "title": "Picture Miss Seeton",
+  "author": "Heron Carvic",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1969,
+  "rank": null,
+  "result": "nom",
+  "title": "God Speed the Night",
+  "author": "Dorothy Salisbury Davis and Jerome Ross",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1969,
+  "rank": null,
+  "result": "nom",
+  "title": "A Glass-Sided Ants' Nest",
+  "author": "Peter Dickinson",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1969,
+  "rank": null,
+  "result": "nom",
+  "title": "The Valentine Estate",
+  "author": "Stanley Ellin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1969,
+  "rank": null,
+  "result": "nom",
+  "title": "Blood Sport",
+  "author": "Dick Francis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1970,
+  "rank": null,
+  "result": "win",
+  "title": "Forfeit",
+  "author": "Dick Francis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1970,
+  "rank": null,
+  "result": "nom",
+  "title": "Where the Dark Streets Go",
+  "author": "Dorothy Salisbury Davis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1970,
+  "rank": null,
+  "result": "nom",
+  "title": "The Old English Peep Show",
+  "author": "Peter Dickinson",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1970,
+  "rank": null,
+  "result": "nom",
+  "title": "Miro",
+  "author": "Shaun Herron",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1970,
+  "rank": null,
+  "result": "nom",
+  "title": "Blind Man with a Pistol",
+  "author": "Chester Himes",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1970,
+  "rank": null,
+  "result": "nom",
+  "title": "When in Greece",
+  "author": "Emma Lathen",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1971,
+  "rank": null,
+  "result": "win",
+  "title": "The Laughing Policeman",
+  "author": "Maj Sjöwall and Per Wahlöö",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1971,
+  "rank": null,
+  "result": "nom",
+  "title": "The Hound and the Fox and the Harper",
+  "author": "Shaun Herron",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1971,
+  "rank": null,
+  "result": "nom",
+  "title": "Beyond this Point Are Monsters",
+  "author": "Margaret Millar",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1971,
+  "rank": null,
+  "result": "nom",
+  "title": "Many Deadly Returns",
+  "author": "Patricia Moyes",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1971,
+  "rank": null,
+  "result": "nom",
+  "title": "Autumn of a Hunter",
+  "author": "Pat Stadley",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1971,
+  "rank": null,
+  "result": "nom",
+  "title": "The Hot Rock",
+  "author": "Donald E. Westlake",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1972,
+  "rank": null,
+  "result": "win",
+  "title": "The Day of the Jackal",
+  "author": "Frederick Forsyth",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1972,
+  "rank": null,
+  "result": "nom",
+  "title": "Sir, You Bastard",
+  "author": "G. F. Newman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1972,
+  "rank": null,
+  "result": "nom",
+  "title": "The Fly on the Wall",
+  "author": "Tony Hillerman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1972,
+  "rank": null,
+  "result": "nom",
+  "title": "Shroud for a Nightingale",
+  "author": "P. D. James",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1972,
+  "rank": null,
+  "result": "nom",
+  "title": "Who Killed Enoch Powell?",
+  "author": "Arthur Wise",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1973,
+  "rank": null,
+  "result": "win",
+  "title": "The Lingala Code",
+  "author": "Warren Kiefer",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1973,
+  "rank": null,
+  "result": "nom",
+  "title": "Five Pieces of Jade",
+  "author": "John Ball",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1973,
+  "rank": null,
+  "result": "nom",
+  "title": "Tied Up in Tinsel",
+  "author": "Ngaio Marsh",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1973,
+  "rank": null,
+  "result": "nom",
+  "title": "The Shooting Gallery",
+  "author": "Hugh C. Rae",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1973,
+  "rank": null,
+  "result": "nom",
+  "title": "Canto for a Gypsy",
+  "author": "Martin Cruz Smith",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1974,
+  "rank": null,
+  "result": "win",
+  "title": "Dance Hall of the Dead",
+  "author": "Tony Hillerman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1974,
+  "rank": null,
+  "result": "nom",
+  "title": "The Rainbird Pattern",
+  "author": "Victor Canning",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1974,
+  "rank": null,
+  "result": "nom",
+  "title": "Amigo, Amigo",
+  "author": "Francis Clifford",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1974,
+  "rank": null,
+  "result": "nom",
+  "title": "An Unsuitable Job for a Woman",
+  "author": "P. D. James",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1974,
+  "rank": null,
+  "result": "nom",
+  "title": "Dear Laura",
+  "author": "Jean Stubbs",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1975,
+  "rank": null,
+  "result": "win",
+  "title": "Peter's Pence",
+  "author": "Jon Cleary",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1975,
+  "rank": null,
+  "result": "nom",
+  "title": "The Man Who Loved Zoos",
+  "author": "Malcolm Bosse",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1975,
+  "rank": null,
+  "result": "nom",
+  "title": "Goodbye and Amen",
+  "author": "Francis Clifford",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1975,
+  "rank": null,
+  "result": "nom",
+  "title": "The Silver Bears",
+  "author": "Paul Erdman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1975,
+  "rank": null,
+  "result": "nom",
+  "title": "The Lester Affair",
+  "author": "Andrew Garve",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1976,
+  "rank": null,
+  "result": "win",
+  "title": "Hopscotch",
+  "author": "Brian Garfield",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1976,
+  "rank": null,
+  "result": "nom",
+  "title": "The Gargoyle Conspiracy",
+  "author": "Marvin Albert",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1976,
+  "rank": null,
+  "result": "nom",
+  "title": "Operation Alcestic",
+  "author": "Maggie Rennert",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1976,
+  "rank": null,
+  "result": "nom",
+  "title": "Harry's Game",
+  "author": "Gerald Seymour",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1976,
+  "rank": null,
+  "result": "nom",
+  "title": "The Money Harvest",
+  "author": "Ross Thomas",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1977,
+  "rank": null,
+  "result": "win",
+  "title": "Promised Land",
+  "author": "Robert B. Parker",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1977,
+  "rank": null,
+  "result": "nom",
+  "title": "The Cavanaugh Quest",
+  "author": "Thomas Gifford",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1977,
+  "rank": null,
+  "result": "nom",
+  "title": "A Madness of the Heart",
+  "author": "Richard Neely",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1977,
+  "rank": null,
+  "result": "nom",
+  "title": "The Glory Boys",
+  "author": "Gerald Seymour",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1977,
+  "rank": null,
+  "result": "nom",
+  "title": "The Main",
+  "author": "Trevanian",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1978,
+  "rank": null,
+  "result": "win",
+  "title": "Catch Me: Kill Me",
+  "author": "William H. Hallahan",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1978,
+  "rank": null,
+  "result": "nom",
+  "title": "Laidlaw",
+  "author": "William McIlvanney",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1978,
+  "rank": null,
+  "result": "nom",
+  "title": "Nightwing",
+  "author": "Martin Cruz Smith",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1979,
+  "rank": null,
+  "result": "win",
+  "title": "Eye of the Needle",
+  "author": "Ken Follett",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1979,
+  "rank": null,
+  "result": "nom",
+  "title": "The Snake",
+  "author": "John Godey",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1979,
+  "rank": null,
+  "result": "nom",
+  "title": "Listening Woman",
+  "author": "Tony Hillerman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1979,
+  "rank": null,
+  "result": "nom",
+  "title": "A Sleeping Life",
+  "author": "Ruth Rendell",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1979,
+  "rank": null,
+  "result": "nom",
+  "title": "The Shallow Grave",
+  "author": "Jack S. Scott",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1980,
+  "rank": null,
+  "result": "win",
+  "title": "The Rheingold Route",
+  "author": "Arthur Maling",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1980,
+  "rank": null,
+  "result": "nom",
+  "title": "Death of a Mystery Writer",
+  "author": "Robert Barnard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1980,
+  "rank": null,
+  "result": "nom",
+  "title": "Fire in the Barley",
+  "author": "Frank Parrish",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1980,
+  "rank": null,
+  "result": "nom",
+  "title": "Make Death Love Me",
+  "author": "Ruth Rendell",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1980,
+  "rank": null,
+  "result": "nom",
+  "title": "A Coat of Varnish",
+  "author": "C. P. Snow",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1981,
+  "rank": null,
+  "result": "win",
+  "title": "Whip Hand",
+  "author": "Dick Francis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1981,
+  "rank": null,
+  "result": "nom",
+  "title": "Death of a Literary Widow",
+  "author": "Robert Barnard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1981,
+  "rank": null,
+  "result": "nom",
+  "title": "Death Drop",
+  "author": "B. M. Gill",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1981,
+  "rank": null,
+  "result": "nom",
+  "title": "The Spy's Wife",
+  "author": "Reginald Hill",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1981,
+  "rank": null,
+  "result": "nom",
+  "title": "Man on Fire",
+  "author": "A. J. Quinnell",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1982,
+  "rank": null,
+  "result": "win",
+  "title": "Peregrine",
+  "author": "William Bayer",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1982,
+  "rank": null,
+  "result": "nom",
+  "title": "The Other Side of Silence",
+  "author": "Ted Allbeury",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1982,
+  "rank": null,
+  "result": "nom",
+  "title": "Death in a Cold Climate",
+  "author": "Robert Barnard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1982,
+  "rank": null,
+  "result": "nom",
+  "title": "Dupe",
+  "author": "Liza Cody",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1982,
+  "rank": null,
+  "result": "nom",
+  "title": "The Amateur",
+  "author": "Robert Littell",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1982,
+  "rank": null,
+  "result": "nom",
+  "title": "Bogmail",
+  "author": "Patrick McGinley",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1983,
+  "rank": null,
+  "result": "win",
+  "title": "Billingsgate Shoal",
+  "author": "Rick Boyer",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1983,
+  "rank": null,
+  "result": "nom",
+  "title": "Eight Million Ways To Die",
+  "author": "Lawrence Block",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1983,
+  "rank": null,
+  "result": "nom",
+  "title": "Split Images",
+  "author": "Elmore Leonard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1983,
+  "rank": null,
+  "result": "nom",
+  "title": "The Captain",
+  "author": "Seymour Shubin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1983,
+  "rank": null,
+  "result": "nom",
+  "title": "Kahawa",
+  "author": "Donald E. Westlake",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1984,
+  "rank": null,
+  "result": "win",
+  "title": "La Brava",
+  "author": "Elmore Leonard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1984,
+  "rank": null,
+  "result": "nom",
+  "title": "The Name of the Rose",
+  "author": "Umberto Eco",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1984,
+  "rank": null,
+  "result": "nom",
+  "title": "The Little Drummer Girl",
+  "author": "John Le Carré",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1984,
+  "rank": null,
+  "result": "nom",
+  "title": "Texas Station",
+  "author": "Christopher Leach",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1984,
+  "rank": null,
+  "result": "nom",
+  "title": "The Papers of Tony Veitch",
+  "author": "William McIlvanney",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1985,
+  "rank": null,
+  "result": "win",
+  "title": "Briarpatch",
+  "author": "Ross Thomas",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1985,
+  "rank": null,
+  "result": "nom",
+  "title": "The Black Seraphim",
+  "author": "Michael Gilbert",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1985,
+  "rank": null,
+  "result": "nom",
+  "title": "The Twelfth Juror",
+  "author": "B. M. Gill",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1985,
+  "rank": null,
+  "result": "nom",
+  "title": "Emily Dickinson Is Dead",
+  "author": "Jane Langton",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1985,
+  "rank": null,
+  "result": "nom",
+  "title": "Chessplayer",
+  "author": "William Pearson",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1986,
+  "rank": null,
+  "result": "win",
+  "title": "The Suspect",
+  "author": "L. R. Wright",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1986,
+  "rank": null,
+  "result": "nom",
+  "title": "City of Glass: The New York Trilogy",
+  "author": "Paul Auster",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1986,
+  "rank": null,
+  "result": "nom",
+  "title": "A Shock to the System",
+  "author": "Simon Brett",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1986,
+  "rank": null,
+  "result": "nom",
+  "title": "An Unkindness of Ravens",
+  "author": "Ruth Rendell",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1986,
+  "rank": null,
+  "result": "nom",
+  "title": "The Tree of Hands",
+  "author": "Ruth Rendell",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1987,
+  "rank": null,
+  "result": "win",
+  "title": "A Dark-Adapted Eye",
+  "author": "Barbara Vine",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1987,
+  "rank": null,
+  "result": "nom",
+  "title": "The Blind Run^",
+  "author": "Brian Freemantle",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1987,
+  "rank": null,
+  "result": "nom",
+  "title": "Come Morning",
+  "author": "Joe Gores",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1987,
+  "rank": null,
+  "result": "nom",
+  "title": "A Taste for Death",
+  "author": "P. D. James",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1987,
+  "rank": null,
+  "result": "nom",
+  "title": "The Straight Man",
+  "author": "Roger L. Simon",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1988,
+  "rank": null,
+  "result": "win",
+  "title": "Old Bones",
+  "author": "Aaron Elkins",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1988,
+  "rank": null,
+  "result": "nom",
+  "title": "A Trouble of Fools",
+  "author": "Linda Barnes",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1988,
+  "rank": null,
+  "result": "nom",
+  "title": "Nursery Crimes",
+  "author": "B. M. Gill",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1988,
+  "rank": null,
+  "result": "nom",
+  "title": "Rough Cider",
+  "author": "Peter Lovesey",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1988,
+  "rank": null,
+  "result": "nom",
+  "title": "The Corpse in Oozak's Pond",
+  "author": "Charlotte MacLeod",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1989,
+  "rank": null,
+  "result": "win",
+  "title": "A Cold Red Sunrise",
+  "author": "Stuart M. Kaminsky",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1989,
+  "rank": null,
+  "result": "nom",
+  "title": "Joey's Case",
+  "author": "K. C. Constantine",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1989,
+  "rank": null,
+  "result": "nom",
+  "title": "Sacrificial Ground",
+  "author": "Thomas H. Cook",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1989,
+  "rank": null,
+  "result": "nom",
+  "title": "A Thief of Time",
+  "author": "Tony Hillerman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1989,
+  "rank": null,
+  "result": "nom",
+  "title": "In the Lake of the Moon",
+  "author": "David L. Lindsey",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1990,
+  "rank": null,
+  "result": "win",
+  "title": "Black Cherry Blues",
+  "author": "James Lee Burke",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1990,
+  "rank": null,
+  "result": "nom",
+  "title": "A Question of Guilt",
+  "author": "Frances Fyfield",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1990,
+  "rank": null,
+  "result": "nom",
+  "title": "Death of a Joyce Scholar",
+  "author": "Bartholomew Gill",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1990,
+  "rank": null,
+  "result": "nom",
+  "title": "Goldilocks",
+  "author": "Andrew Coburn",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1990,
+  "rank": null,
+  "result": "nom",
+  "title": "The Booster",
+  "author": "Eugene Izzi",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1991,
+  "rank": null,
+  "result": "win",
+  "title": "New Orleans Mourning",
+  "author": "Julie Smith",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1991,
+  "rank": null,
+  "result": "nom",
+  "title": "Bones and Silence",
+  "author": "Reginald Hill",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1991,
+  "rank": null,
+  "result": "nom",
+  "title": "Deadfall In Berlin",
+  "author": "R.D. Zimmerman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1991,
+  "rank": null,
+  "result": "nom",
+  "title": "Fade the Heat",
+  "author": "Jay Brandon",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1991,
+  "rank": null,
+  "result": "nom",
+  "title": "Whiskey River",
+  "author": "Loren Estleman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1992,
+  "rank": null,
+  "result": "win",
+  "title": "A Dance at the Slaughterhouse",
+  "author": "Lawrence Block",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1992,
+  "rank": null,
+  "result": "nom",
+  "title": "Don't Say a Word",
+  "author": "Andrew Klavan",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1992,
+  "rank": null,
+  "result": "nom",
+  "title": "I.O.U.",
+  "author": "Nancy Pickard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1992,
+  "rank": null,
+  "result": "nom",
+  "title": "Palindrome",
+  "author": "Stuart Woods",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1992,
+  "rank": null,
+  "result": "nom",
+  "title": "Prior Convictions",
+  "author": "Lia Matera",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1993,
+  "rank": null,
+  "result": "win",
+  "title": "Bootlegger's Daughter",
+  "author": "Margaret Maron",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1993,
+  "rank": null,
+  "result": "nom",
+  "title": "32 Cadillacs",
+  "author": "Joe Gores",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1993,
+  "rank": null,
+  "result": "nom",
+  "title": "Backhand",
+  "author": "Liza Cody",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1993,
+  "rank": null,
+  "result": "nom",
+  "title": "Pomona Queen",
+  "author": "Kem Nunn",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1993,
+  "rank": null,
+  "result": "nom",
+  "title": "White Butterfly",
+  "author": "Walter Mosley",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1994,
+  "rank": null,
+  "result": "win",
+  "title": "The Sculptress",
+  "author": "Minette Walters",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1994,
+  "rank": null,
+  "result": "nom",
+  "title": "Free Fall",
+  "author": "Robert Crais",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1994,
+  "rank": null,
+  "result": "nom",
+  "title": "Smilla's Sense Of Snow",
+  "author": "Peter Hoeg",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1994,
+  "rank": null,
+  "result": "nom",
+  "title": "The Journeyman Tailor",
+  "author": "Gerald Seymour",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1994,
+  "rank": null,
+  "result": "nom",
+  "title": "Wolf in the Shadows",
+  "author": "Marcia Muller",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1995,
+  "rank": null,
+  "result": "win",
+  "title": "The Red Scream",
+  "author": "Mary Willis Walker",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1995,
+  "rank": null,
+  "result": "nom",
+  "title": "A Long Line of Dead Men",
+  "author": "Lawrence Block",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1995,
+  "rank": null,
+  "result": "nom",
+  "title": "Lights Out",
+  "author": "Peter Abrahams",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1995,
+  "rank": null,
+  "result": "nom",
+  "title": "Miami, It's Murder",
+  "author": "Edna Buchanan",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1995,
+  "rank": null,
+  "result": "nom",
+  "title": "Wednesday's Child",
+  "author": "Peter Robinson",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1996,
+  "rank": null,
+  "result": "win",
+  "title": "Come to Grief",
+  "author": "Dick Francis",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1996,
+  "rank": null,
+  "result": "nom",
+  "title": "The Bookman's Wake",
+  "author": "John Dunning",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1996,
+  "rank": null,
+  "result": "nom",
+  "title": "The Roaring Boy",
+  "author": "Edward Marston",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1996,
+  "rank": null,
+  "result": "nom",
+  "title": "The Shadow Man",
+  "author": "John Katzenbach",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1996,
+  "rank": null,
+  "result": "nom",
+  "title": "The Summons",
+  "author": "Peter Lovesey",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1997,
+  "rank": null,
+  "result": "win",
+  "title": "The Chatham School Affair",
+  "author": "Thomas H. Cook",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1997,
+  "rank": null,
+  "result": "nom",
+  "title": "Hearts and Bones",
+  "author": "Margaret Lawrence",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1997,
+  "rank": null,
+  "result": "nom",
+  "title": "Mean Streak",
+  "author": "Carolyn Wheat",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1997,
+  "rank": null,
+  "result": "nom",
+  "title": "Pentecost Alley",
+  "author": "Anne Perry",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1997,
+  "rank": null,
+  "result": "nom",
+  "title": "With Child",
+  "author": "Laurie R. King",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1998,
+  "rank": null,
+  "result": "win",
+  "title": "Cimarron Rose",
+  "author": "James Lee Burke",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1998,
+  "rank": null,
+  "result": "nom",
+  "title": "A Wasteland of Strangers",
+  "author": "Bill Pronzini",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1998,
+  "rank": null,
+  "result": "nom",
+  "title": "Black and Blue",
+  "author": "Ian Rankin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1998,
+  "rank": null,
+  "result": "nom",
+  "title": "Dreaming of the Bones",
+  "author": "Deborah Crombie",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1998,
+  "rank": null,
+  "result": "nom",
+  "title": "The Purification Ceremony",
+  "author": "Mark T. Sullivan",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1999,
+  "rank": null,
+  "result": "win",
+  "title": "Mr. White's Confession",
+  "author": "Robert Clark",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1999,
+  "rank": null,
+  "result": "nom",
+  "title": "A Likeness in Stone",
+  "author": "J. Wallis Martin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1999,
+  "rank": null,
+  "result": "nom",
+  "title": "Beyond Recall",
+  "author": "Robert Goddard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1999,
+  "rank": null,
+  "result": "nom",
+  "title": "Blood Work",
+  "author": "Michael Connelly",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 1999,
+  "rank": null,
+  "result": "nom",
+  "title": "The Last Days of Il Duce",
+  "author": "Domenic Stansberry",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2000,
+  "rank": null,
+  "result": "win",
+  "title": "Bones",
+  "author": "Jan Burke",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2000,
+  "rank": null,
+  "result": "nom",
+  "title": "River of Darkness",
+  "author": "Rennie Airth",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2000,
+  "rank": null,
+  "result": "nom",
+  "title": "L.A. Requiem",
+  "author": "Robert Crais",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2000,
+  "rank": null,
+  "result": "nom",
+  "title": "Strawberry Sunday",
+  "author": "Stephen Greenleaf",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2000,
+  "rank": null,
+  "result": "nom",
+  "title": "In a Dry Season",
+  "author": "Peter Robinson",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2001,
+  "rank": null,
+  "result": "win",
+  "title": "The Bottoms",
+  "author": "Joe R. Lansdale",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2001,
+  "rank": null,
+  "result": "nom",
+  "title": "A Place of Execution",
+  "author": "Val McDermid",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2001,
+  "rank": null,
+  "result": "nom",
+  "title": "Red Light",
+  "author": "T. Jefferson Parker",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2001,
+  "rank": null,
+  "result": "nom",
+  "title": "The Whole Truth",
+  "author": "Nancy Pickard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2001,
+  "rank": null,
+  "result": "nom",
+  "title": "A Dangerous Road",
+  "author": "Kristine Kathryn Rusch",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2002,
+  "rank": null,
+  "result": "win",
+  "title": "Silent Joe",
+  "author": "T. Jefferson Parker",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2002,
+  "rank": null,
+  "result": "nom",
+  "title": "The Judgment",
+  "author": "D. W. Buffa",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2002,
+  "rank": null,
+  "result": "nom",
+  "title": "Tell No One",
+  "author": "Harlan Coben",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2002,
+  "rank": null,
+  "result": "nom",
+  "title": "Money, Money, Money",
+  "author": "Evan Hunter",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2002,
+  "rank": null,
+  "result": "nom",
+  "title": "Reflecting the Sky",
+  "author": "S. J. Rozan",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2003,
+  "rank": null,
+  "result": "win",
+  "title": "Winter and Night",
+  "author": "S. J. Rozan",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2003,
+  "rank": null,
+  "result": "nom",
+  "title": "Savannah Blues",
+  "author": "Mary Kay Andrews",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2003,
+  "rank": null,
+  "result": "nom",
+  "title": "Jolie Blon's Bounce",
+  "author": "James Lee Burke",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2003,
+  "rank": null,
+  "result": "nom",
+  "title": "City of Bones",
+  "author": "Michael Connelly",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2003,
+  "rank": null,
+  "result": "nom",
+  "title": "No Good Deed",
+  "author": "Manda Scott",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2004,
+  "rank": null,
+  "result": "win",
+  "title": "Resurrection Men",
+  "author": "Ian Rankin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2004,
+  "rank": null,
+  "result": "nom",
+  "title": "The Guards",
+  "author": "Ken Bruen",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2004,
+  "rank": null,
+  "result": "nom",
+  "title": "Lost Light",
+  "author": "Michael Connelly",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2004,
+  "rank": null,
+  "result": "nom",
+  "title": "Out",
+  "author": "Natsuo Kirino",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2004,
+  "rank": null,
+  "result": "nom",
+  "title": "Maisie Dobbs",
+  "author": "Jacqueline Winspear",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2005,
+  "rank": null,
+  "result": "win",
+  "title": "California Girl",
+  "author": "T. Jefferson Parker",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2005,
+  "rank": null,
+  "result": "nom",
+  "title": "By a Spider's Thread",
+  "author": "Laura Lippman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2005,
+  "rank": null,
+  "result": "nom",
+  "title": "Remembering Sarah",
+  "author": "Chris Mooney",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2005,
+  "rank": null,
+  "result": "nom",
+  "title": "Evan's Gate",
+  "author": "Janet Quin-Harkin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2005,
+  "rank": null,
+  "result": "nom",
+  "title": "Out of the Deep I Cry",
+  "author": "Julia Spencer-Fleming",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2006,
+  "rank": null,
+  "result": "win",
+  "title": "Citizen Vince",
+  "author": "Jess Walter",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2006,
+  "rank": null,
+  "result": "nom",
+  "title": "The Lincoln Lawyer",
+  "author": "Michael Connelly",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2006,
+  "rank": null,
+  "result": "nom",
+  "title": "Red Leaves",
+  "author": "Thomas H. Cook",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2006,
+  "rank": null,
+  "result": "nom",
+  "title": "Vanish",
+  "author": "Tess Gerritsen",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2006,
+  "rank": null,
+  "result": "nom",
+  "title": "Drama City",
+  "author": "George Pelecanos",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2007,
+  "rank": null,
+  "result": "win",
+  "title": "The Janissary Tree",
+  "author": "Jason Goodwin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2007,
+  "rank": null,
+  "result": "nom",
+  "title": "The Pale Blue Eye",
+  "author": "Louis Bayard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2007,
+  "rank": null,
+  "result": "nom",
+  "title": "Gentlemen & Players",
+  "author": "Joanne Harris",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2007,
+  "rank": null,
+  "result": "nom",
+  "title": "The Dead Hour: Time Only Matters When It's Running Out",
+  "author": "Denise Mina",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2007,
+  "rank": null,
+  "result": "nom",
+  "title": "The Virgin of Small Plains",
+  "author": "Nancy Pickard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2007,
+  "rank": null,
+  "result": "nom",
+  "title": "Liberation Movements",
+  "author": "Olen Steinhauer",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2008,
+  "rank": null,
+  "result": "win",
+  "title": "Down River",
+  "author": "John Hart",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2008,
+  "rank": null,
+  "result": "nom",
+  "title": "Christine Falls",
+  "author": "John Banville",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2008,
+  "rank": null,
+  "result": "nom",
+  "title": "Priest",
+  "author": "Ken Bruen",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2008,
+  "rank": null,
+  "result": "nom",
+  "title": "The Yiddish Policemen's Union",
+  "author": "Michael Chabon",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2008,
+  "rank": null,
+  "result": "nom",
+  "title": "Soul Patch",
+  "author": "Reed Coleman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2009,
+  "rank": null,
+  "result": "win",
+  "title": "Blue Heaven",
+  "author": "C. J. Box",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2009,
+  "rank": null,
+  "result": "nom",
+  "title": "Missing",
+  "author": "Karin Alvtegen",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2009,
+  "rank": null,
+  "result": "nom",
+  "title": "Sins of the Assassin",
+  "author": "Robert Ferrigno",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2009,
+  "rank": null,
+  "result": "nom",
+  "title": "The Price of Blood",
+  "author": "Declan Hughes",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2009,
+  "rank": null,
+  "result": "nom",
+  "title": "The Night Following",
+  "author": "Morag Joss",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2009,
+  "rank": null,
+  "result": "nom",
+  "title": "Curse of the Spellmans",
+  "author": "Lisa Lutz",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2010,
+  "rank": null,
+  "result": "win",
+  "title": "The Last Child",
+  "author": "John Hart",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2010,
+  "rank": null,
+  "result": "nom",
+  "title": "Mystic Arts of Erasing All Signs of Death",
+  "author": "Charlie Huston",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2010,
+  "rank": null,
+  "result": "nom",
+  "title": "Nemesis",
+  "author": "Jo Nesbø",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2010,
+  "rank": null,
+  "result": "nom",
+  "title": "The Missing",
+  "author": "Tim Gautreaux",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2010,
+  "rank": null,
+  "result": "nom",
+  "title": "The Odds",
+  "author": "Kathleen George",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2010,
+  "rank": null,
+  "result": "nom",
+  "title": "A Beautiful Place to Die",
+  "author": "Malla Nunn",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2011,
+  "rank": null,
+  "result": "win",
+  "title": "The Lock Artist",
+  "author": "Steve Hamilton",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2011,
+  "rank": null,
+  "result": "nom",
+  "title": "Caught",
+  "author": "Harlan Coben",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2011,
+  "rank": null,
+  "result": "nom",
+  "title": "Crooked Letter, Crooked Letter",
+  "author": "Tom Franklin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2011,
+  "rank": null,
+  "result": "nom",
+  "title": "Faithful Place",
+  "author": "Tana French",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2011,
+  "rank": null,
+  "result": "nom",
+  "title": "I'd Know You Anywhere",
+  "author": "Laura Lippman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2011,
+  "rank": null,
+  "result": "nom",
+  "title": "The Queen of Patpong",
+  "author": "Timothy Hallinan",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2012,
+  "rank": null,
+  "result": "win",
+  "title": "Gone",
+  "author": "Mo Hayder",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2012,
+  "rank": null,
+  "result": "nom",
+  "title": "The Ranger",
+  "author": "Ace Atkins",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2012,
+  "rank": null,
+  "result": "nom",
+  "title": "The Devotion of Suspect X",
+  "author": "Keigo Higashino",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2012,
+  "rank": null,
+  "result": "nom",
+  "title": "1222",
+  "author": "Anne Holt",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2012,
+  "rank": null,
+  "result": "nom",
+  "title": "Field Gray",
+  "author": "Philip Kerr",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2013,
+  "rank": null,
+  "result": "win",
+  "title": "Live by Night",
+  "author": "Dennis Lehane",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2013,
+  "rank": null,
+  "result": "nom",
+  "title": "All I Did Was Shoot My Man",
+  "author": "Walter Mosley",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2013,
+  "rank": null,
+  "result": "nom",
+  "title": "Gone Girl: A Novel",
+  "author": "Gillian Flynn",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2013,
+  "rank": null,
+  "result": "nom",
+  "title": "Potboiler",
+  "author": "Jesse Kellerman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2013,
+  "rank": null,
+  "result": "nom",
+  "title": "Sunset",
+  "author": "Al Lamanda",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2013,
+  "rank": null,
+  "result": "nom",
+  "title": "The Gods of Gotham",
+  "author": "Lyndsay Faye",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2013,
+  "rank": null,
+  "result": "nom",
+  "title": "The Lost Ones",
+  "author": "Ace Atkins",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2014,
+  "rank": null,
+  "result": "win",
+  "title": "Ordinary Grace",
+  "author": "William Kent Krueger",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "Sandrine’s Case",
+  "author": "Thomas H. Cook",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "The Humans",
+  "author": "Matt Haig",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "How the Light Gets In",
+  "author": "Louise Penny",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "Standing in Another Man’s Grave",
+  "author": "Ian Rankin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2014,
+  "rank": null,
+  "result": "nom",
+  "title": "Until She Comes Home",
+  "author": "Lori Roy",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2015,
+  "rank": null,
+  "result": "win",
+  "title": "Mr. Mercedes",
+  "author": "Stephen King",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "This Dark Road to Mercy",
+  "author": "Wiley Cash",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Wolf",
+  "author": "Mo Hayder",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "The Final Silence",
+  "author": "Stuart Neville",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Saints of the Shadow Bible",
+  "author": "Ian Rankin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2015,
+  "rank": null,
+  "result": "nom",
+  "title": "Coptown",
+  "author": "Karin Slaughter",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2016,
+  "rank": null,
+  "result": "win",
+  "title": "Let Me Die in His Footsteps",
+  "author": "Lori Roy",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "The Strangler Vine",
+  "author": "MJ Carter",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "The Lady from Zagreb",
+  "author": "Philip Kerr",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Life or Death",
+  "author": "Michael Robotham",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Canary",
+  "author": "Duane Swierczynski",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2016,
+  "rank": null,
+  "result": "nom",
+  "title": "Night Life",
+  "author": "David C. Taylor",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2017,
+  "rank": null,
+  "result": "win",
+  "title": "Before the Fall",
+  "author": "Noah Hawley",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "The Ex",
+  "author": "Alafair Burke",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Where It Hurts",
+  "author": "Reed Farrel Coleman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "Jane Steele",
+  "author": "Lyndsay Faye",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2017,
+  "rank": null,
+  "result": "nom",
+  "title": "What Remains of Me",
+  "author": "Alison Gaylin",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2018,
+  "rank": null,
+  "result": "win",
+  "title": "Bluebird, Bluebird",
+  "author": "Attica Locke",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "The Dime",
+  "author": "Kathleen Kent",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "Prussian Blue",
+  "author": "Philip Kerr",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "A Rising Man",
+  "author": "Abir Mukherjee",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2018,
+  "rank": null,
+  "result": "nom",
+  "title": "The Twelve Lives of Samuel Hawley",
+  "author": "Hannah Tinti",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2019,
+  "rank": null,
+  "result": "win",
+  "title": "Down the River Unto the Sea",
+  "author": "Walter Mosley",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "The Liar's Girl",
+  "author": "Catherine Ryan Howard",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "House Witness",
+  "author": "Mike Lawson",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "A Gambler's Jury",
+  "author": "Victor Methos",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "Only to Sleep",
+  "author": "Lawrence Osborne",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2019,
+  "rank": null,
+  "result": "nom",
+  "title": "A Treacherous Curse",
+  "author": "Deanna Raybourn",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2020,
+  "rank": null,
+  "result": "win",
+  "title": "The Stranger Diaries",
+  "author": "Elly Griffiths",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Fake Like Me",
+  "author": "Barbara Bourland",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "The River",
+  "author": "Peter Heller",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Smoke and Ashes",
+  "author": "Abir Mukherjee",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2020,
+  "rank": null,
+  "result": "nom",
+  "title": "Good Girl, Bad Girl",
+  "author": "Michael Robotham",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2021,
+  "rank": null,
+  "result": "win",
+  "title": "Djinn Patrol on the Purple Line",
+  "author": "Deepa Anappara",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "Before She Was Helen",
+  "author": "Caroline B. Cooney",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "The Thursday Murder Club",
+  "author": "Richard Osman",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "These Women",
+  "author": "Ivy Pochoda",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "The Missing American",
+  "author": "Kwei Quartey",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2021,
+  "rank": null,
+  "result": "nom",
+  "title": "The Distant Dead",
+  "author": "Heather Young",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2022,
+  "rank": null,
+  "result": "win",
+  "title": "Five Decembers",
+  "author": "James Kestrel",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "The Venice Sketchbook",
+  "author": "Rhys Bowen",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "Razorblade Tears",
+  "author": "S. A. Cosby",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "How Lucky",
+  "author": "Will Leitch",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2022,
+  "rank": null,
+  "result": "nom",
+  "title": "No One Will Miss Her",
+  "author": "Kat Rosenfield",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2023,
+  "rank": null,
+  "result": "win",
+  "title": "Notes on an Execution",
+  "author": "Danya Kukafka",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Devil House",
+  "author": "John Darnielle",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "The Devil Takes You Home",
+  "author": "Gabino Iglesias",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "The Maid",
+  "author": "Nita Prose",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Like a Sister",
+  "author": "Kellye Garrett",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2023,
+  "rank": null,
+  "result": "nom",
+  "title": "Gangland",
+  "author": "Chuck Hogan",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2024,
+  "rank": null,
+  "result": "win",
+  "title": "Flags on the Bayou",
+  "author": "James Lee Burke",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "All the Sinners Bleed",
+  "author": "S. A. Cosby",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "The Mad Women of Paris",
+  "author": "Jennifer Cody Epstein",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Bright Young Women",
+  "author": "Jessica Knoll",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "An Honest Man",
+  "author": "Michael Koryta",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "The River We Remember",
+  "author": "William Kent Krueger",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2024,
+  "rank": null,
+  "result": "nom",
+  "title": "Crook Manifesto",
+  "author": "Colson Whitehead",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2025,
+  "rank": null,
+  "result": "win",
+  "title": "The In Crowd",
+  "author": "Charlotte Vassell",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "The Tainted Cup",
+  "author": "Robert Jackson Bennett",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Rough Trade",
+  "author": "Katrina Carrasco",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Things Don't Break on Their Own",
+  "author": "Sarah Easter Collins",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "My Favorite Scar",
+  "author": "Nicolás Ferraro",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "The God of the Woods",
+  "author": "Liz Moore",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2025,
+  "rank": null,
+  "result": "nom",
+  "title": "Listen for the Lie",
+  "author": "Amy Tintera",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2026,
+  "rank": null,
+  "result": "win",
+  "title": "The Big Empty",
+  "author": "Robert Crais",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Fagin the Thief",
+  "author": "Allison Epstein",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "The Dream Hotel",
+  "author": "Laila Lalami",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Wild Dark Shore",
+  "author": "Charlotte McConaghy",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Hard Town",
+  "author": "Adam Plantinga",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "The Inheritance",
+  "author": "Trisha Sakhlecha",
+  "lang": "en"
+ },
+ {
+  "source": "edgar",
+  "year": 2026,
+  "rank": null,
+  "result": "nom",
+  "title": "Presumed Guilty",
+  "author": "Scott Turow",
+  "lang": "en"
+ }
+]
