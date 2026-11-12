@@ -359,6 +359,7 @@
     rows.forEach(function (b) { list.appendChild(card(b)); });
     if (!rows.length) list.appendChild(el("p", "empty", "조건에 맞는 책이 없습니다."));
     $("count").textContent = rows.length + "권 / 전체 " + DATA.books.length + "권";
+    $("more").textContent = "분류·정렬" + (state.cat ? " · " + state.cat : "");
     var mine = Object.keys(overrides).length;
     $("resetAll").hidden = !mine;
   }
@@ -381,6 +382,14 @@
   $("tab-books").onclick = function () { state.view = "books"; render(); };
   $("tab-authors").onclick = function () { state.view = "authors"; render(); };
   $("authorFilter").onclick = function () { state.author = ""; render(); };
+  $("more").onclick = function () {
+    var on = document.body.classList.toggle("more-open");
+    $("more").setAttribute("aria-expanded", String(on));
+  };
+  $("sub").onclick = function () { $("sub").classList.toggle("open"); };
+  var toTop = $("toTop");
+  toTop.onclick = function () { window.scrollTo({ top: 0, behavior: "smooth" }); };
+  window.addEventListener("scroll", function () { toTop.hidden = window.scrollY < 500; }, { passive: true });
   $("q").oninput = function (e) { state.q = e.target.value; render(); };
   $("sort").onchange = function (e) { state.sort = e.target.value; render(); };
   $("resetAll").onclick = function () {

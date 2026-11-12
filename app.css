@@ -103,3 +103,33 @@ body[data-view="authors"] #storeChips, body[data-view="authors"] #catChips, body
 #listSel { width: 100%; margin: 6px 0 2px; height: 40px; padding: 0 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--card); font-weight: 600; }
 #listSel[hidden] { display: none; }
 .dot.wait { background: var(--warn-bg); color: var(--warn); }
+
+/* 모바일: 상단 영역이 화면을 차지하지 않게 한다 — 고정하지 않고 스크롤과 함께 올라간다 */
+.top { position: static; }
+.top-in { padding-top: max(8px, env(safe-area-inset-top)); padding-bottom: 6px; }
+h1 { font-size: 16px; display: inline-block; margin-right: 6px; }
+.sub { margin: 4px 0 8px; font-size: 12px; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+.sub.open { display: block; }
+#listSel { margin: 4px 0 0; height: 38px; }
+.tabs { margin-bottom: 6px; }
+.tabs button { min-height: 32px; }
+#q { height: 40px; }
+.chips { padding-top: 6px; }
+.chip { min-height: 32px; font-size: 13.5px; }
+.bar { margin-top: 6px; }
+main { padding-top: 8px; }
+#toTop { position: fixed; right: 14px; bottom: max(16px, env(safe-area-inset-bottom)); z-index: 6; height: 44px; padding: 0 14px;
+  border: 1px solid var(--line); border-radius: 999px; background: var(--card); color: var(--ink); font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0,0,0,.3); cursor: pointer; }
+#toTop[hidden] { display: none; }
+@media (min-width: 720px) { .top { position: sticky; } }
+
+/* 모바일: 제목 줄을 없애고(목록 선택이 제목 역할), 분류·정렬은 '분류·정렬' 버튼 뒤로 접는다 */
+#more { border: 1px solid var(--line); background: var(--card); border-radius: 999px; min-height: 30px; padding: 0 10px; font-size: 12.5px; cursor: pointer; color: var(--ink); }
+#more[aria-expanded="true"] { background: var(--ink); color: var(--bg); }
+@media (max-width: 719px) {
+  h1 { display: none; }
+  .sub { -webkit-line-clamp: 1; margin: 4px 0 6px; }
+  body:not(.more-open) #catChips, body:not(.more-open) .bar label { display: none; }
+}
+@media (min-width: 720px) { #more { display: none; } }

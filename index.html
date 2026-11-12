@@ -23,6 +23,7 @@
     <div class="chips" id="catChips" role="group" aria-label="분류 필터"></div>
     <div class="bar">
       <span id="count"></span>
+      <button id="more" type="button" aria-expanded="false">분류·정렬</button>
       <label>정렬
         <select id="sort">
           <option value="sheet">추천 순서</option>
@@ -35,6 +36,7 @@
   </div>
 </header>
 <main id="list"></main>
+<button id="toTop" type="button" hidden>↑ 필터·검색</button>
 <footer class="foot">
   <p id="legend"></p>
   <button id="resetAll" type="button">내가 바꾼 토글 모두 되돌리기</button>
