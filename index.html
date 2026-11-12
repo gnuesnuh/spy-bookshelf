@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#14110f">
+<title>첩보 서가 — 전자책 입점 현황</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <h1>첩보 서가</h1>
+    <p class="sub" id="sub"></p>
+    <div class="tabs" role="tablist">
+      <button id="tab-books" role="tab" type="button">책</button>
+      <button id="tab-authors" role="tab" type="button">작가별 색인</button>
+    </div>
+    <input id="q" type="search" placeholder="제목·원제·저자 검색" autocomplete="off" aria-label="도서 검색">
+    <button id="authorFilter" class="afilter" type="button" hidden></button>
+    <div class="chips" id="storeChips" role="group" aria-label="입점 서점 필터"></div>
+    <div class="chips" id="catChips" role="group" aria-label="분류 필터"></div>
+    <div class="bar">
+      <span id="count"></span>
+      <label>정렬
+        <select id="sort">
+          <option value="sheet">시트 순서</option>
+          <option value="gr">Goodreads 평점</option>
+          <option value="kr">국내 평점</option>
+          <option value="stores">입점 서점 수</option>
+        </select>
+      </label>
+    </div>
+  </div>
+</header>
+<main id="list"></main>
+<footer class="foot">
+  <p id="legend"></p>
+  <button id="resetAll" type="button">내가 바꾼 토글 모두 되돌리기</button>
+</footer>
+<script src="data/books.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

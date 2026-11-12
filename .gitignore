@@ -1,0 +1,13 @@
+.env
+# 서점 응답 캐시와 수집한 리뷰 원문은 올리지 않는다
+data/cache/
+data/reviews/
+data/queries/
+*.xlsx
+__pycache__/
+.claude/
+# 다른 작업에서 만든 스크립트 (이 사이트 배포에 포함하지 않음)
+scripts/build_query.py
+scripts/eval_sheet.py
+scripts/yes24_lookup.py
+scripts/yes24_test.py
