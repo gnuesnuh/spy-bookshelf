@@ -77,7 +77,32 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/852001243/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "실패한 삶을 추스르려는 저자의 회고와 한 분류학자의 일대기를 엮은 구성이 감동적이고 위로가 된다는 평이 많다. 반면 감상적이고 과장된 문체, 인물을 지나치게 호의적으로 그린 점, 분량에 비해 내용이 늘어진다는 불만도 반복된다.",
+    "pros": [
+     "전기와 회고를 엮은 독특한 구성",
+     "위로가 되는 주제 의식",
+     "분류와 위계를 되묻는 시각"
+    ],
+    "cons": [
+     "감상적이고 과장된 문체",
+     "주인공 서술이 지나치게 우호적",
+     "초중반이 지루하고 늘어짐"
+    ],
+    "domestic": "국내 독자들은 초반이 지루해도 후반의 반전과 결말에서 큰 울림을 받았다고 하며, 과학서라기보다 에세이에 가깝고 번역은 잘 읽힌다는 평과 문체가 한국어에 다소 안 맞는다는 평이 갈린다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 10,
+     "yes24": 5
+    },
+    "hash": "fb660c542862f7adc4076b9db62d5b0f",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-2",
@@ -151,7 +176,31 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/1046000224/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "분류학의 역사를 흥미롭게 짚고 인간이 자연을 분류하는 본능을 다룬 점이 흥미롭다는 평이 있다. 그러나 같은 주장의 반복, 구성의 산만함, 저자의 개인적 서술과 설득력 약한 핵심 주장, 거친 문체에 대한 비판이 훨씬 많다.",
+    "pros": [
+     "분류학 역사에 대한 흥미로운 서술",
+     "자연을 인식하는 방식에 대한 성찰"
+    ],
+    "cons": [
+     "핵심 주장이 설득력 약하고 반복적",
+     "구성이 산만하고 군더더기가 많음",
+     "문체와 저자 개입이 거슬림"
+    ],
+    "domestic": "국내 독자들은 이 책이 《물고기는 존재하지 않는다》에 큰 영감을 준 책이라는 점에서 관심을 갖고 읽었으며, 보이지 않던 세계를 열어 준다며 대체로 호평한다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 5
+    },
+    "hash": "559c9e860954a7397916cf06a270949d",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-3",
@@ -220,7 +269,31 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/682000534/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "아버지를 잃은 슬픔을 매 길들이기로 풀어낸 회고록으로, 자연 묘사와 애도에 대한 시적인 문장이 호평을 받는다. 반면 문장이 장황하고 지루하다는 의견과 야생 새를 길들이는 일의 윤리에 대한 거부감도 적지 않다.",
+    "pros": [
+     "애도와 자연을 엮은 아름다운 글",
+     "시적인 문장",
+     "회고와 전기가 섞인 독특한 구성"
+    ],
+    "cons": [
+     "장황하고 지루한 전개",
+     "매 길들이기에 대한 윤리적 불편함"
+    ],
+    "domestic": "국내 독자는 다른 동물 이야기와 함께 읽은 소감을 남기며, 상실의 아픔이 자연을 통해 치유되고 관계가 넓어지는 아름다운 이야기라고 평한다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 1,
+     "yes24": 0
+    },
+    "hash": "3c16d6ddb92de11a448bd9967117fbbd",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-4",
@@ -289,7 +362,31 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/682001541/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "41편의 짧은 에세이가 새를 중심으로 자연에 대한 경이를 우아한 문장으로 풀어낸다는 평이 많다. 읽고 나면 주변을 더 유심히 보게 된다는 반응이 나온다. 다만 글이 길이와 깊이가 고르지 않고 산만하다는 지적이 있다.",
+    "pros": [
+     "우아하고 시적인 문장",
+     "자연에 대한 경이와 관찰의 즐거움",
+     "다양한 주제의 에세이"
+    ],
+    "cons": [
+     "글마다 깊이가 고르지 않음",
+     "산만한 모음집 느낌"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "634c173a57b6e0234e0ff5e2291d30fb",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-5",
@@ -353,7 +450,31 @@
     "verdict": "likely"
    },
    "cover": "https://image.yes24.com/goods/96432279/L",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "장어의 신비로운 생태와 역사, 철학을 아버지와 낚시하던 회고와 번갈아 엮는 구성이 뜻밖에 감동적이라는 평이 많다. 다만 장어 정보를 기대했는데 개인사 비중이 커서 아쉽다는 독자와 가족 이야기가 길다는 불만도 있다.",
+    "pros": [
+     "장어에 대한 흥미로운 사실",
+     "부자 관계를 담은 따뜻한 회고",
+     "과학, 역사, 철학을 아우르는 폭"
+    ],
+    "cons": [
+     "장어보다 개인사 비중이 큼",
+     "회고 부분이 길게 느껴짐"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "22505719eddc27a4dc2020549a2d310e",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-6",
@@ -427,7 +548,31 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/754047367/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "식물과 나무에 대한 애정, 과학자로 살아온 솔직한 삶과 실험실 동료와의 우정을 아름다운 글로 풀어냈다는 호평이 많다. 반면 연구실 구성원을 대하는 태도에 대한 불편함, 단조롭거나 흐름이 거친 서술, 과학 내용이 부족하다는 의견이 있다.",
+    "pros": [
+     "아름답고 생생한 문장",
+     "과학자로서의 삶과 열정",
+     "나무와 식물 이야기, 동료와의 우정"
+    ],
+    "cons": [
+     "연구실 사람들을 대하는 태도에 대한 불편함",
+     "나무와 과학 내용이 더 많았으면 하는 아쉬움"
+    ],
+    "domestic": "국내 독자는 번역서인데도 문장이 아름답다며 과학자에 대한 존경과 식물에 대한 경탄을 느꼈고 딸에게 권하고 싶다고 말하는 등 대체로 매우 호의적이다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 9,
+     "yes24": 5
+    },
+    "hash": "f6ad9799a28dc88de7899134aa15c16c",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-7",
@@ -492,7 +637,32 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/103389002/L",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "수영과 물이 주는 정서적 위안, 다양한 사람들의 이야기를 서정적으로 풀어내 수영을 좋아하는 독자에게 사랑받는다. 반면 과학적 설명을 기대했는데 저자의 개인사가 많고 후반부가 반복적이며 늘어진다는 불만이 이어진다.",
+    "pros": [
+     "물에 대한 서정적인 애정",
+     "수영과 얽힌 다양한 인물 이야기",
+     "수영 애호가의 공감"
+    ],
+    "cons": [
+     "과학적 설명 부족",
+     "후반부의 반복과 늘어짐",
+     "저자 개인사 비중이 큼"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "c82259ea8b84a448806c91ead1c58a85",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-8",
@@ -557,7 +727,31 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/3423502/L",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "화석과 유전자, 배아를 통해 인체 구조의 기원을 쉽고 흥미롭게 설명한 대중과학서라는 평이 많다. 발견 이야기도 재미를 더한다. 다만 배경지식이 있는 독자에게는 설명이 모호하고 얕으며 글이 산만하다는 비판이 있다.",
+    "pros": [
+     "인체와 진화의 연결을 쉽게 설명",
+     "화석 발견의 흥미로운 이야기",
+     "접근하기 쉬운 대중과학 문체"
+    ],
+    "cons": [
+     "전문 독자에게는 얕고 모호함",
+     "산만한 전개"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "e39a685bba497eab928f93cc2f037db3",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-9",
@@ -621,7 +815,31 @@
     "verdict": "likely"
    },
    "cover": "https://image.yes24.com/goods/36954725/L",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "멘델부터 현대 유전학까지 과학자들의 이야기와 저자의 가족사, 윤리적 질문을 엮어 쉽고 몰입감 있게 풀어냈다는 극찬이 많다. 다만 분량이 방대하고 일부 대목은 어렵거나 지나치게 상세하며, 의학 중심이라는 아쉬움도 있다.",
+    "pros": [
+     "유전학의 역사를 이야기처럼 서술",
+     "과학과 윤리, 개인사의 결합",
+     "폭넓은 조사와 깊은 통찰"
+    ],
+    "cons": [
+     "일부 대목의 어려움과 과도한 상세함",
+     "전작보다 서사가 약하다는 평"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "cc833e48887ebfb7f7a94b6f8ad5f652",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-10",
@@ -695,7 +913,31 @@
     "verdict": "likely"
    },
    "cover": "https://img.ridicdn.net/cover/1648000650/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "인간이 멸종을 가속한다는 점을 현장 취재와 풍부한 사례로 설득력 있게 보여 준다는 호평이 많다. 내용이 매우 암울해 읽기 괴롭다는 반응과, 개구리 등 개별 종 이야기가 길어 지루하다는 불만도 있다.",
+    "pros": [
+     "현장 취재 기반의 생생한 서술",
+     "설득력 있는 과학적 근거",
+     "비난 대신 정보 전달에 집중"
+    ],
+    "cons": [
+     "내용이 지나치게 암울함",
+     "일부 사례가 지루함"
+    ],
+    "domestic": "국내 독자들은 멸종의 원인이 인간임을 냉정하게 보여 주어 환경과 생명에 대한 경각심을 일깨운다는 점을 주로 꼽으며 대체로 높게 평가한다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 5
+    },
+    "hash": "71a5cf5924b77d7b80c9161782a62034",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-11",
@@ -769,7 +1011,32 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/754041353/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "균류의 세계를 열정적이고 시적인 문장으로 풀어내 경이로움을 준다는 호평이 많다. 한편 저자의 철학적 사색과 비유가 길고 산만하며, 과학적 검증이 부족한 추측이 섞였다는 비판도 뚜렷하다.",
+    "pros": [
+     "균류에 대한 놀라운 정보",
+     "생태계를 보는 관점의 전환",
+     "열정적이고 서정적인 글"
+    ],
+    "cons": [
+     "산만하고 장황한 구성",
+     "비판적 검증이 부족한 추측",
+     "철학적 사색이 과다함"
+    ],
+    "domestic": "국내 독자들은 눈에 보이지 않는 미생물과 곰팡이가 생태계에서 맡은 역할을 새롭게 알게 되어 흥미로웠다는 긍정적 평이 대부분이다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 1,
+     "yes24": 5
+    },
+    "hash": "c56bc8a932e9571c16d9376f09aedb8d",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-12",
@@ -838,7 +1105,31 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/280000204/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "동물마다 다른 감각 세계를 쉽고 흥미롭게 소개해 시각을 넓혀 준다는 찬사가 많다. 다만 사례와 정보가 너무 많아 한 번에 읽기 벅차고 일화 나열처럼 느껴진다는 의견이 있다.",
+    "pros": [
+     "동물 감각의 신기한 사례",
+     "인간 중심 시각을 깨는 관점",
+     "명료한 설명"
+    ],
+    "cons": [
+     "정보가 과도해 읽기 버거움",
+     "이야기보다 사실 나열에 가까움"
+    ],
+    "domestic": "국내 독자는 동물의 놀라운 능력과 이를 밝혀낸 연구자들의 노력, 인간의 한계를 돌아보게 하는 점을 높이 평가하며 두꺼워도 추천한다는 반응이다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 1,
+     "yes24": 0
+    },
+    "hash": "ecfdd69f150b3b84efcad10506a7ffaa",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-13",
@@ -907,7 +1198,30 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/280000092/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "우리 몸과 지구에서 미생물이 맡는 역할을 쉽고 균형 있게 설명한다는 호평이 압도적이다. 인용이 충실하고 미생물을 보는 인식을 바꿔 준다는 점이 반복해서 칭찬받는다. 일부는 내용이 새롭지 않거나 평이하다고 느꼈다.",
+    "pros": [
+     "쉬운 설명과 충실한 근거",
+     "미생물에 대한 인식 전환",
+     "균형 잡힌 시각"
+    ],
+    "cons": [
+     "일부에게는 새롭지 않은 내용"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "06ca0180e32685025acb10b831d64650",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-14",
@@ -972,7 +1286,32 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/42657817/L",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "문어의 지능과 개성, 사육사와의 교감을 따뜻하게 그려 문어를 사랑하게 된다는 평이 많다. 반면 과학적 깊이가 얕고 문체가 감상적이며, 야생 포획 문어를 수족관에 가두는 점이 불편하다는 비판이 반복된다.",
+    "pros": [
+     "문어와 사람의 감동적인 교감",
+     "쉽고 따뜻한 서술",
+     "문어에 대한 흥미로운 사실"
+    ],
+    "cons": [
+     "과학적 깊이와 의식 탐구가 얕음",
+     "수족관 포획과 사육에 대한 불편함",
+     "감상적이고 비유가 많은 문체"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "86c8323f971b09f20ae9a2a33684eaf9",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-15",
@@ -1041,7 +1380,31 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/2262000023/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "문어 관찰에서 출발해 진화와 의식의 기원으로 확장하는 사유가 깊고 흥미롭다는 평이 있다. 다만 철학적 논의가 길고 난해하며, 대중서인지 전문서인지 모호하다는 불만이 이어진다.",
+    "pros": [
+     "문어와 갑오징어 관찰이 흥미로움",
+     "진화와 의식을 잇는 깊은 사유"
+    ],
+    "cons": [
+     "철학적 논의가 난해하고 길음",
+     "독자층이 모호한 구성",
+     "기대보다 과학 내용이 적음"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "e09d8f3388c4f309266b2fb294ea0397",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-16",
@@ -1110,7 +1473,32 @@
     "verdict": "likely"
    },
    "cover": "https://img.ridicdn.net/cover/1669000063/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "새의 소통, 놀이, 육아 등 놀라운 행동을 생생한 일화로 소개해 새를 다시 보게 한다는 호평이 있다. 반면 종 나열과 일화가 많은 데 비해 과학적 깊이가 부족해 단조롭다는 평이 반복된다.",
+    "pros": [
+     "새의 놀라운 행동 사례",
+     "생생한 일화와 좋은 문장",
+     "새를 보는 인식의 변화"
+    ],
+    "cons": [
+     "종 나열로 단조롭고 지루함",
+     "과학적 깊이가 부족함",
+     "전작과 겹치는 내용"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "ac1be8ad78ba910d31dada5aa461a3b8",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-17",
@@ -1181,7 +1569,30 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/4086000228/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "러시아 극동 오지에서 희귀한 물고기부엉이를 추적하는 현장 탐사기가 모험담처럼 흥미롭다는 평이 많다. 혹독한 환경과 개성 강한 현지 인물들이 매력으로 꼽히며, 일부는 연구 서술이 느슨하거나 평범하다고 느꼈다.",
+    "pros": [
+     "오지 현장 탐사의 생생함",
+     "개성 있는 현지 인물들",
+     "보전 연구 과정을 알게 됨"
+    ],
+    "cons": [
+     "일부 대목의 밋밋한 전개"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "0b4f4e195edef1a83192a7be5cde980e",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-18",
@@ -1250,7 +1661,32 @@
     "verdict": "likely"
    },
    "cover": "https://img.ridicdn.net/cover/1242001351/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "인간과 야생동물의 충돌을 유머러스하고 호기심 어린 취재로 다뤄 재미있다는 평이 많다. 다만 에세이 모음처럼 통일된 결론이 없고, 분량을 채운 듯한 군더더기와 암울한 소재, 제목에서 기대한 내용과의 차이를 지적하는 불만이 있다.",
+    "pros": [
+     "유머러스한 문체와 각주",
+     "기발한 취재와 다양한 사례",
+     "읽는 재미와 상식 확장"
+    ],
+    "cons": [
+     "통일된 결론이 없는 에세이 모음식",
+     "분량 채우기식 군더더기",
+     "제목이 주는 기대와 다른 내용"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "214c10234a9146cd91b2e7f81e2ee2aa",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-19",
@@ -1324,7 +1760,32 @@
     "verdict": "likely"
    },
    "cover": "https://img.ridicdn.net/cover/862002532/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "심해 생물과 생태계를 생생하게 소개하고 보전의 필요성을 설득력 있게 전한다는 호평이 많다. 반면 후반의 채굴 등 논의가 건조하고 지루하며 사진이 부족하다는 아쉬움과 우울한 분위기를 지적하는 평이 있다.",
+    "pros": [
+     "신비로운 심해 생물 소개",
+     "보전의 필요성에 대한 설득력",
+     "접근하기 쉬운 서술"
+    ],
+    "cons": [
+     "후반부가 건조하고 지루함",
+     "시각 자료가 부족함",
+     "환경 파괴 이야기가 우울함"
+    ],
+    "domestic": "국내 독자들은 심해를 지켜야 한다는 경각심과 사회 문제까지 아우르는 구성을 높이 평가하며, 생물 소개에 이미지가 적은 점을 아쉬워한다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 5
+    },
+    "hash": "d3378f0c071ef95fca2e1dfa1771f586",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-20",
@@ -1389,7 +1850,31 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/96792329/L",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "자연과 문화, 과학을 엮은 아름다운 문장과 감사와 상호 호혜의 메시지가 호평을 받는다. 반면 같은 주제의 반복과 산만한 구성, 지나친 분량을 아쉬워하는 독자가 많고, 원주민 경험의 재현 방식을 비판하는 시각도 있다.",
+    "pros": [
+     "아름답고 시적인 문장",
+     "감사와 호혜의 메시지",
+     "과학과 원주민 지혜의 결합"
+    ],
+    "cons": [
+     "반복적이고 산만한 구성",
+     "불필요하게 긴 분량"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "9978f60a1a9e68827aa0e18c90ff0c80",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-21",
@@ -1458,7 +1943,31 @@
     "verdict": "likely"
    },
    "cover": "https://img.ridicdn.net/cover/734001509/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "나무가 서로 소통하고 돕는다는 이야기가 신선하고 숲을 보는 눈을 바꿔 준다는 평이 많다. 읽기 쉬운 문체도 장점으로 꼽힌다. 다만 나무를 지나치게 사람처럼 묘사하고 과학적 깊이가 얕으며 구성이 단편적이라는 불만이 있다.",
+    "pros": [
+     "나무의 사회성에 대한 흥미로운 정보",
+     "쉽고 친근한 문체",
+     "숲을 보는 시각의 변화"
+    ],
+    "cons": [
+     "지나친 의인화",
+     "단편적이고 얕은 과학 설명"
+    ],
+    "domestic": "국내 독자들은 나무를 물건이 아닌 생명체로 보게 된다며 쉽고 재미있다고 평하고, 약한 나무를 살리는 일이 숲 전체를 살린다는 대목과 나무의 입장에서 생각하려는 저자의 태도를 인상 깊게 꼽는다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 3,
+     "yes24": 0
+    },
+    "hash": "74f2c739f65042d724d3a2dddee7cba5",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-22",
@@ -1529,7 +2038,32 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/3665000030/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "동굴, 지하 묘지, 빙하, 핵폐기물 처리장 등 땅속 세계를 오가는 탐험과 시적이고 깊이 있는 문장이 극찬을 받는다. 반면 주제가 너무 흩어져 있고 문장이 무겁거나 과장되어 읽기 버겁다는 의견, 과학적 깊이가 부족하다는 불만도 꽤 있다.",
+    "pros": [
+     "시적이고 묘사가 뛰어난 문장",
+     "지질, 역사, 기후를 아우르는 폭넓은 주제",
+     "깊은 시간과 환경에 대한 성찰"
+    ],
+    "cons": [
+     "제각각인 주제로 산만함",
+     "무겁고 반복적인 문체",
+     "과학적 깊이 부족"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "afed674d05308a68191e0c619d9ea951",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-23",
@@ -1598,7 +2132,32 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/754046856/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "아홉 인물의 이야기를 나무와 엮은 구성과 나무에 대한 경외, 환경 메시지가 걸작이라는 찬사를 받는다. 반면 초반 이후 서사가 늘어지고 나무 묘사가 지나치게 길며 등장인물이 많아 지루하다는 불만이 반복된다.",
+    "pros": [
+     "인물별 단편 같은 도입부",
+     "나무와 자연에 대한 깊은 경외",
+     "야심 찬 환경 문학"
+    ],
+    "cons": [
+     "중후반의 늘어지는 전개",
+     "과도하게 긴 나무 묘사",
+     "많은 등장인물과 방대한 분량"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "4260333932a72389a0b12b80449708a5",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "id": "why-fish-24",
@@ -1654,7 +2213,11 @@
     "verdict": "likely"
    },
    "cover": "https://image.yes24.com/goods/320076/L",
-   "untranslated": false
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
   }
  ]
 }

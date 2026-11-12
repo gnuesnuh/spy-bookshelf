@@ -4,6 +4,10 @@
 기획(목표·범위·작업 절차·로드맵)은 `docs/PLAN.md`, 진행 이력과 검증 수치는 `docs/PROGRESS.md`. 작업 전에 둘 다 읽을 것.
 추천 요청을 받으면 `docs/PLAN.md` 6절 '사용 흐름'을 따른다.
 
+## 열린 요청
+`docs/requests/`의 상태 '대기' 요청서를 먼저 확인한다. 로컬 PC에서 실행 중이면 처리하고 결과를 요청서에 기록한다.
+- REQ-001 Reddit 추천 스레드 수집 (로컬 실행 필요)
+
 ## 출력 기준 (정답 형식)
 기존 Google 시트(ID `10hYwTqAXoqn-qZ3u1YCN4RVWBhYQGTcBXctbljjc9mQ`, 로컬 사본 `data/sheet.xlsx`)와 같은 열 구성:
 카테고리 · 한국어 제목 · 원제 · 저자 · 수상 및 선정 이력 · 영미권/국내 평점 · 리뷰 요약 및 추천 포인트 ·
