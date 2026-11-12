@@ -1544,15 +1544,7 @@
      "sheet": "일부 출간"
     }
    },
-   "goodreads": {
-    "title": "The Kill Artist",
-    "author": "Daniel Silva",
-    "rating": 3.99,
-    "count": 105035,
-    "work": "2153394",
-    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391616227i/93794._SX240_.jpg",
-    "url": "https://www.goodreads.com/book/show/93794.The_Kill_Artist"
-   },
+   "goodreads": null,
    "korean": {
     "how": "못 찾음",
     "title": null,
@@ -1562,7 +1554,7 @@
     "verdict": "none"
    },
    "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391616227i/93794._SX240_.jpg",
+   "cover": "",
    "screen": {
     "status": "ok",
     "items": []
@@ -2999,7 +2991,8 @@
    "screen": {
     "status": "ok",
     "items": []
-   }
+   },
+   "reviewCount": 0
   },
   {
    "id": "1-30",
@@ -3219,15 +3212,7 @@
      "sheet": "미번역"
     }
    },
-   "goodreads": {
-    "title": "BOX 88",
-    "author": "Charles Cumming",
-    "rating": 4.1,
-    "count": 8568,
-    "work": "75986846",
-    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649964389i/60813289._SX240_.jpg",
-    "url": "https://www.goodreads.com/book/show/60813289-box-88"
-   },
+   "goodreads": null,
    "korean": {
     "how": "못 찾음",
     "title": null,
@@ -3237,7 +3222,7 @@
     "verdict": "none"
    },
    "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649964389i/60813289._SX240_.jpg",
+   "cover": "",
    "screen": {
     "status": "ok",
     "items": []
@@ -3775,7 +3760,8 @@
    "screen": {
     "status": "ok",
     "items": []
-   }
+   },
+   "reviewCount": 0
   },
   {
    "id": "1-39",
@@ -4782,8 +4768,8 @@
      "sheet": "YES24 가능",
      "paper": {
       "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/101375755",
-      "matched": "프로젝트 헤일메리"
+      "url": "https://www.yes24.com/product/goods/180385906",
+      "matched": "마션 + 아르테미스 + 프로젝트 헤일메리"
      }
     }
    },
@@ -4797,12 +4783,12 @@
     "url": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
    },
    "korean": {
-    "how": "원제 일치",
+    "how": "수동 검수",
     "title": "프로젝트 헤일메리",
-    "original": "Project Hail Mary",
-    "publisher": "알에이치코리아(RHK)",
-    "date": "2026",
-    "verdict": "confirmed"
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
    },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/510001099/xlarge",

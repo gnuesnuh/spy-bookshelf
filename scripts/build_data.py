@@ -134,6 +134,8 @@ def author_key(author):
 
 
 def is_match(q, author, r_title, r_author):
+    if "|" in author:   # 저자 표기 변형 '앨 앨버레즈|알 알바레즈' — 하나라도 맞으면 된다
+        return any(is_match(q, a.strip(), r_title, r_author) for a in author.split("|") if a.strip())
     nq, nt = norm(q), norm(r_title)
     if not nq or nq not in nt:
         return False
@@ -432,6 +434,24 @@ def load_sheet():
     return books
 
 
+def goodreads_ok(b, g):
+    """Goodreads 후보가 이 책이 맞는지: 제목이 원제로 시작하고, 저자 성의 음역 골격이 어긋나지 않아야 한다."""
+    import difflib
+    if re.search(r"(Series|Trilogy)", b["original"]):   # 시리즈 항목은 대표작으로 잡히므로 제목 대조를 하지 않는다
+        return True
+    main = matching.en(re.split(r"[:(/]", b["original"])[0])
+    gt = matching.en(g["title"])
+    if not main or not (gt.startswith(main) or main.startswith(gt)):
+        return False
+    g_sk = matching.skel(re.sub("[^a-z]", "", (g["author"].split() or [""])[-1].lower()))
+    names = [a.strip() for a in (b.get("author") or "").split("|") if a.strip()]
+    sks = [matching.skel(matching.roman(n.split()[-1])) for n in names if n.split()]
+    sks = [x for x in sks if len(x) >= 3]
+    if len(g_sk) < 3 or not sks:   # 골격이 짧으면(추이↔Tsui) 비교가 불안정하다
+        return True   # 비교할 재료가 없으면 제목 일치만으로 받는다
+    return any(difflib.SequenceMatcher(None, g_sk, x).ratio() >= 0.5 for x in sks)
+
+
 def enrich(b):
     """책 한 권에 서점 입점·국내판·평점·표지·영상화·리뷰 요약을 붙인다. 채점용 후보 기록을 돌려준다."""
     stores, cand = check(b)
@@ -440,6 +460,8 @@ def enrich(b):
     if b.get("lang") == "en" and b.get("author_orig"):   # 소스 캐시에서 온 책: 저자 성이 맞는 결과만 쓴다(동명 도서 방지)
         last = matching.en(b["author_orig"].split()[-1])
         gr = [g for g in gr if last and last in matching.en(g["author"])]
+    elif gr and b.get("title") not in GR_PICK and b.get("original") not in (None, "", "-"):
+        gr = [g for g in gr if goodreads_ok(b, g)]   # 제목만 같은 다른 책(Good Girl, Bad Blood ↔ Bad Blood) 방지
     pick = GR_PICK.get(b.get("title"), {}).get("i", 0)
     b["goodreads"] = gr[pick] if pick is not None and len(gr) > pick else None
     k = cand.pop("korean")
@@ -464,6 +486,9 @@ def enrich(b):
     rid = b["id"] if b["id"] in REVIEWS else _review_by_work().get((b.get("original"), b.get("author")))
     if rid in REVIEWS:  # scripts/summarize_reviews.py 결과. 다른 목록에서 이미 요약한 같은 책이면 그것을 쓴다
         b["review"] = REVIEWS[rid]
+        b.pop("reviewCount", None)
+    else:               # 요약 전: 수집된 리뷰 건수만 알려 준다(웹앱이 '요약 대기'로 보여 준다). None = 아직 수집 안 함
+        b["reviewCount"] = review_count(b["id"])
     return dict(title=b["title"], author=b["author"], original=b["original"], cand=cand,
                 result={k2: v["status"] + ("|" + v.get("matched", "") if v.get("matched") else "")
                         for k2, v in stores.items()})
@@ -481,6 +506,19 @@ def enrich_all(books, on_done=None, workers=6):
     with ThreadPoolExecutor(max_workers=workers) as ex:
         list(ex.map(work, range(len(books))))
     return reports
+
+
+def review_count(book_id):
+    """수집해 둔 리뷰 건수. 수집한 적이 없으면 None, 수집처가 막혀 못 받았으면 -1."""
+    f = DATA / "reviews" / (book_id + ".json")
+    if not f.exists():
+        return None
+    try:
+        d = json.loads(f.read_text(encoding="utf-8"))
+        n = sum(len(v) for v in d["reviews"].values())
+        return -1 if n < 3 and d.get("failed") else n   # -1 = 수집처가 응답하지 않아 못 받음(다시 시도해야 함)
+    except (ValueError, KeyError):
+        return None
 
 
 _RBW = None

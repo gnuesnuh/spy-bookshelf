@@ -38,10 +38,16 @@ def keep(rows):
     return rows[:MAX_PER_SOURCE]
 
 
+_GR_FAILS = 0
+
+
 def goodreads(book):
     g = book.get("goodreads")
     if not g:
         return []
+    global _GR_FAILS
+    if _GR_FAILS >= 3:   # 연속 3권 실패 = 지금은 Goodreads 가 막힌 것 → 나머지는 건너뛴다(None = 수집 실패)
+        return None
     m = None
     for _ in range(4):  # Goodreads는 연속 요청 시 빈 페이지를 주기도 해서 천천히 재시도한다
         raw = fetch(g["url"])
@@ -50,7 +56,9 @@ def goodreads(book):
             break
         time.sleep(6)
     if not m:
-        return []
+        _GR_FAILS += 1
+        return None      # 리뷰가 없는 게 아니라 못 받은 것
+    _GR_FAILS = 0
     time.sleep(1.5)
     state = json.loads(m.group(1))["props"]["pageProps"]["apolloState"]
     return keep([dict(rating=v.get("rating"), likes=v.get("likeCount") or 0, text=clean(v.get("text")))
@@ -112,16 +120,23 @@ def main():
     books = [b for b in load_list(slug)["books"] if b.get("stores")]
     total = {k: 0 for k in COLLECTORS}
     for b in books:
-        got = {}
+        got, failed = {}, []
+        old_f = OUT / (b["id"] + ".json")
+        old = json.loads(old_f.read_text(encoding="utf-8")).get("reviews", {}) if old_f.exists() else {}
         for name, fn in COLLECTORS.items():
             try:
-                got[name] = fn(b)
+                rows = fn(b)
             except Exception as e:  # 한 수집처 실패가 전체를 막지 않게 한다
                 print("  !", b["title"], name, e, file=sys.stderr)
-                got[name] = []
+                rows = None
+            if rows is None:   # 수집 실패: 예전에 받아 둔 것이 있으면 그대로 두고, 실패했다고 적는다
+                rows = old.get(name) or []
+                if not rows:
+                    failed.append(name)
+            got[name] = rows
             total[name] += len(got[name])
         (OUT / (b["id"] + ".json")).write_text(json.dumps(
-            dict(id=b["id"], title=b["title"], original=b["original"], author=b["author"], reviews=got),
+            dict(id=b["id"], title=b["title"], original=b["original"], author=b["author"], reviews=got, failed=failed),
             ensure_ascii=False, indent=1), encoding="utf-8")
         print(b["title"], {k: len(v) for k, v in got.items()})
     print("합계", total)

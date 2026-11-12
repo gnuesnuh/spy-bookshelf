@@ -3,7 +3,7 @@
  "query": "블러프",
  "title": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
  "subtitle": "Shepherd 유사 도서, Five Books(Victoria Coren 포커 · Sebastian Park 의사결정), Nolan Dalla 포커 서사 Top10, Reddit(Gemini 경유), 커뮤니티(HN·Discourse) 언급 집계",
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "books": [
   {
    "category": "기준 도서",
@@ -17,6 +17,7 @@
    "id": "bluff-1",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "기준 도서",
    "stores": {
     "millie": {
      "status": "yes",
@@ -70,10 +71,30 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/103452901/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "심리학 박사인 저자가 포커를 배워 프로가 되는 과정에 의사결정과 운·실력의 균형을 엮은 책으로, 재치 있고 흥미롭다는 호평이 있다. 반면 회고록인지 자기계발서인지 방향이 모호하고 내용이 반복되며 서사가 늘어진다는 불만이 많다. 포커를 모르면 지루하고 문장이 어색하다는 평도 있다.",
+    "pros": [
+     "포커와 심리학·의사결정의 접목",
+     "유머와 이야기 중심 전개"
+    ],
+    "cons": [
+     "회고와 자기계발 사이의 초점 부족",
+     "반복적이고 늘어지는 서술",
+     "포커 비애호가에게 지루함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "c85382f5e006dbd913a160d593640bf6",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 논픽션: 같은 결",
+   "category": "미번역 명작",
    "title": "The Biggest Game in Town",
    "original": "The Biggest Game in Town",
    "author": "앨 앨버레즈|알 알바레즈",
@@ -84,6 +105,7 @@
    "id": "bluff-2",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 논픽션: 같은 결",
    "stores": {
     "millie": {
      "status": "no",
@@ -129,10 +151,30 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439010353i/848142._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "1981년 월드 시리즈 오브 포커 현장을 문학적 문장으로 생생하게 그려 포커 문학의 명작으로 꼽는 독자가 많다. 다만 전략보다 인물 이야기에 치우치고 구성이 들쭉날쭉해 따라가기 어렵다는 지적과 평범하다는 의견도 있다.",
+    "pros": [
+     "생생하고 뛰어난 문장",
+     "초창기 WSOP와 라스베이거스의 분위기",
+     "전설적 플레이어들의 이야기"
+    ],
+    "cons": [
+     "전략·수학 내용이 적음",
+     "인물 서술 구성이 산만함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "39533c43ae663b0d6ab9865bf78724de",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 논픽션: 같은 결",
+   "category": "미번역 명작",
    "title": "Positively Fifth Street",
    "original": "Positively Fifth Street",
    "author": "제임스 맥매너스",
@@ -143,6 +185,7 @@
    "id": "bluff-3",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 논픽션: 같은 결",
    "stores": {
     "millie": {
      "status": "no",
@@ -188,10 +231,30 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316136338i/113537._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "저자가 WSOP 결선 테이블까지 오른 경험은 소설처럼 짜릿하다는 평이 있다. 하지만 테드 비니언 살인 사건과 개인 이야기, 잡다한 곁가지가 뒤섞여 응집력이 떨어지고 분량을 채운 느낌이라는 불만이 반복된다.",
+    "pros": [
+     "대회 현장의 긴장감과 몰입감",
+     "논픽션답지 않은 읽는 재미"
+    ],
+    "cons": [
+     "살인 사건과의 억지스러운 연결",
+     "곁가지와 군더더기가 많음",
+     "포커를 모르면 이해하기 어려움"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "1a8bd8fd5d6c5cb36708518c15fdaa1f",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 논픽션: 같은 결",
+   "category": "미번역 명작",
    "title": "Big Deal",
    "original": "Big Deal",
    "author": "앤서니 홀든",
@@ -202,6 +265,7 @@
    "id": "bluff-4",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 논픽션: 같은 결",
    "stores": {
     "millie": {
      "status": "no",
@@ -247,10 +311,30 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482502834i/33551682._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "기자가 직장을 접고 프로 포커 선수에 도전하는 여정이 가볍고 재미있어 대리 체험하는 즐거움이 있다는 평이 많다. 다만 30년 전 책이라 전략과 시대상이 낡았고 일부 구간이 늘어지며 비슷한 포커 회고록과 비슷하다는 의견도 있다.",
+    "pros": [
+     "프로 포커 선수의 삶을 대리 체험",
+     "가볍고 재치 있는 문장",
+     "옛 포커 세계의 향수"
+    ],
+    "cons": [
+     "시대에 뒤처진 전략과 내용",
+     "일부 구간이 늘어짐"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "cb0d2334a49fa99deef7ade0c6aee758",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 논픽션: 같은 결",
+   "category": "미번역 명작",
    "title": "The Professor, the Banker, and the Suicide King",
    "original": "The Professor, the Banker, and the Suicide King",
    "author": "마이클 크레이그",
@@ -261,6 +345,7 @@
    "id": "bluff-5",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 논픽션: 같은 결",
    "stores": {
     "millie": {
      "status": "no",
@@ -306,10 +391,30 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442131683i/297764._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "억만장자 은행가가 최정상 프로들과 최고 판돈으로 맞붙는 실화를 인물 배경과 함께 흥미롭게 풀어 빠르게 읽힌다는 평이 많다. 다만 포커를 모르는 독자에게는 반복적일 수 있고, 가벼운 오락 이상의 깊이는 없다는 지적이 있다.",
+    "pros": [
+     "극적인 고액 대결 실화",
+     "인물들의 배경과 심리 묘사",
+     "가볍고 빠른 독서"
+    ],
+    "cons": [
+     "포커 지식이 없으면 반복적임",
+     "오락 이상의 깊이는 부족함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "d7cb318c7c5de5999199e9c654af8bc7",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 논픽션: 같은 결",
+   "category": "미번역 명작",
    "title": "Shut Up and Deal",
    "original": "Shut Up and Deal",
    "author": "제시 메이",
@@ -320,6 +425,7 @@
    "id": "bluff-6",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 논픽션: 같은 결",
    "stores": {
     "millie": {
      "status": "no",
@@ -365,10 +471,26 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578233i/1145418._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "포커 세계의 거칠고 현실적인 분위기를 살린 소설로, 규칙을 몰라도 읽히고 몰입된다는 평이 있다. 리뷰 수가 적고 반응이 갈리며, 프로 포커 선수의 삶이 정말 이럴까 의문이 든다는 의견과 끝까지 읽지 못했다는 반응도 있다.",
+    "pros": [
+     "현실감 있는 포커 세계 묘사",
+     "규칙을 몰라도 읽을 수 있음"
+    ],
+    "cons": [],
+    "domestic": "",
+    "sources": {
+     "goodreads": 8,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "424a95f68762a92f5884a903c4431e94",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 논픽션: 같은 결",
+   "category": "미번역 명작",
    "title": "The Noble Hustle",
    "original": "The Noble Hustle",
    "author": "콜슨 화이트헤드",
@@ -379,6 +501,7 @@
    "id": "bluff-7",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 논픽션: 같은 결",
    "stores": {
     "millie": {
      "status": "no",
@@ -424,10 +547,31 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377536871i/18310206._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "소설가의 건조한 유머와 문장력으로 WSOP 도전기를 재미있게 풀었다는 호평이 많다. 반면 포커보다 우울한 개인사와 곁가지가 많고 냉소가 과하며, 잡지 기사를 늘린 듯 억지스럽다는 불만도 있다.",
+    "pros": [
+     "재치 있고 매끄러운 문장",
+     "포커를 몰라도 즐길 수 있는 체험기",
+     "개성 있는 인물들"
+    ],
+    "cons": [
+     "곁가지와 푸념이 많음",
+     "냉소적이고 과한 농담",
+     "기사를 늘린 듯한 느낌"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "b428ebd839128c08ad8fd928f676828b",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 논픽션: 같은 결",
+   "category": "미번역 명작",
    "title": "The Moneymaker Effect",
    "original": "The Moneymaker Effect",
    "author": "에릭 래스킨",
@@ -438,6 +582,7 @@
    "id": "bluff-8",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 논픽션: 같은 결",
    "stores": {
     "millie": {
      "status": "no",
@@ -483,10 +628,28 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397430990i/21892558._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "2003년 WSOP 메인 이벤트를 여러 관계자의 증언으로 엮어 포커 붐의 시작을 이해하기 좋다는 평이 있다. 다만 리뷰가 적고, 같은 주장이 반복돼 책보다는 긴 블로그 글에 가깝다는 아쉬움이 있다.",
+    "pros": [
+     "포커 붐의 출발점을 보여줌",
+     "여러 인물 증언으로 구성한 구술사"
+    ],
+    "cons": [
+     "같은 이야기의 반복"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 4,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "ab728e75ef300809bd7ff7638e9616ab",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 논픽션: 같은 결",
+   "category": "미번역 명작",
    "title": "Cowboys Full",
    "original": "Cowboys Full",
    "author": "제임스 맥매너스",
@@ -497,6 +660,7 @@
    "id": "bluff-9",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 논픽션: 같은 결",
    "stores": {
     "millie": {
      "status": "no",
@@ -542,7 +706,26 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442424768i/6452737._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "포커의 기원부터 미국 역사와 정치까지 연결한 포커의 역사서로, 방대한 조사와 흥미로운 일화에 호평하는 독자가 많다. 반대로 곁가지 일화가 지나치게 많고 분량이 길어 지루하며 끝까지 읽지 못했다는 평도 많다.",
+    "pros": [
+     "포커의 역사와 미국 사회를 연결",
+     "흥미로운 일화와 충실한 조사"
+    ],
+    "cons": [
+     "곁가지 일화와 분량 과다",
+     "후반부 대회 결과 나열이 지루함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "47b90a3d64411d0309b526e1f91160f3",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "판단·확률·의사결정",
@@ -556,6 +739,7 @@
    "id": "bluff-10",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "판단·확률·의사결정",
    "stores": {
     "millie": {
      "status": "no",
@@ -611,7 +795,26 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/754024407/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "모든 결정은 확률적 베팅이며 결과와 결정의 질을 분리해 봐야 한다는 핵심 관점이 설득력 있다는 평이 많다. 후반부의 실천 기법도 유용하다고 한다. 하지만 이미 알려진 행동경제학 내용의 반복이고 같은 말이 길게 늘어져 지루하다는 불만이 영미권과 국내 모두에서 반복된다.",
+    "pros": [
+     "결정과 결과를 분리하는 관점",
+     "실천 가능한 기법 제시"
+    ],
+    "cons": [
+     "반복적이고 불필요하게 긴 구성",
+     "기존 인지편향 책과 겹치는 내용"
+    ],
+    "domestic": "국내 독자들도 문제의식은 좋지만 방법이 부족하고 사례가 길게 나열되어 지루하다고 하며, 포커를 모르면 와닿지 않는다는 의견도 있다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 3,
+     "yes24": 0
+    },
+    "hash": "57b6b810481be5ece2a158a854a384bd",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "판단·확률·의사결정",
@@ -625,6 +828,7 @@
    "id": "bluff-11",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "판단·확률·의사결정",
    "stores": {
     "millie": {
      "status": "no",
@@ -679,8 +883,28 @@
     "date": "2022",
     "verdict": "confirmed"
    },
+   "cover": "https://img.ridicdn.net/cover/1546000945/xlarge",
    "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/1546000945/xlarge"
+   "review": {
+    "text": "판단의 일관성 부족, 곧 노이즈를 편향과 구분해 다룬 점이 새롭고 유익하다는 평이 있다. 그러나 전작처럼 강렬한 개념이 없고 통계 설명이 장황하거나 수준이 들쭉날쭉하며, 이야기 위주라 딱딱하고 지루하다는 불만이 강하다. 평가가 극단으로 갈리는 편이다.",
+    "pros": [
+     "노이즈와 편향을 구분한 문제의식",
+     "의료·사법 등 풍부한 사례"
+    ],
+    "cons": [
+     "전작만 못한 참신함",
+     "장황하고 지루한 서술",
+     "독자 수준이 불분명한 통계 설명"
+    ],
+    "domestic": "국내 독자 리뷰는 한 건뿐이며, 전작과 같은 중요성을 기대하면 다르고 타인 연구의 요약과 중복 설명이 많다는 점을 짚으면서도 높게 평가했다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 1,
+     "yes24": 0
+    },
+    "hash": "c0cf25d1ba9fe00a8c26a13c00b9e5a6",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "판단·확률·의사결정",
@@ -694,6 +918,7 @@
    "id": "bluff-12",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "판단·확률·의사결정",
    "stores": {
     "millie": {
      "status": "no",
@@ -749,7 +974,28 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/1546001153/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "직관적 사고와 숙고적 사고라는 틀로 인간의 인지 편향을 설명한 고전으로, 행동경제학의 핵심을 한 권에 담았다는 극찬이 많다. 반면 분량이 방대하고 서술이 장황해 읽는 데 오래 걸리며 졸리다는 불만이 꽤 있다. 실생활 활용법을 기대하면 아쉽다는 평도 있다.",
+    "pros": [
+     "인지 편향에 대한 깊은 통찰",
+     "풍부한 실험과 연구 근거",
+     "행동경제학 핵심 총정리"
+    ],
+    "cons": [
+     "방대하고 읽기 힘든 분량",
+     "장황하고 학술적인 서술",
+     "실용적 조언이 적음"
+    ],
+    "domestic": "국내 독자들은 번역이 안정적이고 자신의 착각과 편향을 깨닫게 해 준다고 호평하는 한편, 실험 설명이 빽빽해 어렵고 두께가 부담스럽다는 의견도 있다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 6,
+     "yes24": 0
+    },
+    "hash": "adc1d1f0a3a4b5235a9d48e0aad2fd26",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "판단·확률·의사결정",
@@ -763,6 +1009,7 @@
    "id": "bluff-13",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "판단·확률·의사결정",
    "stores": {
     "millie": {
      "status": "no",
@@ -818,7 +1065,28 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/862000678/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "예측 능력이 뛰어난 일반인들의 방식을 통해 지적 겸손과 열린 사고, 수치로 예측하고 계속 수정하는 태도의 가치를 보여 준다는 호평이 많다. 이야기 구성도 좋다는 평이다. 다만 중반 이후 같은 내용이 되풀이되고 다른 책의 요약처럼 느껴지며 구체적 방법론이 약하다는 불만이 있다.",
+    "pros": [
+     "지적 겸손과 열린 사고 강조",
+     "이야기가 풍부해 읽기 좋음",
+     "실용적인 사고 지침"
+    ],
+    "cons": [
+     "후반 반복으로 지루함",
+     "명확한 방법론 부족",
+     "기존 책과 겹치는 내용"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "daf544b3982eda4b26c7b5874fdcc190",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "판단·확률·의사결정",
@@ -832,6 +1100,7 @@
    "id": "bluff-14",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "판단·확률·의사결정",
    "stores": {
     "millie": {
      "status": "no",
@@ -887,7 +1156,27 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/754052366/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "정치, 날씨, 야구, 포커 등 다양한 분야의 예측 사례와 베이즈 사고를 설명한 점이 흥미롭고 읽기 쉽다는 평이 있다. 반면 일부 장은 지루하고 다른 책의 재탕 같으며, 철학자에 대한 무리한 주장이나 과도한 확신을 지적하는 비판도 많다. 평가가 크게 엇갈린다.",
+    "pros": [
+     "다양한 분야의 사례",
+     "베이즈 사고의 명쾌한 설명"
+    ],
+    "cons": [
+     "지루한 일부 장",
+     "다른 책의 재탕 느낌",
+     "과도한 자신감과 얕은 분석"
+    ],
+    "domestic": "국내 리뷰는 한 건뿐이며, 짧은 주장에 비해 설명이 장황하고 과도해 설득보다 짜증이 앞선다고 평가했다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 1,
+     "yes24": 0
+    },
+    "hash": "fb4495643fce05af5f91714831bf9d58",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "판단·확률·의사결정",
@@ -901,6 +1190,7 @@
    "id": "bluff-15",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "판단·확률·의사결정",
    "stores": {
     "millie": {
      "status": "no",
@@ -956,7 +1246,28 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/593000981/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "방어에 급급한 병사 대신 현실을 있는 그대로 보려는 정찰병 사고방식을 제안하며, 명료한 사례와 실천 방법으로 호평을 받는다. 지적 정직성에 대한 쉬운 입문서라는 평이다. 반면 사례를 늘려 분량을 채운 느낌이고 학술적 깊이가 부족하며 자기만족적인 어조가 거슬린다는 불만도 있다.",
+    "pros": [
+     "명확한 개념 틀과 실천 사례",
+     "쉽고 잘 읽히는 서술",
+     "지적 정직성을 일깨움"
+    ],
+    "cons": [
+     "사례 나열로 분량 채움",
+     "학술적 깊이 부족",
+     "다소 자기만족적인 어조"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "022370df3fceeae5266d1ba6652a6601",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "판단·확률·의사결정",
@@ -970,6 +1281,7 @@
    "id": "bluff-16",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "판단·확률·의사결정",
    "stores": {
     "millie": {
      "status": "no",
@@ -1021,7 +1333,28 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/43259759/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "현재를 과거처럼 바라보며 우리가 틀렸을 가능성을 문화, 과학, 역사 등에 걸쳐 던지는 사고실험이 흥미롭고 재치 있다는 평이 많다. 저자의 글솜씨도 호평받는다. 하지만 답 없이 질문만 이어져 허무하고 자기비하식 어투가 거슬리며, 스포츠와 TV 대목은 취향을 탄다는 불만이 있다.",
+    "pros": [
+     "신선한 발상의 사고실험",
+     "재치 있는 글솜씨",
+     "다양한 분야를 넘나드는 논의"
+    ],
+    "cons": [
+     "뚜렷한 결론 없음",
+     "자기비하식 어투와 곁가지",
+     "스포츠·TV 부분은 호불호"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "27cad557472371036f925bd3cc6f7466",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "판단·확률·의사결정",
@@ -1035,6 +1368,7 @@
    "id": "bluff-17",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "판단·확률·의사결정",
    "stores": {
     "millie": {
      "status": "no",
@@ -1086,10 +1420,30 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/5840367/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "재정이 부족한 오클랜드 애슬레틱스가 통계로 저평가 선수를 찾아 승리하는 과정을 흥미진진하게 쓴 책으로, 저자의 이야기 솜씨와 쉬운 설명이 호평받는다. 약자의 반전 서사로도 즐길 수 있다. 다만 기술적 내용이 반복적이고 인물 이야기가 기대보다 적으며 야구에 관심이 없으면 덜 와닿는다는 평이 있다.",
+    "pros": [
+     "약자의 반전 서사",
+     "어려운 통계를 쉽게 풀어낸 이야기 솜씨",
+     "야구 문화에 던진 통찰"
+    ],
+    "cons": [
+     "기술적이고 반복적인 부분",
+     "인물 서사가 기대보다 약함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "91d4b2e31a78766dcc5c9ec03bd959d6",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 실전서",
+   "category": "미번역 명작",
    "title": "The Theory of Poker",
    "original": "The Theory of Poker",
    "author": "데이비드 스클랜스키",
@@ -1100,6 +1454,7 @@
    "id": "bluff-18",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 실전서",
    "stores": {
     "millie": {
      "status": "no",
@@ -1145,10 +1500,30 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348281049i/104825._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "포커 이론서의 기본서로 꼽는 독자가 많고, 팟 오즈와 슬로플레이, 블러프 전략 등을 체계적으로 다룬다는 평이 많다. 반면 수학적이고 밀도가 높아 초보자에게는 어렵고, 여러 게임을 오가며 설명해 산만하다는 불만이 있다.",
+    "pros": [
+     "포커 전략의 기본기를 체계적으로 정리",
+     "게임 이론에 기댄 블러프 설명",
+     "반복해서 참고할 만한 가치"
+    ],
+    "cons": [
+     "초보자에게는 어렵고 수학적임",
+     "여러 포커 종류를 오가 산만함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "dba0457f9f780faa80e2567c8b22c034",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 실전서",
+   "category": "미번역 명작",
    "title": "Harrington on Hold'em",
    "original": "Harrington on Hold'em",
    "author": "댄 해링턴",
@@ -1159,6 +1534,7 @@
    "id": "bluff-19",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 실전서",
    "stores": {
     "millie": {
      "status": "no",
@@ -1204,10 +1580,30 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1190189009i/1910556._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "토너먼트 홀덤의 정석으로 평가받으며, 포지션과 베팅 크기 등 전략을 챕터마다 실제 핸드 예제로 풀어 실전에 바로 적용하기 좋다는 호평이 많다. 불만은 문제 페이지 편집이 아쉽고 포커 규칙을 모르는 입문자에게는 맞지 않는다는 점 정도다.",
+    "pros": [
+     "챕터별 실전 예제와 연습 문제",
+     "보수적이고 논리적인 전략 설명",
+     "토너먼트 플레이에 바로 적용 가능"
+    ],
+    "cons": [
+     "문제 페이지 구성이 불편함",
+     "기초 규칙을 알려주지 않음"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "853e1cb5eeacee8a90ad9fb806725b7f",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "포커 실전서",
+   "category": "미번역 명작",
    "title": "The Mental Game of Poker",
    "original": "The Mental Game of Poker",
    "author": "재러드 텐들러",
@@ -1218,6 +1614,7 @@
    "id": "bluff-20",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "포커 실전서",
    "stores": {
     "millie": {
      "status": "no",
@@ -1263,7 +1660,27 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305747330i/11397703._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "틸트와 감정 관리를 원인부터 파고들어 구체적인 연습으로 풀어낸 점에서 포커 멘탈 분야의 필독서로 호평받는다. 포커 밖의 트레이딩이나 일상에도 적용된다는 반응이 있으나, 같은 내용을 맴돌고 저자 상담 홍보가 많다는 불만도 있다.",
+    "pros": [
+     "틸트의 원인을 구조적으로 분석",
+     "직접 해볼 수 있는 연습 과제",
+     "포커 외 분야에도 응용 가능"
+    ],
+    "cons": [
+     "내용이 반복되고 겉돎",
+     "상담 홍보 성격이 강함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "ed0283eaee3ba84f6226cf1a29aab817",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
@@ -1277,6 +1694,7 @@
    "id": "bluff-21",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "속임수·심리 (저자의 다른 결)",
    "stores": {
     "millie": {
      "status": "yes",
@@ -1334,7 +1752,26 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/703000404/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "사기가 진행되는 단계별로 심리 원리를 설명하고 실제 사기 사례를 곁들여 흥미롭다는 평이 있다. 그러나 구성이 어수선하고 같은 이야기가 되풀이되며, 사기를 피하는 실용적 조언이 부족하고 이미 아는 내용이라는 불만이 이어진다.",
+    "pros": [
+     "다양한 사기 사례와 일화",
+     "사기에 속는 심리 원리 설명"
+    ],
+    "cons": [
+     "반복적이고 구성이 산만함",
+     "예방 조언이 부족하고 새롭지 않음"
+    ],
+    "domestic": "국내 독자들은 사기꾼의 심리 요소를 잘 설명했고 사기를 피하려는 사람에게 필독서가 될 만하다고 평가한다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 2,
+     "yes24": 0
+    },
+    "hash": "bdf1523aee71ef1cb0ce178d7d24ea28",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
@@ -1348,6 +1785,7 @@
    "id": "bluff-22",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "속임수·심리 (저자의 다른 결)",
    "stores": {
     "millie": {
      "status": "no",
@@ -1398,7 +1836,27 @@
     "verdict": "likely"
    },
    "cover": "https://image.yes24.com/goods/9453519/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "셜록 홈스의 사고법을 심리학 연구와 연결해 정신 습관을 돌아보게 한다는 긍정 평가가 있다. 하지만 새로울 것 없는 상식을 장황하게 늘어놓고, 실용 지침보다 홈스에 대한 헌사에 가깝다는 혹평이 많아 호불호가 크게 갈린다.",
+    "pros": [
+     "홈스 사례로 풀어낸 사고 습관",
+     "읽는 재미와 환기 효과"
+    ],
+    "cons": [
+     "새로운 내용이 없고 장황함",
+     "홈스 찬양에 치우쳐 실용성이 낮음",
+     "근거와 연구가 빈약함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "c83e5a68fa07918cb77d6d99d2bda962",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
@@ -1412,6 +1870,7 @@
    "id": "bluff-23",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "속임수·심리 (저자의 다른 결)",
    "stores": {
     "millie": {
      "status": "no",
@@ -1470,7 +1929,27 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/606001533/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "기억의 궁전 같은 기억술과 그 역사, 저자가 1년간 훈련해 챔피언이 되는 과정을 취재 형식으로 엮어 재미있고 동기부여가 된다는 평이 많다. 반면 구체적인 암기 방법서로는 부족하고 분량이 길며 쓸모없는 곁가지가 많다는 불만도 있다.",
+    "pros": [
+     "기억술의 역사와 원리를 흥미롭게 소개",
+     "훈련 과정을 담은 생생한 체험기",
+     "동기부여가 됨"
+    ],
+    "cons": [
+     "구체적인 방법론이 부족함",
+     "곁가지가 많고 길다"
+    ],
+    "domestic": "국내 독자들은 기억술 입문과 흥미로운 체험담으로 호평하는 반면, 구체적인 암기법을 원하면 국내 서적이 더 낫다는 의견이 있다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 10,
+     "yes24": 5
+    },
+    "hash": "f6bba20dda1f3b323a3adad1ec7b1955",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
@@ -1484,6 +1963,7 @@
    "id": "bluff-24",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "속임수·심리 (저자의 다른 결)",
    "stores": {
     "millie": {
      "status": "no",
@@ -1535,7 +2015,27 @@
     "verdict": "likely"
    },
    "cover": "https://image.yes24.com/goods/329172/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "사기극이 점점 커지는 과정이 스릴러처럼 술술 읽히고 저자의 대담함이 매력적이라는 평이 많다. 한편 증거 없이 과장된 이야기 같다는 의심과 여성을 깎아내리는 표현, 영화보다 못하다는 평가가 비판으로 나온다.",
+    "pros": [
+     "스릴러처럼 빠르게 읽히는 재미",
+     "저자의 자신감과 기발한 수법"
+    ],
+    "cons": [
+     "사실성이 의심스러운 과장",
+     "여성 비하 표현",
+     "영화를 봤다면 새로울 것이 적음"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "3a22b1246581964e41abecc536cb223b",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
@@ -1549,6 +2049,7 @@
    "id": "bluff-25",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "속임수·심리 (저자의 다른 결)",
    "stores": {
     "millie": {
      "status": "no",
@@ -1599,10 +2100,31 @@
     "verdict": "likely"
    },
    "cover": "https://image.yes24.com/goods/407052/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "진화심리학으로 연애, 이타성, 도덕의 기원을 설명해 인간 행동을 새롭게 보게 한다는 호평이 많다. 반대로 증거 없이 추측으로 설명을 늘린다는 비판과 초점이 흐려진 구성, 성차별을 정당화한다는 반감도 적지 않다.",
+    "pros": [
+     "인간관계와 도덕을 진화로 설명",
+     "재치 있고 사고를 자극하는 서술",
+     "다윈 일화"
+    ],
+    "cons": [
+     "근거 없는 추측성 설명",
+     "초점 없이 흐트러진 구성",
+     "성차별 정당화 논란"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "ef65329c2c5df753b14e28d8ae6b2b3d",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "category": "소설로 이어 읽기",
+   "category": "미번역 명작",
    "title": "The Cincinnati Kid",
    "original": "The Cincinnati Kid",
    "author": "리처드 제섭",
@@ -1613,6 +2135,7 @@
    "id": "bluff-26",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
+   "group": "소설로 이어 읽기",
    "stores": {
     "millie": {
      "status": "no",
@@ -1658,7 +2181,27 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372651657i/1002728._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "젊은 포커 선수가 최강자에게 도전하는 이야기를 짧고 속도감 있게 그려 포커를 몰라도 빠져든다는 평이 있다. 반면 스터드 포커 규칙을 모르면 대결 장면이 어렵고, 긴장감과 인물 묘사가 약하며 영화나 더 허슬러보다 못하다는 평가가 많다.",
+    "pros": [
+     "짧고 빠른 전개",
+     "도박꾼 세계의 분위기"
+    ],
+    "cons": [
+     "대결 장면의 긴장감 부족",
+     "인물 묘사가 약함",
+     "포커 용어를 모르면 어려움"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "3c045dc4a0c2391f07ad4bbdd287f4c5",
+    "by": "Claude(세션 내 요약)"
+   }
   }
  ]
 }

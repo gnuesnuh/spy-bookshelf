@@ -6,6 +6,7 @@
   try { saved = localStorage.getItem(LIST_KEY); } catch (e) { saved = null; }
   var fromUrl = new URLSearchParams(location.search).get("list");
   var DATA = LISTS.filter(function (l) { return l.slug === (fromUrl || saved); })[0] || LISTS[0] || { books: [], title: "", updated: "" };
+  DATA.books.forEach(function (b) { b.author = (b.author || "").split("|")[0].trim(); });   // 표기 변형은 첫 번째만 보여 준다
   var EMPTY = { millie: { status: "pending" }, ridi: { status: "pending" }, crema: { status: "pending" }, yes24: { status: "pending" } };
   var KEY = "books.overrides.v1";
 
@@ -170,7 +171,8 @@
       topRow.appendChild(img);
     }
     var info = el("div", "info");
-    info.appendChild(el("div", "cat", book.category));
+    info.appendChild(el("div", "cat", (book.tier ? book.tier + "순위 · " : "") + book.category
+      + (book.group && book.group !== book.category ? " · " + book.group : "")));
     var t = el("h2", "title", book.title);
     var kv = (book.korean || {}).verdict;
     if (kv === "none") t.appendChild(el("span", "badge", "국내판 없음"));
@@ -203,7 +205,9 @@
       if (n.yes24) parts.push("YES24 " + n.yes24);
       head.appendChild(el("p", "src", "독자 리뷰 요약 · " + parts.join(" · ") + "건"));
     } else {
-      head.appendChild(el("p", "src", "추천 포인트 (독자 리뷰 요약 전)"));
+      var rc = book.reviewCount;
+      head.appendChild(el("p", "src", "추천 포인트 · " + (isPending(book) ? "독자 리뷰는 국내 정보 조회 뒤 수집"
+        : rc == null ? "독자 리뷰 수집 전" : rc < 0 ? "독자 리뷰 수집 보류(수집처 응답 제한) · 나중에 다시 시도" : rc >= 3 ? "독자 리뷰 " + rc + "건 수집됨 · 요약 대기" : rc ? "독자 리뷰 " + rc + "건뿐(요약 생략)" : "수집된 독자 리뷰 없음")));
     }
     var dots = el("div", "dots");
     if (isPending(book)) dots.appendChild(el("span", "dot wait", "국내 정보 조회 중…"));

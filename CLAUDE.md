@@ -7,6 +7,9 @@
 ## 열린 요청
 `docs/requests/`의 상태 '대기' 요청서를 먼저 확인한다. 로컬 PC에서 실행 중이면 처리하고 결과를 요청서에 기록한다.
 - REQ-001 Reddit 공개 JSON 수집 — 완료(실패: PC에서도 403). Reddit은 Gemini 경유로 대체됨
+- **REQ-002 추천 목록 작성 절차 공유 — 대기.** `docs/PLAYBOOK.md`를 읽고 요청서에 답을 적는다
+
+**추천 목록을 만들 때는 `docs/PLAYBOOK.md`를 따른다** (단계 0 도서 성격 분석 → 소스 수집 → 집계 → 단계 확장 → build_query → 검수).
 
 ## 출력 기준 (정답 형식)
 기존 Google 시트(ID `10hYwTqAXoqn-qZ3u1YCN4RVWBhYQGTcBXctbljjc9mQ`, 로컬 사본 `data/sheet.xlsx`)와 같은 열 구성:
@@ -75,7 +78,12 @@ python scripts/make_gold.py                         # 채점 결과 + 수동 판
 python scripts/yes24_lookup.py "검색어" ...          # YES24 수동 조회
 ```
 - 요청은 `data/cache/`에 URL 해시로 캐시. 빈 응답은 캐시하지 않음. 호스트별 최소 간격: 기본 0.6초, YES24 API 0.25초, Goodreads 1.5초.
-- 새 추천 질의 순서: 목록 작성 → `build_query <slug> --list` 후 푸시(목록 먼저 공개) → `build_query <slug>` 후 푸시 → 리뷰·영상화 수집 → 요약 → `build_query <slug>` 후 푸시.
+- 새 추천 질의 순서 (끝까지 가야 한다 — 리뷰 요약을 빼먹으면 웹앱에 '요약 대기'가 계속 남는다):
+  1. 목록 작성 → `build_query <slug> --list` 후 푸시(목록 먼저 공개)
+  2. `build_query <slug>` — 국내 정보 부착 + 독자 리뷰 수집까지 한 번에 한다 → 푸시
+  3. 끝에 출력되는 '요약 대기' 책들의 `data/reviews/<id>.json`을 읽고 요약 → `data/summaries_part_N.json` → `merge_summaries.py`
+     (요약 형식: text 2~3문장, pros/cons 각 0~3개, domestic 한 문장 또는 "". 리뷰에 적힌 내용만 쓴다)
+  4. `collect_adaptations.py <slug>` → `build_query <slug> --no-reviews` → 푸시
 - 캐시가 없을 때 24권 국내 정보 부착은 1분 안팎(이전 순차 방식은 약 7분).
 - 이 폴더에서는 파일 삭제가 막혀 있을 수 있다(원격 세션). 캐시는 덮어쓰기로 갱신.
 

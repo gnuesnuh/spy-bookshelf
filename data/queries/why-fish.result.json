@@ -6,17 +6,18 @@
  "updated": "2026-11-13",
  "books": [
   {
-   "id": "why-fish-1",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "같은 결: 과학×회고록",
    "title": "물고기는 존재하지 않는다",
    "original": "Why Fish Don't Exist",
    "author": "룰루 밀러",
    "awards": "기준 도서 · Goodreads Choice 2020 과학 부문 후보 · WaPo·NPR 2020 올해의 책",
    "summary": "분류학자 데이비드 스타 조던의 집착과 몰락을 따라가며 상실을 견디는 법을 묻는 과학 회고록. 후반부의 반전과 '질서'에 대한 질문이 핵심.",
-   "note": "",
    "grq": "Why Fish Don't Exist",
+   "note": "",
+   "id": "why-fish-1",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "같은 결: 과학×회고록",
    "stores": {
     "millie": {
      "status": "yes",
@@ -105,17 +106,18 @@
    }
   },
   {
-   "id": "why-fish-2",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "같은 결: 과학×회고록",
    "title": "자연에 이름 붙이기",
    "original": "Naming Nature",
    "author": "캐럴 계숙 윤",
    "awards": "『물고기는…』 결말의 '물고기라는 범주는 없다' 논거의 원전 · 같은 역자(정지인)",
    "summary": "인간이 생물을 분류하는 직관(움벨트)과 분기학이 충돌하는 과정을 다룬 책. 『물고기는…』의 반전이 어디서 왔는지 그대로 이어 읽을 수 있다.",
-   "note": "",
    "grq": "Naming Nature",
+   "note": "",
+   "id": "why-fish-2",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "같은 결: 과학×회고록",
    "stores": {
     "millie": {
      "status": "yes",
@@ -203,17 +205,18 @@
    }
   },
   {
-   "id": "why-fish-3",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "같은 결: 과학×회고록",
    "title": "메이블 이야기",
    "original": "H Is for Hawk",
    "author": "헬렌 맥도널드",
    "awards": "2014 새뮤얼 존슨상(현 베일리 기퍼드상) · 2014 코스타 올해의 책",
    "summary": "아버지를 잃은 작가가 참매를 길들이며 슬픔을 통과하는 회고록. 자연 관찰과 애도가 겹치는 구조가 『물고기는…』과 가장 닮았다.",
-   "note": "",
    "grq": "H Is for Hawk",
+   "note": "",
+   "id": "why-fish-3",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "같은 결: 과학×회고록",
    "stores": {
     "millie": {
      "status": "no",
@@ -296,17 +299,18 @@
    }
   },
   {
-   "id": "why-fish-4",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "같은 결: 과학×회고록",
    "title": "저녁의 비행",
    "original": "Vesper Flights",
    "author": "헬렌 맥도널드",
    "awards": "Goodreads Choice 2020 과학 부문 후보",
    "summary": "새·곤충·사슴을 관찰한 41편의 에세이. 짧게 끊어 읽기 좋고 문장의 밀도가 높다.",
-   "note": "",
    "grq": "Vesper Flights",
+   "note": "",
+   "id": "why-fish-4",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "같은 결: 과학×회고록",
    "stores": {
     "millie": {
      "status": "no",
@@ -389,17 +393,18 @@
    }
   },
   {
-   "id": "why-fish-5",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "같은 결: 과학×회고록",
    "title": "삶, 죽음, 그리고 세상에서 가장 신비로운 물고기",
    "original": "The Book of Eels",
    "author": "패트릭 스벤손",
    "awards": "2019 스웨덴 아우구스트상(논픽션) · 원제 부제 'A Father, a Son and the World's Most Enigmatic Fish'",
    "summary": "아버지와 장어를 잡던 기억과 장어 생태의 미스터리를 번갈아 쓴 책. 한 생물에 대한 집착과 가족사가 겹친다는 점에서 가장 가까운 짝.",
-   "note": "",
    "grq": "The Book of Eels",
+   "note": "",
+   "id": "why-fish-5",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "같은 결: 과학×회고록",
    "stores": {
     "millie": {
      "status": "no",
@@ -477,17 +482,18 @@
    }
   },
   {
-   "id": "why-fish-6",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "같은 결: 과학×회고록",
    "title": "랩걸",
    "original": "Lab Girl",
    "author": "호프 자런",
    "awards": "2016 전미도서비평가협회상(자서전)",
    "summary": "식물학자의 연구실 생활과 조울증, 동료와의 우정을 나무 이야기와 엮은 회고록. 과학자가 쓴 문학적 자서전의 대표작.",
-   "note": "",
    "grq": "Lab Girl",
+   "note": "",
+   "id": "why-fish-6",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "같은 결: 과학×회고록",
    "stores": {
     "millie": {
      "status": "yes",
@@ -575,17 +581,18 @@
    }
   },
   {
-   "id": "why-fish-7",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "같은 결: 과학×회고록",
    "title": "수영의 이유",
    "original": "Why We Swim",
    "author": "보니 추이",
    "awards": "Goodreads Choice 2020 과학 부문 후보",
    "summary": "생존·건강·공동체·몰입·경쟁의 다섯 갈래로 인간이 왜 헤엄치는지 탐구한 에세이. 가볍게 읽히는 과학 저널리즘.",
-   "note": "",
    "grq": "Why We Swim",
+   "note": "",
+   "id": "why-fish-7",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "같은 결: 과학×회고록",
    "stores": {
     "millie": {
      "status": "no",
@@ -665,17 +672,18 @@
    }
   },
   {
-   "id": "why-fish-8",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "분류·진화·생명의 질서",
    "title": "내 안의 물고기",
    "original": "Your Inner Fish",
    "author": "닐 슈빈",
    "awards": "PBS 3부작 다큐멘터리 원작 · 틱타알릭 발견자",
    "summary": "인간의 손·이빨·귀 속에 남은 물고기 시절의 흔적을 해부학으로 짚는다. '물고기'라는 범주를 다른 각도에서 다시 보게 한다.",
-   "note": "",
    "grq": "Your Inner Fish",
+   "note": "",
+   "id": "why-fish-8",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "분류·진화·생명의 질서",
    "stores": {
     "millie": {
      "status": "no",
@@ -754,17 +762,18 @@
    }
   },
   {
-   "id": "why-fish-9",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "분류·진화·생명의 질서",
    "title": "유전자의 내밀한 역사",
    "original": "The Gene",
    "author": "싯다르타 무케르지",
    "awards": "NYT 베스트셀러",
    "summary": "멘델부터 유전자 편집까지의 역사. 조던이 앞장선 우생학 운동이 어떻게 국가 폭력이 됐는지 더 넓은 맥락에서 보여준다.",
-   "note": "",
    "grq": "The Gene: An Intimate History",
+   "note": "",
+   "id": "why-fish-9",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "분류·진화·생명의 질서",
    "stores": {
     "millie": {
      "status": "no",
@@ -790,6 +799,7 @@
      "note": "검색 결과 없음",
      "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EB%82%B4%EB%B0%80%ED%95%9C%20%EC%97%AD%EC%82%AC",
      "sheet": "",
+     "bookRating": 9.1,
      "paper": {
       "status": "판매중",
       "url": "https://www.yes24.com/product/goods/36954725",
@@ -807,12 +817,12 @@
     "url": "https://www.goodreads.com/book/show/27276428-the-gene"
    },
    "korean": {
-    "how": "서점 제목 일치",
+    "how": "원제 일치",
     "title": "유전자의 내밀한 역사",
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "likely"
+    "original": " The gene: An intimate history",
+    "publisher": "까치(까치글방)",
+    "date": "2017",
+    "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/36954725/L",
    "untranslated": false,
@@ -842,17 +852,18 @@
    }
   },
   {
-   "id": "why-fish-10",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "분류·진화·생명의 질서",
    "title": "여섯 번째 대멸종",
    "original": "The Sixth Extinction",
    "author": "엘리자베스 콜버트",
    "awards": "2015 퓰리처상 일반 논픽션",
    "summary": "현재 진행 중인 대멸종을 현장 취재로 기록. 자연의 질서가 인간 때문에 어떻게 무너지는지 냉정하게 보여준다.",
-   "note": "",
    "grq": "The Sixth Extinction",
+   "note": "",
+   "id": "why-fish-10",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "분류·진화·생명의 질서",
    "stores": {
     "millie": {
      "status": "yes",
@@ -940,17 +951,18 @@
    }
   },
   {
-   "id": "why-fish-11",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "분류·진화·생명의 질서",
    "title": "작은 것들이 만든 거대한 세계",
    "original": "Entangled Life",
    "author": "멀린 셸드레이크",
    "awards": "2021 왕립학회 과학도서상 · Goodreads Choice 2020 과학 부문 4위",
    "summary": "균류의 네트워크가 숲과 인간의 몸, 생태계를 어떻게 엮는지. '개체'와 '종'의 경계를 흔드는 점이 『물고기는…』의 문제의식과 맞닿는다.",
-   "note": "",
    "grq": "Entangled Life",
+   "note": "",
+   "id": "why-fish-11",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "분류·진화·생명의 질서",
    "stores": {
     "millie": {
      "status": "yes",
@@ -1039,17 +1051,18 @@
    }
   },
   {
-   "id": "why-fish-12",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "분류·진화·생명의 질서",
    "title": "이토록 굉장한 세계",
    "original": "An Immense World",
    "author": "에드 용",
    "awards": "NYT 2022 올해의 책 10권",
    "summary": "동물마다 다른 감각 세계(움벨트)를 탐험하는 책. 인간 중심의 분류를 내려놓게 만든다.",
-   "note": "",
    "grq": "An Immense World",
+   "note": "",
+   "id": "why-fish-12",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "분류·진화·생명의 질서",
    "stores": {
     "millie": {
      "status": "no",
@@ -1132,17 +1145,18 @@
    }
   },
   {
-   "id": "why-fish-13",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "분류·진화·생명의 질서",
    "title": "내 속엔 미생물이 너무도 많아",
    "original": "I Contain Multitudes",
    "author": "에드 용",
    "awards": "NYT 베스트셀러",
    "summary": "모든 생물이 미생물과 공생하는 '집합체'라는 시각. 개체라는 경계 자체를 다시 묻는다.",
-   "note": "",
    "grq": "I Contain Multitudes",
+   "note": "",
+   "id": "why-fish-13",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "분류·진화·생명의 질서",
    "stores": {
     "millie": {
      "status": "no",
@@ -1224,17 +1238,18 @@
    }
   },
   {
-   "id": "why-fish-14",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "동물의 마음과 자연 관찰",
    "title": "문어의 영혼",
    "original": "The Soul of an Octopus",
    "author": "사이 몽고메리",
    "awards": "2015 전미도서상 논픽션 최종 후보",
    "summary": "수족관 문어들과 교감하며 의식과 마음의 경계를 탐색한 기록. 따뜻한 문체의 자연 에세이.",
-   "note": "",
    "grq": "The Soul of an Octopus",
+   "note": "",
+   "id": "why-fish-14",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "동물의 마음과 자연 관찰",
    "stores": {
     "millie": {
      "status": "no",
@@ -1314,17 +1329,18 @@
    }
   },
   {
-   "id": "why-fish-15",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "동물의 마음과 자연 관찰",
    "title": "아더 마인즈",
    "original": "Other Minds",
    "author": "피터 고프리스미스",
    "awards": "철학자의 두족류 의식 연구 · 2026 재출간",
    "summary": "문어를 통해 마음의 진화를 철학적으로 추적. 『문어의 영혼』과 짝으로 읽기 좋다.",
-   "note": "",
    "grq": "Other Minds",
+   "note": "",
+   "id": "why-fish-15",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "동물의 마음과 자연 관찰",
    "stores": {
     "millie": {
      "status": "no",
@@ -1407,17 +1423,18 @@
    }
   },
   {
-   "id": "why-fish-16",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "동물의 마음과 자연 관찰",
    "title": "새들의 방식",
    "original": "The Bird Way",
    "author": "제니퍼 애커먼",
    "awards": "Goodreads Choice 2020 과학 부문 후보",
    "summary": "새들의 소통·작업·놀이·양육·사고 방식을 최신 연구로 정리. 관찰의 즐거움이 큰 책.",
-   "note": "",
    "grq": "The Bird Way",
+   "note": "",
+   "id": "why-fish-16",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "동물의 마음과 자연 관찰",
    "stores": {
     "millie": {
      "status": "no",
@@ -1465,12 +1482,12 @@
     "url": "https://www.goodreads.com/book/show/51802456-the-bird-way"
    },
    "korean": {
-    "how": "서점 제목 일치",
+    "how": "원제 일치",
     "title": "새들의 방식",
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "likely"
+    "original": "The Bird Way: A New Look at How Birds Talk, Work, Play, Parent, and Think",
+    "publisher": "까치(까치글방)",
+    "date": "2022",
+    "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/1669000063/xlarge",
    "untranslated": false,
@@ -1501,17 +1518,18 @@
    }
   },
   {
-   "id": "why-fish-17",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "동물의 마음과 자연 관찰",
    "title": "동쪽 빙하의 부엉이",
    "original": "Owls of the Eastern Ice",
    "author": "조너선 C. 슬래트",
    "awards": "2021 PEN/E.O. 윌슨 과학저술상",
    "summary": "러시아 연해주에서 세계 최대의 부엉이를 찾아 보호하려는 현장 연구 모험기. 소설처럼 읽힌다.",
-   "note": "",
    "grq": "Owls of the Eastern Ice",
+   "note": "",
+   "id": "why-fish-17",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "동물의 마음과 자연 관찰",
    "stores": {
     "millie": {
      "status": "yes",
@@ -1595,17 +1613,18 @@
    }
   },
   {
-   "id": "why-fish-18",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "동물의 마음과 자연 관찰",
    "title": "자연이 법을 어길 때",
    "original": "Fuzz",
    "author": "메리 로치",
    "awards": "Shepherd 작가 추천(『물고기는…』 유사 도서)",
    "summary": "곰·코끼리·원숭이 등 사람과 충돌하는 야생동물 문제를 유머러스하게 취재. 메리 로치 특유의 재미.",
-   "note": "",
    "grq": "Fuzz: When Nature Breaks the Law",
+   "note": "",
+   "id": "why-fish-18",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "동물의 마음과 자연 관찰",
    "stores": {
     "millie": {
      "status": "no",
@@ -1653,12 +1672,12 @@
     "url": "https://www.goodreads.com/book/show/56769577-fuzz"
    },
    "korean": {
-    "how": "서점 제목 일치",
+    "how": "원제 일치",
     "title": "자연이 법을 어길 때",
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "likely"
+    "original": "Fuzz: When Nature Breaks the Law",
+    "publisher": "열린책들",
+    "date": "2025",
+    "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/1242001351/xlarge",
    "untranslated": false,
@@ -1689,17 +1708,18 @@
    }
   },
   {
-   "id": "why-fish-19",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "동물의 마음과 자연 관찰",
    "title": "눈부신 심연",
    "original": "The Brilliant Abyss",
    "author": "헬렌 스케일스",
    "awards": "Shepherd 작가 추천(『물고기는…』 유사 도서)",
    "summary": "심해 생물의 경이와 심해 채굴·남획 위기를 함께 다룬 해양생물학자의 책.",
-   "note": "",
    "grq": "The Brilliant Abyss",
+   "note": "",
+   "id": "why-fish-19",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "동물의 마음과 자연 관찰",
    "stores": {
     "millie": {
      "status": "yes",
@@ -1788,17 +1808,18 @@
    }
   },
   {
-   "id": "why-fish-20",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "자연 에세이·소설 확장",
    "title": "향모를 땋으며",
    "original": "Braiding Sweetgrass",
    "author": "로빈 월 키머러",
    "awards": "NYT 장기 베스트셀러 · Shepherd 작가 추천",
    "summary": "식물학자이자 포타와토미족인 저자가 과학과 토착 지혜를 엮은 에세이. 자연을 '분류'가 아닌 '관계'로 보자는 제안.",
-   "note": "",
    "grq": "Braiding Sweetgrass",
+   "note": "",
+   "id": "why-fish-20",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "자연 에세이·소설 확장",
    "stores": {
     "millie": {
      "status": "no",
@@ -1877,17 +1898,18 @@
    }
   },
   {
-   "id": "why-fish-21",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "자연 에세이·소설 확장",
    "title": "나무 수업",
    "original": "The Hidden Life of Trees",
    "author": "페터 볼레벤",
    "awards": "독일 장기 베스트셀러 · 국제 번역 다수",
    "summary": "숲 관리인이 들려주는 나무들의 소통과 협력. 가볍게 읽히는 자연 입문서.",
-   "note": "",
    "grq": "The Hidden Life of Trees",
+   "note": "",
+   "id": "why-fish-21",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "자연 에세이·소설 확장",
    "stores": {
     "millie": {
      "status": "no",
@@ -1970,17 +1992,18 @@
    }
   },
   {
-   "id": "why-fish-22",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "자연 에세이·소설 확장",
    "title": "언더랜드",
    "original": "Underland",
    "author": "로버트 맥팔레인",
    "awards": "영국 대표 자연 작가의 지하 세계 탐사기",
    "summary": "동굴·지하묘지·빙하 아래 등 '아래의 세계'를 여행하며 시간과 상실을 사유한 에세이.",
-   "note": "",
    "grq": "Underland: A Deep Time Journey",
+   "note": "",
+   "id": "why-fish-22",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "자연 에세이·소설 확장",
    "stores": {
     "millie": {
      "status": "yes",
@@ -2066,17 +2089,18 @@
    }
   },
   {
-   "id": "why-fish-23",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "자연 에세이·소설 확장",
    "title": "오버스토리",
    "original": "The Overstory",
    "author": "리처드 파워스",
    "awards": "2019 퓰리처상 소설",
    "summary": "나무와 얽힌 아홉 사람의 이야기가 하나로 모이는 장편. 논픽션 대신 소설로 같은 주제를 이어가고 싶을 때.",
-   "note": "",
    "grq": "The Overstory",
+   "note": "",
+   "id": "why-fish-23",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "자연 에세이·소설 확장",
    "stores": {
     "millie": {
      "status": "no",
@@ -2160,17 +2184,18 @@
    }
   },
   {
-   "id": "why-fish-24",
-   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "category": "국내 확장",
    "title": "현산어보를 찾아서",
    "original": "-",
    "author": "이태원",
    "awards": "정약전 『자산어보』 현장 추적 · 국내서(전 5권)",
    "summary": "흑산도에서 정약전이 기록한 물고기들을 생물학 교사가 직접 찾아 나선 기록. 한국판 '물고기 분류' 이야기.",
-   "note": "",
    "grq": "",
+   "note": "",
+   "id": "why-fish-24",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
    "sheet": {},
+   "group": "국내 확장",
    "stores": {
     "millie": {
      "status": "no",
@@ -2217,7 +2242,8 @@
    "screen": {
     "status": "unknown",
     "items": []
-   }
+   },
+   "reviewCount": 0
   }
  ]
 }

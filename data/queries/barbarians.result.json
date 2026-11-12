@@ -3,20 +3,21 @@
  "query": "문 앞의 야만인들",
  "title": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
  "subtitle": "Shepherd 유사도서·Robin Wigglesworth 추천, Fortune 최고의 비즈니스 북, Yahoo Finance 월가 추천, FT 올해의 비즈니스 북 수상·후보, 사모펀드 추천 목록, Hacker News 댓글 언급 집계 (Reddit 미반영)",
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "books": [
   {
-   "id": "barbarians-1",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "기준 도서",
    "title": "문 앞의 야만인들",
    "original": "Barbarians at the Gate",
    "author": "브라이언 버로",
    "awards": "기준 도서 · Fortune 최고의 비즈니스 북 · Wigglesworth 추천 · 사모펀드 추천 목록",
    "summary": "1988년 RJR 나비스코 차입매수(LBO) 쟁탈전을 내부자 시선으로 재구성한 고전. 월가 딜 논픽션의 기준점.",
-   "note": "",
    "grq": "Barbarians at the Gate",
+   "note": "",
+   "id": "barbarians-1",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "기준 도서",
    "stores": {
     "millie": {
      "status": "yes",
@@ -77,20 +78,41 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/754029885/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "1980년대 말 대형 기업 인수 전쟁을 소설처럼 긴박하게 풀어낸 점과 충실한 취재, 금융 용어를 쉽게 익힐 수 있다는 점이 호평을 받는다. 반면 등장인물과 세부 사항이 지나치게 많고 분량이 길어 지루하거나 따라가기 어렵다는 불만이 반복된다.",
+    "pros": [
+     "스릴러 같은 몰입감",
+     "충실한 취재와 시대상 묘사",
+     "인수합병 개념을 쉽게 이해"
+    ],
+    "cons": [
+     "등장인물과 세부 내용 과다",
+     "긴 분량과 느린 진행"
+    ],
+    "domestic": "국내 독자들은 필독서라 부를 만큼 흥미진진하다고 평하며, 방대한 분량과 많은 등장인물이 부담이지만 읽을 가치가 있다고 본다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 2,
+     "yes24": 4
+    },
+    "hash": "5179d29c8a0589eb708251465691e511",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-2",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
-   "category": "월가 딜·내부자 서사",
+   "category": "미번역 명작",
    "title": "Den of Thieves",
    "original": "Den of Thieves",
    "author": "제임스 스튜어트",
    "awards": "Fortune · Yahoo Finance 추천 (2곳)",
    "summary": "1980년대 내부자거래 스캔들(밀컨, 보스키)을 추적. 『야만인들』과 같은 시대·같은 인물들의 다른 면.",
-   "note": "",
    "grq": "Den of Thieves",
+   "note": "",
+   "id": "barbarians-2",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "월가 딜·내부자 서사",
    "stores": {
     "millie": {
      "status": "no",
@@ -136,20 +158,22 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441985458i/1972._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "reviewCount": 15
   },
   {
-   "id": "barbarians-3",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
-   "category": "월가 딜·내부자 서사",
+   "category": "미번역 명작",
    "title": "The Predators' Ball",
    "original": "The Predators' Ball",
    "author": "코니 브룩",
    "awards": "사모펀드 추천 목록 · Hacker News (2곳)",
    "summary": "정크본드 제국 드렉셀과 마이클 밀컨. LBO 자금이 어디서 왔는지 보여 주는 짝꿍 책.",
-   "note": "",
    "grq": "The Predators' Ball",
+   "note": "",
+   "id": "barbarians-3",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "월가 딜·내부자 서사",
    "stores": {
     "millie": {
      "status": "no",
@@ -195,20 +219,22 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356059i/100788._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "reviewCount": 15
   },
   {
-   "id": "barbarians-4",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "월가 딜·내부자 서사",
    "title": "라이어스 포커",
    "original": "Liar's Poker",
    "author": "마이클 루이스",
    "awards": "Shepherd · Fortune · Yahoo Finance · Hacker News 3회 (4곳)",
    "summary": "1980년대 살로몬 브라더스 채권 트레이더 시절의 회고. 월가 문화를 가장 유쾌하게 그린 책.",
-   "note": "",
    "grq": "Liar's Poker",
+   "note": "",
+   "id": "barbarians-4",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "월가 딜·내부자 서사",
    "stores": {
     "millie": {
      "status": "no",
@@ -264,20 +290,41 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/869000168/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "저자가 투자은행 신입 시절을 회고한 책으로, 트레이딩 룸의 문화와 80년대 채권시장을 재치 있게 그려 술술 읽힌다는 평이 많다. 반면 개인 회상이라 저자의 다른 작품만큼 흥미롭지 않다거나 비판 대상을 은근히 동경하는 듯하다는 불만, 금융 기초 지식이 필요하다는 지적도 있다.",
+    "pros": [
+     "재미있고 지루하지 않은 서술",
+     "월가 문화와 채권시장의 생생한 묘사",
+     "복잡한 개념을 쉽게 설명"
+    ],
+    "cons": [
+     "회고록이라 흡인력이 약함",
+     "비판 대상을 미화하는 듯한 시선"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "5b360aca7f35e9b81be2a2e2ccaebfd4",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-5",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
-   "category": "월가 딜·내부자 서사",
+   "category": "미번역 명작",
    "title": "King of Capital",
    "original": "King of Capital",
    "author": "데이비드 캐리",
    "awards": "Fortune · 사모펀드 추천 목록 (2곳)",
    "summary": "블랙스톤의 성장사로 본 사모펀드 산업. 『야만인들』 이후 LBO가 어떻게 제도권 산업이 됐는지.",
-   "note": "",
    "grq": "King of Capital",
+   "note": "",
+   "id": "barbarians-5",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "월가 딜·내부자 서사",
    "stores": {
     "millie": {
      "status": "no",
@@ -323,20 +370,41 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631336369i/8593761._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "블랙스톤의 성장사를 통해 사모펀드 산업의 역사를 짚는 책으로, 업계 입문자에게 좋은 개관이라는 평가가 많다. 다만 슈워츠먼 개인의 전기를 기대했다면 실망할 수 있고, 투자 성공의 구체적 비결 설명이 부족하며 서술이 밋밋하고 정리가 아쉽다는 불만이 반복된다.",
+    "pros": [
+     "사모펀드 산업의 체계적 개관",
+     "블랙스톤 성장사의 충실한 정리"
+    ],
+    "cons": [
+     "인물 중심 서사 부족",
+     "투자 노하우 설명이 얕음",
+     "건조하고 산만한 서술"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "163334b0fb3ee05e595af2e842749fd7",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-6",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
-   "category": "월가 딜·내부자 서사",
+   "category": "미번역 명작",
    "title": "The Last Tycoons",
    "original": "The Last Tycoons",
    "author": "윌리엄 코핸",
    "awards": "FT 올해의 비즈니스 북 2007 최종 후보",
    "summary": "투자은행 라자드의 비밀스러운 딜메이커들. M&A 자문의 세계.",
-   "note": "",
    "grq": "The Last Tycoons",
+   "note": "",
+   "id": "barbarians-6",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "월가 딜·내부자 서사",
    "stores": {
     "millie": {
      "status": "no",
@@ -365,13 +433,13 @@
     }
    },
    "goodreads": {
-    "title": "The Love of the Last Tycoon",
-    "author": "F. Scott Fitzgerald",
-    "rating": 3.62,
-    "count": 14311,
-    "work": "1939873",
-    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321018965i/16857._SX240_.jpg",
-    "url": "https://www.goodreads.com/book/show/16857.The_Love_of_the_Last_Tycoon"
+    "title": "The Last Tycoons: The Secret History of Lazard Frères & Co.",
+    "author": "William D. Cohan",
+    "rating": 3.85,
+    "count": 1272,
+    "work": "308312",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320409502i/317509._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/317509.The_Last_Tycoons"
    },
    "korean": {
     "how": "못 찾음",
@@ -381,21 +449,43 @@
     "date": null,
     "verdict": "none"
    },
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321018965i/16857._SX240_.jpg",
-   "untranslated": true
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320409502i/317509._SX240_.jpg",
+   "untranslated": true,
+   "review": {
+    "text": "투자은행 라자드의 역사와 그 안의 인물들을 꼼꼼히 취재했다는 평이 많고, 권력자들의 사고방식과 뒷이야기가 흥미롭다는 반응이 있다. 반면 분량이 길고 최근 20년의 가십에 치우쳐 있으며, 금융업 종사자가 아니면 거래 묘사가 지루할 수 있다는 지적이 나온다.",
+    "pros": [
+     "꼼꼼한 취재",
+     "인물 중심의 흥미로운 뒷이야기",
+     "M&A·투자은행 역사서로 추천"
+    ],
+    "cons": [
+     "지나치게 긴 분량",
+     "가십에 치우친 구성",
+     "인용문이 많은 문체"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "8e453ea1513d9554ab568d2a0de879fe",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-7",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
-   "category": "월가 딜·내부자 서사",
+   "category": "미번역 명작",
    "title": "Greed and Glory on Wall Street",
    "original": "Greed and Glory on Wall Street",
    "author": "켄 올레타",
    "awards": "Yahoo Finance 추천",
    "summary": "리먼 브라더스 내부 권력 투쟁과 1984년 매각. 『야만인들』 직전 시대의 월가.",
-   "note": "",
    "grq": "Greed and Glory on Wall Street",
+   "note": "",
+   "id": "barbarians-7",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "월가 딜·내부자 서사",
    "stores": {
     "millie": {
      "status": "no",
@@ -441,20 +531,40 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175026545i/469548._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "1980년대 리먼 브라더스 내부의 권력 다툼과 은행가 대 트레이더의 갈등을 치밀한 취재로 보여 준다는 점이 호평받는다. 인물 간 긴장과 이야기의 재미를 높이 사는 독자가 있다. 반면 세부 묘사가 과해 지루하고 금융 지식이 없으면 따라가기 어렵다는 불만이 반복되며, 2008년 사태를 다루는 책이 아니라는 점도 언급된다.",
+    "pros": [
+     "치밀한 취재와 풍부한 디테일",
+     "권력 투쟁의 극적인 전개"
+    ],
+    "cons": [
+     "과도한 세부 묘사로 늘어짐",
+     "금융 비전공자에게 어려움"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "d2c8ae58c538a552f875fe82b0524574",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-8",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "금융위기·붕괴",
    "title": "대마불사",
    "original": "Too Big to Fail",
    "author": "앤드루 로스 소킨",
    "awards": "Shepherd · Fortune · Yahoo · Wigglesworth · FT 2010 후보 · HN (6곳, 최다)",
    "summary": "2008년 금융위기 당시 월가 CEO와 재무부의 며칠을 분 단위로 재구성. 『야만인들』의 2008년판.",
-   "note": "",
    "grq": "Too Big to Fail",
+   "note": "",
+   "id": "barbarians-8",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "금융위기·붕괴",
    "stores": {
     "millie": {
      "status": "no",
@@ -506,45 +616,67 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/4441776/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "2008년 금융위기 당시 월가와 당국의 대응을 날짜순으로 따라가며 영화 같은 긴박감을 준다는 호평이 있다. 방대한 취재와 일급 자료로서의 가치도 인정받는다. 그러나 위기의 원인 분석이 부족하고 거물 금융인에 우호적이며 가십에 치우쳤다는 비판, 등장인물과 정보가 너무 많아 읽기 버겁다는 지적이 반복된다.",
+    "pros": [
+     "방대한 취재와 상세한 시간순 기록",
+     "영화처럼 긴박한 서사"
+    ],
+    "cons": [
+     "원인 분석이 약함",
+     "금융 거물에 지나치게 우호적",
+     "인물과 정보가 과밀해 버거움"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "76667f9e9721581ec0a58b33dba0fe20",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-9",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "금융위기·붕괴",
    "title": "빅 숏 BIG SHORT",
    "original": "The Big Short",
    "author": "마이클 루이스",
    "awards": "FT 2010 최종 후보 · Hacker News",
    "summary": "서브프라임 붕괴에 베팅한 아웃사이더들. 영화화.",
-   "note": "",
    "grq": "The Big Short",
+   "note": "",
+   "id": "barbarians-9",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "금융위기·붕괴",
    "stores": {
     "millie": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/The%20Big%20Short"
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B9%85%20%EC%88%8F%20BIG%20SHORT"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://ridibooks.com/search?q=The%20Big%20Short"
+     "url": "https://ridibooks.com/search?q=%EB%B9%85%20%EC%88%8F%20BIG%20SHORT"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Big%20Short"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B9%85%20%EC%88%8F%20BIG%20SHORT"
     },
     "yes24": {
      "status": "no",
      "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Big%20Short",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%B9%85%20%EC%88%8F%20BIG%20SHORT",
      "sheet": "",
+     "bookRating": 9.6,
      "paper": {
       "status": "품절",
       "url": "https://www.yes24.com/product/goods/3971866",
@@ -562,28 +694,49 @@
     "url": "https://www.goodreads.com/book/show/26889576-the-big-short"
    },
    "korean": {
-    "how": "서점 제목 일치",
+    "how": "원제 일치",
     "title": "빅 숏 BIG SHORT",
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "likely"
+    "original": "The Big Short : Inside the Doomsday Machine",
+    "publisher": "비즈니스맵",
+    "date": "2010",
+    "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/3971866/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "서브프라임 위기를 미리 내다보고 베팅한 소수의 인물을 따라가는 이야기로, 복잡한 금융 개념을 쉽고 재미있게 풀었다는 평이 많다. 금융 시스템의 탐욕과 감독 부실을 실감 나게 보여 준다. 다만 중간부분이 반복적이고 건조하며 위기를 만든 쪽이 아닌 돈을 번 쪽에 치중해 아쉽다는 의견이 있다.",
+    "pros": [
+     "어려운 금융을 쉽게 설명",
+     "개성 있는 인물 중심 서사",
+     "위기의 실상을 생생히 전달"
+    ],
+    "cons": [
+     "중반부 반복과 건조함",
+     "위기 원인 분석이 얕음"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "347dfe83df6a35fbdeba0ec18513fa77",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-10",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
-   "category": "금융위기·붕괴",
+   "category": "미번역 명작",
    "title": "천재들의 실패",
    "original": "When Genius Failed",
    "author": "로저 로웬스타인",
    "awards": "Shepherd · Yahoo Finance · Hacker News (3곳)",
    "summary": "노벨상 수상자들이 이끈 헤지펀드 LTCM의 몰락. 레버리지가 무엇을 하는지 보여 준다.",
-   "note": "",
    "grq": "When Genius Failed",
+   "note": "",
+   "id": "barbarians-10",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "금융위기·붕괴",
    "stores": {
     "millie": {
      "status": "no",
@@ -631,23 +784,44 @@
     "original": null,
     "publisher": null,
     "date": null,
-    "verdict": "likely"
+    "verdict": "none"
    },
    "cover": "https://image.yes24.com/goods/3290129/L",
-   "untranslated": false
+   "untranslated": true,
+   "review": {
+    "text": "천재 트레이더와 노벨상 수상자들이 이끈 헤지펀드가 과신과 과도한 레버리지로 무너지는 과정을 흡입력 있게 그렸다는 평이 많다. 금융 위기의 교훈을 주는 필독서로 꼽히지만, 일부는 모델 설명이 평범하고 이미 아는 이야기의 반복이라고 느낀다.",
+    "pros": [
+     "몰입감 있는 서사",
+     "모델 과신과 오만에 대한 교훈",
+     "이후 금융위기를 예견하는 통찰"
+    ],
+    "cons": [
+     "내용이 평범하다는 평",
+     "반복되는 탐욕과 오만 이야기"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "f977143a114c25fbd6ab395b2e991c5d",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-11",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "금융위기·붕괴",
    "title": "모든 악마가 여기에 있다",
    "original": "All the Devils Are Here",
    "author": "베서니 맥린",
    "awards": "Hacker News",
    "summary": "2008년 위기의 원인을 모기지 산업 전체에서 추적.",
-   "note": "",
    "grq": "All the Devils Are Here",
+   "note": "",
+   "id": "barbarians-11",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "금융위기·붕괴",
    "stores": {
     "millie": {
      "status": "no",
@@ -682,13 +856,13 @@
     }
    },
    "goodreads": {
-    "title": "All the Devils Are Here",
-    "author": "Louise Penny",
-    "rating": 4.43,
-    "count": 86891,
-    "work": "74580851",
-    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582597966i/49127539._SX240_.jpg",
-    "url": "https://www.goodreads.com/book/show/49127539-all-the-devils-are-here"
+    "title": "All the Devils are Here: The Hidden History of the Financial Crisis",
+    "author": "Bethany McLean",
+    "rating": 4.05,
+    "count": 7956,
+    "work": "13709203",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348031830i/8834784._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/8834784-all-the-devils-are-here"
    },
    "korean": {
     "how": "원제 일치",
@@ -699,20 +873,40 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/5788396/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "2008년 금융위기가 어떻게 만들어졌는지를 은행·정부·신용평가사·주택금융기관까지 두루 짚어 설명한다는 평이 많다. 『빅 숏』과 함께 읽을 필독서로 꼽히고 수업 교재로 쓰겠다는 독자도 있다. 다만 모기지 금융 구조가 복잡해 내용이 어렵다는 반응이 있다.",
+    "pros": [
+     "위기의 원인을 폭넓게 설명",
+     "『빅 숏』과 함께 읽기 좋음",
+     "상세한 서술"
+    ],
+    "cons": [
+     "금융 구조 설명이 어렵고 복잡함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "23ee9b2768f04ca405f3d4209082deb7",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-12",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "금융위기·붕괴",
    "title": "금융의 제왕",
    "original": "Lords of Finance",
    "author": "리아콰트 아메드",
    "awards": "FT 올해의 비즈니스 북 2009 수상 · 2010 퓰리처상 역사 부문",
    "summary": "대공황을 만든 네 중앙은행 총재의 이야기.",
-   "note": "",
    "grq": "Lords of Finance",
+   "note": "",
+   "id": "barbarians-12",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "금융위기·붕괴",
    "stores": {
     "millie": {
      "status": "no",
@@ -764,20 +958,41 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/3652507/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "1차 대전 이후 네 나라 중앙은행 총재의 결정이 대공황으로 이어진 과정을 인물과 시대 분위기를 곁들여 풀어낸 점이 호평을 받는다. 다만 곁가지 일화가 많고 호흡이 느리며 분석이 얕다는 지적과, 대공황 이전 부분이 지루하다는 평이 있다.",
+    "pros": [
+     "인물 중심의 흥미로운 서술",
+     "대공황의 원인을 폭넓게 조명",
+     "철저한 자료 조사"
+    ],
+    "cons": [
+     "곁가지 일화와 느린 전개",
+     "경제 지식이 있어야 수월함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "796c2c71360470a992453557adc385d8",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-13",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "금융위기·붕괴",
    "title": "광기, 패닉, 붕괴 금융위기의 역사",
    "original": "Manias, Panics, and Crashes",
    "author": "찰스 킨들버거",
    "awards": "Shepherd · Wigglesworth (2곳)",
    "summary": "금융위기의 역사와 공통 패턴을 정리한 고전. 서사보다 분석서.",
-   "note": "",
    "grq": "Manias, Panics, and Crashes",
+   "note": "",
+   "id": "barbarians-13",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "금융위기·붕괴",
    "stores": {
     "millie": {
      "status": "no",
@@ -829,20 +1044,42 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/2183283/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "수백 년에 걸친 금융 위기의 공통 패턴을 편견 없이 정리한 고전이자 시장 참여자에게 필독서라는 평가가 있다. 그러나 사례가 반복되고 구성이 산만하며 교과서처럼 건조하고 밀도가 높아 읽기 어렵다는 불만이 많다.",
+    "pros": [
+     "위기의 공통 패턴 분석",
+     "폭넓은 역사적 사례",
+     "편향 없는 접근"
+    ],
+    "cons": [
+     "건조한 교과서식 서술",
+     "산만한 구성과 반복되는 사례",
+     "배경 지식이 필요함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "b4c6f1d2f868aeefbab698d4b6666262",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-14",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "기업 스캔들",
    "title": "엔론 스캔들",
    "original": "The Smartest Guys in the Room",
    "author": "베서니 맥린",
    "awards": "Fortune · Hacker News (2곳)",
    "summary": "엔론 붕괴의 전모. 기업 사기 논픽션의 대표작.",
-   "note": "",
    "grq": "The Smartest Guys in the Room",
+   "note": "",
+   "id": "barbarians-14",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "기업 스캔들",
    "stores": {
     "millie": {
      "status": "no",
@@ -894,20 +1131,41 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/3712226/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "엔론의 성장과 몰락을 철저한 취재로 풀어낸 결정판이라는 평이 많고, 복잡한 회계 이야기를 흥미롭게 전달한다고 평가받는다. 다만 회계 용어와 특수목적법인 설명이 많아 중반이 늘어지고 따라가기 어렵다는 지적이 반복된다.",
+    "pros": [
+     "철저한 취재와 결정판 수준의 기록",
+     "복잡한 사건을 흥미롭게 서술",
+     "경영진 탐욕에 대한 경고"
+    ],
+    "cons": [
+     "회계 전문 용어 과다",
+     "중반부가 늘어짐"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "cb2701064f70d17906bbd78552a6b811",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-15",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "기업 스캔들",
    "title": "배드 블러드",
    "original": "Bad Blood",
    "author": "존 캐리루",
    "awards": "FT 올해의 비즈니스 북 2018 수상 · Shepherd · HN (3곳)",
    "summary": "테라노스 사기를 폭로한 기자의 추적기. 스릴러처럼 읽힌다.",
-   "note": "",
    "grq": "Bad Blood",
+   "note": "",
+   "id": "barbarians-15",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "기업 스캔들",
    "stores": {
     "millie": {
      "status": "no",
@@ -942,13 +1200,13 @@
     }
    },
    "goodreads": {
-    "title": "Good Girl, Bad Blood",
-    "author": "Holly  Jackson",
-    "rating": 4.25,
-    "count": 859803,
-    "work": "68488803",
-    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588319723i/51335759._SX240_.jpg",
-    "url": "https://www.goodreads.com/book/show/51335759-good-girl-bad-blood"
+    "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+    "author": "John Carreyrou",
+    "rating": 4.4,
+    "count": 296021,
+    "work": "59699437",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523311515i/37976541._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/37976541-bad-blood"
    },
    "korean": {
     "how": "원제 일치",
@@ -959,20 +1217,40 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/71538815/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "테라노스 사기극을 철저히 취재했고 논픽션인데도 손에서 놓기 어려울 만큼 빨리 읽힌다는 평이 압도적이다. 밤새 읽었다는 독자가 많다. 다만 이런 규모의 사기가 어떻게 가능했는지에 대한 분석이 더 있었으면 한다는 아쉬움이 나온다.",
+    "pros": [
+     "소설처럼 읽히는 속도감",
+     "철저한 취재",
+     "스타트업·의료 업계 종사자에게 추천"
+    ],
+    "cons": [
+     "사기가 가능했던 구조에 대한 분석 부족"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "1cb3633f4c7b21c0fbffbbbd745f69c8",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-16",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
-   "category": "기업 스캔들",
+   "category": "미번역 명작",
    "title": "Empire of Pain",
    "original": "Empire of Pain",
    "author": "패트릭 라든 키프",
    "awards": "FT 2021 최종 후보 · 베일리 기퍼드상 2021 · HN",
    "summary": "오피오이드 사태와 새클러 가문 3대.",
-   "note": "",
    "grq": "Empire of Pain",
+   "note": "",
+   "id": "barbarians-16",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "기업 스캔들",
    "stores": {
     "millie": {
      "status": "no",
@@ -1018,20 +1296,40 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611952534i/43868109._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "새클러 가문과 퍼듀파마가 오피오이드 사태를 만든 과정을 탐사보도의 모범처럼 풀어냈고, 분노와 불쾌감 속에서도 책장을 놓을 수 없다는 평이 압도적이다. 지나치게 불편한 내용에 휴식이 필요하다는 소감이 있고, 일부는 약물 규제에 대한 시각에 이견을 보인다.",
+    "pros": [
+     "탐사보도 수준의 취재와 서술",
+     "몰입감 있는 이야기",
+     "가문 세대를 아우르는 폭넓은 조망"
+    ],
+    "cons": [
+     "읽기 불편할 만큼 불쾌한 내용"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "bd1932119796cf4f13eb8b8d7155fae2",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-17",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "투자·헤지펀드 인물",
    "title": "헤지펀드 열전",
    "original": "More Money Than God",
    "author": "서배스천 맬러비|세바스찬 말라비",
    "awards": "Shepherd · Yahoo · Wigglesworth · FT 2010 후보 (4곳)",
    "summary": "헤지펀드 산업의 역사를 인물 중심으로. 소로스·존스·심슨까지.",
-   "note": "원제 필드 비어 있음 — 목록 작성자가 확인(Mallaby 2010 → 에프엔미디어 2023)",
    "grq": "More Money Than God",
+   "note": "원제 필드 비어 있음 — 목록 작성자가 확인(Mallaby 2010 → 에프엔미디어 2023)",
+   "id": "barbarians-17",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "투자·헤지펀드 인물",
    "stores": {
     "millie": {
      "status": "yes",
@@ -1091,21 +1389,42 @@
     "date": null,
     "verdict": "likely"
    },
+   "cover": "https://img.ridicdn.net/cover/852001971/xlarge",
    "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/852001971/xlarge"
+   "review": {
+    "text": "헤지펀드 60여 년의 역사를 대표 인물들의 일화와 함께 풀어내 금융 시장사까지 배울 수 있다는 평이 많다. 일부는 헤지펀드를 옹호하는 시각이 편향됐고 인물이 오만하게 그려져 아쉽다고 보며, 내용이 두껍고 상세한 점을 부담스러워한다.",
+    "pros": [
+     "헤지펀드 역사와 시장사를 함께 파악",
+     "생생한 인물 일화",
+     "탄탄한 조사"
+    ],
+    "cons": [
+     "헤지펀드에 우호적인 시각",
+     "방대하고 밀도 높은 내용"
+    ],
+    "domestic": "국내 독자들은 모두 높은 평점을 주며 헤지펀드가 어떻게 돈을 버는지 역사순으로 알 수 있고 금융 업계 종사자에게 유익하다고 평한다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 5
+    },
+    "hash": "e4a312dccb5450af8d498c5620843cca",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-18",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "투자·헤지펀드 인물",
    "title": "제시 리버모어의 회",
    "original": "Reminiscences of a Stock Operator",
    "author": "에드윈 르페브르",
    "awards": "Shepherd · Yahoo Finance (2곳)",
    "summary": "전설적 투기꾼 제시 리버모어의 1923년 소설형 회고. 트레이더 필독서.",
-   "note": "",
    "grq": "Reminiscences of a Stock Operator",
+   "note": "",
+   "id": "barbarians-18",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "투자·헤지펀드 인물",
    "stores": {
     "millie": {
      "status": "no",
@@ -1159,20 +1478,42 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/199943484/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "100년 전 투기꾼의 회고이지만 시장 심리와 거래 교훈이 지금도 통한다는 평과 소설처럼 읽힌다는 호평이 있다. 반면 실패와 도박 같은 거래담의 반복이라 지루하고, 규제가 없던 시절 이야기라 지금과 맞지 않는다는 비판도 적지 않다.",
+    "pros": [
+     "시대를 넘는 시장 심리 통찰",
+     "소설처럼 읽히는 서술",
+     "투자자에게 주는 교훈"
+    ],
+    "cons": [
+     "중반부가 건조함",
+     "오래된 시장 환경이라 현재와 맞지 않음",
+     "투기 이야기의 반복"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "3b02e893737d234c0f924a553ba7af8e",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-19",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "투자·헤지펀드 인물",
    "title": "시장을 풀어낸 수학자",
    "original": "The Man Who Solved the Market",
    "author": "그레고리 주커먼",
    "awards": "Hacker News",
    "summary": "르네상스 테크놀로지스와 짐 사이먼스. 퀀트 투자의 탄생.",
-   "note": "",
    "grq": "The Man Who Solved the Market",
+   "note": "",
+   "id": "barbarians-19",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "투자·헤지펀드 인물",
    "stores": {
     "millie": {
      "status": "no",
@@ -1224,20 +1565,41 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/101620689/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "르네상스 테크놀로지의 퀀트 투자 성장사를 흥미롭게 읽었다는 호평이 있다. 그러나 제목과 달리 시몬스 개인보다 다른 인물 이야기가 많고, 수학이나 알고리즘의 구체적 내용이 부족하며 기존에 알려진 이야기가 많다는 실망이 이어진다.",
+    "pros": [
+     "퀀트 투자 성장사를 한눈에 조망",
+     "회사 내부 인물과 정치 묘사"
+    ],
+    "cons": [
+     "제목에 비해 시몬스 비중이 작음",
+     "수학과 알고리즘 설명 부족",
+     "새로운 내용이 적음"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "1c8b183c8c3eeaa93d20bb3113fd316c",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-20",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "투자·헤지펀드 인물",
    "title": "플래시 보이스",
    "original": "Flash Boys",
    "author": "마이클 루이스",
    "awards": "Hacker News",
    "summary": "초단타 매매(HFT)와 시장 구조의 허점.",
-   "note": "",
    "grq": "Flash Boys",
+   "note": "",
+   "id": "barbarians-20",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "투자·헤지펀드 인물",
    "stores": {
     "millie": {
      "status": "no",
@@ -1289,20 +1651,41 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/14606751/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "고빈도 매매의 불공정을 이야기처럼 풀어내 몰입감이 좋고 주제가 흥미롭다는 평이 많다. 한편 일부는 내용이 복잡해 따라가기 힘들고, 루이스의 설명이 부정확하거나 지나치게 한쪽으로 치우쳤다고 비판하며 전작보다 못하다고 본다.",
+    "pros": [
+     "이야기 솜씨와 몰입감",
+     "시장 구조의 불공정을 알림"
+    ],
+    "cons": [
+     "복잡한 주제라 이해하기 어려움",
+     "정확성과 한쪽 시각 논란",
+     "전작만 못하다는 평"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "f5d6fbdded6fe0e0679e53cffdfe06b6",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-21",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
-   "category": "투자·헤지펀드 인물",
+   "category": "미번역 명작",
    "title": "Capital Ideas",
    "original": "Capital Ideas",
    "author": "피터 번스타인",
    "awards": "Shepherd · Wigglesworth (2곳)",
    "summary": "현대 금융이론(포트폴리오 이론, CAPM, 옵션 가격)이 월가로 들어간 과정.",
-   "note": "",
    "grq": "Capital Ideas",
+   "note": "",
+   "id": "barbarians-21",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "투자·헤지펀드 인물",
    "stores": {
     "millie": {
      "status": "no",
@@ -1348,38 +1731,67 @@
     "verdict": "none"
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347609010i/179198._SX240_.jpg",
-   "untranslated": true
+   "untranslated": true,
+   "review": {
+    "text": "현대 금융 이론을 만든 학자들의 이야기를 쉽고 깊이 있게 풀었다는 평이 많고, 투자 이론의 역사를 이해하는 데 필수라고 본다. 일부는 낡았다는 느낌과 시스템을 비판 없이 바라보는 시각, 학술적 밀도를 아쉬워한다.",
+    "pros": [
+     "현대 투자 이론의 기원을 정리",
+     "학자 인터뷰를 바탕으로 한 서술",
+     "이론과 실무의 균형"
+    ],
+    "cons": [
+     "시간이 흘러 낡은 내용",
+     "이론에 비판적 시각이 적음"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "a76d55dbadd8e58c0cfdfb5ae6b152a8",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-22",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "투자·헤지펀드 인물",
    "title": "투자의 진화",
    "original": "The Power Law",
    "author": "서배스천 맬러비|세바스찬 말라비",
    "awards": "FT 올해의 비즈니스 북 2022 최종 후보",
    "summary": "벤처캐피털의 역사와 '멱법칙' 투자.",
-   "note": "",
    "grq": "The Power Law",
+   "note": "",
+   "id": "barbarians-22",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "투자·헤지펀드 인물",
    "stores": {
     "millie": {
-     "status": "no",
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%88%AC%EC%9E%90%EC%9D%98%20%EC%A7%84%ED%99%94",
+     "matched": "투자의 진화",
+     "reviews": 2,
      "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/The%20Power%20Law"
+     "sheet": ""
     },
     "ridi": {
-     "status": "no",
+     "status": "select",
+     "url": "https://ridibooks.com/books/734002624",
+     "matched": "투자의 진화",
+     "rating": 4.5,
+     "count": 2,
      "source": "auto",
-     "sheet": "",
-     "url": "https://ridibooks.com/search?q=The%20Power%20Law"
+     "sheet": ""
     },
     "crema": {
-     "status": "no",
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/123820143",
+     "matched": "투자의 진화",
+     "rating": 9.2,
+     "reviews": 13,
      "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Power%20Law"
+     "sheet": ""
     },
     "yes24": {
      "status": "yes",
@@ -1406,28 +1818,49 @@
     "url": "https://www.goodreads.com/book/show/58009109-the-power-law"
    },
    "korean": {
-    "how": "서점 제목 일치",
+    "how": "원제 일치",
     "title": "투자의 진화",
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "likely"
+    "original": "The Power Law: Venture Capital and the Making of the New Future ",
+    "publisher": "위즈덤하우스",
+    "date": "2023",
+    "verdict": "confirmed"
    },
+   "cover": "https://img.ridicdn.net/cover/734002624/xlarge",
    "untranslated": false,
-   "cover": "https://image.yes24.com/goods/123820143/L"
+   "review": {
+    "text": "벤처캐피털의 탄생부터 현재까지를 일화로 엮어 읽는 재미와 교육적 가치를 동시에 준다는 호평이 압도적이다. 등장인물이 많아 헷갈리고 결말이 다소 밋밋하다는 불만, 실리콘밸리 중심 시각이라는 아쉬움이 소수 언급된다.",
+    "pros": [
+     "벤처캐피털 역사를 흥미롭게 정리",
+     "생생한 일화와 교훈",
+     "창업과 투자에 유익"
+    ],
+    "cons": [
+     "많은 인물로 인한 혼란",
+     "실리콘밸리 중심의 시각"
+    ],
+    "domestic": "국내 독자들은 벤처투자자의 의사결정과 접근 방식을 알 수 있어 좋다고 평하며, 초반에는 낯선 인물과 회사가 많아 인내가 필요하나 뒤로 갈수록 몰입된다고 한다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 4
+    },
+    "hash": "81f961f7a5ac4e2b8afa00df0f708d94",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-23",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "기업사 고전",
    "title": "경영의 모험",
    "original": "Business Adventures",
    "author": "존 브룩스",
    "awards": "Fortune · 사모펀드 추천 목록 (2곳)",
    "summary": "1960년대 『뉴요커』에 실린 기업·금융 이야기 12편. 빌 게이츠가 꼽은 최고의 비즈니스 책으로 유명.",
-   "note": "",
    "grq": "Business Adventures",
+   "note": "",
+   "id": "barbarians-23",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "기업사 고전",
    "stores": {
     "millie": {
      "status": "yes",
@@ -1488,20 +1921,42 @@
     "verdict": "confirmed"
    },
    "cover": "https://img.ridicdn.net/cover/1648000005/xlarge",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "열두 편의 이야기를 이야기꾼의 솜씨로 풀어 인간적 면모가 살아 있다는 평이 있고, 일부 장은 매우 흥미롭다. 그러나 60여 년 전 이야기라 낡았고, 장마다 주제가 달라 취향을 타며 재미없는 장이 있다는 불만이 반복된다.",
+    "pros": [
+     "이야기 솜씨가 좋은 서술",
+     "흥미로운 일부 사례",
+     "인간적 면모 묘사"
+    ],
+    "cons": [
+     "오래돼 낡은 내용",
+     "장마다 편차가 크고 일관된 주제 없음",
+     "지루한 장 존재"
+    ],
+    "domestic": "국내 독자들은 초반은 지루하지만 뒤로 갈수록 재미있다고 하고 번역이 아쉽다는 의견이 반복되며, 유명인의 추천 때문에 기대했다가 재미를 못 느꼈다는 평도 있다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 7,
+     "yes24": 5
+    },
+    "hash": "5ebd8a454c91c98cdd0db0de164b8a92",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-24",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "기업사 고전",
    "title": "금융제국 J.P.모건",
    "original": "The House of Morgan",
    "author": "론 처노",
    "awards": "Hacker News",
    "summary": "J.P. 모건 가문 150년. 금융 권력사의 고전.",
-   "note": "",
    "grq": "The House of Morgan",
+   "note": "",
+   "id": "barbarians-24",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "기업사 고전",
    "stores": {
     "millie": {
      "status": "no",
@@ -1553,20 +2008,41 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/2374199/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "모건 가문과 은행의 역사를 방대하게 담아 금융사와 정치까지 아우르는 깊이 있는 기록이라는 호평이 많다. 반면 720쪽에 달하는 분량과 너무 많은 인물로 흐름을 따라가기 힘들고 후반부는 힘이 빠진다는 평이 반복된다.",
+    "pros": [
+     "폭넓은 금융사와 정치사",
+     "서사적 필력과 철저한 자료 조사",
+     "인물 묘사"
+    ],
+    "cons": [
+     "방대한 분량과 많은 인물",
+     "후반부 추진력 약화"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "c09e38a53dc642f38ef7625293e851e2",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-25",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "기업사 고전",
    "title": "부의제국 록펠러",
    "original": "Titan: The Life of John D. Rockefeller, Sr.",
    "author": "론 처노",
    "awards": "Fortune",
    "summary": "존 D. 록펠러 평전.",
-   "note": "",
    "grq": "Titan: The Life of John D. Rockefeller, Sr.",
+   "note": "",
+   "id": "barbarians-25",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "기업사 고전",
    "stores": {
     "millie": {
      "status": "no",
@@ -1618,20 +2094,40 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/3719075/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "록펠러의 삶을 장점과 단점 모두 균형 있게 그려 저자 최고작이라는 평이 많고, 읽는 내내 몰입된다는 호평이 이어진다. 소수는 문체가 부담스럽다고 보고, 지나치게 길다는 시각도 약간 있다.",
+    "pros": [
+     "균형 잡힌 인물 묘사",
+     "철저한 조사와 방대한 정보",
+     "몰입도 높은 이야기"
+    ],
+    "cons": [
+     "문체와 분량 부담이라는 일부 의견"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "85c73cd85799bcfdf7c4189d706d8990",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
-   "id": "barbarians-26",
-   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "소설로 이어 읽기",
    "title": "허영의 불꽃",
    "original": "The Bonfire of the Vanities",
    "author": "톰 울프",
    "awards": "Hacker News 2회",
    "summary": "1980년대 월가 채권 트레이더의 몰락을 그린 풍자 소설. 같은 시대의 픽션판.",
-   "note": "",
    "grq": "The Bonfire of the Vanities",
+   "note": "",
+   "id": "barbarians-26",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "sheet": {},
+   "group": "소설로 이어 읽기",
    "stores": {
     "millie": {
      "status": "no",
@@ -1683,7 +2179,27 @@
     "verdict": "confirmed"
    },
    "cover": "https://image.yes24.com/goods/3849783/L",
-   "untranslated": false
+   "untranslated": false,
+   "review": {
+    "text": "1980년대 뉴욕과 월가의 허세, 인종 갈등, 언론과 사법의 위선을 날카롭고 유머러스하게 해부한 풍자소설로 호평받는다. 문장의 에너지와 과장된 인물 묘사, 속도감이 강점으로 꼽힌다. 다만 분량이 길어 군더더기를 덜어냈으면 한다는 평과 결말이 아쉽다는 평이 반복된다.",
+    "pros": [
+     "생동감 넘치는 문장과 풍자",
+     "시대와 도시의 입체적 묘사",
+     "잊기 어려운 주인공 캐릭터"
+    ],
+    "cons": [
+     "지나치게 긴 분량",
+     "다소 갑작스러운 결말"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "fe59afbbe2acc44ff0a6ea56f6473e77",
+    "by": "Claude(세션 내 요약)"
+   }
   }
  ]
 }

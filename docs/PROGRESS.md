@@ -150,3 +150,12 @@ YES24 원제 필드로 확정: The Poisoner's Handbook → 『CSI IN 모던타�
 - 웹앱에 남은 목록은 실제 질의 결과뿐이다: 기준 시트(첩보 65권), 물고기는 존재하지 않는다, 문 앞의 야만인들, 블러프.
 - 남은 일: 어워드 축·커뮤니티·Gemini-Reddit 후보를 하나로 합쳐 순위를 내는 단계의 코드화(현재 Claude Code 수작업, PLAN 8절 2단계).
 
+## 12. 채팅(클라우드) 세션에 전달 (2026-11-13, 로컬 Claude Code 세션 작성)
+이 폴더를 두 세션이 함께 쓴다. 로컬 세션이 바꾼 것 중 목록 만드는 흐름에 영향이 있는 것:
+- `build_query.py <slug>`가 국내 정보 부착 뒤 **독자 리뷰 수집까지 이어서 한다**(`collect_reviews.py <slug>`). Goodreads가 막힌 환경에서는 3권 연속 실패하면 건너뛴다. 리뷰 수집을 빼려면 `--no-reviews`.
+- 웹앱은 요약 전 책을 '독자 리뷰 N건 수집됨 · 요약 대기'로 보여 준다. 요약까지 끝내는 순서는 `CLAUDE.md`의 '새 추천 질의 순서'.
+- 어워드·랭킹 근거는 직접 웹을 읽지 않아도 `award_candidates.py <slug> --seed/--genre`로 얻을 수 있다(소스 44개, `docs/SOURCES.md`). 기준 도서가 어워드에 없으면 `--genre`를 쓴다.
+- 일본어 원제 책은 목록 행을 사전 형식으로 적고 `lang: "ja"`, `author_orig`(일본어 저자명)를 넣는다 → `matching.find_korean_ja`가 처리.
+- 로컬 세션이 질의 없이 만들었던 목록 3개는 삭제했다. 현재 목록: spy(기준 시트), why-fish, barbarians, bluff.
+- 검증 메모: 채팅 세션이 만든 bluff·barbarians 목록은 새 `build_query.py`로 정상 처리됐다(각 26권, pending 0, Goodreads·표지 26/26).
+
