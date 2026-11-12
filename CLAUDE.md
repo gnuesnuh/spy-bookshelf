@@ -53,6 +53,9 @@ YES24 이용 정책: 화면에 YES24 출처 표기 + 상품 링크 연결. **전
 
 ## 명령
 ```
+python scripts/sources_ja.py [--refresh]            # 일본 랭킹(このミス·週刊文春·本屋大賞) → data/sources/ja/*.json (소스 캐시)
+python scripts/build_ja_list.py <slug> [시작 끝] [--top 30] [--sources konomys,bunshun,honya]
+                                                    # 소스 캐시 집계 → data/queries/<slug>.json + <slug>.unresolved.json
 python scripts/build_data.py [--refresh]            # 기준 시트 → data/books.json + data/lists.js
 python scripts/build_query.py <slug> [--list]       # data/queries/<slug>.json → <slug>.result.json + lists.js + 추천_<질의>.xlsx
                                                     #   --list: 목록만 먼저 올림(입점 칸은 웹앱에서 '조회 중')
@@ -67,6 +70,14 @@ python scripts/yes24_lookup.py "검색어" ...          # YES24 수동 조회
 - 새 추천 질의 순서: 목록 작성 → `build_query <slug> --list` 후 푸시(목록 먼저 공개) → `build_query <slug>` 후 푸시 → 리뷰·영상화 수집 → 요약 → `build_query <slug>` 후 푸시.
 - 캐시가 없을 때 24권 국내 정보 부착은 1분 안팎(이전 순차 방식은 약 7분).
 - 이 폴더에서는 파일 삭제가 막혀 있을 수 있다(원격 세션). 캐시는 덮어쓰기로 갱신.
+
+## 일본어 원제 매칭 (scripts/matching.py `find_korean_ja`)
+- 입력은 일본어 제목 + 일본어 저자명. 검색 순서: 일본어 원제로 YES24 직접 검색 → 저자의 한국어 위키백과 문서명 → 저자 가나를 한글로 옮긴 이름(`kana_to_hangul`). 어느 경로든 `originalTitle`이 원제와 맞아야 인정한다.
+- YES24의 일본어 원제는 구자체·기호가 섞여 있다(惡意, 黑牢城, マスカレ-ド.ライフ) → `jn()`이 신자체로 바꾸고 기호·장음을 지운다. 변환표는 matching.py의 `_KYU`.
+- 원제 필드가 빈 책(여섯명의 거짓말쟁이 대학생, 흉인저의 살인 등)은 자동으로 못 잇는다. `build_ja_list.py`가 `<slug>.unresolved.json`에 같은 저자의 '원제 미표기' 국내 출간작 후보를 적어 주면, **Claude Code가 후보를 보고 `scripts/ja_titles.json`에 판정을 적는다**(`"일본어 원제|일본어 저자": "국내 제목"`, 국내판 없음으로 판정하면 `""`). 판정한 제목은 저자 일치까지 확인된 뒤에만 쓰이고 '유력 ⚠️(수동 검수)'로 표시된다. 확신이 없으면 적지 않는다.
+- 저자 정보(한국어 문서명·가나)는 `data/sources/ja/authors.json`에 쌓인다. 일본어 위키백과는 요청이 몰리면 429를 준다.
+- 일본어 원제 책은 Goodreads를 자동 검색하지 않는다(엉뚱한 책이 잡힘). 필요하면 목록의 `grq`에 영어 제목을 적는다.
+- 영상화는 Goodreads 작품 번호가 없어 아직 일본 책에 붙지 않는다.
 
 ## 알아 둘 것
 - YES24 종이책의 `eBookLink`가 있어도 그 전자책이 절판일 수 있다(수영의 이유, 레드 스패로우). `matching.item_detail`로 판매 여부를 확인하고, 조회되지 않으면 '연결된 eBook은 절판·판매 종료'로 둔다.

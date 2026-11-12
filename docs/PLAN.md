@@ -63,7 +63,7 @@
 | 질의별 목록 → xlsx | `scripts/build_query.py` | ✅ |
 | 번역본 매칭 | `scripts/matching.py` `find_korean` (build_data·build_query·eval_sheet 공용) | ✅ 94%, build_query 연결 완료 |
 | 정답지 검수 | `scripts/make_gold.py` → `data/gold.json` | ✅ |
-| 추천 후보 집계 | (없음, Claude 수작업 → rank.json) | 🟡 코드화 필요 |
+| 추천 후보 집계 | 일본 랭킹은 `scripts/sources_ja.py`(소스 캐시) + `build_ja_list.py`(집계). 영미권은 Claude 수작업 → rank.json | 🟡 영미권 코드화 필요 |
 | 결과 자동 채점 | (없음) | ❌ |
 | 웹앱 (결과 화면) | `index.html`, `app.js` — 목록 선택, 입점 토글, 작가 색인, 리뷰 요약, 표지, 종이책 상태, 영상화·OTT, 조회 중 표시. GitHub Pages 배포 | ✅ |
 | 리뷰 요약 | `scripts/collect_reviews.py`, `summarize_reviews.py` (기존 시트용) | 🟡 질의용 미연결 |
@@ -93,6 +93,13 @@
 - 국내판 매칭은 YES24 Open API를 주력으로 쓴다(알라딘 대체).
 - 정답지는 기존 시트가 아니라 검수본 `gold.json`이다.
 - 추천은 "소스 언급 집계"를 기본으로 하고, 출처를 확인한 정보만 쓴다.
+
+### 커뮤니티 소스 결정 (2026-11-13 갱신)
+- Reddit: 공개 `.json`은 사용자 PC에서도 403(REQ-001 결과). **공식 API(OAuth) 연동은 추후 보완**으로 미룬다.
+- 현재 대안: `scripts/community_fetch.py` — Hacker News(Algolia), Discourse 포럼(Straight Dope), Lemmy. Goodreads 토론 게시판은 웹 읽기 도구로 수동 확인.
+  - 팅커 테일러 시험: 641건 수집. 주류 명작(추운 나라에서 돌아온 스파이 12회, 슬로 호시스 7회 등) 확인에는 유효하지만, 시트가 Reddit에서 가져온 롱테일 14권은 0권 → 롱테일은 Reddit OAuth 전까지 공백으로 둔다.
+  - 경제경영·논픽션은 HN만으로 유효(문 앞의 야만인들 시험).
+- 제외: ssn.so(소설넷) — robots.txt가 ClaudeBot·anthropic-ai 등 AI 크롤러를 전면 차단하고, 국내 웹소설 리뷰 플랫폼이라 번역서 추천과 영역이 다르다. 자동 수집하지 않는다(사용자가 직접 참고하는 수동 소스로만).
 
 ## 11. 확정 사항 (2026-11-13)
 - Reddit: 사용한다. 클라우드 IP는 403이므로 **사용자 PC에서** `scripts/reddit_fetch.py`로 공개 JSON 수집(요청서 `docs/requests/REQ-001`). 결과 파일만 분석에 쓴다.

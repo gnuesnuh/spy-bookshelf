@@ -3,31 +3,265 @@
  "title": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
  "subtitle": "Shepherd 유사도서·Robin Wigglesworth 추천, Fortune 최고의 비즈니스 북, Yahoo Finance 월가 추천, FT 올해의 비즈니스 북 수상·후보, 사모펀드 추천 목록, Hacker News 댓글 언급 집계 (Reddit 미반영)",
  "books": [
-  ["기준 도서","","Barbarians at the Gate","브라이언 버로","기준 도서 · Fortune 최고의 비즈니스 북 · Wigglesworth 추천 · 사모펀드 추천 목록","1988년 RJR 나비스코 차입매수(LBO) 쟁탈전을 내부자 시선으로 재구성한 고전. 월가 딜 논픽션의 기준점.","Barbarians at the Gate",""],
-  ["월가 딜·내부자 서사","","Den of Thieves","제임스 스튜어트","Fortune · Yahoo Finance 추천 (2곳)","1980년대 내부자거래 스캔들(밀컨, 보스키)을 추적. 『야만인들』과 같은 시대·같은 인물들의 다른 면.","Den of Thieves",""],
-  ["월가 딜·내부자 서사","","The Predators' Ball","코니 브룩","사모펀드 추천 목록 · Hacker News (2곳)","정크본드 제국 드렉셀과 마이클 밀컨. LBO 자금이 어디서 왔는지 보여 주는 짝꿍 책.","The Predators' Ball",""],
-  ["월가 딜·내부자 서사","","Liar's Poker","마이클 루이스","Shepherd · Fortune · Yahoo Finance · Hacker News 3회 (4곳)","1980년대 살로몬 브라더스 채권 트레이더 시절의 회고. 월가 문화를 가장 유쾌하게 그린 책.","Liar's Poker",""],
-  ["월가 딜·내부자 서사","","King of Capital","데이비드 캐리","Fortune · 사모펀드 추천 목록 (2곳)","블랙스톤의 성장사로 본 사모펀드 산업. 『야만인들』 이후 LBO가 어떻게 제도권 산업이 됐는지.","King of Capital",""],
-  ["월가 딜·내부자 서사","","The Last Tycoons","윌리엄 코핸","FT 올해의 비즈니스 북 2007 최종 후보","투자은행 라자드의 비밀스러운 딜메이커들. M&A 자문의 세계.","The Last Tycoons",""],
-  ["월가 딜·내부자 서사","","Greed and Glory on Wall Street","켄 올레타","Yahoo Finance 추천","리먼 브라더스 내부 권력 투쟁과 1984년 매각. 『야만인들』 직전 시대의 월가.","Greed and Glory on Wall Street",""],
-  ["금융위기·붕괴","","Too Big to Fail","앤드루 로스 소킨","Shepherd · Fortune · Yahoo · Wigglesworth · FT 2010 후보 · HN (6곳, 최다)","2008년 금융위기 당시 월가 CEO와 재무부의 며칠을 분 단위로 재구성. 『야만인들』의 2008년판.","Too Big to Fail",""],
-  ["금융위기·붕괴","","The Big Short","마이클 루이스","FT 2010 최종 후보 · Hacker News","서브프라임 붕괴에 베팅한 아웃사이더들. 영화화.","The Big Short",""],
-  ["금융위기·붕괴","","When Genius Failed","로저 로웬스타인","Shepherd · Yahoo Finance · Hacker News (3곳)","노벨상 수상자들이 이끈 헤지펀드 LTCM의 몰락. 레버리지가 무엇을 하는지 보여 준다.","When Genius Failed",""],
-  ["금융위기·붕괴","","All the Devils Are Here","베서니 맥린","Hacker News","2008년 위기의 원인을 모기지 산업 전체에서 추적.","All the Devils Are Here",""],
-  ["금융위기·붕괴","","Lords of Finance","리아콰트 아메드","FT 올해의 비즈니스 북 2009 수상 · 2010 퓰리처상 역사 부문","대공황을 만든 네 중앙은행 총재의 이야기.","Lords of Finance",""],
-  ["금융위기·붕괴","","Manias, Panics, and Crashes","찰스 킨들버거","Shepherd · Wigglesworth (2곳)","금융위기의 역사와 공통 패턴을 정리한 고전. 서사보다 분석서.","Manias, Panics, and Crashes",""],
-  ["기업 스캔들","","The Smartest Guys in the Room","베서니 맥린","Fortune · Hacker News (2곳)","엔론 붕괴의 전모. 기업 사기 논픽션의 대표작.","The Smartest Guys in the Room",""],
-  ["기업 스캔들","","Bad Blood","존 캐리루","FT 올해의 비즈니스 북 2018 수상 · Shepherd · HN (3곳)","테라노스 사기를 폭로한 기자의 추적기. 스릴러처럼 읽힌다.","Bad Blood",""],
-  ["기업 스캔들","","Empire of Pain","패트릭 라든 키프","FT 2021 최종 후보 · 베일리 기퍼드상 2021 · HN","오피오이드 사태와 새클러 가문 3대.","Empire of Pain",""],
-  ["투자·헤지펀드 인물","","More Money Than God","서배스천 맬러비","Shepherd · Yahoo · Wigglesworth · FT 2010 후보 (4곳)","헤지펀드 산업의 역사를 인물 중심으로. 소로스·존스·심슨까지.","More Money Than God",""],
-  ["투자·헤지펀드 인물","","Reminiscences of a Stock Operator","에드윈 르페브르","Shepherd · Yahoo Finance (2곳)","전설적 투기꾼 제시 리버모어의 1923년 소설형 회고. 트레이더 필독서.","Reminiscences of a Stock Operator",""],
-  ["투자·헤지펀드 인물","","The Man Who Solved the Market","그레고리 주커먼","Hacker News","르네상스 테크놀로지스와 짐 사이먼스. 퀀트 투자의 탄생.","The Man Who Solved the Market",""],
-  ["투자·헤지펀드 인물","","Flash Boys","마이클 루이스","Hacker News","초단타 매매(HFT)와 시장 구조의 허점.","Flash Boys",""],
-  ["투자·헤지펀드 인물","","Capital Ideas","피터 번스타인","Shepherd · Wigglesworth (2곳)","현대 금융이론(포트폴리오 이론, CAPM, 옵션 가격)이 월가로 들어간 과정.","Capital Ideas",""],
-  ["투자·헤지펀드 인물","","The Power Law","서배스천 맬러비","FT 올해의 비즈니스 북 2022 최종 후보","벤처캐피털의 역사와 '멱법칙' 투자.","The Power Law",""],
-  ["기업사 고전","","Business Adventures","존 브룩스","Fortune · 사모펀드 추천 목록 (2곳)","1960년대 『뉴요커』에 실린 기업·금융 이야기 12편. 빌 게이츠가 꼽은 최고의 비즈니스 책으로 유명.","Business Adventures",""],
-  ["기업사 고전","","The House of Morgan","론 처노","Hacker News","J.P. 모건 가문 150년. 금융 권력사의 고전.","The House of Morgan",""],
-  ["기업사 고전","","Titan","론 처노","Fortune","존 D. 록펠러 평전.","Titan: The Life of John D. Rockefeller, Sr.",""],
-  ["소설로 이어 읽기","","The Bonfire of the Vanities","톰 울프","Hacker News 2회","1980년대 월가 채권 트레이더의 몰락을 그린 풍자 소설. 같은 시대의 픽션판.","The Bonfire of the Vanities",""]
+  [
+   "기준 도서",
+   "",
+   "Barbarians at the Gate",
+   "브라이언 버로",
+   "기준 도서 · Fortune 최고의 비즈니스 북 · Wigglesworth 추천 · 사모펀드 추천 목록",
+   "1988년 RJR 나비스코 차입매수(LBO) 쟁탈전을 내부자 시선으로 재구성한 고전. 월가 딜 논픽션의 기준점.",
+   "Barbarians at the Gate",
+   ""
+  ],
+  [
+   "월가 딜·내부자 서사",
+   "",
+   "Den of Thieves",
+   "제임스 스튜어트",
+   "Fortune · Yahoo Finance 추천 (2곳)",
+   "1980년대 내부자거래 스캔들(밀컨, 보스키)을 추적. 『야만인들』과 같은 시대·같은 인물들의 다른 면.",
+   "Den of Thieves",
+   ""
+  ],
+  [
+   "월가 딜·내부자 서사",
+   "",
+   "The Predators' Ball",
+   "코니 브룩",
+   "사모펀드 추천 목록 · Hacker News (2곳)",
+   "정크본드 제국 드렉셀과 마이클 밀컨. LBO 자금이 어디서 왔는지 보여 주는 짝꿍 책.",
+   "The Predators' Ball",
+   ""
+  ],
+  [
+   "월가 딜·내부자 서사",
+   "",
+   "Liar's Poker",
+   "마이클 루이스",
+   "Shepherd · Fortune · Yahoo Finance · Hacker News 3회 (4곳)",
+   "1980년대 살로몬 브라더스 채권 트레이더 시절의 회고. 월가 문화를 가장 유쾌하게 그린 책.",
+   "Liar's Poker",
+   ""
+  ],
+  [
+   "월가 딜·내부자 서사",
+   "",
+   "King of Capital",
+   "데이비드 캐리",
+   "Fortune · 사모펀드 추천 목록 (2곳)",
+   "블랙스톤의 성장사로 본 사모펀드 산업. 『야만인들』 이후 LBO가 어떻게 제도권 산업이 됐는지.",
+   "King of Capital",
+   ""
+  ],
+  [
+   "월가 딜·내부자 서사",
+   "",
+   "The Last Tycoons",
+   "윌리엄 코핸",
+   "FT 올해의 비즈니스 북 2007 최종 후보",
+   "투자은행 라자드의 비밀스러운 딜메이커들. M&A 자문의 세계.",
+   "The Last Tycoons",
+   ""
+  ],
+  [
+   "월가 딜·내부자 서사",
+   "",
+   "Greed and Glory on Wall Street",
+   "켄 올레타",
+   "Yahoo Finance 추천",
+   "리먼 브라더스 내부 권력 투쟁과 1984년 매각. 『야만인들』 직전 시대의 월가.",
+   "Greed and Glory on Wall Street",
+   ""
+  ],
+  [
+   "금융위기·붕괴",
+   "",
+   "Too Big to Fail",
+   "앤드루 로스 소킨",
+   "Shepherd · Fortune · Yahoo · Wigglesworth · FT 2010 후보 · HN (6곳, 최다)",
+   "2008년 금융위기 당시 월가 CEO와 재무부의 며칠을 분 단위로 재구성. 『야만인들』의 2008년판.",
+   "Too Big to Fail",
+   ""
+  ],
+  [
+   "금융위기·붕괴",
+   "",
+   "The Big Short",
+   "마이클 루이스",
+   "FT 2010 최종 후보 · Hacker News",
+   "서브프라임 붕괴에 베팅한 아웃사이더들. 영화화.",
+   "The Big Short",
+   ""
+  ],
+  [
+   "금융위기·붕괴",
+   "",
+   "When Genius Failed",
+   "로저 로웬스타인",
+   "Shepherd · Yahoo Finance · Hacker News (3곳)",
+   "노벨상 수상자들이 이끈 헤지펀드 LTCM의 몰락. 레버리지가 무엇을 하는지 보여 준다.",
+   "When Genius Failed",
+   ""
+  ],
+  [
+   "금융위기·붕괴",
+   "",
+   "All the Devils Are Here",
+   "베서니 맥린",
+   "Hacker News",
+   "2008년 위기의 원인을 모기지 산업 전체에서 추적.",
+   "All the Devils Are Here",
+   ""
+  ],
+  [
+   "금융위기·붕괴",
+   "",
+   "Lords of Finance",
+   "리아콰트 아메드",
+   "FT 올해의 비즈니스 북 2009 수상 · 2010 퓰리처상 역사 부문",
+   "대공황을 만든 네 중앙은행 총재의 이야기.",
+   "Lords of Finance",
+   ""
+  ],
+  [
+   "금융위기·붕괴",
+   "",
+   "Manias, Panics, and Crashes",
+   "찰스 킨들버거",
+   "Shepherd · Wigglesworth (2곳)",
+   "금융위기의 역사와 공통 패턴을 정리한 고전. 서사보다 분석서.",
+   "Manias, Panics, and Crashes",
+   ""
+  ],
+  [
+   "기업 스캔들",
+   "",
+   "The Smartest Guys in the Room",
+   "베서니 맥린",
+   "Fortune · Hacker News (2곳)",
+   "엔론 붕괴의 전모. 기업 사기 논픽션의 대표작.",
+   "The Smartest Guys in the Room",
+   ""
+  ],
+  [
+   "기업 스캔들",
+   "",
+   "Bad Blood",
+   "존 캐리루",
+   "FT 올해의 비즈니스 북 2018 수상 · Shepherd · HN (3곳)",
+   "테라노스 사기를 폭로한 기자의 추적기. 스릴러처럼 읽힌다.",
+   "Bad Blood",
+   ""
+  ],
+  [
+   "기업 스캔들",
+   "",
+   "Empire of Pain",
+   "패트릭 라든 키프",
+   "FT 2021 최종 후보 · 베일리 기퍼드상 2021 · HN",
+   "오피오이드 사태와 새클러 가문 3대.",
+   "Empire of Pain",
+   ""
+  ],
+  [
+   "투자·헤지펀드 인물",
+   "헤지펀드 열전",
+   "More Money Than God",
+   "서배스천 맬러비|세바스찬 말라비",
+   "Shepherd · Yahoo · Wigglesworth · FT 2010 후보 (4곳)",
+   "헤지펀드 산업의 역사를 인물 중심으로. 소로스·존스·심슨까지.",
+   "More Money Than God",
+   "원제 필드 비어 있음 — 목록 작성자가 확인(Mallaby 2010 → 에프엔미디어 2023)"
+  ],
+  [
+   "투자·헤지펀드 인물",
+   "",
+   "Reminiscences of a Stock Operator",
+   "에드윈 르페브르",
+   "Shepherd · Yahoo Finance (2곳)",
+   "전설적 투기꾼 제시 리버모어의 1923년 소설형 회고. 트레이더 필독서.",
+   "Reminiscences of a Stock Operator",
+   ""
+  ],
+  [
+   "투자·헤지펀드 인물",
+   "",
+   "The Man Who Solved the Market",
+   "그레고리 주커먼",
+   "Hacker News",
+   "르네상스 테크놀로지스와 짐 사이먼스. 퀀트 투자의 탄생.",
+   "The Man Who Solved the Market",
+   ""
+  ],
+  [
+   "투자·헤지펀드 인물",
+   "",
+   "Flash Boys",
+   "마이클 루이스",
+   "Hacker News",
+   "초단타 매매(HFT)와 시장 구조의 허점.",
+   "Flash Boys",
+   ""
+  ],
+  [
+   "투자·헤지펀드 인물",
+   "",
+   "Capital Ideas",
+   "피터 번스타인",
+   "Shepherd · Wigglesworth (2곳)",
+   "현대 금융이론(포트폴리오 이론, CAPM, 옵션 가격)이 월가로 들어간 과정.",
+   "Capital Ideas",
+   ""
+  ],
+  [
+   "투자·헤지펀드 인물",
+   "",
+   "The Power Law",
+   "서배스천 맬러비|세바스찬 말라비",
+   "FT 올해의 비즈니스 북 2022 최종 후보",
+   "벤처캐피털의 역사와 '멱법칙' 투자.",
+   "The Power Law",
+   ""
+  ],
+  [
+   "기업사 고전",
+   "",
+   "Business Adventures",
+   "존 브룩스",
+   "Fortune · 사모펀드 추천 목록 (2곳)",
+   "1960년대 『뉴요커』에 실린 기업·금융 이야기 12편. 빌 게이츠가 꼽은 최고의 비즈니스 책으로 유명.",
+   "Business Adventures",
+   ""
+  ],
+  [
+   "기업사 고전",
+   "",
+   "The House of Morgan",
+   "론 처노",
+   "Hacker News",
+   "J.P. 모건 가문 150년. 금융 권력사의 고전.",
+   "The House of Morgan",
+   ""
+  ],
+  [
+   "기업사 고전",
+   "",
+   "Titan: The Life of John D. Rockefeller, Sr.",
+   "론 처노",
+   "Fortune",
+   "존 D. 록펠러 평전.",
+   "Titan: The Life of John D. Rockefeller, Sr.",
+   ""
+  ],
+  [
+   "소설로 이어 읽기",
+   "",
+   "The Bonfire of the Vanities",
+   "톰 울프",
+   "Hacker News 2회",
+   "1980년대 월가 채권 트레이더의 몰락을 그린 풍자 소설. 같은 시대의 픽션판.",
+   "The Bonfire of the Vanities",
+   ""
+  ]
  ]
 }

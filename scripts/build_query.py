@@ -8,6 +8,7 @@
 나중에 채운다(같은 slug 를 인자로 준다).
 
 목록 파일의 책 한 줄: [카테고리, 한국어 제목(비워도 됨), 원제, 저자(한글), 수상·선정 이력, 추천 포인트, Goodreads 검색어, 비고]
+또는 같은 이름의 키를 가진 사전({"category":…, "original":…, "author":…, "author_orig":…, "lang":"ja", …}).
 """
 import json
 import sys
@@ -26,10 +27,16 @@ spec = json.loads((ROOT / "data" / "queries" / f"{slug}.json").read_text(encodin
 out_path = bd.list_path(slug)
 
 books = []
-for n, (cat, title, orig, author, awards, summary, grq, note) in enumerate(spec["books"]):
-    books.append(dict(id=f"{slug}-{n + 1}", list=spec["title"], category=cat, title=title, original=orig or "-",
-                      author=author, awards=awards, summary=summary, note=note, grq=grq or "", sheet={},
-                      pending=True))
+for n, row in enumerate(spec["books"]):
+    if isinstance(row, dict):   # 사전 형식: 추가 필드(lang, author_orig 등)를 그대로 넘긴다
+        b = dict(row)
+    else:
+        cat, title, orig, author, awards, summary, grq, note = row
+        b = dict(category=cat, title=title, original=orig, author=author, awards=awards, summary=summary,
+                 grq=grq, note=note)
+    b.update(id=f"{slug}-{n + 1}", list=spec["title"], original=b.get("original") or "-", grq=b.get("grq") or "",
+             title=b.get("title") or "", note=b.get("note") or "", sheet={}, pending=True)
+    books.append(b)
 out = dict(slug=slug, query=spec["query"], title=spec["title"], subtitle=spec["subtitle"],
            updated=date.today().isoformat(), books=books)
 _save = threading.Lock()

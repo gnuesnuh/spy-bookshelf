@@ -135,8 +135,8 @@
     "date": null,
     "verdict": "none"
    },
-   "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441985458i/1972._SX240_.jpg"
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441985458i/1972._SX240_.jpg",
+   "untranslated": true
   },
   {
    "id": "barbarians-3",
@@ -194,8 +194,8 @@
     "date": null,
     "verdict": "none"
    },
-   "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356059i/100788._SX240_.jpg"
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356059i/100788._SX240_.jpg",
+   "untranslated": true
   },
   {
    "id": "barbarians-4",
@@ -270,7 +270,7 @@
    "id": "barbarians-5",
    "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "월가 딜·내부자 서사",
-   "title": "씨티그룹 그 열정과 도전",
+   "title": "King of Capital",
    "original": "King of Capital",
    "author": "데이비드 캐리",
    "awards": "Fortune · 사모펀드 추천 목록 (2곳)",
@@ -283,32 +283,26 @@
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%94%A8%ED%8B%B0%EA%B7%B8%EB%A3%B9%20%EA%B7%B8%20%EC%97%B4%EC%A0%95%EA%B3%BC%20%EB%8F%84%EC%A0%84"
+     "url": "https://www.millie.co.kr/v3/search/result/King%20of%20Capital"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://ridibooks.com/search?q=%EC%94%A8%ED%8B%B0%EA%B7%B8%EB%A3%B9%20%EA%B7%B8%20%EC%97%B4%EC%A0%95%EA%B3%BC%20%EB%8F%84%EC%A0%84"
+     "url": "https://ridibooks.com/search?q=King%20of%20Capital"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%94%A8%ED%8B%B0%EA%B7%B8%EB%A3%B9%20%EA%B7%B8%20%EC%97%B4%EC%A0%95%EA%B3%BC%20%EB%8F%84%EC%A0%84"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=King%20of%20Capital"
     },
     "yes24": {
      "status": "no",
      "source": "api",
      "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%94%A8%ED%8B%B0%EA%B7%B8%EB%A3%B9%20%EA%B7%B8%20%EC%97%B4%EC%A0%95%EA%B3%BC%20%EB%8F%84%EC%A0%84",
-     "sheet": "",
-     "bookRating": 7.2,
-     "paper": {
-      "status": "품절",
-      "url": "https://www.yes24.com/product/goods/1467625",
-      "matched": "씨티그룹 그 열정과 도전"
-     }
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=King%20of%20Capital",
+     "sheet": ""
     }
    },
    "goodreads": {
@@ -321,15 +315,15 @@
     "url": "https://www.goodreads.com/book/show/8593761-king-of-capital"
    },
    "korean": {
-    "how": "원제 일치",
-    "title": "씨티그룹 그 열정과 도전",
-    "original": "King of Capital (2002)",
-    "publisher": "황금부엉이",
-    "date": "2005",
-    "verdict": "confirmed"
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
    },
-   "cover": "https://image.yes24.com/goods/1467625/L",
-   "untranslated": false
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631336369i/8593761._SX240_.jpg",
+   "untranslated": true
   },
   {
    "id": "barbarians-6",
@@ -387,8 +381,8 @@
     "date": null,
     "verdict": "none"
    },
-   "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321018965i/16857._SX240_.jpg"
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321018965i/16857._SX240_.jpg",
+   "untranslated": true
   },
   {
    "id": "barbarians-7",
@@ -446,8 +440,8 @@
     "date": null,
     "verdict": "none"
    },
-   "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175026545i/469548._SX240_.jpg"
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175026545i/469548._SX240_.jpg",
+   "untranslated": true
   },
   {
    "id": "barbarians-8",
@@ -575,8 +569,8 @@
     "date": null,
     "verdict": "likely"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/3971866/L"
+   "cover": "https://image.yes24.com/goods/3971866/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-10",
@@ -595,27 +589,26 @@
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EC%8B%A4%ED%8C%A8"
+     "url": "https://www.millie.co.kr/v3/search/result/When%20Genius%20Failed"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://ridibooks.com/search?q=%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EC%8B%A4%ED%8C%A8"
+     "url": "https://ridibooks.com/search?q=When%20Genius%20Failed"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EC%8B%A4%ED%8C%A8"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=When%20Genius%20Failed"
     },
     "yes24": {
      "status": "no",
      "source": "api",
      "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EC%8B%A4%ED%8C%A8",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=When%20Genius%20Failed",
      "sheet": "",
-     "bookRating": 7.4,
      "paper": {
       "status": "절판",
       "url": "https://www.yes24.com/product/goods/3290129",
@@ -633,15 +626,15 @@
     "url": "https://www.goodreads.com/book/show/10669.When_Genius_Failed"
    },
    "korean": {
-    "how": "원제 일치",
+    "how": "서점 제목 일치",
     "title": "천재들의 실패",
-    "original": "When Genius Failed",
-    "publisher": "한국경제신문사(한경비피)",
-    "date": "2009",
-    "verdict": "confirmed"
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/3290129/L"
+   "cover": "https://image.yes24.com/goods/3290129/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-11",
@@ -705,8 +698,8 @@
     "date": "2011",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/5788396/L"
+   "cover": "https://image.yes24.com/goods/5788396/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-12",
@@ -770,8 +763,8 @@
     "date": "2010",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/3652507/L"
+   "cover": "https://image.yes24.com/goods/3652507/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-13",
@@ -835,8 +828,8 @@
     "date": "2006",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/2183283/L"
+   "cover": "https://image.yes24.com/goods/2183283/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-14",
@@ -900,8 +893,8 @@
     "date": "2010",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/3712226/L"
+   "cover": "https://image.yes24.com/goods/3712226/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-15",
@@ -965,8 +958,8 @@
     "date": "2019",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/71538815/L"
+   "cover": "https://image.yes24.com/goods/71538815/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-16",
@@ -1024,51 +1017,60 @@
     "date": null,
     "verdict": "none"
    },
-   "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611952534i/43868109._SX240_.jpg"
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611952534i/43868109._SX240_.jpg",
+   "untranslated": true
   },
   {
    "id": "barbarians-17",
    "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "투자·헤지펀드 인물",
-   "title": "돈으로 행복해지는 비결",
+   "title": "헤지펀드 열전",
    "original": "More Money Than God",
-   "author": "서배스천 맬러비",
+   "author": "서배스천 맬러비|세바스찬 말라비",
    "awards": "Shepherd · Yahoo · Wigglesworth · FT 2010 후보 (4곳)",
    "summary": "헤지펀드 산업의 역사를 인물 중심으로. 소로스·존스·심슨까지.",
-   "note": "",
+   "note": "원제 필드 비어 있음 — 목록 작성자가 확인(Mallaby 2010 → 에프엔미디어 2023)",
    "grq": "More Money Than God",
    "sheet": {},
    "stores": {
     "millie": {
-     "status": "no",
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%97%A4%EC%A7%80%ED%8E%80%EB%93%9C%20%EC%97%B4%EC%A0%84",
+     "matched": "헤지펀드 열전",
+     "reviews": 6,
      "source": "auto",
-     "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/%EB%8F%88%EC%9C%BC%EB%A1%9C%20%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94%20%EB%B9%84%EA%B2%B0"
+     "sheet": ""
     },
     "ridi": {
-     "status": "no",
+     "status": "select",
+     "url": "https://ridibooks.com/books/852001971",
+     "matched": "헤지펀드 열전",
+     "rating": 5,
+     "count": 3,
      "source": "auto",
-     "sheet": "",
-     "url": "https://ridibooks.com/search?q=%EB%8F%88%EC%9C%BC%EB%A1%9C%20%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94%20%EB%B9%84%EA%B2%B0"
+     "sheet": ""
     },
     "crema": {
-     "status": "no",
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/124029570",
+     "matched": "헤지펀드 열전",
+     "rating": 9.6,
+     "reviews": 51,
      "source": "auto",
-     "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%8F%88%EC%9C%BC%EB%A1%9C%20%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94%20%EB%B9%84%EA%B2%B0"
+     "sheet": ""
     },
     "yes24": {
-     "status": "no",
+     "status": "yes",
      "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%8F%88%EC%9C%BC%EB%A1%9C%20%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94%20%EB%B9%84%EA%B2%B0",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/124029570",
+     "matched": "헤지펀드 열전",
+     "rating": 9.6,
      "sheet": "",
-     "bookRating": 9,
      "paper": {
-      "status": "품절",
-      "url": "https://www.yes24.com/product/goods/1382980",
-      "matched": "돈으로 행복해지는 비결"
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/123800395",
+      "matched": "헤지펀드 열전"
      }
     }
    },
@@ -1082,15 +1084,15 @@
     "url": "https://www.goodreads.com/book/show/7936425-more-money-than-god"
    },
    "korean": {
-    "how": "원제 일치",
-    "title": "돈으로 행복해지는 비결",
-    "original": "More Money Than God (2003)",
-    "publisher": "오상",
-    "date": "2004",
-    "verdict": "confirmed"
+    "how": "서점 제목 일치",
+    "title": "헤지펀드 열전",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
    },
    "untranslated": false,
-   "cover": "https://image.yes24.com/goods/1382980/L"
+   "cover": "https://img.ridicdn.net/cover/852001971/xlarge"
   },
   {
    "id": "barbarians-18",
@@ -1156,8 +1158,8 @@
     "date": "2010",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/199943484/L"
+   "cover": "https://image.yes24.com/goods/199943484/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-19",
@@ -1221,8 +1223,8 @@
     "date": "2021",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/101620689/L"
+   "cover": "https://image.yes24.com/goods/101620689/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-20",
@@ -1286,8 +1288,8 @@
     "date": "2014",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/14606751/L"
+   "cover": "https://image.yes24.com/goods/14606751/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-21",
@@ -1345,16 +1347,16 @@
     "date": null,
     "verdict": "none"
    },
-   "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347609010i/179198._SX240_.jpg"
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347609010i/179198._SX240_.jpg",
+   "untranslated": true
   },
   {
    "id": "barbarians-22",
    "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "투자·헤지펀드 인물",
-   "title": "The Power Law",
+   "title": "투자의 진화",
    "original": "The Power Law",
-   "author": "서배스천 맬러비",
+   "author": "서배스천 맬러비|세바스찬 말라비",
    "awards": "FT 올해의 비즈니스 북 2022 최종 후보",
    "summary": "벤처캐피털의 역사와 '멱법칙' 투자.",
    "note": "",
@@ -1380,11 +1382,18 @@
      "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Power%20Law"
     },
     "yes24": {
-     "status": "no",
+     "status": "yes",
      "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Power%20Law",
-     "sheet": ""
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/123820143",
+     "matched": "투자의 진화",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/123254202",
+      "matched": "투자의 진화"
+     }
     }
    },
    "goodreads": {
@@ -1397,15 +1406,15 @@
     "url": "https://www.goodreads.com/book/show/58009109-the-power-law"
    },
    "korean": {
-    "how": "못 찾음",
-    "title": null,
+    "how": "서점 제목 일치",
+    "title": "투자의 진화",
     "original": null,
     "publisher": null,
     "date": null,
-    "verdict": "none"
+    "verdict": "likely"
    },
-   "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624825190i/58009109._SX240_.jpg"
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/123820143/L"
   },
   {
    "id": "barbarians-23",
@@ -1478,8 +1487,8 @@
     "date": "2015",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://img.ridicdn.net/cover/1648000005/xlarge"
+   "cover": "https://img.ridicdn.net/cover/1648000005/xlarge",
+   "untranslated": false
   },
   {
    "id": "barbarians-24",
@@ -1543,15 +1552,15 @@
     "date": "2007",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/2374199/L"
+   "cover": "https://image.yes24.com/goods/2374199/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-25",
    "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
    "category": "기업사 고전",
-   "title": "Titan",
-   "original": "Titan",
+   "title": "부의제국 록펠러",
+   "original": "Titan: The Life of John D. Rockefeller, Sr.",
    "author": "론 처노",
    "awards": "Fortune",
    "summary": "존 D. 록펠러 평전.",
@@ -1563,26 +1572,32 @@
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://www.millie.co.kr/v3/search/result/Titan"
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B6%80%EC%9D%98%EC%A0%9C%EA%B5%AD%20%EB%A1%9D%ED%8E%A0%EB%9F%AC"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://ridibooks.com/search?q=Titan"
+     "url": "https://ridibooks.com/search?q=%EB%B6%80%EC%9D%98%EC%A0%9C%EA%B5%AD%20%EB%A1%9D%ED%8E%A0%EB%9F%AC"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Titan"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B6%80%EC%9D%98%EC%A0%9C%EA%B5%AD%20%EB%A1%9D%ED%8E%A0%EB%9F%AC"
     },
     "yes24": {
      "status": "no",
      "source": "api",
      "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Titan",
-     "sheet": ""
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%B6%80%EC%9D%98%EC%A0%9C%EA%B5%AD%20%EB%A1%9D%ED%8E%A0%EB%9F%AC",
+     "sheet": "",
+     "bookRating": 10,
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/3719075",
+      "matched": "부의제국 록펠러 1"
+     }
     }
    },
    "goodreads": {
@@ -1595,15 +1610,15 @@
     "url": "https://www.goodreads.com/book/show/16121.Titan"
    },
    "korean": {
-    "how": "못 찾음",
-    "title": null,
-    "original": null,
-    "publisher": null,
-    "date": null,
-    "verdict": "none"
+    "how": "원제 일치",
+    "title": "부의제국 록펠러 1",
+    "original": "The Life of John D. Rockefeller Sr.",
+    "publisher": "21세기북스",
+    "date": "2010",
+    "verdict": "confirmed"
    },
-   "untranslated": true,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925052i/16121._SX240_.jpg"
+   "cover": "https://image.yes24.com/goods/3719075/L",
+   "untranslated": false
   },
   {
    "id": "barbarians-26",
@@ -1667,8 +1682,8 @@
     "date": "2010",
     "verdict": "confirmed"
    },
-   "untranslated": false,
-   "cover": "https://image.yes24.com/goods/3849783/L"
+   "cover": "https://image.yes24.com/goods/3849783/L",
+   "untranslated": false
   }
  ]
 }

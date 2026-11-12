@@ -243,6 +243,9 @@ def find_korean_edition(book):
     """원제+저자로 YES24 국내판을 찾는다 → (상품 dict 또는 None, 근거)."""
     if not YES24_KEY or not book.get("original") or book["original"] == "-":
         return None, "확인 불가"
+    if matching.is_ja(book["original"]):   # 일본어 원제: 일본어 제목·저자로 찾는다
+        item, how, _ = matching.find_korean_ja(book["original"], book.get("author_orig") or book["author"])
+        return item, how
     return matching.find_korean(book["original"], book["author"])
 
 
@@ -264,6 +267,8 @@ def check(book):
         kr_how = "수동 검수"
     if not qs:  # 한국어 제목도 국내판도 없는 책(미번역 후보): 원제로만 검색해 '없음'을 확인한다
         qs = [re.sub(r"\(.*?\)", "", book.get("original") or "").strip() or "-"]
+    if not qs:   # 한국어 제목도 국내판도 없는 책: 원제로라도 검색 링크를 만든다
+        qs = [book.get("original") or book.get("author") or ""]
     cand["korean"] = dict(how=kr_how, title=(kr_item and kr_item.get("title")) or gold_title,
                           original=kr_item and kr_item.get("originalTitle"),
                           publisher=kr_item and kr_item.get("publisher"),
@@ -387,6 +392,8 @@ def check(book):
     stores["crema"].setdefault("url", "https://cremaclub.yes24.com/BookClub/Search?query=" + urllib.parse.quote(qs[0]))
 
     has_orig = book.get("original") and book["original"] != "-"
+    if matching.is_ja(book.get("original")) and not book.get("grq"):
+        has_orig = False   # 일본어 원제는 Goodreads 자동 검색이 엉뚱한 책을 잡는다 → 검색어를 준 책만 조회
     gr = (goodreads(book["original"], book.get("grq") or GR_PICK.get(book.get("title"), {}).get("q")) or []) if has_orig else []
     cand["goodreads"] = gr
     cand["covers"] = covers
@@ -433,7 +440,7 @@ def enrich(b):
     in_store = bool(stores["yes24"]["status"] == "yes" or stores["yes24"].get("paper")
                     or any(stores[x]["status"] not in ("no", "unknown") for x in ("millie", "ridi", "crema")))
     # 국내판 판정: confirmed(원제 일치) / likely(음역·수동 검수·서점 제목 일치) / none(못 찾음) / unknown(조회 실패)
-    verdict = ("confirmed" if k["how"] == "원제 일치" else "likely" if k["how"] in ("음역 일치", "수동 검수") or in_store
+    verdict = ("confirmed" if k["how"] == "원제 일치" else "likely" if k["how"] in ("음역 일치", "수동 검수") or (in_store and b.get("title"))
                else "unknown" if k["how"] == "확인 불가" else "none")
     how = k["how"] if k["title"] else ("서점 제목 일치" if in_store else k["how"])
     if not k["title"] and stores["yes24"].get("paper"):   # 원제 대조는 못 했지만 제목+저자로 찾은 종이책

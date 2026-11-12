@@ -7,3 +7,5 @@ __pycache__/
 .claude/
 # 레딧 스레드 원문은 재배포하지 않는다
 data/reddit/
+# 커뮤니티 댓글 원문은 재배포하지 않는다
+data/community/
