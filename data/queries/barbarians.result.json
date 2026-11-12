@@ -1,0 +1,1674 @@
+{
+ "slug": "barbarians",
+ "query": "문 앞의 야만인들",
+ "title": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+ "subtitle": "Shepherd 유사도서·Robin Wigglesworth 추천, Fortune 최고의 비즈니스 북, Yahoo Finance 월가 추천, FT 올해의 비즈니스 북 수상·후보, 사모펀드 추천 목록, Hacker News 댓글 언급 집계 (Reddit 미반영)",
+ "updated": "2026-11-12",
+ "books": [
+  {
+   "id": "barbarians-1",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "기준 도서",
+   "title": "문 앞의 야만인들",
+   "original": "Barbarians at the Gate",
+   "author": "브라이언 버로",
+   "awards": "기준 도서 · Fortune 최고의 비즈니스 북 · Wigglesworth 추천 · 사모펀드 추천 목록",
+   "summary": "1988년 RJR 나비스코 차입매수(LBO) 쟁탈전을 내부자 시선으로 재구성한 고전. 월가 딜 논픽션의 기준점.",
+   "note": "",
+   "grq": "Barbarians at the Gate",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%AC%B8%20%EC%95%9E%EC%9D%98%20%EC%95%BC%EB%A7%8C%EC%9D%B8%EB%93%A4",
+     "matched": "문 앞의 야만인들",
+     "reviews": 4,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/754029885",
+     "matched": "문 앞의 야만인들",
+     "rating": 4.9,
+     "count": 17,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/94381637",
+     "matched": "문 앞의 야만인들",
+     "rating": 9.2,
+     "reviews": 29,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/94381637",
+     "matched": "문 앞의 야만인들",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/93881572",
+      "matched": "문 앞의 야만인들"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Barbarians at the Gate: The Fall of RJR Nabisco",
+    "author": "Bryan Burrough",
+    "rating": 4.29,
+    "count": 46540,
+    "work": "1011004",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442897076i/781182._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/781182.Barbarians_at_the_Gate"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "문 앞의 야만인들",
+    "original": "Barbarians at the Gate: The Fall of RJR Nabisco (1990, 2003, 2008)",
+    "publisher": "부키",
+    "date": "2020",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754029885/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "barbarians-2",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "월가 딜·내부자 서사",
+   "title": "Den of Thieves",
+   "original": "Den of Thieves",
+   "author": "제임스 스튜어트",
+   "awards": "Fortune · Yahoo Finance 추천 (2곳)",
+   "summary": "1980년대 내부자거래 스캔들(밀컨, 보스키)을 추적. 『야만인들』과 같은 시대·같은 인물들의 다른 면.",
+   "note": "",
+   "grq": "Den of Thieves",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Den%20of%20Thieves"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Den%20of%20Thieves"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Den%20of%20Thieves"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Den%20of%20Thieves",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Den of Thieves",
+    "author": "James B. Stewart",
+    "rating": 4.16,
+    "count": 15414,
+    "work": "37852",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441985458i/1972._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/1972.Den_of_Thieves"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441985458i/1972._SX240_.jpg"
+  },
+  {
+   "id": "barbarians-3",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "월가 딜·내부자 서사",
+   "title": "The Predators' Ball",
+   "original": "The Predators' Ball",
+   "author": "코니 브룩",
+   "awards": "사모펀드 추천 목록 · Hacker News (2곳)",
+   "summary": "정크본드 제국 드렉셀과 마이클 밀컨. LBO 자금이 어디서 왔는지 보여 주는 짝꿍 책.",
+   "note": "",
+   "grq": "The Predators' Ball",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Predators%27%20Ball"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Predators%27%20Ball"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Predators%27%20Ball"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Predators%27%20Ball",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the Junk Bond Raiders",
+    "author": "Connie Bruck",
+    "rating": 4.08,
+    "count": 4590,
+    "work": "97184",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356059i/100788._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/100788.The_Predators_Ball"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356059i/100788._SX240_.jpg"
+  },
+  {
+   "id": "barbarians-4",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "월가 딜·내부자 서사",
+   "title": "라이어스 포커",
+   "original": "Liar's Poker",
+   "author": "마이클 루이스",
+   "awards": "Shepherd · Fortune · Yahoo Finance · Hacker News 3회 (4곳)",
+   "summary": "1980년대 살로몬 브라더스 채권 트레이더 시절의 회고. 월가 문화를 가장 유쾌하게 그린 책.",
+   "note": "",
+   "grq": "Liar's Poker",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%9D%BC%EC%9D%B4%EC%96%B4%EC%8A%A4%20%ED%8F%AC%EC%BB%A4"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/869000168",
+     "matched": "라이어스 포커",
+     "rating": 3,
+     "count": 1,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%9D%BC%EC%9D%B4%EC%96%B4%EC%8A%A4%20%ED%8F%AC%EC%BB%A4"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/141888130",
+     "matched": "라이어스 포커",
+     "rating": 8.9,
+     "sheet": "",
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/2144274",
+      "matched": "라이어스 포커"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Liar's Poker",
+    "author": "Michael   Lewis",
+    "rating": 4.14,
+    "count": 116100,
+    "work": "855103",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348906209i/7865083._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/7865083-liar-s-poker"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "라이어스 포커",
+    "original": "LIAR'S POKER : Rising Through the Wreckage on Wall Street",
+    "publisher": "위즈덤하우스",
+    "date": "2006",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/869000168/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "barbarians-5",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "월가 딜·내부자 서사",
+   "title": "씨티그룹 그 열정과 도전",
+   "original": "King of Capital",
+   "author": "데이비드 캐리",
+   "awards": "Fortune · 사모펀드 추천 목록 (2곳)",
+   "summary": "블랙스톤의 성장사로 본 사모펀드 산업. 『야만인들』 이후 LBO가 어떻게 제도권 산업이 됐는지.",
+   "note": "",
+   "grq": "King of Capital",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%94%A8%ED%8B%B0%EA%B7%B8%EB%A3%B9%20%EA%B7%B8%20%EC%97%B4%EC%A0%95%EA%B3%BC%20%EB%8F%84%EC%A0%84"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%94%A8%ED%8B%B0%EA%B7%B8%EB%A3%B9%20%EA%B7%B8%20%EC%97%B4%EC%A0%95%EA%B3%BC%20%EB%8F%84%EC%A0%84"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%94%A8%ED%8B%B0%EA%B7%B8%EB%A3%B9%20%EA%B7%B8%20%EC%97%B4%EC%A0%95%EA%B3%BC%20%EB%8F%84%EC%A0%84"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%94%A8%ED%8B%B0%EA%B7%B8%EB%A3%B9%20%EA%B7%B8%20%EC%97%B4%EC%A0%95%EA%B3%BC%20%EB%8F%84%EC%A0%84",
+     "sheet": "",
+     "bookRating": 7.2,
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/1467625",
+      "matched": "씨티그룹 그 열정과 도전"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone",
+    "author": "David Carey",
+    "rating": 4.04,
+    "count": 5611,
+    "work": "13463429",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631336369i/8593761._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/8593761-king-of-capital"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "씨티그룹 그 열정과 도전",
+    "original": "King of Capital (2002)",
+    "publisher": "황금부엉이",
+    "date": "2005",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/1467625/L",
+   "untranslated": false
+  },
+  {
+   "id": "barbarians-6",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "월가 딜·내부자 서사",
+   "title": "The Last Tycoons",
+   "original": "The Last Tycoons",
+   "author": "윌리엄 코핸",
+   "awards": "FT 올해의 비즈니스 북 2007 최종 후보",
+   "summary": "투자은행 라자드의 비밀스러운 딜메이커들. M&A 자문의 세계.",
+   "note": "",
+   "grq": "The Last Tycoons",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Last%20Tycoons"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Last%20Tycoons"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Last%20Tycoons"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Last%20Tycoons",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Love of the Last Tycoon",
+    "author": "F. Scott Fitzgerald",
+    "rating": 3.62,
+    "count": 14311,
+    "work": "1939873",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321018965i/16857._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/16857.The_Love_of_the_Last_Tycoon"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321018965i/16857._SX240_.jpg"
+  },
+  {
+   "id": "barbarians-7",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "월가 딜·내부자 서사",
+   "title": "Greed and Glory on Wall Street",
+   "original": "Greed and Glory on Wall Street",
+   "author": "켄 올레타",
+   "awards": "Yahoo Finance 추천",
+   "summary": "리먼 브라더스 내부 권력 투쟁과 1984년 매각. 『야만인들』 직전 시대의 월가.",
+   "note": "",
+   "grq": "Greed and Glory on Wall Street",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Greed%20and%20Glory%20on%20Wall%20Street"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Greed%20and%20Glory%20on%20Wall%20Street"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Greed%20and%20Glory%20on%20Wall%20Street"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Greed%20and%20Glory%20on%20Wall%20Street",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Greed and Glory on Wall Street: The Fall of the House of Lehman",
+    "author": "Ken Auletta",
+    "rating": 3.85,
+    "count": 292,
+    "work": "457862",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175026545i/469548._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/469548.Greed_and_Glory_on_Wall_Street"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175026545i/469548._SX240_.jpg"
+  },
+  {
+   "id": "barbarians-8",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "금융위기·붕괴",
+   "title": "대마불사",
+   "original": "Too Big to Fail",
+   "author": "앤드루 로스 소킨",
+   "awards": "Shepherd · Fortune · Yahoo · Wigglesworth · FT 2010 후보 · HN (6곳, 최다)",
+   "summary": "2008년 금융위기 당시 월가 CEO와 재무부의 며칠을 분 단위로 재구성. 『야만인들』의 2008년판.",
+   "note": "",
+   "grq": "Too Big to Fail",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%8C%80%EB%A7%88%EB%B6%88%EC%82%AC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%8C%80%EB%A7%88%EB%B6%88%EC%82%AC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%8C%80%EB%A7%88%EB%B6%88%EC%82%AC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%8C%80%EB%A7%88%EB%B6%88%EC%82%AC",
+     "sheet": "",
+     "bookRating": 9.6,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/4441776",
+      "matched": "대마불사"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System from Crisis — and Themselves",
+    "author": "Andrew Ross Sorkin",
+    "rating": 4.17,
+    "count": 45460,
+    "work": "6882582",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347504190i/6687247._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/6687247-too-big-to-fail"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "대마불사",
+    "original": "Too Big to Fail",
+    "publisher": "한울",
+    "date": "2010",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/4441776/L",
+   "untranslated": false
+  },
+  {
+   "id": "barbarians-9",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "금융위기·붕괴",
+   "title": "빅 숏 BIG SHORT",
+   "original": "The Big Short",
+   "author": "마이클 루이스",
+   "awards": "FT 2010 최종 후보 · Hacker News",
+   "summary": "서브프라임 붕괴에 베팅한 아웃사이더들. 영화화.",
+   "note": "",
+   "grq": "The Big Short",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Big%20Short"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Big%20Short"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Big%20Short"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Big%20Short",
+     "sheet": "",
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/3971866",
+      "matched": "빅 숏 BIG SHORT"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Big Short: Inside the Doomsday Machine",
+    "author": "Michael   Lewis",
+    "rating": 4.31,
+    "count": 175862,
+    "work": "6654434",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446581171i/26889576._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/26889576-the-big-short"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "빅 숏 BIG SHORT",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/3971866/L"
+  },
+  {
+   "id": "barbarians-10",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "금융위기·붕괴",
+   "title": "천재들의 실패",
+   "original": "When Genius Failed",
+   "author": "로저 로웬스타인",
+   "awards": "Shepherd · Yahoo Finance · Hacker News (3곳)",
+   "summary": "노벨상 수상자들이 이끈 헤지펀드 LTCM의 몰락. 레버리지가 무엇을 하는지 보여 준다.",
+   "note": "",
+   "grq": "When Genius Failed",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EC%8B%A4%ED%8C%A8"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EC%8B%A4%ED%8C%A8"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EC%8B%A4%ED%8C%A8"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98%20%EC%8B%A4%ED%8C%A8",
+     "sheet": "",
+     "bookRating": 7.4,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/3290129",
+      "matched": "천재들의 실패"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "When Genius Failed: The Rise and Fall of Long-Term Capital Management",
+    "author": "Roger Lowenstein",
+    "rating": 4.2,
+    "count": 32658,
+    "work": "13308",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435292091i/10669._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/10669.When_Genius_Failed"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "천재들의 실패",
+    "original": "When Genius Failed",
+    "publisher": "한국경제신문사(한경비피)",
+    "date": "2009",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/3290129/L"
+  },
+  {
+   "id": "barbarians-11",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "금융위기·붕괴",
+   "title": "모든 악마가 여기에 있다",
+   "original": "All the Devils Are Here",
+   "author": "베서니 맥린",
+   "awards": "Hacker News",
+   "summary": "2008년 위기의 원인을 모기지 산업 전체에서 추적.",
+   "note": "",
+   "grq": "All the Devils Are Here",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%AA%A8%EB%93%A0%20%EC%95%85%EB%A7%88%EA%B0%80%20%EC%97%AC%EA%B8%B0%EC%97%90%20%EC%9E%88%EB%8B%A4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%AA%A8%EB%93%A0%20%EC%95%85%EB%A7%88%EA%B0%80%20%EC%97%AC%EA%B8%B0%EC%97%90%20%EC%9E%88%EB%8B%A4"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%AA%A8%EB%93%A0%20%EC%95%85%EB%A7%88%EA%B0%80%20%EC%97%AC%EA%B8%B0%EC%97%90%20%EC%9E%88%EB%8B%A4"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%AA%A8%EB%93%A0%20%EC%95%85%EB%A7%88%EA%B0%80%20%EC%97%AC%EA%B8%B0%EC%97%90%20%EC%9E%88%EB%8B%A4",
+     "sheet": "",
+     "bookRating": 8.7,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/5788396",
+      "matched": "모든 악마가 여기에 있다"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "All the Devils Are Here",
+    "author": "Louise Penny",
+    "rating": 4.43,
+    "count": 86891,
+    "work": "74580851",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582597966i/49127539._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/49127539-all-the-devils-are-here"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "모든 악마가 여기에 있다",
+    "original": "All the Devils Are Here",
+    "publisher": "자음과모음(이룸)",
+    "date": "2011",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/5788396/L"
+  },
+  {
+   "id": "barbarians-12",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "금융위기·붕괴",
+   "title": "금융의 제왕",
+   "original": "Lords of Finance",
+   "author": "리아콰트 아메드",
+   "awards": "FT 올해의 비즈니스 북 2009 수상 · 2010 퓰리처상 역사 부문",
+   "summary": "대공황을 만든 네 중앙은행 총재의 이야기.",
+   "note": "",
+   "grq": "Lords of Finance",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B8%88%EC%9C%B5%EC%9D%98%20%EC%A0%9C%EC%99%95"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EA%B8%88%EC%9C%B5%EC%9D%98%20%EC%A0%9C%EC%99%95"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B8%88%EC%9C%B5%EC%9D%98%20%EC%A0%9C%EC%99%95"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EA%B8%88%EC%9C%B5%EC%9D%98%20%EC%A0%9C%EC%99%95",
+     "sheet": "",
+     "bookRating": 9,
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/3652507",
+      "matched": "금융의 제왕"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Lords of Finance: The Bankers Who Broke the World",
+    "author": "Liaquat Ahamed",
+    "rating": 4.04,
+    "count": 17188,
+    "work": "6200639",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441544240i/6025160._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/6025160-lords-of-finance"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "금융의 제왕",
+    "original": "Lords of Finance : The Bankers Who Broke the World",
+    "publisher": "다른세상",
+    "date": "2010",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/3652507/L"
+  },
+  {
+   "id": "barbarians-13",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "금융위기·붕괴",
+   "title": "광기, 패닉, 붕괴 금융위기의 역사",
+   "original": "Manias, Panics, and Crashes",
+   "author": "찰스 킨들버거",
+   "awards": "Shepherd · Wigglesworth (2곳)",
+   "summary": "금융위기의 역사와 공통 패턴을 정리한 고전. 서사보다 분석서.",
+   "note": "",
+   "grq": "Manias, Panics, and Crashes",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B4%91%EA%B8%B0%2C%20%ED%8C%A8%EB%8B%89%2C%20%EB%B6%95%EA%B4%B4%20%EA%B8%88%EC%9C%B5%EC%9C%84%EA%B8%B0%EC%9D%98%20%EC%97%AD%EC%82%AC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EA%B4%91%EA%B8%B0%2C%20%ED%8C%A8%EB%8B%89%2C%20%EB%B6%95%EA%B4%B4%20%EA%B8%88%EC%9C%B5%EC%9C%84%EA%B8%B0%EC%9D%98%20%EC%97%AD%EC%82%AC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B4%91%EA%B8%B0%2C%20%ED%8C%A8%EB%8B%89%2C%20%EB%B6%95%EA%B4%B4%20%EA%B8%88%EC%9C%B5%EC%9C%84%EA%B8%B0%EC%9D%98%20%EC%97%AD%EC%82%AC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EA%B4%91%EA%B8%B0%2C%20%ED%8C%A8%EB%8B%89%2C%20%EB%B6%95%EA%B4%B4%20%EA%B8%88%EC%9C%B5%EC%9C%84%EA%B8%B0%EC%9D%98%20%EC%97%AD%EC%82%AC",
+     "sheet": "",
+     "bookRating": 8.6,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/2183283",
+      "matched": "광기, 패닉, 붕괴 금융위기의 역사"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Manias, Panics, and Crashes: A History of Financial Crises",
+    "author": "Charles P. Kindleberger",
+    "rating": 3.92,
+    "count": 4438,
+    "work": "2113039",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387733622i/367596._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/367596.Manias_Panics_and_Crashes"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "광기, 패닉, 붕괴 금융위기의 역사",
+    "original": "Manias, Panics and Crashes : A History of Financial Crisis",
+    "publisher": "굿모닝북스",
+    "date": "2006",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/2183283/L"
+  },
+  {
+   "id": "barbarians-14",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "기업 스캔들",
+   "title": "엔론 스캔들",
+   "original": "The Smartest Guys in the Room",
+   "author": "베서니 맥린",
+   "awards": "Fortune · Hacker News (2곳)",
+   "summary": "엔론 붕괴의 전모. 기업 사기 논픽션의 대표작.",
+   "note": "",
+   "grq": "The Smartest Guys in the Room",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%97%94%EB%A1%A0%20%EC%8A%A4%EC%BA%94%EB%93%A4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%97%94%EB%A1%A0%20%EC%8A%A4%EC%BA%94%EB%93%A4"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%97%94%EB%A1%A0%20%EC%8A%A4%EC%BA%94%EB%93%A4"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%97%94%EB%A1%A0%20%EC%8A%A4%EC%BA%94%EB%93%A4",
+     "sheet": "",
+     "bookRating": 8.4,
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/3712226",
+      "matched": "엔론 스캔들"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron",
+    "author": "Bethany McLean",
+    "rating": 4.22,
+    "count": 29484,
+    "work": "1604",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309204701i/113576._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/113576.The_Smartest_Guys_in_the_Room"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "엔론 스캔들",
+    "original": "The Smartest Guys in the Room",
+    "publisher": "서돌",
+    "date": "2010",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/3712226/L"
+  },
+  {
+   "id": "barbarians-15",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "기업 스캔들",
+   "title": "배드 블러드",
+   "original": "Bad Blood",
+   "author": "존 캐리루",
+   "awards": "FT 올해의 비즈니스 북 2018 수상 · Shepherd · HN (3곳)",
+   "summary": "테라노스 사기를 폭로한 기자의 추적기. 스릴러처럼 읽힌다.",
+   "note": "",
+   "grq": "Bad Blood",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B0%B0%EB%93%9C%20%EB%B8%94%EB%9F%AC%EB%93%9C"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%B0%B0%EB%93%9C%20%EB%B8%94%EB%9F%AC%EB%93%9C"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B0%B0%EB%93%9C%20%EB%B8%94%EB%9F%AC%EB%93%9C"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%B0%B0%EB%93%9C%20%EB%B8%94%EB%9F%AC%EB%93%9C",
+     "sheet": "",
+     "bookRating": 9,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/71538815",
+      "matched": "배드 블러드"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Good Girl, Bad Blood",
+    "author": "Holly  Jackson",
+    "rating": 4.25,
+    "count": 859803,
+    "work": "68488803",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588319723i/51335759._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/51335759-good-girl-bad-blood"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "배드 블러드",
+    "original": "Bad Blood",
+    "publisher": "와이즈베리",
+    "date": "2019",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/71538815/L"
+  },
+  {
+   "id": "barbarians-16",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "기업 스캔들",
+   "title": "Empire of Pain",
+   "original": "Empire of Pain",
+   "author": "패트릭 라든 키프",
+   "awards": "FT 2021 최종 후보 · 베일리 기퍼드상 2021 · HN",
+   "summary": "오피오이드 사태와 새클러 가문 3대.",
+   "note": "",
+   "grq": "Empire of Pain",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Empire%20of%20Pain"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Empire%20of%20Pain"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Empire%20of%20Pain"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Empire%20of%20Pain",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Empire of Pain: The Secret History of the Sackler Dynasty",
+    "author": "Patrick Radden Keefe",
+    "rating": 4.53,
+    "count": 155962,
+    "work": "68254444",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611952534i/43868109._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/43868109-empire-of-pain"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611952534i/43868109._SX240_.jpg"
+  },
+  {
+   "id": "barbarians-17",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "투자·헤지펀드 인물",
+   "title": "돈으로 행복해지는 비결",
+   "original": "More Money Than God",
+   "author": "서배스천 맬러비",
+   "awards": "Shepherd · Yahoo · Wigglesworth · FT 2010 후보 (4곳)",
+   "summary": "헤지펀드 산업의 역사를 인물 중심으로. 소로스·존스·심슨까지.",
+   "note": "",
+   "grq": "More Money Than God",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%8F%88%EC%9C%BC%EB%A1%9C%20%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94%20%EB%B9%84%EA%B2%B0"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%8F%88%EC%9C%BC%EB%A1%9C%20%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94%20%EB%B9%84%EA%B2%B0"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%8F%88%EC%9C%BC%EB%A1%9C%20%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94%20%EB%B9%84%EA%B2%B0"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%8F%88%EC%9C%BC%EB%A1%9C%20%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94%20%EB%B9%84%EA%B2%B0",
+     "sheet": "",
+     "bookRating": 9,
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/1382980",
+      "matched": "돈으로 행복해지는 비결"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "More Money Than God: Hedge Funds and the Making of a New Elite",
+    "author": "Sebastian Mallaby",
+    "rating": 4.11,
+    "count": 10117,
+    "work": "11340346",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432927841i/7936425._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/7936425-more-money-than-god"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "돈으로 행복해지는 비결",
+    "original": "More Money Than God (2003)",
+    "publisher": "오상",
+    "date": "2004",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/1382980/L"
+  },
+  {
+   "id": "barbarians-18",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "투자·헤지펀드 인물",
+   "title": "제시 리버모어의 회",
+   "original": "Reminiscences of a Stock Operator",
+   "author": "에드윈 르페브르",
+   "awards": "Shepherd · Yahoo Finance (2곳)",
+   "summary": "전설적 투기꾼 제시 리버모어의 1923년 소설형 회고. 트레이더 필독서.",
+   "note": "",
+   "grq": "Reminiscences of a Stock Operator",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%A0%9C%EC%8B%9C%20%EB%A6%AC%EB%B2%84%EB%AA%A8%EC%96%B4%EC%9D%98%20%ED%9A%8C"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%A0%9C%EC%8B%9C%20%EB%A6%AC%EB%B2%84%EB%AA%A8%EC%96%B4%EC%9D%98%20%ED%9A%8C"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%A0%9C%EC%8B%9C%20%EB%A6%AC%EB%B2%84%EB%AA%A8%EC%96%B4%EC%9D%98%20%ED%9A%8C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/199943484",
+     "matched": "어느 주식투자자의 회상",
+     "rating": 0,
+     "sheet": "",
+     "bookRating": 9.4,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/4049595",
+      "matched": "제시 리버모어의 회상"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Reminiscences of a Stock Operator",
+    "author": "Edwin Lefèvre",
+    "rating": 4.18,
+    "count": 20642,
+    "work": "97175",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355080577i/100779._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/100779.Reminiscences_of_a_Stock_Operator"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "제시 리버모어의 회상",
+    "original": "Reminiscences of a Stock Operator",
+    "publisher": "굿모닝북스",
+    "date": "2010",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/199943484/L"
+  },
+  {
+   "id": "barbarians-19",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "투자·헤지펀드 인물",
+   "title": "시장을 풀어낸 수학자",
+   "original": "The Man Who Solved the Market",
+   "author": "그레고리 주커먼",
+   "awards": "Hacker News",
+   "summary": "르네상스 테크놀로지스와 짐 사이먼스. 퀀트 투자의 탄생.",
+   "note": "",
+   "grq": "The Man Who Solved the Market",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8B%9C%EC%9E%A5%EC%9D%84%20%ED%92%80%EC%96%B4%EB%82%B8%20%EC%88%98%ED%95%99%EC%9E%90"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%8B%9C%EC%9E%A5%EC%9D%84%20%ED%92%80%EC%96%B4%EB%82%B8%20%EC%88%98%ED%95%99%EC%9E%90"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8B%9C%EC%9E%A5%EC%9D%84%20%ED%92%80%EC%96%B4%EB%82%B8%20%EC%88%98%ED%95%99%EC%9E%90"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%8B%9C%EC%9E%A5%EC%9D%84%20%ED%92%80%EC%96%B4%EB%82%B8%20%EC%88%98%ED%95%99%EC%9E%90",
+     "sheet": "",
+     "bookRating": 8.8,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/101620689",
+      "matched": "시장을 풀어낸 수학자"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution",
+    "author": "Gregory Zuckerman",
+    "rating": 4.04,
+    "count": 18455,
+    "work": "68288870",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567623099i/43889703._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/43889703-the-man-who-solved-the-market"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "시장을 풀어낸 수학자",
+    "original": "The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution ",
+    "publisher": "로크미디어",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/101620689/L"
+  },
+  {
+   "id": "barbarians-20",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "투자·헤지펀드 인물",
+   "title": "플래시 보이스",
+   "original": "Flash Boys",
+   "author": "마이클 루이스",
+   "awards": "Hacker News",
+   "summary": "초단타 매매(HFT)와 시장 구조의 허점.",
+   "note": "",
+   "grq": "Flash Boys",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%94%8C%EB%9E%98%EC%8B%9C%20%EB%B3%B4%EC%9D%B4%EC%8A%A4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%ED%94%8C%EB%9E%98%EC%8B%9C%20%EB%B3%B4%EC%9D%B4%EC%8A%A4"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%94%8C%EB%9E%98%EC%8B%9C%20%EB%B3%B4%EC%9D%B4%EC%8A%A4"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%ED%94%8C%EB%9E%98%EC%8B%9C%20%EB%B3%B4%EC%9D%B4%EC%8A%A4",
+     "sheet": "",
+     "bookRating": 9,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/14606751",
+      "matched": "플래시 보이스"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Flash Boys: A Wall Street Revolt",
+    "author": "Michael   Lewis",
+    "rating": 4.14,
+    "count": 93049,
+    "work": "38053447",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426093936i/24724602._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/24724602-flash-boys"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "플래시 보이스",
+    "original": "FLASH BOYS",
+    "publisher": "비즈니스북스",
+    "date": "2014",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/14606751/L"
+  },
+  {
+   "id": "barbarians-21",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "투자·헤지펀드 인물",
+   "title": "Capital Ideas",
+   "original": "Capital Ideas",
+   "author": "피터 번스타인",
+   "awards": "Shepherd · Wigglesworth (2곳)",
+   "summary": "현대 금융이론(포트폴리오 이론, CAPM, 옵션 가격)이 월가로 들어간 과정.",
+   "note": "",
+   "grq": "Capital Ideas",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Capital%20Ideas"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Capital%20Ideas"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Capital%20Ideas"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Capital%20Ideas",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Capital Ideas: The Improbable Origins of Modern Wall Street",
+    "author": "Peter L. Bernstein",
+    "rating": 3.98,
+    "count": 857,
+    "work": "173123",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347609010i/179198._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/179198.Capital_Ideas"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347609010i/179198._SX240_.jpg"
+  },
+  {
+   "id": "barbarians-22",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "투자·헤지펀드 인물",
+   "title": "The Power Law",
+   "original": "The Power Law",
+   "author": "서배스천 맬러비",
+   "awards": "FT 올해의 비즈니스 북 2022 최종 후보",
+   "summary": "벤처캐피털의 역사와 '멱법칙' 투자.",
+   "note": "",
+   "grq": "The Power Law",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Power%20Law"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Power%20Law"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Power%20Law"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Power%20Law",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Power Law: Venture Capital and the Making of the New Future",
+    "author": "Sebastian Mallaby",
+    "rating": 4.41,
+    "count": 5828,
+    "work": "90903302",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624825190i/58009109._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/58009109-the-power-law"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624825190i/58009109._SX240_.jpg"
+  },
+  {
+   "id": "barbarians-23",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "기업사 고전",
+   "title": "경영의 모험",
+   "original": "Business Adventures",
+   "author": "존 브룩스",
+   "awards": "Fortune · 사모펀드 추천 목록 (2곳)",
+   "summary": "1960년대 『뉴요커』에 실린 기업·금융 이야기 12편. 빌 게이츠가 꼽은 최고의 비즈니스 책으로 유명.",
+   "note": "",
+   "grq": "Business Adventures",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B2%BD%EC%98%81%EC%9D%98%20%EB%AA%A8%ED%97%98",
+     "matched": "경영의 모험",
+     "reviews": 11,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/1648000005",
+     "matched": "경영의 모험",
+     "rating": 3.8,
+     "count": 53,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/18364244",
+     "matched": "경영의 모험",
+     "rating": 8.8,
+     "reviews": 119,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/18364244",
+     "matched": "경영의 모험",
+     "rating": 8.8,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/16996111",
+      "matched": "경영의 모험"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Business adventures",
+    "author": "John Brooks",
+    "rating": 3.81,
+    "count": 25137,
+    "work": "4238490",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405094011i/4191136._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/4191136-business-adventures"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "경영의 모험",
+    "original": "Business Adventures",
+    "publisher": "쌤앤파커스",
+    "date": "2015",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/1648000005/xlarge"
+  },
+  {
+   "id": "barbarians-24",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "기업사 고전",
+   "title": "금융제국 J.P.모건",
+   "original": "The House of Morgan",
+   "author": "론 처노",
+   "awards": "Hacker News",
+   "summary": "J.P. 모건 가문 150년. 금융 권력사의 고전.",
+   "note": "",
+   "grq": "The House of Morgan",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B8%88%EC%9C%B5%EC%A0%9C%EA%B5%AD%20J.P.%EB%AA%A8%EA%B1%B4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EA%B8%88%EC%9C%B5%EC%A0%9C%EA%B5%AD%20J.P.%EB%AA%A8%EA%B1%B4"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B8%88%EC%9C%B5%EC%A0%9C%EA%B5%AD%20J.P.%EB%AA%A8%EA%B1%B4"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EA%B8%88%EC%9C%B5%EC%A0%9C%EA%B5%AD%20J.P.%EB%AA%A8%EA%B1%B4",
+     "sheet": "",
+     "bookRating": 7.2,
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/2374199",
+      "matched": "금융제국 J.P.모건 1"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance",
+    "author": "Ron Chernow",
+    "rating": 3.96,
+    "count": 13321,
+    "work": "1769681",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428936312i/16131._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/16131.The_House_of_Morgan"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "금융제국 J.P.모건 1",
+    "original": "The House of Morgan",
+    "publisher": "플래닛(Planet)",
+    "date": "2007",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/2374199/L"
+  },
+  {
+   "id": "barbarians-25",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "기업사 고전",
+   "title": "Titan",
+   "original": "Titan",
+   "author": "론 처노",
+   "awards": "Fortune",
+   "summary": "존 D. 록펠러 평전.",
+   "note": "",
+   "grq": "Titan: The Life of John D. Rockefeller, Sr.",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Titan"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Titan"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Titan"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Titan",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Titan: The Life of John D. Rockefeller, Sr.",
+    "author": "Ron Chernow",
+    "rating": 4.15,
+    "count": 40777,
+    "work": "1312015",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925052i/16121._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/16121.Titan"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925052i/16121._SX240_.jpg"
+  },
+  {
+   "id": "barbarians-26",
+   "list": "『문 앞의 야만인들』을 좋아했다면 — 월가·기업 딜 논픽션 25선",
+   "category": "소설로 이어 읽기",
+   "title": "허영의 불꽃",
+   "original": "The Bonfire of the Vanities",
+   "author": "톰 울프",
+   "awards": "Hacker News 2회",
+   "summary": "1980년대 월가 채권 트레이더의 몰락을 그린 풍자 소설. 같은 시대의 픽션판.",
+   "note": "",
+   "grq": "The Bonfire of the Vanities",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%97%88%EC%98%81%EC%9D%98%20%EB%B6%88%EA%BD%83"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%ED%97%88%EC%98%81%EC%9D%98%20%EB%B6%88%EA%BD%83"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%97%88%EC%98%81%EC%9D%98%20%EB%B6%88%EA%BD%83"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%ED%97%88%EC%98%81%EC%9D%98%20%EB%B6%88%EA%BD%83",
+     "sheet": "",
+     "bookRating": 9.4,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/3849783",
+      "matched": "허영의 불꽃 1"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Bonfire of the Vanities",
+    "author": "Tom Wolfe",
+    "rating": 3.93,
+    "count": 90033,
+    "work": "1080201",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542903489i/2666._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/2666.The_Bonfire_of_the_Vanities"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "허영의 불꽃 1",
+    "original": "The Bonfire of the Vanities (1990)",
+    "publisher": "민음사",
+    "date": "2010",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://image.yes24.com/goods/3849783/L"
+  }
+ ]
+}

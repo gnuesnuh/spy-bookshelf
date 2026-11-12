@@ -262,6 +262,8 @@ def check(book):
         kt = matching.base_title(gold_title)
         qs = [kt] + [q for q in qs if norm(q) != norm(kt)]
         kr_how = "수동 검수"
+    if not qs:  # 한국어 제목도 국내판도 없는 책(미번역 후보): 원제로만 검색해 '없음'을 확인한다
+        qs = [re.sub(r"\(.*?\)", "", book.get("original") or "").strip() or "-"]
     cand["korean"] = dict(how=kr_how, title=(kr_item and kr_item.get("title")) or gold_title,
                           original=kr_item and kr_item.get("originalTitle"),
                           publisher=kr_item and kr_item.get("publisher"),

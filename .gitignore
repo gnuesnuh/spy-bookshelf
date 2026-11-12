@@ -5,3 +5,5 @@ data/reviews/
 *.xlsx
 __pycache__/
 .claude/
+# 레딧 스레드 원문은 재배포하지 않는다
+data/reddit/
