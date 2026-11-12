@@ -134,7 +134,7 @@ def _find_korean(original, author):
 
     근거: "원제 일치"(확정 ✅) / "음역 일치"(유력 ⚠️) / "못 찾음" / "확인 불가"(조회 실패).
     """
-    o1 = original.split("/")[0].split("(")[0].strip()
+    o1 = original.split("/")[0].split("(")[0].split(":")[0].strip()  # 부제 앞까지만 (Noise: A Flaw… → Noise)
     origs = [en(o) for o in original.split("/") if en(o)]
     last = author.split()[-1]
     seen, failed = {}, False
@@ -165,7 +165,8 @@ def _find_korean(original, author):
         ot = en(i.get("originalTitle"))
         if not ot:
             continue
-        s = max((1.0 if o == ot or (min(len(o), len(ot)) >= 10 and (o in ot or ot in o))
+        ot_main = en(re.split(r"[:：]", i.get("originalTitle") or "")[0])  # 부제 뺀 원제 (Noise : A Flaw… → noise)
+        s = max((1.0 if o == ot or o == ot_main or (min(len(o), len(ot)) >= 10 and (o in ot or ot in o))
                  else difflib.SequenceMatcher(None, o, ot).ratio()) for o in origs)
         if s > score or (s == score and best is not None and rank(i) > rank(best)):
             best, score = i, s

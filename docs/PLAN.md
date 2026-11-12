@@ -50,6 +50,7 @@
 1. **입력 확인**: 사용자 입력이 책인지 장르인지 판단. 책이면 YES24로 원서·저자 확정(`yes24_lookup.py`).
 2. **소스 수집**: 장르에 맞는 소스를 WebSearch/WebFetch로 읽는다.
    - 공통: 장르 어워드 수상·후보작, Goodreads 목록·Choice 후보, 언론 결산(NYT·Guardian·Economist), Five Books 전문가 추천, Shepherd 유사 도서, 독자 커뮤니티 — `scripts/community_fetch.py`(Hacker News·Discourse·Lemmy), Reddit은 `scripts/gemini_candidates.py`(Gemini 검색 그라운딩, Reddit만 검색)
+   - 어워드·랭킹 축: `python scripts/award_candidates.py <slug> --seed "<기준 도서>"` 또는 `--genre <장르>` → `data/queries/<slug>.awards.json`. 소스 캐시(영미권 23·일본 21개 소스, `docs/SOURCES.md`)에서 기준 도서와 함께 오른 작품·같은 작가·같은 장르 상위작을 뽑는다. 기준 도서가 어워드에 오른 적이 없으면 장르로 뽑는다.
    - 출처마다 실제로 연 페이지만 쓴다. 검색 스니펫만으로 수상 이력을 적지 않는다.
 3. **집계**: 원제 기준으로 같은 작품을 묶고(시리즈는 대표작) 소스 수로 순위 → `data/queries/<slug>.rank.json`
 4. **목록 작성**: 상위 후보에 카테고리, 수상·선정 이력(출처 확인분만), 추천 포인트를 붙여 `data/queries/<slug>.json`
@@ -65,7 +66,8 @@
 | 번역본 매칭 | `scripts/matching.py` `find_korean` (build_data·build_query·eval_sheet 공용) | ✅ 94%, build_query 연결 완료 |
 | 정답지 검수 | `scripts/make_gold.py` → `data/gold.json` | ✅ |
 | 추천 소스 | 등록부 `scripts/sources.json` + 수집기 `scripts/sources.py` → 소스 캐시, 목록 문서 `docs/SOURCES.md` | ✅ 44개 소스(영미권 23, 일본 21) |
-| 추천 후보 집계 | `scripts/recommend.py` — 장르·제목 질의, 영미권+일본 통합, 국내판 우선 | ✅ (커뮤니티·언론 결산 소스는 아직 수작업) |
+| 어워드 축 후보 | `scripts/award_candidates.py` — 질의(제목·장르)에 맞는 어워드·랭킹 후보를 소스 캐시에서 뽑음. 목록은 만들지 않음 | ✅ |
+| 추천 후보 집계 | 어워드 축 + 커뮤니티(`community_fetch.py`) + Reddit(`gemini_candidates.py`) + 웹에서 읽은 전문가·언론 추천을 Claude Code 가 합쳐 `<slug>.json` 작성 | 🟡 합치는 단계는 수작업 |
 | 결과 자동 채점 | (없음) | ❌ |
 | 웹앱 (결과 화면) | `index.html`, `app.js` — 목록 선택, 입점 토글, 작가 색인, 리뷰 요약, 표지, 종이책 상태, 영상화·OTT, 조회 중 표시. GitHub Pages 배포 | ✅ |
 | 리뷰 요약 | `scripts/collect_reviews.py`, `summarize_reviews.py` (기존 시트용) | 🟡 질의용 미연결 |

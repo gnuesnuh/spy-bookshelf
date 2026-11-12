@@ -7,7 +7,7 @@
  "books": [
   {
    "category": "기준 도서",
-   "title": "",
+   "title": "블러프",
    "original": "The Biggest Bluff",
    "author": "마리아 코니코바",
    "awards": "기준 도서 · Five Books '좋은 결정에 관한 책'(Sebastian Park)",
@@ -17,11 +17,64 @@
    "id": "bluff-1",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B8%94%EB%9F%AC%ED%94%84",
+     "matched": "블러프",
+     "reviews": 7,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%B8%94%EB%9F%AC%ED%94%84"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B8%94%EB%9F%AC%ED%94%84"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%B8%94%EB%9F%AC%ED%94%84",
+     "sheet": "",
+     "bookRating": 9.7,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/103452901",
+      "matched": "블러프"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win",
+    "author": "Maria Konnikova",
+    "rating": 4.07,
+    "count": 16322,
+    "work": "74930649",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585143928i/49814228._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/49814228-the-biggest-bluff"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "블러프",
+    "original": "The Biggest Bluff",
+    "publisher": "한국경제신문사(한경비피)",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/103452901/L",
+   "untranslated": false
   },
   {
    "category": "포커 논픽션: 같은 결",
-   "title": "",
+   "title": "The Biggest Game in Town",
    "original": "The Biggest Game in Town",
    "author": "앨 앨버레즈|알 알바레즈",
    "awards": "Shepherd · Five Books(Victoria Coren) · Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) (4곳)",
@@ -31,11 +84,56 @@
    "id": "bluff-2",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Biggest%20Game%20in%20Town"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Biggest%20Game%20in%20Town"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Biggest%20Game%20in%20Town"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Biggest%20Game%20in%20Town",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Biggest Game in Town",
+    "author": "Al Álvarez",
+    "rating": 3.74,
+    "count": 1102,
+    "work": "1275802",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439010353i/848142._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/848142.The_Biggest_Game_in_Town"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439010353i/848142._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 논픽션: 같은 결",
-   "title": "",
+   "title": "Positively Fifth Street",
    "original": "Positively Fifth Street",
    "author": "제임스 맥매너스",
    "awards": "Shepherd · Nolan Dalla Top10 · Reddit(Gemini 경유) (3곳)",
@@ -45,11 +143,56 @@
    "id": "bluff-3",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Positively%20Fifth%20Street"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Positively%20Fifth%20Street"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Positively%20Fifth%20Street"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Positively%20Fifth%20Street",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Positively Fifth Street: Murderers, Cheetahs, and Binion's World Series of Poker",
+    "author": "James McManus",
+    "rating": 3.89,
+    "count": 3116,
+    "work": "109310",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316136338i/113537._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/113537.Positively_Fifth_Street"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316136338i/113537._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 논픽션: 같은 결",
-   "title": "",
+   "title": "Big Deal",
    "original": "Big Deal",
    "author": "앤서니 홀든",
    "awards": "Five Books(Coren) · Nolan Dalla 1위 · Reddit(Gemini 경유) (3곳)",
@@ -59,11 +202,56 @@
    "id": "bluff-4",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Big%20Deal"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Big%20Deal"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Big%20Deal"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Big%20Deal",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Big Deal: One Year as a Professional Poker Player",
+    "author": "Anthony Holden",
+    "rating": 3.68,
+    "count": 736,
+    "work": "876149",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482502834i/33551682._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/33551682-big-deal"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482502834i/33551682._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 논픽션: 같은 결",
-   "title": "",
+   "title": "The Professor, the Banker, and the Suicide King",
    "original": "The Professor, the Banker, and the Suicide King",
    "author": "마이클 크레이그",
    "awards": "Nolan Dalla Top10 · Reddit(Gemini 경유) · 커뮤니티(HN 등) (3곳)",
@@ -73,11 +261,56 @@
    "id": "bluff-5",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Professor, the Banker, and the Suicide King: Inside the Richest Poker Game of All Time",
+    "author": "Michael Craig",
+    "rating": 3.87,
+    "count": 2254,
+    "work": "288900",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442131683i/297764._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/297764.The_Professor_the_Banker_and_the_Suicide_King"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442131683i/297764._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 논픽션: 같은 결",
-   "title": "",
+   "title": "Shut Up and Deal",
    "original": "Shut Up and Deal",
    "author": "제시 메이",
    "awards": "Five Books(Coren) · Nolan Dalla Top10 (2곳)",
@@ -87,11 +320,56 @@
    "id": "bluff-6",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Shut%20Up%20and%20Deal"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Shut%20Up%20and%20Deal"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Shut%20Up%20and%20Deal"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Shut%20Up%20and%20Deal",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Shut Up and Deal: A Novel",
+    "author": "Jesse May",
+    "rating": 3.69,
+    "count": 144,
+    "work": "1132865",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578233i/1145418._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/1145418.Shut_Up_and_Deal"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578233i/1145418._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 논픽션: 같은 결",
-   "title": "",
+   "title": "The Noble Hustle",
    "original": "The Noble Hustle",
    "author": "콜슨 화이트헤드",
    "awards": "Shepherd",
@@ -101,11 +379,56 @@
    "id": "bluff-7",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Noble%20Hustle"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Noble%20Hustle"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Noble%20Hustle"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Noble%20Hustle",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Noble Hustle: Poker, Beef Jerky, and Death",
+    "author": "Colson Whitehead",
+    "rating": 3.39,
+    "count": 3616,
+    "work": "25732148",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377536871i/18310206._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/18310206-the-noble-hustle"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377536871i/18310206._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 논픽션: 같은 결",
-   "title": "",
+   "title": "The Moneymaker Effect",
    "original": "The Moneymaker Effect",
    "author": "에릭 래스킨",
    "awards": "Shepherd",
@@ -115,11 +438,56 @@
    "id": "bluff-8",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Moneymaker%20Effect"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Moneymaker%20Effect"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Moneymaker%20Effect"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Moneymaker%20Effect",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Moneymaker Effect: The Inside Story of the Tournament That Forever Changed Poker",
+    "author": "Eric Raskin",
+    "rating": 4.02,
+    "count": 57,
+    "work": "41183150",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397430990i/21892558._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/21892558-the-moneymaker-effect"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397430990i/21892558._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 논픽션: 같은 결",
-   "title": "",
+   "title": "Cowboys Full",
    "original": "Cowboys Full",
    "author": "제임스 맥매너스",
    "awards": "Nolan Dalla Top10",
@@ -129,11 +497,56 @@
    "id": "bluff-9",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Cowboys%20Full"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Cowboys%20Full"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Cowboys%20Full"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Cowboys%20Full",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Cowboys Full: The Story of Poker",
+    "author": "James McManus",
+    "rating": 3.65,
+    "count": 455,
+    "work": "6642942",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442424768i/6452737._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/6452737-cowboys-full"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442424768i/6452737._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "판단·확률·의사결정",
-   "title": "",
+   "title": "결정, 흔들리지 않고 마음먹은 대로",
    "original": "Thinking in Bets",
    "author": "애니 듀크",
    "awards": "Reddit(Gemini 경유) · 커뮤니티(HN 등) 20회 언급 (2곳)",
@@ -143,11 +556,66 @@
    "id": "bluff-10",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B2%B0%EC%A0%95%2C%20%ED%9D%94%EB%93%A4%EB%A6%AC%EC%A7%80%20%EC%95%8A%EA%B3%A0%20%EB%A7%88%EC%9D%8C%EB%A8%B9%EC%9D%80%20%EB%8C%80%EB%A1%9C"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/754024407",
+     "matched": "결정, 흔들리지 않고 마음먹은 대로",
+     "rating": 4,
+     "count": 26,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B2%B0%EC%A0%95%2C%20%ED%9D%94%EB%93%A4%EB%A6%AC%EC%A7%80%20%EC%95%8A%EA%B3%A0%20%EB%A7%88%EC%9D%8C%EB%A8%B9%EC%9D%80%20%EB%8C%80%EB%A1%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/102931832",
+     "matched": "결정,흔들리지 않고 마음먹은 대로[체험판]",
+     "rating": 10,
+     "sheet": "",
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/63692398",
+      "matched": "결정, 흔들리지 않고 마음먹은 대로"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
+    "author": "Annie Duke",
+    "rating": 3.81,
+    "count": 25862,
+    "work": "57513167",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513351600i/35957157._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/35957157-thinking-in-bets"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "결정, 흔들리지 않고 마음먹은 대로",
+    "original": "Thinking in Bets",
+    "publisher": "8.0(에이트 포인트)",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754024407/xlarge",
+   "untranslated": false
   },
   {
    "category": "판단·확률·의사결정",
-   "title": "",
+   "title": "노이즈",
    "original": "Noise",
    "author": "대니얼 카너먼",
    "awards": "Five Books(Sebastian Park) · 커뮤니티(HN) (2곳)",
@@ -157,11 +625,66 @@
    "id": "bluff-11",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%85%B8%EC%9D%B4%EC%A6%88"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1546000945",
+     "matched": "노이즈",
+     "rating": 4,
+     "count": 8,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%85%B8%EC%9D%B4%EC%A6%88"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/199627592",
+     "matched": "[대여] 노이즈 : 생각의 잡음",
+     "rating": 9.1,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/109007001",
+      "matched": "노이즈 : 생각의 잡음"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Noise: A Flaw in Human Judgment",
+    "author": "Daniel Kahneman",
+    "rating": 3.67,
+    "count": 17505,
+    "work": "75457218",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617709587i/55339408._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/55339408-noise"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "노이즈 : 생각의 잡음",
+    "original": "Noise : A Flaw in Human Judgment",
+    "publisher": "김영사",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "untranslated": false,
+   "cover": "https://img.ridicdn.net/cover/1546000945/xlarge"
   },
   {
    "category": "판단·확률·의사결정",
-   "title": "",
+   "title": "생각에 관한 생각",
    "original": "Thinking, Fast and Slow",
    "author": "대니얼 카너먼",
    "awards": "Reddit(Gemini 경유)",
@@ -171,11 +694,66 @@
    "id": "bluff-12",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%83%9D%EA%B0%81%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%83%9D%EA%B0%81"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1546001153",
+     "matched": "생각에 관한 생각",
+     "rating": 4.6,
+     "count": 23,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%83%9D%EA%B0%81%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%83%9D%EA%B0%81"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/125295059",
+     "matched": "생각에 관한 생각",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/59580017",
+      "matched": "생각에 관한 생각"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "rating": 4.16,
+    "count": 622591,
+    "work": "16402639",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "생각에 관한 생각",
+    "original": "Thinking, Fast and Slow",
+    "publisher": "김영사",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/1546001153/xlarge",
+   "untranslated": false
   },
   {
    "category": "판단·확률·의사결정",
-   "title": "",
+   "title": "슈퍼 예측, 그들은 어떻게 미래를 보았는가",
    "original": "Superforecasting",
    "author": "필립 테틀록",
    "awards": "커뮤니티(HN 등)",
@@ -185,11 +763,66 @@
    "id": "bluff-13",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8A%88%ED%8D%BC%20%EC%98%88%EC%B8%A1%2C%20%EA%B7%B8%EB%93%A4%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EB%B3%B4%EC%95%98%EB%8A%94%EA%B0%80"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/862000678",
+     "matched": "슈퍼 예측, 그들은 어떻게 미래를 보았는가",
+     "rating": 4.7,
+     "count": 9,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8A%88%ED%8D%BC%20%EC%98%88%EC%B8%A1%2C%20%EA%B7%B8%EB%93%A4%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EB%B3%B4%EC%95%98%EB%8A%94%EA%B0%80"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/43882192",
+     "matched": "슈퍼 예측",
+     "rating": 9.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/42763611",
+      "matched": "슈퍼 예측, 그들은 어떻게 미래를 보았는가"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Superforecasting: The Art and Science of Prediction",
+    "author": "Philip E. Tetlock",
+    "rating": 4.07,
+    "count": 23256,
+    "work": "43596077",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435684424i/23995360._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/23995360-superforecasting"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "슈퍼 예측, 그들은 어떻게 미래를 보았는가",
+    "original": "Superforecasting: The Art and Science of Prediction",
+    "publisher": "알키",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/862000678/xlarge",
+   "untranslated": false
   },
   {
    "category": "판단·확률·의사결정",
-   "title": "",
+   "title": "신호와 소음",
    "original": "The Signal and the Noise",
    "author": "네이트 실버",
    "awards": "커뮤니티(HN 등)",
@@ -199,11 +832,66 @@
    "id": "bluff-14",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8B%A0%ED%98%B8%EC%99%80%20%EC%86%8C%EC%9D%8C"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/754052366",
+     "matched": "개정판 | 신호와 소음 : 불확실성 시대, 미래를 포착하는 예측의 비밀",
+     "rating": 4,
+     "count": 5,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8B%A0%ED%98%B8%EC%99%80%20%EC%86%8C%EC%9D%8C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/200690426",
+     "matched": "신호와 소음(개정판)",
+     "rating": 9.6,
+     "sheet": "",
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/13570624",
+      "matched": "신호와 소음"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Signal and the Noise: Why So Many Predictions Fail—But Some Don't",
+    "author": "Nate Silver",
+    "rating": 3.97,
+    "count": 53228,
+    "work": "19175796",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355058876i/13588394._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "신호와 소음",
+    "original": "The Signal and the Noise",
+    "publisher": "더퀘스트",
+    "date": "2014",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754052366/xlarge",
+   "untranslated": false
   },
   {
    "category": "판단·확률·의사결정",
-   "title": "",
+   "title": "스카우트 마인드셋",
    "original": "The Scout Mindset",
    "author": "줄리아 갈렙",
    "awards": "Reddit(Gemini 경유)",
@@ -213,11 +901,66 @@
    "id": "bluff-15",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/593000981",
+     "matched": "스카우트 마인드셋",
+     "rating": 5,
+     "count": 2,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/110871144",
+     "matched": "스카우트 마인드셋",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/110521627",
+      "matched": "스카우트 마인드셋"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Scout Mindset: Why Some People See Things Clearly and Others Don't",
+    "author": "Julia Galef",
+    "rating": 4.08,
+    "count": 7489,
+    "work": "65572070",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612196393i/42041926._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/42041926-the-scout-mindset"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "스카우트 마인드셋",
+    "original": "THE SCOUT MINDSET",
+    "publisher": "와이즈베리",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/593000981/xlarge",
+   "untranslated": false
   },
   {
    "category": "판단·확률·의사결정",
-   "title": "",
+   "title": "하지만 우리가 틀렸다면",
    "original": "But What If We're Wrong?",
    "author": "척 클로스터먼",
    "awards": "Five Books(Sebastian Park)",
@@ -227,11 +970,62 @@
    "id": "bluff-16",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9A%B0%EB%A6%AC%EA%B0%80%20%ED%8B%80%EB%A0%B8%EB%8B%A4%EB%A9%B4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9A%B0%EB%A6%AC%EA%B0%80%20%ED%8B%80%EB%A0%B8%EB%8B%A4%EB%A9%B4"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9A%B0%EB%A6%AC%EA%B0%80%20%ED%8B%80%EB%A0%B8%EB%8B%A4%EB%A9%B4"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9A%B0%EB%A6%AC%EA%B0%80%20%ED%8B%80%EB%A0%B8%EB%8B%A4%EB%A9%B4",
+     "sheet": "",
+     "bookRating": 6,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/43259759",
+      "matched": "하지만 우리가 틀렸다면"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "But What If We're Wrong? Thinking About the Present As If It Were the Past",
+    "author": "Chuck Klosterman",
+    "rating": 3.66,
+    "count": 19184,
+    "work": "46813511",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454284600i/27068734._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/27068734-but-what-if-we-re-wrong-thinking-about-the-present-as-if-it-were-the-pa"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "하지만 우리가 틀렸다면",
+    "original": "But What If We're Wrong ",
+    "publisher": "위즈덤하우스",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/43259759/L",
+   "untranslated": false
   },
   {
    "category": "판단·확률·의사결정",
-   "title": "",
+   "title": "머니볼",
    "original": "Moneyball",
    "author": "마이클 루이스",
    "awards": "커뮤니티(HN 등)",
@@ -241,11 +1035,62 @@
    "id": "bluff-17",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%A8%B8%EB%8B%88%EB%B3%BC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%A8%B8%EB%8B%88%EB%B3%BC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%A8%B8%EB%8B%88%EB%B3%BC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%A8%B8%EB%8B%88%EB%B3%BC",
+     "sheet": "",
+     "bookRating": 8.8,
+     "paper": {
+      "status": "일시품절",
+      "url": "https://www.yes24.com/product/goods/5840367",
+      "matched": "머니볼"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Moneyball",
+    "author": "Michael   Lewis",
+    "rating": 4.27,
+    "count": 149695,
+    "work": "416305",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388176510i/1301._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/1301.Moneyball"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "머니볼",
+    "original": "Moneyball",
+    "publisher": "비즈니스맵",
+    "date": "2011",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/5840367/L",
+   "untranslated": false
   },
   {
    "category": "포커 실전서",
-   "title": "",
+   "title": "The Theory of Poker",
    "original": "The Theory of Poker",
    "author": "데이비드 스클랜스키",
    "awards": "커뮤니티(HN 등) 6회 · Five Books(Coren)가 같은 저자 책 추천",
@@ -255,11 +1100,56 @@
    "id": "bluff-18",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Theory%20of%20Poker"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Theory%20of%20Poker"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Theory%20of%20Poker"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Theory%20of%20Poker",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Theory of Poker: A Professional Poker Player Teaches You How To Think Like One",
+    "author": "David Sklansky",
+    "rating": 4.02,
+    "count": 2864,
+    "work": "101066",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348281049i/104825._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/104825.The_Theory_of_Poker"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348281049i/104825._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 실전서",
-   "title": "",
+   "title": "Harrington on Hold'em",
    "original": "Harrington on Hold'em",
    "author": "댄 해링턴",
    "awards": "커뮤니티(HN 등) 12회",
@@ -269,11 +1159,56 @@
    "id": "bluff-19",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Harrington%20on%20Hold%27em"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Harrington%20on%20Hold%27em"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Harrington%20on%20Hold%27em"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Harrington%20on%20Hold%27em",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Harrington on Hold'em: Expertenstrategie für No-Limit-Turniere Band 1: Strategisches Spiel.",
+    "author": "Dan Harrington",
+    "rating": 4.24,
+    "count": 2542,
+    "work": "5064",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1190189009i/1910556._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/1910556.Harrington_on_Hold_em"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1190189009i/1910556._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "포커 실전서",
-   "title": "",
+   "title": "The Mental Game of Poker",
    "original": "The Mental Game of Poker",
    "author": "재러드 텐들러",
    "awards": "Reddit(Gemini 경유)",
@@ -283,11 +1218,56 @@
    "id": "bluff-20",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Mental%20Game%20of%20Poker"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Mental%20Game%20of%20Poker"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Mental%20Game%20of%20Poker"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Mental%20Game%20of%20Poker",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Mental Game of Poker",
+    "author": "Jared Tendler",
+    "rating": 4.22,
+    "count": 1346,
+    "work": "16330119",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305747330i/11397703._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/11397703-the-mental-game-of-poker"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305747330i/11397703._SX240_.jpg",
+   "untranslated": true
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
-   "title": "",
+   "title": "뒤통수의 심리학",
    "original": "The Confidence Game",
    "author": "마리아 코니코바",
    "awards": "Reddit(Gemini 경유)",
@@ -297,25 +1277,132 @@
    "id": "bluff-21",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%92%A4%ED%86%B5%EC%88%98%EC%9D%98%20%EC%8B%AC%EB%A6%AC%ED%95%99",
+     "matched": "뒤통수의 심리학",
+     "reviews": 3,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/703000404",
+     "matched": "뒤통수의 심리학",
+     "rating": 3.8,
+     "count": 19,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%92%A4%ED%86%B5%EC%88%98%EC%9D%98%20%EC%8B%AC%EB%A6%AC%ED%95%99"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/60609024",
+     "matched": "뒤통수의 심리학",
+     "rating": 8.8,
+     "sheet": "",
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/59719382",
+      "matched": "뒤통수의 심리학"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Confidence Game: Why We Fall for It . . . Every Time",
+    "author": "Maria Konnikova",
+    "rating": 3.65,
+    "count": 6235,
+    "work": "44482090",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494595504i/25387895._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/25387895-the-confidence-game"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "뒤통수의 심리학",
+    "original": "The Confidence Game",
+    "publisher": "한국경제신문사(한경비피)",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/703000404/xlarge",
+   "untranslated": false
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
-   "title": "",
+   "title": "생각의 재구성",
    "original": "Mastermind",
    "author": "마리아 코니코바",
    "awards": "Reddit(Gemini 경유)",
    "summary": "셜록 홈스처럼 관찰하고 생각하는 법. 같은 저자의 데뷔작.",
    "grq": "Mastermind: How to Think Like Sherlock Holmes",
-   "note": "",
+   "note": "원제 필드 비어 있음 — 목록 작성자 확인(청림출판 2013)",
    "id": "bluff-22",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%83%9D%EA%B0%81%EC%9D%98%20%EC%9E%AC%EA%B5%AC%EC%84%B1"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%83%9D%EA%B0%81%EC%9D%98%20%EC%9E%AC%EA%B5%AC%EC%84%B1"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%83%9D%EA%B0%81%EC%9D%98%20%EC%9E%AC%EA%B5%AC%EC%84%B1"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%83%9D%EA%B0%81%EC%9D%98%20%EC%9E%AC%EA%B5%AC%EC%84%B1",
+     "sheet": "",
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/9453519",
+      "matched": "생각의 재구성"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Mastermind: How to Think Like Sherlock Holmes",
+    "author": "Maria Konnikova",
+    "rating": 3.55,
+    "count": 8783,
+    "work": "21529367",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355094882i/15805442._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/15805442-mastermind"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "생각의 재구성",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://image.yes24.com/goods/9453519/L",
+   "untranslated": false
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
-   "title": "",
+   "title": "1년 만에 기억력 천재가 된 남자",
    "original": "Moonwalking with Einstein",
    "author": "조슈아 포어",
    "awards": "Reddit(Gemini 경유)",
@@ -325,11 +1412,69 @@
    "id": "bluff-23",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/1%EB%85%84%20%EB%A7%8C%EC%97%90%20%EA%B8%B0%EC%96%B5%EB%A0%A5%20%EC%B2%9C%EC%9E%AC%EA%B0%80%20%EB%90%9C%20%EB%82%A8%EC%9E%90"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/606001533",
+     "matched": "1년 만에 기억력 천재가 된 남자",
+     "rating": 3.8,
+     "count": 75,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/26947170",
+     "matched": "1년 만에 기억력 천재가 된 남자",
+     "rating": 9.0,
+     "reviews": 261,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/26947170",
+     "matched": "1년 만에 기억력 천재가 된 남자",
+     "rating": 9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/26084950",
+      "matched": "1년 만에 기억력 천재가 된 남자"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
+    "author": "Joshua Foer",
+    "rating": 3.88,
+    "count": 95835,
+    "work": "6533383",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630575238i/6346975._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "1년 만에 기억력 천재가 된 남자",
+    "original": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
+    "publisher": "갤리온",
+    "date": "2016",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/606001533/xlarge",
+   "untranslated": false
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
-   "title": "",
+   "title": "Catch Me If You Can",
    "original": "Catch Me If You Can",
    "author": "프랭크 애버그네일|프랭크 W. 애버그네일",
    "awards": "Reddit(Gemini 경유)",
@@ -339,25 +1484,126 @@
    "id": "bluff-24",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Catch%20Me%20If%20You%20Can"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Catch%20Me%20If%20You%20Can"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Catch%20Me%20If%20You%20Can"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Catch%20Me%20If%20You%20Can",
+     "sheet": "",
+     "bookRating": 6.5,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/329172",
+      "matched": "Catch Me If You Can(캐치 미 이프 유 캔)"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Catch Me If You Can: The True Story of a Real Fake",
+    "author": "Frank W. Abagnale",
+    "rating": 4.04,
+    "count": 63899,
+    "work": "985716",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358730242i/138269._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/138269.Catch_Me_If_You_Can"
+   },
+   "korean": {
+    "how": "음역 일치",
+    "title": "Catch Me If You Can(캐치 미 이프 유 캔)",
+    "original": "",
+    "publisher": "문학세계사",
+    "date": "2003",
+    "verdict": "likely"
+   },
+   "cover": "https://image.yes24.com/goods/329172/L",
+   "untranslated": false
   },
   {
    "category": "속임수·심리 (저자의 다른 결)",
-   "title": "",
+   "title": "도덕적 동물",
    "original": "The Moral Animal",
    "author": "로버트 라이트",
    "awards": "Shepherd · Reddit(Gemini 경유) (2곳)",
    "summary": "진화심리학으로 본 인간 본성.",
    "grq": "The Moral Animal",
-   "note": "",
+   "note": "원제 필드 비어 있음 — 목록 작성자 확인(사이언스북스 2003)",
    "id": "bluff-25",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%8F%84%EB%8D%95%EC%A0%81%20%EB%8F%99%EB%AC%BC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%8F%84%EB%8D%95%EC%A0%81%20%EB%8F%99%EB%AC%BC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%8F%84%EB%8D%95%EC%A0%81%20%EB%8F%99%EB%AC%BC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%8F%84%EB%8D%95%EC%A0%81%20%EB%8F%99%EB%AC%BC",
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/407052",
+      "matched": "도덕적 동물"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Moral Animal: Why We Are the Way We Are - The New Science of Evolutionary Psychology",
+    "author": "Robert  Wright",
+    "rating": 4.08,
+    "count": 12241,
+    "work": "668334",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430864612i/681941._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/681941.The_Moral_Animal"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "도덕적 동물",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://image.yes24.com/goods/407052/L",
+   "untranslated": false
   },
   {
    "category": "소설로 이어 읽기",
-   "title": "",
+   "title": "The Cincinnati Kid",
    "original": "The Cincinnati Kid",
    "author": "리처드 제섭",
    "awards": "Five Books(Coren) · Reddit(Gemini 경유) (2곳)",
@@ -367,7 +1613,52 @@
    "id": "bluff-26",
    "list": "『블러프』를 좋아했다면 — 포커·판단·심리 논픽션 25선",
    "sheet": {},
-   "pending": true
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Cincinnati%20Kid"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Cincinnati%20Kid"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Cincinnati%20Kid"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Cincinnati%20Kid",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Cincinnati Kid: A Novel",
+    "author": "Richard Jessup",
+    "rating": 3.89,
+    "count": 218,
+    "work": "988218",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372651657i/1002728._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/1002728.The_Cincinnati_Kid"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372651657i/1002728._SX240_.jpg",
+   "untranslated": true
   }
  ]
 }

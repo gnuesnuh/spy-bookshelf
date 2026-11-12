@@ -1,12 +1,13 @@
-"""소스 캐시(영미권 + 일본)를 집계해 제목·장르 질의의 추천 목록 data/queries/<slug>.json 을 만든다. 모델 호출 없음.
+"""소스 캐시(어워드·랭킹 DB)에서 질의의 '어워드 축' 후보를 뽑는다. 목록을 만들지 않는다. 모델 호출 없음.
 
-장르:  python scripts/recommend.py mystery-mix --genre mystery [시작연도 끝연도] [--top 30] [--region en,ja]
-       장르 태그가 맞는 소스만 골라 점수를 더한다. 지역이 둘이면 반반씩 뽑는다.
-제목:  python scripts/recommend.py like-kokurojo --seed "흑뢰성" [--genre mystery] [--top 25]
-       기준 도서(한국어 제목·영어 원제·일본어 원제)를 소스에서 찾아 함께 언급된 작품을 추천한다.
-         · 같은 해 같은 소스에 함께 오른 작품
-         · 같은 작가의 다른 수상·진입작 (5권까지)
-         · 같은 장르에서 앞뒤 3년의 상위작 (다른 지역 포함)
+질의 흐름(docs/PLAN.md 6절)의 2단계 '소스 수집'에서 쓰는 도구다. 사용자가 책이나 장르를 말했을 때 실행하고,
+결과는 다른 근거(전문가 추천·언론 결산·커뮤니티·Reddit(Gemini 경유))와 함께 Claude Code 가 집계해
+data/queries/<slug>.json 목록을 만든다. 이 스크립트 혼자서는 '근거 소스 1종류'일 뿐이다.
+
+제목:  python scripts/award_candidates.py <slug> --seed "흑뢰성" [--genre mystery] [--top 40]
+         기준 도서(한국어 제목·영어 원제·일본어 원제)를 소스에서 찾아
+         · 같은 해 같은 소스에 함께 오른 작품 · 같은 작가의 다른 수상·진입작(5권까지) · 같은 장르 앞뒤 3년 상위작
+장르:  python scripts/award_candidates.py <slug> --genre mystery [시작연도 끝연도] [--top 40] [--region en,ja]
 
 점수 (× 소스 가중치, scripts/sources.json): 순위형 (11-순위) · 수상 10 · 후보 4
       지역마다 소스 수가 달라 점수 크기가 다르므로, 장르 질의는 지역 안의 최고점을 100으로 맞춘 뒤 섞는다.
@@ -15,7 +16,7 @@
 먼저 python scripts/sources.py 로 소스 캐시를 만들어 둔다. 소스 목록은 docs/SOURCES.md.
 
 출력
-  data/queries/<slug>.json             build_query.py 가 읽는 목록
+  data/queries/<slug>.awards.json      후보: 원제·저자, 수상·순위 이력(awards), 점수, 찾은 국내 제목·저자
   data/queries/<slug>.unresolved.json  국내판을 자동으로 못 찾은 일본 책 + 같은 저자의 '원제 미표기' 국내 출간작 후보
                                        → Claude Code 가 보고 scripts/ja_titles.json 에 판정을 적은 뒤 다시 실행
 """
@@ -238,11 +239,11 @@ else:
     span = "%d~%d년" % (lo, hi) if lo > 1900 else "역대"
     spec = dict(query=gk, kind="genre", title="%s — %s %s 상위 %d선" % (gk, " + ".join(REGION_KO[r] for r in regions), span, len(rows)),
                 subtitle="장르 질의. 어워드 수상 10점·후보 4점, 랭킹 (11-순위)점에 소스 가중치를 곱해 합산. 소스: " + src_txt)
-spec["sources"] = used
-spec["books"] = rows
 out = bd.DATA / "queries"
-(out / (slug + ".json")).write_text(json.dumps(spec, ensure_ascii=False, indent=1), encoding="utf-8")
+cands = dict(axis="awards", kind=spec["kind"], query=spec["query"], note=spec["subtitle"], sources=used, candidates=rows)
+(out / (slug + ".awards.json")).write_text(json.dumps(cands, ensure_ascii=False, indent=1), encoding="utf-8")
 (out / (slug + ".unresolved.json")).write_text(json.dumps(unresolved, ensure_ascii=False, indent=1), encoding="utf-8")
-print("\n%d권 (영미권 %d, 일본 %d) 중 국내판 %d권 확인, 일본 미해결 %d권 · 쓴 소스 %d곳"
+print("\n어워드 축 후보 %d권 (영미권 %d, 일본 %d) 중 국내판 %d권 확인, 일본 미해결 %d권 · 쓴 소스 %d곳"
       % (len(rows), sum(1 for r in rows if r["lang"] == "en"), sum(1 for r in rows if r["lang"] == "ja"),
          sum(1 for r in rows if r["title"]), len(unresolved), len(used)))
+print("→ data/queries/%s.awards.json  (목록이 아니라 후보다. 다른 근거와 합쳐 %s.json 을 만든다)" % (slug, slug))

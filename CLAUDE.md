@@ -60,11 +60,10 @@ YES24 이용 정책: 화면에 YES24 출처 표기 + 상품 링크 연결. **전
 python scripts/sources.py [id ...] [--refresh]      # 소스 캐시: 등록부(scripts/sources.json)의 어워드·랭킹을 위키백과에서 수집
                                                     #   → data/sources/<id>.json + docs/SOURCES.md(소스 목록 문서, 자동 생성)
 python scripts/sources.py --probe ja:"문서명"        # 새 소스를 등록하기 전에 표 구조 보기
-python scripts/recommend.py <slug> --genre mystery [시작 끝] [--top 30] [--region en,ja]
-                                                    # 장르 질의: 장르 태그가 맞는 소스를 집계 (영미권+일본 반반, 국내판 우선)
-python scripts/recommend.py <slug> --seed "흑뢰성" [--genre mystery] [--top 25]
-                                                    # 제목 질의: 기준 도서와 함께 오른 작품·같은 작가·비슷한 시기 상위작
-                                                    # 둘 다 data/queries/<slug>.json + <slug>.unresolved.json 을 만든다 → build_query.py
+python scripts/award_candidates.py <slug> --seed "흑뢰성" [--genre mystery] [--top 40]
+python scripts/award_candidates.py <slug> --genre mystery [시작 끝] [--top 40] [--region en,ja]
+                                                    # 질의의 '어워드 축' 후보 → data/queries/<slug>.awards.json (+ .unresolved.json)
+                                                    # 목록이 아니다. 다른 근거와 합쳐 Claude Code 가 <slug>.json 을 만든다
 python scripts/build_data.py [--refresh]            # 기준 시트 → data/books.json + data/lists.js
 python scripts/build_query.py <slug> [--list]       # data/queries/<slug>.json → <slug>.result.json + lists.js + 추천_<질의>.xlsx
                                                     #   --list: 목록만 먼저 올림(입점 칸은 웹앱에서 '조회 중')
@@ -91,7 +90,7 @@ python scripts/yes24_lookup.py "검색어" ...          # YES24 수동 조회
 ## 일본어 원제 매칭 (scripts/matching.py `find_korean_ja`)
 - 입력은 일본어 제목 + 일본어 저자명. 검색 순서: 일본어 원제로 YES24 직접 검색 → 저자의 한국어 위키백과 문서명 → 저자 가나를 한글로 옮긴 이름(`kana_to_hangul`). 어느 경로든 `originalTitle`이 원제와 맞아야 인정한다.
 - YES24의 일본어 원제는 구자체·기호가 섞여 있다(惡意, 黑牢城, マスカレ-ド.ライフ) → `jn()`이 신자체로 바꾸고 기호·장음을 지운다. 변환표는 matching.py의 `_KYU`.
-- 원제 필드가 빈 책(여섯명의 거짓말쟁이 대학생, 흉인저의 살인 등)은 자동으로 못 잇는다. `recommend.py`가 `<slug>.unresolved.json`에 같은 저자의 '원제 미표기' 국내 출간작 후보를 적어 주면, **Claude Code가 후보를 보고 `scripts/ja_titles.json`에 판정을 적는다**(`"일본어 원제|일본어 저자": "국내 제목"`, 국내판 없음으로 판정하면 `""`). 판정한 제목은 저자 일치까지 확인된 뒤에만 쓰이고 '유력 ⚠️(수동 검수)'로 표시된다. 확신이 없으면 적지 않는다.
+- 원제 필드가 빈 책(여섯명의 거짓말쟁이 대학생, 흉인저의 살인 등)은 자동으로 못 잇는다. `award_candidates.py`가 `<slug>.unresolved.json`에 같은 저자의 '원제 미표기' 국내 출간작 후보를 적어 주면, **Claude Code가 후보를 보고 `scripts/ja_titles.json`에 판정을 적는다**(`"일본어 원제|일본어 저자": "국내 제목"`, 국내판 없음으로 판정하면 `""`). 판정한 제목은 저자 일치까지 확인된 뒤에만 쓰이고 '유력 ⚠️(수동 검수)'로 표시된다. 확신이 없으면 적지 않는다.
 - 저자 정보(한국어 문서명·가나)는 `data/sources/ja/authors.json`에 쌓인다. 일본어 위키백과는 요청이 몰리면 429를 준다.
 - 일본어 원제 책은 Goodreads를 자동 검색하지 않는다(엉뚱한 책이 잡힘). 필요하면 목록의 `grq`에 영어 제목을 적는다.
 - 영상화는 Goodreads 작품 번호가 없어 아직 일본 책에 붙지 않는다.
@@ -105,6 +104,8 @@ python scripts/yes24_lookup.py "검색어" ...          # YES24 수동 조회
 - 모델 호출은 구독으로 한다(`docs/PLAN.md` 12절). `ANTHROPIC_API_KEY`를 설정하면 API로 과금된다.
 
 ## 작업 원칙
+- **목록은 사용자가 책이나 장르를 질의했을 때만 만든다.** 소스 캐시·수집기·매칭을 고치거나 시험할 때 목록(`data/queries/<slug>.json`)을 새로 만들어 웹앱에 올리지 않는다. 시험은 기존 질의나 임시 출력으로 한다.
+- 한 질의의 근거는 5곳 이상, 종류는 3가지 이상(어워드·전문가 추천·언론 결산·커뮤니티·Reddit(Gemini 경유)). 소스 캐시(`award_candidates.py`)는 그중 어워드 한 종류다.
 - 국내판 판정은 정확도 우선: 확정 ✅ / 유력 ⚠️ / 불명 ❓ 3단계로 표시하고, 근거 없는 '가능' 표기 금지.
 - 수상 이력·추천 근거는 실제 출처를 확인한 것만 쓴다.
 - 비밀키(.env)는 출력·커밋하지 않는다(.gitignore에 포함).
