@@ -1,0 +1,21 @@
+{
+ "seed": {"title": "블러프", "original": "The Biggest Bluff", "author_orig": "Maria Konnikova"},
+ "reviews_read": ["https://bps.org.uk/psychologist/mirroring-game-life", "https://www.penguinrandomhouse.com/books/562852/the-biggest-bluff-by-maria-konnikova/9780525522645/"],
+ "axes": [
+  {"axis": "소재", "label": "포커", "desc": "포커 토너먼트 세계와 1년간의 WSOP 도전", "direction": "포커 논픽션·포커 회고록",
+   "examples": [["The Biggest Game in Town", "Al Alvarez"], ["Positively Fifth Street", "James McManus"]],
+   "search_terms": ["poker nonfiction books", "best poker memoirs"]},
+  {"axis": "주제", "label": "의사결정", "desc": "불확실성 속 판단: 통제할 수 있는 것과 운을 가르고, 결과가 아닌 과정으로 판단하기", "direction": "운과 실력·확률적 사고·인지 편향·불확실성 속 의사결정 교양서",
+   "examples": [["Thinking in Bets", "Annie Duke"], ["The Success Equation", "Michael J. Mauboussin"]],
+   "search_terms": ["decision making under uncertainty", "luck versus skill", "probabilistic thinking", "cognitive biases and judgment"]},
+  {"axis": "형식", "label": "몰입 체험기", "desc": "심리학자가 문외한으로 뛰어들어 1년간 직접 배우며 쓴 참여 저널리즘", "direction": "작가가 직접 도전하며 쓴 체험형 논픽션",
+   "examples": [["Moonwalking with Einstein", "Joshua Foer"], ["Paper Lion", "George Plimpton"]],
+   "search_terms": ["immersion journalism books", "participatory journalism nonfiction"]},
+  {"axis": "톤", "label": "성찰적 성장담", "desc": "자기 편향과 감정을 들여다보는 지적이고 솔직한 1인칭", "direction": "멘탈·내면 게임을 다룬 성찰적 회고",
+   "examples": [["The Inner Game of Tennis", "W. Timothy Gallwey"], ["Open", "Andre Agassi"]],
+   "search_terms": ["mental game memoir introspective"]}
+ ],
+ "default": {"axis": "주제", "why": "BPS 서평(포커를 일상 의사결정의 렌즈로, 운과 실력의 경계)과 출판사 소개(포커를 의사결정 훈련장으로) 모두 의사결정을 중심에 둠"},
+ "chosen": ["주제"],
+ "chosen_by": "user (채팅: '블러프도 진짜 포커 논픽션이라기보다는 의사결정에 가까운 게 의도')"
+}

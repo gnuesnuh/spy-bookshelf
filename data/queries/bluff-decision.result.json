@@ -1,0 +1,2309 @@
+{
+ "slug": "bluff-decision",
+ "query": "블러프 (의사결정 축)",
+ "title": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+ "subtitle": "축: 주제(불확실성 속 의사결정, 운과 실력). 근거: Five Books 3건(Sebastian Park·Jonah Lehrer·Edouard Mathieu), Farnam Street, Time(Re:Think Decision Making), Alliance for Decision Education, Annie Duke, Reddit(Gemini 경유), 커뮤니티(HN), 어워드(FT 경영서·Royal Society) — 종류 5가지(어워드·언론·전문 목록·전문가 추천·커뮤니티). 2순위는 같은 주제의 다른 축(포커 논픽션·심리 도전기), 3순위는 같은 저자.",
+ "updated": "2026-11-13",
+ "books": [
+  {
+   "category": "기준 도서",
+   "title": "블러프",
+   "original": "The Biggest Bluff",
+   "author": "마리아 코니코바",
+   "awards": "기준 도서 · Five Books(Sebastian Park, 좋은 결정)",
+   "summary": "심리학 박사가 1년 만에 포커 챔피언이 되기까지의 실험기. 운과 실력, 주의력과 감정 통제를 다룬다.",
+   "grq": "The Biggest Bluff",
+   "note": "",
+   "id": "bluff-decision-1",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "group": "기준 도서",
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B8%94%EB%9F%AC%ED%94%84",
+     "matched": "블러프",
+     "reviews": 7,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%B8%94%EB%9F%AC%ED%94%84"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B8%94%EB%9F%AC%ED%94%84"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%B8%94%EB%9F%AC%ED%94%84",
+     "sheet": "",
+     "bookRating": 9.7,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/103452901",
+      "matched": "블러프"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win",
+    "author": "Maria Konnikova",
+    "rating": 4.07,
+    "count": 16322,
+    "work": "74930649",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585143928i/49814228._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/49814228-the-biggest-bluff"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "블러프",
+    "original": "The Biggest Bluff",
+    "publisher": "한국경제신문사(한경비피)",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/103452901/L",
+   "untranslated": false,
+   "review": {
+    "text": "심리학 박사인 저자가 포커를 배워 프로가 되는 과정에 의사결정과 운·실력의 균형을 엮은 책으로, 재치 있고 흥미롭다는 호평이 있다. 반면 회고록인지 자기계발서인지 방향이 모호하고 내용이 반복되며 서사가 늘어진다는 불만이 많다. 포커를 모르면 지루하고 문장이 어색하다는 평도 있다.",
+    "pros": [
+     "포커와 심리학·의사결정의 접목",
+     "유머와 이야기 중심 전개"
+    ],
+    "cons": [
+     "회고와 자기계발 사이의 초점 부족",
+     "반복적이고 늘어지는 서술",
+     "포커 비애호가에게 지루함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "c85382f5e006dbd913a160d593640bf6",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "결정, 흔들리지 않고 마음먹은 대로",
+   "original": "Thinking in Bets",
+   "author": "애니 듀크",
+   "awards": "Five Books(Edouard Mathieu, 데이터로 판단하기) · Alliance for Decision Education 추천 도서 · Reddit(Gemini 경유) · 커뮤니티(HN) (4곳)",
+   "summary": "포커 챔피언 출신 저자가 '결정의 질과 결과의 질은 다르다'는 생각을 풀어 쓴 책. 『블러프』가 체험으로 보여 준 것을 원리로 정리한 쪽.",
+   "grq": "Thinking in Bets",
+   "note": "",
+   "id": "bluff-decision-2",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B2%B0%EC%A0%95%2C%20%ED%9D%94%EB%93%A4%EB%A6%AC%EC%A7%80%20%EC%95%8A%EA%B3%A0%20%EB%A7%88%EC%9D%8C%EB%A8%B9%EC%9D%80%20%EB%8C%80%EB%A1%9C"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/754024407",
+     "matched": "결정, 흔들리지 않고 마음먹은 대로",
+     "rating": 4,
+     "count": 26,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B2%B0%EC%A0%95%2C%20%ED%9D%94%EB%93%A4%EB%A6%AC%EC%A7%80%20%EC%95%8A%EA%B3%A0%20%EB%A7%88%EC%9D%8C%EB%A8%B9%EC%9D%80%20%EB%8C%80%EB%A1%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/102931832",
+     "matched": "결정,흔들리지 않고 마음먹은 대로[체험판]",
+     "rating": 10,
+     "sheet": "",
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/63692398",
+      "matched": "결정, 흔들리지 않고 마음먹은 대로"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
+    "author": "Annie Duke",
+    "rating": 3.81,
+    "count": 25862,
+    "work": "57513167",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513351600i/35957157._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/35957157-thinking-in-bets"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "결정, 흔들리지 않고 마음먹은 대로",
+    "original": "Thinking in Bets",
+    "publisher": "8.0(에이트 포인트)",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754024407/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "모든 결정은 확률적 베팅이며 결과와 결정의 질을 분리해 봐야 한다는 핵심 관점이 설득력 있다는 평이 많다. 후반부의 실천 기법도 유용하다고 한다. 하지만 이미 알려진 행동경제학 내용의 반복이고 같은 말이 길게 늘어져 지루하다는 불만이 영미권과 국내 모두에서 반복된다.",
+    "pros": [
+     "결정과 결과를 분리하는 관점",
+     "실천 가능한 기법 제시"
+    ],
+    "cons": [
+     "반복적이고 불필요하게 긴 구성",
+     "기존 인지편향 책과 겹치는 내용"
+    ],
+    "domestic": "국내 독자들도 문제의식은 좋지만 방법이 부족하고 사례가 길게 나열되어 지루하다고 하며, 포커를 모르면 와닿지 않는다는 의견도 있다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 3,
+     "yes24": 0
+    },
+    "hash": "57b6b810481be5ece2a158a854a384bd",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "슈퍼 예측, 그들은 어떻게 미래를 보았는가",
+   "original": "Superforecasting: The Art and Science of Prediction",
+   "author": "필립 E. 테틀록|필립 테틀록",
+   "awards": "Five Books(Edouard Mathieu, 데이터로 판단하기) · Annie Duke 추천 · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (4곳)",
+   "summary": "예측을 잘하는 사람들이 불확실한 정보를 어떻게 확률로 다루는지 추적한 연구. 운과 실력을 가르는 훈련이라는 점에서 이어진다.",
+   "grq": "Superforecasting",
+   "note": "",
+   "id": "bluff-decision-3",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8A%88%ED%8D%BC%20%EC%98%88%EC%B8%A1%2C%20%EA%B7%B8%EB%93%A4%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EB%B3%B4%EC%95%98%EB%8A%94%EA%B0%80"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/862000678",
+     "matched": "슈퍼 예측, 그들은 어떻게 미래를 보았는가",
+     "rating": 4.7,
+     "count": 9,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8A%88%ED%8D%BC%20%EC%98%88%EC%B8%A1%2C%20%EA%B7%B8%EB%93%A4%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EB%B3%B4%EC%95%98%EB%8A%94%EA%B0%80"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/43882192",
+     "matched": "슈퍼 예측",
+     "rating": 9.3,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/42763611",
+      "matched": "슈퍼 예측, 그들은 어떻게 미래를 보았는가"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Superforecasting: The Art and Science of Prediction",
+    "author": "Philip E. Tetlock",
+    "rating": 4.07,
+    "count": 23256,
+    "work": "43596077",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435684424i/23995360._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/23995360-superforecasting"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "슈퍼 예측, 그들은 어떻게 미래를 보았는가",
+    "original": "Superforecasting: The Art and Science of Prediction",
+    "publisher": "알키",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/862000678/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "예측 능력이 뛰어난 일반인들의 방식을 통해 지적 겸손과 열린 사고, 수치로 예측하고 계속 수정하는 태도의 가치를 보여 준다는 호평이 많다. 이야기 구성도 좋다는 평이다. 다만 중반 이후 같은 내용이 되풀이되고 다른 책의 요약처럼 느껴지며 구체적 방법론이 약하다는 불만이 있다.",
+    "pros": [
+     "지적 겸손과 열린 사고 강조",
+     "이야기가 풍부해 읽기 좋음",
+     "실용적인 사고 지침"
+    ],
+    "cons": [
+     "후반 반복으로 지루함",
+     "명확한 방법론 부족",
+     "기존 책과 겹치는 내용"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "daf544b3982eda4b26c7b5874fdcc190",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "생각에 관한 생각",
+   "original": "Thinking, Fast and Slow",
+   "author": "대니얼 카너먼",
+   "awards": "Farnam Street 의사결정 심리 목록 · Alliance for Decision Education 추천 도서 · Reddit(Gemini 경유) · 커뮤니티(HN) (4곳)",
+   "summary": "판단을 흐리는 직관과 편향의 지도. 『블러프』가 포커 테이블에서 마주친 인지 함정들의 원전에 해당한다.",
+   "grq": "Thinking, Fast and Slow",
+   "note": "",
+   "id": "bluff-decision-4",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%83%9D%EA%B0%81%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%83%9D%EA%B0%81"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1546001153",
+     "matched": "생각에 관한 생각",
+     "rating": 4.6,
+     "count": 23,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%83%9D%EA%B0%81%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%83%9D%EA%B0%81"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/125295059",
+     "matched": "생각에 관한 생각",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/59580017",
+      "matched": "생각에 관한 생각"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "rating": 4.16,
+    "count": 622591,
+    "work": "16402639",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "생각에 관한 생각",
+    "original": "Thinking, Fast and Slow",
+    "publisher": "김영사",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/1546001153/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "직관적 사고와 숙고적 사고라는 틀로 인간의 인지 편향을 설명한 고전으로, 행동경제학의 핵심을 한 권에 담았다는 극찬이 많다. 반면 분량이 방대하고 서술이 장황해 읽는 데 오래 걸리며 졸리다는 불만이 꽤 있다. 실생활 활용법을 기대하면 아쉽다는 평도 있다.",
+    "pros": [
+     "인지 편향에 대한 깊은 통찰",
+     "풍부한 실험과 연구 근거",
+     "행동경제학 핵심 총정리"
+    ],
+    "cons": [
+     "방대하고 읽기 힘든 분량",
+     "장황하고 학술적인 서술",
+     "실용적 조언이 적음"
+    ],
+    "domestic": "국내 독자들은 번역이 안정적이고 자신의 착각과 편향을 깨닫게 해 준다고 호평하는 한편, 실험 설명이 빽빽해 어렵고 두께가 부담스럽다는 의견도 있다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 6,
+     "yes24": 0
+    },
+    "hash": "adc1d1f0a3a4b5235a9d48e0aad2fd26",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "넛지",
+   "original": "Nudge",
+   "author": "리처드 탈러|리처드 H. 탈러|리처드 세일러",
+   "awards": "Farnam Street 의사결정 심리 목록 · Time·Re:Think Decision Making 참가자 추천 · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (4곳)",
+   "summary": "사람이 실제로 어떻게 선택하는지에서 출발해 더 나은 선택을 돕는 설계를 다룬다.",
+   "grq": "Nudge",
+   "note": "",
+   "id": "bluff-decision-5",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%84%9B%EC%A7%80%3A%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%EC%97%90%EB%94%94%EC%85%98",
+     "matched": "넛지: 파이널 에디션",
+     "reviews": 152,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/606002391",
+     "matched": "넛지: 파이널 에디션",
+     "rating": 3.7,
+     "count": 63,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/110222823",
+     "matched": "넛지: 파이널 에디션",
+     "rating": 9.2,
+     "reviews": 239,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/110222823",
+     "matched": "넛지: 파이널 에디션",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/110157236",
+      "matched": "넛지: 파이널 에디션"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+    "author": "Richard H. Thaler",
+    "rating": 3.84,
+    "count": 97437,
+    "work": "2535409",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322381i/3450744._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/3450744-nudge"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "넛지: 파이널 에디션",
+    "original": "Nudge : The Final Edition",
+    "publisher": "리더스북",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/606002391/xlarge",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "작은 설계로 사람들이 더 나은 선택을 하도록 유도하는 개념을 다양한 사례로 보여 주어 일상과 정책에 적용하기 쉽다는 평이 많다. 반면 사례가 미국 중심이고 정책 입안자 관점이라 와닿지 않으며, 한 가지 아이디어를 늘려 쓴 느낌이라는 불만도 반복된다.",
+    "pros": [
+     "풍부한 사례로 개념을 쉽게 이해",
+     "일상과 정책에 두루 적용 가능"
+    ],
+    "cons": [
+     "미국 중심 사례와 정책 설계자 시점",
+     "핵심 아이디어에 비해 분량이 길다"
+    ],
+    "domestic": "국내 독자는 개정판의 새 사례와 개념을 좋게 보지만, 번역이 매끄럽지 않다는 지적이 여러 차례 나오고 초판을 읽었다면 추가 가치는 크지 않다는 의견도 있다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 10,
+     "yes24": 5
+    },
+    "hash": "e9f21244843f98e785edc0e48864b0d7",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "노이즈",
+   "original": "Noise: A Flaw in Human Judgment",
+   "author": "대니얼 카너먼",
+   "awards": "Five Books(Sebastian Park, 좋은 결정) · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (3곳)",
+   "summary": "같은 사안에 판단이 들쭉날쭉한 '잡음' 문제. 『블러프』와 같은 Five Books 목록(좋은 결정에 관한 책)에 올랐다.",
+   "grq": "Noise",
+   "note": "",
+   "id": "bluff-decision-6",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%85%B8%EC%9D%B4%EC%A6%88"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1546000945",
+     "matched": "노이즈",
+     "rating": 4,
+     "count": 8,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%85%B8%EC%9D%B4%EC%A6%88"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/199627592",
+     "matched": "[대여] 노이즈 : 생각의 잡음",
+     "rating": 9.1,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/109007001",
+      "matched": "노이즈 : 생각의 잡음"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Noise: A Flaw in Human Judgment",
+    "author": "Daniel Kahneman",
+    "rating": 3.67,
+    "count": 17505,
+    "work": "75457218",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617709587i/55339408._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/55339408-noise"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "노이즈 : 생각의 잡음",
+    "original": "Noise : A Flaw in Human Judgment",
+    "publisher": "김영사",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/1546000945/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "판단의 일관성 부족, 곧 노이즈를 편향과 구분해 다룬 점이 새롭고 유익하다는 평이 있다. 그러나 전작처럼 강렬한 개념이 없고 통계 설명이 장황하거나 수준이 들쭉날쭉하며, 이야기 위주라 딱딱하고 지루하다는 불만이 강하다. 평가가 극단으로 갈리는 편이다.",
+    "pros": [
+     "노이즈와 편향을 구분한 문제의식",
+     "의료·사법 등 풍부한 사례"
+    ],
+    "cons": [
+     "전작만 못한 참신함",
+     "장황하고 지루한 서술",
+     "독자 수준이 불분명한 통계 설명"
+    ],
+    "domestic": "국내 독자 리뷰는 한 건뿐이며, 전작과 같은 중요성을 기대하면 다르고 타인 연구의 요약과 중복 설명이 많다는 점을 짚으면서도 높게 평가했다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 1,
+     "yes24": 0
+    },
+    "hash": "c0cf25d1ba9fe00a8c26a13c00b9e5a6",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "신호와 소음",
+   "original": "The Signal and the Noise",
+   "author": "네이트 실버",
+   "awards": "Five Books(Edouard Mathieu, 데이터로 판단하기) · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (3곳)",
+   "summary": "예측이 왜 틀리는지를 포커·야구·선거 사례로 설명한다. 저자도 포커 플레이어 출신이다.",
+   "grq": "The Signal and the Noise",
+   "note": "",
+   "id": "bluff-decision-7",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8B%A0%ED%98%B8%EC%99%80%20%EC%86%8C%EC%9D%8C"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/754052366",
+     "matched": "개정판 | 신호와 소음 : 불확실성 시대, 미래를 포착하는 예측의 비밀",
+     "rating": 4,
+     "count": 5,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8B%A0%ED%98%B8%EC%99%80%20%EC%86%8C%EC%9D%8C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/200690426",
+     "matched": "신호와 소음(개정판)",
+     "rating": 9.6,
+     "sheet": "",
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/13570624",
+      "matched": "신호와 소음"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Signal and the Noise: Why So Many Predictions Fail—But Some Don't",
+    "author": "Nate Silver",
+    "rating": 3.97,
+    "count": 53228,
+    "work": "19175796",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355058876i/13588394._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "신호와 소음",
+    "original": "The Signal and the Noise",
+    "publisher": "더퀘스트",
+    "date": "2014",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754052366/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "정치, 날씨, 야구, 포커 등 다양한 분야의 예측 사례와 베이즈 사고를 설명한 점이 흥미롭고 읽기 쉽다는 평이 있다. 반면 일부 장은 지루하고 다른 책의 재탕 같으며, 철학자에 대한 무리한 주장이나 과도한 확신을 지적하는 비판도 많다. 평가가 크게 엇갈린다.",
+    "pros": [
+     "다양한 분야의 사례",
+     "베이즈 사고의 명쾌한 설명"
+    ],
+    "cons": [
+     "지루한 일부 장",
+     "다른 책의 재탕 느낌",
+     "과도한 자신감과 얕은 분석"
+    ],
+    "domestic": "국내 리뷰는 한 건뿐이며, 짧은 주장에 비해 설명이 장황하고 과도해 설득보다 짜증이 앞선다고 평가했다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 1,
+     "yes24": 0
+    },
+    "hash": "fb4495643fce05af5f91714831bf9d58",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "상식 밖의 경제학 10주년 기념판",
+   "original": "Predictably Irrational",
+   "author": "댄 애리얼리",
+   "awards": "Five Books(Jonah Lehrer, 의사결정) · Farnam Street 의사결정 심리 목록 · Alliance for Decision Education 추천 도서 (3곳)",
+   "summary": "사람의 비합리가 일정한 방향으로 반복된다는 것을 실험으로 보여 주는 행동경제학 입문.",
+   "grq": "Predictably Irrational",
+   "note": "",
+   "id": "bluff-decision-8",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%83%81%EC%8B%9D%20%EB%B0%96%EC%9D%98%20%EA%B2%BD%EC%A0%9C%ED%95%99%2010%EC%A3%BC%EB%85%84%20%EA%B8%B0%EB%85%90%ED%8C%90"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%83%81%EC%8B%9D%20%EB%B0%96%EC%9D%98%20%EA%B2%BD%EC%A0%9C%ED%95%99%2010%EC%A3%BC%EB%85%84%20%EA%B8%B0%EB%85%90%ED%8C%90"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%83%81%EC%8B%9D%20%EB%B0%96%EC%9D%98%20%EA%B2%BD%EC%A0%9C%ED%95%99%2010%EC%A3%BC%EB%85%84%20%EA%B8%B0%EB%85%90%ED%8C%90"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "종이책에 연결된 eBook",
+     "url": "https://www.yes24.com/product/goods/65566184",
+     "sheet": "",
+     "matched": "상식 밖의 경제학",
+     "rating": 9.3,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/64601562",
+      "matched": "상식 밖의 경제학 10주년 기념판"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+    "author": "Dan Ariely",
+    "rating": 4.11,
+    "count": 133773,
+    "work": "3074803",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255573980i/1713426._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/1713426.Predictably_Irrational"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "상식 밖의 경제학 10주년 기념판",
+    "original": "Predictably Irrational",
+    "publisher": "청림출판",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/64601562/L",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "일상 속 비합리적 선택을 재미있는 실험으로 풀어내 술술 읽히고 흥미롭다는 호평이 많다. 다만 대학생 대상 실험을 지나치게 일반화하고 일화에 의존하며, 이미 행동경제학 책을 읽었다면 새로운 내용이 적다는 비판이 이어진다.",
+    "pros": [
+     "재미있는 실험과 사례",
+     "행동경제학 입문서로 읽기 쉬움"
+    ],
+    "cons": [
+     "제한된 실험을 과도하게 일반화",
+     "다른 책과 겹치는 내용이 많음"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "c79cd3e27eeb2419283e444c0fd3c2c8",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "블랙 스완",
+   "original": "The Black Swan",
+   "author": "나심 니콜라스 탈레브",
+   "awards": "Farnam Street 의사결정 심리 목록 · 커뮤니티(HN) · FT 올해의 경영서 2007 명단 (3곳)",
+   "summary": "확률로 다룰 수 없는 극단적 사건과 사후 설명의 함정. 운을 실력으로 착각하는 문제를 가장 세게 밀어붙인다.",
+   "grq": "The Black Swan",
+   "note": "",
+   "id": "bluff-decision-9",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%B8%94%EB%9E%99%20%EC%8A%A4%EC%99%84"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%B8%94%EB%9E%99%20%EC%8A%A4%EC%99%84"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%B8%94%EB%9E%99%20%EC%8A%A4%EC%99%84"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%B8%94%EB%9E%99%20%EC%8A%A4%EC%99%84",
+     "sheet": "",
+     "bookRating": 9.8,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/60531256",
+      "matched": "블랙 스완"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Black Swan: The Impact of the Highly Improbable",
+    "author": "Nassim Nicholas Taleb",
+    "rating": 3.96,
+    "count": 125921,
+    "work": "2157806",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714172313i/242472._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/242472.The_Black_Swan"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "블랙 스완",
+    "original": "The Black Swan : The Impact of the Highly Improbable",
+    "publisher": "동녘사이언스",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/60531256/L",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "예측 불가능한 큰 사건의 영향력을 짚은 통찰이 중요하고 생각을 바꿔 준다는 평가가 있다. 하지만 저자의 오만하고 공격적인 어조, 산만하고 반복적인 구성, 통계 지식이 있는 독자에게는 새롭지 않다는 비판이 매우 많아 평가가 크게 갈린다.",
+    "pros": [
+     "드문 사건의 영향을 보는 시각 제공",
+     "사고방식을 흔드는 아이디어"
+    ],
+    "cons": [
+     "저자의 거만하고 적대적인 어조",
+     "장황하고 반복적인 구성",
+     "논리가 거칠고 근거가 약하다는 지적"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "a9047bd1d39a16a383fa038fb23dfac5",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "후회 없음",
+   "original": "Decisive",
+   "author": "칩 히스",
+   "awards": "Time·Re:Think Decision Making 참가자 추천 · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (3곳)",
+   "summary": "선택지를 넓히고 확증 편향을 줄이는 실천 절차를 제시하는 의사결정 실용서.",
+   "grq": "Decisive",
+   "note": "",
+   "id": "bluff-decision-10",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%9B%84%ED%9A%8C%20%EC%97%86%EC%9D%8C",
+     "matched": "후회 없음",
+     "reviews": 1,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/754036135",
+     "matched": "후회 없음",
+     "rating": 4.5,
+     "count": 8,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/112938546",
+     "matched": "후회 없음",
+     "rating": 9.6,
+     "reviews": 33,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/112938546",
+     "matched": "후회 없음",
+     "rating": 9.6,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/112584485",
+      "matched": "후회 없음"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Decisive: How to Make Better Choices in Life and Work",
+    "author": "Chip Heath",
+    "rating": 3.96,
+    "count": 18685,
+    "work": "21521013",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213453i/15798078._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/15798078-decisive"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "후회 없음",
+    "original": "Decisive: How to Make Better Choices in Life and Work",
+    "publisher": "부키",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754036135/xlarge",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "의사결정을 네 단계로 정리한 틀이 실용적이고 일과 삶에 바로 적용할 수 있다는 호평이 많다. 장단점 목록식 접근의 한계를 알려 주고 사례가 재미있다는 평이다. 일부는 약어 틀이 억지스럽고 뒷부분이 늘어지며 이미 아는 내용이 많다고 본다.",
+    "pros": [
+     "실용적이고 단계적인 의사결정 틀",
+     "재미있는 사례와 쉬운 가독성",
+     "결정에 대한 자신감 향상"
+    ],
+    "cons": [
+     "일부 내용이 길고 뻔하다",
+     "틀 구성이 다소 인위적"
+    ],
+    "domestic": "국내 독자는 중요한 결정의 순간마다 다시 펴 보고 지인에게 선물할 만큼 만족도가 높으며, 후회를 줄이는 방법을 알려 준다는 점을 높이 산다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 3,
+     "yes24": 5
+    },
+    "hash": "9ce7984eaf60e3cd4d3f641ea5e2c8cf",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "인간 그 속기 쉬운 동물",
+   "original": "How We Know What Isn't So",
+   "author": "토머스 길로비치|토마스 길로비치",
+   "awards": "Five Books(Jonah Lehrer, 의사결정) · Farnam Street 의사결정 심리 목록 · Reddit(Gemini 경유) (3곳)",
+   "summary": "우연한 패턴을 실력이나 법칙으로 믿게 되는 이유를 다룬 인지심리 고전.",
+   "grq": "How We Know What Isn't So",
+   "note": "",
+   "id": "bluff-decision-11",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%9D%B8%EA%B0%84%20%EA%B7%B8%20%EC%86%8D%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%EB%8F%99%EB%AC%BC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%9D%B8%EA%B0%84%20%EA%B7%B8%20%EC%86%8D%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%EB%8F%99%EB%AC%BC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%9D%B8%EA%B0%84%20%EA%B7%B8%20%EC%86%8D%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%EB%8F%99%EB%AC%BC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%9D%B8%EA%B0%84%20%EA%B7%B8%20%EC%86%8D%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%EB%8F%99%EB%AC%BC",
+     "sheet": "",
+     "bookRating": 8.7,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/3069557",
+      "matched": "인간 그 속기 쉬운 동물"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life",
+    "author": "Thomas Gilovich",
+    "rating": 3.95,
+    "count": 3213,
+    "work": "121184",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348628996i/125819._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/125819.How_We_Know_What_Isn_t_So"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "인간 그 속기 쉬운 동물",
+    "original": "How We Know What Isn't So",
+    "publisher": "모멘토",
+    "date": "2008",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/3069557/L",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "사람이 증거를 잘못 해석하고 편향에 빠지는 과정을 명료하게 설명해 비판적 사고에 좋은 입문서라는 평이 많다. 오래된 책이지만 여전히 유효하다는 의견이 있다. 한편 뒷부분이 기대에 못 미치고, 심리학에 익숙한 독자에게는 새롭지 않다는 평도 있다.",
+    "pros": [
+     "인지 편향을 명확히 설명",
+     "비판적 사고에 도움",
+     "출간 후 오래됐어도 여전히 유효"
+    ],
+    "cons": [
+     "일부 독자에게는 상식적이고 새롭지 않음",
+     "뒷부분이 앞부분만 못함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "240b49ee8cd5be36241c1edb60dc8c01",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "춤추는 술고래의 수학 이야기",
+   "original": "The Drunkard's Walk",
+   "author": "레너드 믈로디노프",
+   "awards": "Farnam Street 의사결정 심리 목록 · Alliance for Decision Education 추천 도서 · Royal Society 과학도서상 2009 후보 (3곳)",
+   "summary": "일상과 성공에서 우연이 차지하는 몫을 확률의 역사와 함께 풀어 쓴 교양서.",
+   "grq": "The Drunkard's Walk",
+   "note": "",
+   "id": "bluff-decision-12",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%B6%A4%EC%B6%94%EB%8A%94%20%EC%88%A0%EA%B3%A0%EB%9E%98%EC%9D%98%20%EC%88%98%ED%95%99%20%EC%9D%B4%EC%95%BC%EA%B8%B0"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%B6%A4%EC%B6%94%EB%8A%94%20%EC%88%A0%EA%B3%A0%EB%9E%98%EC%9D%98%20%EC%88%98%ED%95%99%20%EC%9D%B4%EC%95%BC%EA%B8%B0"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%B6%A4%EC%B6%94%EB%8A%94%20%EC%88%A0%EA%B3%A0%EB%9E%98%EC%9D%98%20%EC%88%98%ED%95%99%20%EC%9D%B4%EC%95%BC%EA%B8%B0"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%B6%A4%EC%B6%94%EB%8A%94%20%EC%88%A0%EA%B3%A0%EB%9E%98%EC%9D%98%20%EC%88%98%ED%95%99%20%EC%9D%B4%EC%95%BC%EA%B8%B0",
+     "sheet": "",
+     "bookRating": 8.3,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/3344344",
+      "matched": "춤추는 술고래의 수학 이야기"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Drunkard's Walk: How Randomness Rules Our Lives",
+    "author": "Leonard Mlodinow",
+    "rating": 3.95,
+    "count": 25088,
+    "work": "2278900",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320392907i/2272880._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "춤추는 술고래의 수학 이야기",
+    "original": "The Drunkard's Walk: How Randomness Rules Our Lives",
+    "publisher": "까치(까치글방)",
+    "date": "2009",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/3344344/L",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "확률과 우연을 역사와 일화로 풀어 흥미롭고 수학이 부담스러운 독자도 읽기 쉽다는 호평이 많다. 반면 수학이나 통계에 익숙한 독자에게는 지나치게 기초적이고 새로울 것이 없으며, 주제가 흩어져 일관성이 약하다는 불만도 있다.",
+    "pros": [
+     "확률을 일화로 흥미롭게 설명",
+     "수학 배경이 없어도 읽기 쉬움"
+    ],
+    "cons": [
+     "전문 독자에게는 너무 기초적",
+     "통일된 주제가 약하고 산만함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "0f2e625e1f5fed89ca7b2a78ee899b2c",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "미번역 명작",
+   "title": "How to Measure Anything",
+   "original": "How to Measure Anything",
+   "author": "더글러스 허버드|더글러스 W. 허버드|더글라스 허바드",
+   "awards": "Farnam Street 의사결정 심리 목록 · Time·Re:Think Decision Making 참가자 추천 · 커뮤니티(HN) (3곳)",
+   "summary": "불확실한 것을 확률 구간으로 추정하고 줄여 가는 방법을 다루는 실무서.",
+   "grq": "How to Measure Anything",
+   "note": "",
+   "id": "bluff-decision-13",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/How%20to%20Measure%20Anything"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=How%20to%20Measure%20Anything"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=How%20to%20Measure%20Anything"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=How%20to%20Measure%20Anything",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "How to Measure Anything: Finding the Value of \"Intangibles\" in Business",
+    "author": "Douglas W. Hubbard",
+    "rating": 3.9,
+    "count": 3797,
+    "work": "433383",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347251118i/444653._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/444653.How_to_Measure_Anything"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347251118i/444653._SX240_.jpg",
+   "untranslated": true,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "무엇이든 측정할 수 있다는 관점과 불확실성을 줄이는 구체적 방법을 알려 주어 업무 의사결정에 도움이 된다는 평이 많다. 사례와 엑셀 도구도 유용하다고 한다. 다만 사실상 통계 교재에 가까워 후반부가 건조하고 수식이 어렵다는 지적이 반복된다.",
+    "pros": [
+     "측정과 추정의 체계적 사고법",
+     "실무에 쓸 수 있는 사례와 도구"
+    ],
+    "cons": [
+     "후반부 통계 내용이 건조하고 어려움",
+     "교과서 같은 딱딱한 서술"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "d336923e0b281a7888800c67967e8b5d",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "행운에 속지 마라",
+   "original": "Fooled by Randomness",
+   "author": "나심 니콜라스 탈레브",
+   "awards": "Farnam Street 의사결정 심리 목록 · Alliance for Decision Education 추천 도서 (2곳)",
+   "summary": "운을 실력으로 착각하는 문제를 트레이더의 시선으로 다룬다. 『블러프』의 '운과 실력' 질문과 가장 가깝다.",
+   "grq": "Fooled by Randomness",
+   "note": "",
+   "id": "bluff-decision-14",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%96%89%EC%9A%B4%EC%97%90%20%EC%86%8D%EC%A7%80%20%EB%A7%88%EB%9D%BC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%ED%96%89%EC%9A%B4%EC%97%90%20%EC%86%8D%EC%A7%80%20%EB%A7%88%EB%9D%BC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%96%89%EC%9A%B4%EC%97%90%20%EC%86%8D%EC%A7%80%20%EB%A7%88%EB%9D%BC"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/195392744",
+     "matched": "행운에 속지 마라 (2026 개정판)",
+     "rating": 10,
+     "sheet": "",
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/33572669",
+      "matched": "행운에 속지 마라"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+    "author": "Nassim Nicholas Taleb",
+    "rating": 4.08,
+    "count": 74168,
+    "work": "3119175",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388180506i/38315._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/38315.Fooled_by_Randomness"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "행운에 속지 마라",
+    "original": "Fooled by Randomness",
+    "publisher": "중앙북스(books)",
+    "date": "2016",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/195392744/L",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "성공을 실력이 아닌 운으로 착각하는 경향을 짚은 문제의식이 흥미롭고 유익하다는 호평이 있다. 하지만 저자의 자만과 타인 비하 어조가 거슬리고, 글이 산만하며 짧은 글로 충분할 내용을 늘렸다는 비판이 훨씬 두드러진다.",
+    "pros": [
+     "운과 실력을 구분하게 하는 문제의식",
+     "생존자 편향 등 핵심 개념이 흥미로움"
+    ],
+    "cons": [
+     "오만하고 독선적인 어조",
+     "산만하고 불필요하게 늘어진 서술",
+     "통계에 익숙한 독자에게는 새롭지 않음"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "d4bd9caa853995992254f954ba9ba682",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "스카우트 마인드셋",
+   "original": "The Scout Mindset",
+   "author": "줄리아 갈렙|줄리아 갈레프",
+   "awards": "Alliance for Decision Education 추천 도서 · Reddit(Gemini 경유) (2곳)",
+   "summary": "자기 믿음을 지키려는 태도와 정확히 보려는 태도의 차이. 틀렸음을 받아들이는 훈련이라는 점에서 이어진다.",
+   "grq": "The Scout Mindset",
+   "note": "",
+   "id": "bluff-decision-15",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/593000981",
+     "matched": "스카우트 마인드셋",
+     "rating": 5,
+     "count": 2,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/110871144",
+     "matched": "스카우트 마인드셋",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/110521627",
+      "matched": "스카우트 마인드셋"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Scout Mindset: Why Some People See Things Clearly and Others Don't",
+    "author": "Julia Galef",
+    "rating": 4.08,
+    "count": 7489,
+    "work": "65572070",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612196393i/42041926._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/42041926-the-scout-mindset"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "스카우트 마인드셋",
+    "original": "THE SCOUT MINDSET",
+    "publisher": "와이즈베리",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/593000981/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "방어에 급급한 병사 대신 현실을 있는 그대로 보려는 정찰병 사고방식을 제안하며, 명료한 사례와 실천 방법으로 호평을 받는다. 지적 정직성에 대한 쉬운 입문서라는 평이다. 반면 사례를 늘려 분량을 채운 느낌이고 학술적 깊이가 부족하며 자기만족적인 어조가 거슬린다는 불만도 있다.",
+    "pros": [
+     "명확한 개념 틀과 실천 사례",
+     "쉽고 잘 읽히는 서술",
+     "지적 정직성을 일깨움"
+    ],
+    "cons": [
+     "사례 나열로 분량 채움",
+     "학술적 깊이 부족",
+     "다소 자기만족적인 어조"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "022370df3fceeae5266d1ba6652a6601",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "행동경제학",
+   "original": "Misbehaving",
+   "author": "리처드 탈러|리처드 H. 탈러|리처드 세일러",
+   "awards": "커뮤니티(HN) · FT 올해의 경영서 2015 명단 (2곳)",
+   "summary": "행동경제학이 만들어진 과정을 당사자가 회고한 책. 이론보다 이야기 쪽이다.",
+   "grq": "Misbehaving",
+   "note": "",
+   "id": "bluff-decision-16",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%96%89%EB%8F%99%EA%B2%BD%EC%A0%9C%ED%95%99%20",
+     "matched": "행동경제학 ",
+     "reviews": 51,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/606002303",
+     "matched": "행동경제학",
+     "rating": 3.9,
+     "count": 35,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/97694082",
+     "matched": "행동경제학",
+     "rating": 8.9,
+     "reviews": 159,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/97694082",
+     "matched": "행동경제학",
+     "rating": 8.9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/97665494",
+      "matched": "행동경제학"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Misbehaving: The Making of Behavioral Economics",
+    "author": "Richard H. Thaler",
+    "rating": 4.16,
+    "count": 24499,
+    "work": "42871209",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459531022i/26530355._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/26530355-misbehaving"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "행동경제학",
+    "original": "Misbehaving: The Making of Behavioral Economics",
+    "publisher": "웅진지식하우스",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/606002303/xlarge",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "행동경제학이 학문으로 자리 잡은 과정을 저자의 경험담과 일화로 재미있게 풀어낸 점이 호평을 받는다. 반면 개념 설명서를 기대한 독자에게는 자서전처럼 길고 개인사 비중이 커서 아쉽다는 평이 적지 않다.",
+    "pros": [
+     "학문 형성 과정을 담은 일화가 흥미로움",
+     "경제학 배경이 없어도 읽을 수 있음"
+    ],
+    "cons": [
+     "개인 경력 이야기가 지나치게 많다",
+     "행동경제학 개념 입문서로는 부족"
+    ],
+    "domestic": "국내 독자는 서술이 산만하고 서론이 길며 일기나 자서전 같다고 보는 평이 우세하고, 번역이 읽기 어렵다는 불만과 함께 중도 포기했다는 의견이 많다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 7,
+     "yes24": 5
+    },
+    "hash": "996b9615690bd657b5371914a6cc5130",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "거짓말의 진화",
+   "original": "Mistakes Were Made (But Not by Me)",
+   "author": "캐럴 태브리스|캐롤 태브리스",
+   "awards": "Farnam Street 의사결정 심리 목록 · Reddit(Gemini 경유) (2곳)",
+   "summary": "틀린 결정을 인정하지 못하고 정당화하는 심리. 패배 뒤의 자기 점검이라는 『블러프』의 주제와 맞닿는다.",
+   "grq": "Mistakes Were Made (But Not by Me)",
+   "note": "",
+   "id": "bluff-decision-17",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%98%20%EC%A7%84%ED%99%94"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%98%20%EC%A7%84%ED%99%94"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%98%20%EC%A7%84%ED%99%94"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%98%20%EC%A7%84%ED%99%94",
+     "sheet": "",
+     "bookRating": 8.4,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/2784091",
+      "matched": "거짓말의 진화"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts",
+    "author": "Carol Tavris",
+    "rating": 4.04,
+    "count": 29838,
+    "work": "2171014",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328876733i/522525._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/522525.Mistakes_Were_Made_But_Not_by_Me_"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "거짓말의 진화",
+    "original": "Mistakes Were Made (But Not by Me)",
+    "publisher": "추수밭",
+    "date": "2007",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/2784091/L",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "자기 정당화와 인지 부조화가 어떻게 잘못을 인정하지 못하게 만드는지 정치와 일상 사례로 보여 주어 자기 성찰에 도움이 된다는 평이 많다. 일부는 일화에 치우치고 연구 근거가 부족하며 이미 아는 개념이라고 지적한다.",
+    "pros": [
+     "자기 정당화의 원리를 깊이 이해",
+     "자신을 돌아보게 하는 강한 울림",
+     "다양한 현실 사례"
+    ],
+    "cons": [
+     "일화 비중이 크고 연구 근거가 적다는 지적",
+     "심리학에 익숙하면 낯익은 내용"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "73eb9e1aab89d9025f2105c936e7311f",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "점심메뉴 고르기도 어려운 사람들",
+   "original": "The Paradox of Choice",
+   "author": "배리 슈워츠",
+   "awards": "Farnam Street 의사결정 심리 목록 · Time·Re:Think Decision Making 참가자 추천 (2곳)",
+   "summary": "선택지가 많을수록 결정이 나빠지고 만족이 줄어드는 이유를 다룬다.",
+   "grq": "The Paradox of Choice",
+   "note": "",
+   "id": "bluff-decision-18",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%A0%90%EC%8B%AC%EB%A9%94%EB%89%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0%EB%8F%84%20%EC%96%B4%EB%A0%A4%EC%9A%B4%20%EC%82%AC%EB%9E%8C%EB%93%A4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%A0%90%EC%8B%AC%EB%A9%94%EB%89%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0%EB%8F%84%20%EC%96%B4%EB%A0%A4%EC%9A%B4%20%EC%82%AC%EB%9E%8C%EB%93%A4"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%A0%90%EC%8B%AC%EB%A9%94%EB%89%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0%EB%8F%84%20%EC%96%B4%EB%A0%A4%EC%9A%B4%20%EC%82%AC%EB%9E%8C%EB%93%A4"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%A0%90%EC%8B%AC%EB%A9%94%EB%89%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0%EB%8F%84%20%EC%96%B4%EB%A0%A4%EC%9A%B4%20%EC%82%AC%EB%9E%8C%EB%93%A4",
+     "sheet": "",
+     "bookRating": 8.5,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/18117709",
+      "matched": "점심메뉴 고르기도 어려운 사람들"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Paradox of Choice: Why More Is Less",
+    "author": "Barry Schwartz",
+    "rating": 3.83,
+    "count": 37714,
+    "work": "1157840",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410138134i/10639._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "점심메뉴 고르기도 어려운 사람들",
+    "original": "The Paradox of Choice: Why More Is Less",
+    "publisher": "예담",
+    "date": "2015",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/18117709/L",
+   "untranslated": false,
+   "screen": {
+    "status": "unknown",
+    "items": []
+   },
+   "review": {
+    "text": "선택지가 많을수록 만족이 줄어든다는 관점이 삶을 보는 눈을 바꿔 준다는 평이 많다. 완벽주의와 적당한 만족의 차이도 유용하다고 본다. 반면 같은 주장이 반복되고 목록과 예시가 많아 짧은 글로 충분했다는 불만이 꾸준하다.",
+    "pros": [
+     "선택 과잉에 대한 통찰",
+     "최선과 적당한 만족의 구분이 유용"
+    ],
+    "cons": [
+     "같은 주장의 반복과 군더더기",
+     "사소한 불평처럼 느껴지는 사례"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "e41b62c862d5ceec8b581ee91323b357",
+    "by": "Claude(세션 내 요약)"
+   }
+  },
+  {
+   "category": "판단·확률",
+   "title": "하지만 우리가 틀렸다면",
+   "original": "But What If We're Wrong?",
+   "author": "척 클로스터먼",
+   "awards": "Five Books(Sebastian Park, 좋은 결정)",
+   "summary": "지금 확신하는 것이 훗날 틀린 것으로 판명될 가능성을 따져 보는 에세이. 『블러프』와 같은 Five Books 목록에 올랐다.",
+   "grq": "But What If We're Wrong?",
+   "note": "",
+   "id": "bluff-decision-19",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 1,
+   "group": "판단·확률",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9A%B0%EB%A6%AC%EA%B0%80%20%ED%8B%80%EB%A0%B8%EB%8B%A4%EB%A9%B4"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9A%B0%EB%A6%AC%EA%B0%80%20%ED%8B%80%EB%A0%B8%EB%8B%A4%EB%A9%B4"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9A%B0%EB%A6%AC%EA%B0%80%20%ED%8B%80%EB%A0%B8%EB%8B%A4%EB%A9%B4"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9A%B0%EB%A6%AC%EA%B0%80%20%ED%8B%80%EB%A0%B8%EB%8B%A4%EB%A9%B4",
+     "sheet": "",
+     "bookRating": 6,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/43259759",
+      "matched": "하지만 우리가 틀렸다면"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "But What If We're Wrong? Thinking About the Present As If It Were the Past",
+    "author": "Chuck Klosterman",
+    "rating": 3.66,
+    "count": 19184,
+    "work": "46813511",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454284600i/27068734._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/27068734-but-what-if-we-re-wrong-thinking-about-the-present-as-if-it-were-the-pa"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "하지만 우리가 틀렸다면",
+    "original": "But What If We're Wrong ",
+    "publisher": "위즈덤하우스",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/43259759/L",
+   "untranslated": false,
+   "review": {
+    "text": "현재를 과거처럼 바라보며 우리가 틀렸을 가능성을 문화, 과학, 역사 등에 걸쳐 던지는 사고실험이 흥미롭고 재치 있다는 평이 많다. 저자의 글솜씨도 호평받는다. 하지만 답 없이 질문만 이어져 허무하고 자기비하식 어투가 거슬리며, 스포츠와 TV 대목은 취향을 탄다는 불만이 있다.",
+    "pros": [
+     "신선한 발상의 사고실험",
+     "재치 있는 글솜씨",
+     "다양한 분야를 넘나드는 논의"
+    ],
+    "cons": [
+     "뚜렷한 결론 없음",
+     "자기비하식 어투와 곁가지",
+     "스포츠·TV 부분은 호불호"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "27cad557472371036f925bd3cc6f7466",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "미번역 명작",
+   "title": "The Biggest Game in Town",
+   "original": "The Biggest Game in Town",
+   "author": "앨 앨버레즈|알 알바레즈",
+   "awards": "Shepherd · Five Books(Victoria Coren, 포커) · Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) (4곳)",
+   "summary": "1981년 월드시리즈 오브 포커를 취재한 포커 논픽션의 고전. 소재는 같고 결은 르포다.",
+   "grq": "The Biggest Game in Town",
+   "note": "",
+   "id": "bluff-decision-20",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 2,
+   "group": "포커 논픽션",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Biggest%20Game%20in%20Town"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Biggest%20Game%20in%20Town"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Biggest%20Game%20in%20Town"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Biggest%20Game%20in%20Town",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Biggest Game in Town",
+    "author": "Al Álvarez",
+    "rating": 3.74,
+    "count": 1102,
+    "work": "1275802",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439010353i/848142._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/848142.The_Biggest_Game_in_Town"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439010353i/848142._SX240_.jpg",
+   "untranslated": true,
+   "review": {
+    "text": "1981년 월드 시리즈 오브 포커 현장을 문학적 문장으로 생생하게 그려 포커 문학의 명작으로 꼽는 독자가 많다. 다만 전략보다 인물 이야기에 치우치고 구성이 들쭉날쭉해 따라가기 어렵다는 지적과 평범하다는 의견도 있다.",
+    "pros": [
+     "생생하고 뛰어난 문장",
+     "초창기 WSOP와 라스베이거스의 분위기",
+     "전설적 플레이어들의 이야기"
+    ],
+    "cons": [
+     "전략·수학 내용이 적음",
+     "인물 서술 구성이 산만함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "39533c43ae663b0d6ab9865bf78724de",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "미번역 명작",
+   "title": "Positively Fifth Street",
+   "original": "Positively Fifth Street",
+   "author": "제임스 맥매너스",
+   "awards": "Shepherd · Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) (3곳)",
+   "summary": "취재하러 간 작가가 직접 대회에 뛰어든 기록. '글 쓰는 사람이 포커판에 들어간다'는 형식이 『블러프』와 같다.",
+   "grq": "Positively Fifth Street",
+   "note": "",
+   "id": "bluff-decision-21",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 2,
+   "group": "포커 논픽션",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Positively%20Fifth%20Street"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Positively%20Fifth%20Street"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Positively%20Fifth%20Street"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Positively%20Fifth%20Street",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "Positively Fifth Street: Murderers, Cheetahs, and Binion's World Series of Poker",
+    "author": "James McManus",
+    "rating": 3.89,
+    "count": 3116,
+    "work": "109310",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316136338i/113537._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/113537.Positively_Fifth_Street"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316136338i/113537._SX240_.jpg",
+   "untranslated": true,
+   "review": {
+    "text": "저자가 WSOP 결선 테이블까지 오른 경험은 소설처럼 짜릿하다는 평이 있다. 하지만 테드 비니언 살인 사건과 개인 이야기, 잡다한 곁가지가 뒤섞여 응집력이 떨어지고 분량을 채운 느낌이라는 불만이 반복된다.",
+    "pros": [
+     "대회 현장의 긴장감과 몰입감",
+     "논픽션답지 않은 읽는 재미"
+    ],
+    "cons": [
+     "살인 사건과의 억지스러운 연결",
+     "곁가지와 군더더기가 많음",
+     "포커를 모르면 이해하기 어려움"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "1a8bd8fd5d6c5cb36708518c15fdaa1f",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "미번역 명작",
+   "title": "Big Deal",
+   "original": "Big Deal",
+   "author": "앤서니 홀든",
+   "awards": "Five Books(Victoria Coren, 포커) · Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) (3곳)",
+   "summary": "전기 작가가 1년간 프로 포커 선수로 살아 본 기록. 1년 도전기라는 형식의 선배 격.",
+   "grq": "Big Deal",
+   "note": "",
+   "id": "bluff-decision-22",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 2,
+   "group": "포커 논픽션",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/Big%20Deal"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=Big%20Deal"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=Big%20Deal"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=Big%20Deal",
+     "sheet": ""
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "",
+   "untranslated": true,
+   "review": {
+    "text": "기자가 직장을 접고 프로 포커 선수에 도전하는 여정이 가볍고 재미있어 대리 체험하는 즐거움이 있다는 평이 많다. 다만 30년 전 책이라 전략과 시대상이 낡았고 일부 구간이 늘어지며 비슷한 포커 회고록과 비슷하다는 의견도 있다.",
+    "pros": [
+     "프로 포커 선수의 삶을 대리 체험",
+     "가볍고 재치 있는 문장",
+     "옛 포커 세계의 향수"
+    ],
+    "cons": [
+     "시대에 뒤처진 전략과 내용",
+     "일부 구간이 늘어짐"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "cb0d2334a49fa99deef7ade0c6aee758",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "미번역 명작",
+   "title": "The Professor, the Banker, and the Suicide King",
+   "original": "The Professor, the Banker, and the Suicide King",
+   "author": "마이클 크레이그",
+   "awards": "Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) · 커뮤니티(HN) (3곳)",
+   "summary": "억만장자 은행가와 최고 프로들의 초고액 승부를 다룬 실화.",
+   "grq": "The Professor, the Banker, and the Suicide King",
+   "note": "",
+   "id": "bluff-decision-23",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 2,
+   "group": "포커 논픽션",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King",
+     "sheet": ""
+    }
+   },
+   "goodreads": {
+    "title": "The Professor, the Banker, and the Suicide King: Inside the Richest Poker Game of All Time",
+    "author": "Michael Craig",
+    "rating": 3.87,
+    "count": 2254,
+    "work": "288900",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442131683i/297764._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/297764.The_Professor_the_Banker_and_the_Suicide_King"
+   },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442131683i/297764._SX240_.jpg",
+   "untranslated": true,
+   "review": {
+    "text": "억만장자 은행가가 최정상 프로들과 최고 판돈으로 맞붙는 실화를 인물 배경과 함께 흥미롭게 풀어 빠르게 읽힌다는 평이 많다. 다만 포커를 모르는 독자에게는 반복적일 수 있고, 가벼운 오락 이상의 깊이는 없다는 지적이 있다.",
+    "pros": [
+     "극적인 고액 대결 실화",
+     "인물들의 배경과 심리 묘사",
+     "가볍고 빠른 독서"
+    ],
+    "cons": [
+     "포커 지식이 없으면 반복적임",
+     "오락 이상의 깊이는 부족함"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "d7cb318c7c5de5999199e9c654af8bc7",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "심리 도전기",
+   "title": "1년 만에 기억력 천재가 된 남자",
+   "original": "Moonwalking with Einstein",
+   "author": "조슈아 포어",
+   "awards": "Reddit(Gemini 경유) · Royal Society 과학도서상 2012 후보 (2곳)",
+   "summary": "기자가 1년간 훈련해 기억력 대회에 나간 기록. 소재는 다르지만 '초보자의 1년 도전 + 심리학'이라는 형식이 같다.",
+   "grq": "Moonwalking with Einstein",
+   "note": "",
+   "id": "bluff-decision-24",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 2,
+   "group": "심리 도전기",
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/1%EB%85%84%20%EB%A7%8C%EC%97%90%20%EA%B8%B0%EC%96%B5%EB%A0%A5%20%EC%B2%9C%EC%9E%AC%EA%B0%80%20%EB%90%9C%20%EB%82%A8%EC%9E%90"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/606001533",
+     "matched": "1년 만에 기억력 천재가 된 남자",
+     "rating": 3.8,
+     "count": 75,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/26947170",
+     "matched": "1년 만에 기억력 천재가 된 남자",
+     "rating": 9.0,
+     "reviews": 261,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/26947170",
+     "matched": "1년 만에 기억력 천재가 된 남자",
+     "rating": 9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/26084950",
+      "matched": "1년 만에 기억력 천재가 된 남자"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
+    "author": "Joshua Foer",
+    "rating": 3.88,
+    "count": 95835,
+    "work": "6533383",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630575238i/6346975._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "1년 만에 기억력 천재가 된 남자",
+    "original": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
+    "publisher": "갤리온",
+    "date": "2016",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/606001533/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "기억의 궁전 같은 기억술과 그 역사, 저자가 1년간 훈련해 챔피언이 되는 과정을 취재 형식으로 엮어 재미있고 동기부여가 된다는 평이 많다. 반면 구체적인 암기 방법서로는 부족하고 분량이 길며 쓸모없는 곁가지가 많다는 불만도 있다.",
+    "pros": [
+     "기억술의 역사와 원리를 흥미롭게 소개",
+     "훈련 과정을 담은 생생한 체험기",
+     "동기부여가 됨"
+    ],
+    "cons": [
+     "구체적인 방법론이 부족함",
+     "곁가지가 많고 길다"
+    ],
+    "domestic": "국내 독자들은 기억술 입문과 흥미로운 체험담으로 호평하는 반면, 구체적인 암기법을 원하면 국내 서적이 더 낫다는 의견이 있다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 10,
+     "yes24": 5
+    },
+    "hash": "f6bba20dda1f3b323a3adad1ec7b1955",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  },
+  {
+   "category": "같은 저자",
+   "title": "뒤통수의 심리학",
+   "original": "The Confidence Game",
+   "author": "마리아 코니코바",
+   "awards": "Reddit(Gemini 경유) · 커뮤니티(HN) (2곳)",
+   "summary": "코니코바의 전작. 사기꾼이 사람의 판단을 어떻게 무너뜨리는지를 다룬다.",
+   "grq": "The Confidence Game",
+   "note": "",
+   "id": "bluff-decision-25",
+   "list": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+   "sheet": {},
+   "tier": 3,
+   "group": "같은 저자",
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%92%A4%ED%86%B5%EC%88%98%EC%9D%98%20%EC%8B%AC%EB%A6%AC%ED%95%99",
+     "matched": "뒤통수의 심리학",
+     "reviews": 3,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/703000404",
+     "matched": "뒤통수의 심리학",
+     "rating": 3.8,
+     "count": 19,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%92%A4%ED%86%B5%EC%88%98%EC%9D%98%20%EC%8B%AC%EB%A6%AC%ED%95%99"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/60609024",
+     "matched": "뒤통수의 심리학",
+     "rating": 8.8,
+     "sheet": "",
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/59719382",
+      "matched": "뒤통수의 심리학"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Confidence Game: Why We Fall for It . . . Every Time",
+    "author": "Maria Konnikova",
+    "rating": 3.65,
+    "count": 6235,
+    "work": "44482090",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494595504i/25387895._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/25387895-the-confidence-game"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "뒤통수의 심리학",
+    "original": "The Confidence Game",
+    "publisher": "한국경제신문사(한경비피)",
+    "date": "2018",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/703000404/xlarge",
+   "untranslated": false,
+   "review": {
+    "text": "사기가 진행되는 단계별로 심리 원리를 설명하고 실제 사기 사례를 곁들여 흥미롭다는 평이 있다. 그러나 구성이 어수선하고 같은 이야기가 되풀이되며, 사기를 피하는 실용적 조언이 부족하고 이미 아는 내용이라는 불만이 이어진다.",
+    "pros": [
+     "다양한 사기 사례와 일화",
+     "사기에 속는 심리 원리 설명"
+    ],
+    "cons": [
+     "반복적이고 구성이 산만함",
+     "예방 조언이 부족하고 새롭지 않음"
+    ],
+    "domestic": "국내 독자들은 사기꾼의 심리 요소를 잘 설명했고 사기를 피하려는 사람에게 필독서가 될 만하다고 평가한다.",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 2,
+     "yes24": 0
+    },
+    "hash": "bdf1523aee71ef1cb0ce178d7d24ea28",
+    "by": "Claude(세션 내 요약)"
+   },
+   "screen": {
+    "status": "unknown",
+    "items": []
+   }
+  }
+ ]
+}

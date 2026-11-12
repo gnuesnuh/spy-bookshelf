@@ -1,0 +1,2420 @@
+[
+ {
+  "original": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making",
+   "Five Books — cognitive biases 주제 페이지",
+   "Shepherd — Olivier Sibony, how we make decisions",
+   "Reddit(Gemini 경유)",
+   "Hacker News"
+  ],
+  "kinds": [
+   "community",
+   "expert",
+   "list"
+  ],
+  "n": 5,
+  "n_kinds": 3,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Predictably Irrational",
+  "author": "Dan Ariely",
+  "sources": [
+   "Five Books — Jonah Lehrer, Decision-making",
+   "Goodreads list — Best Books on Thinking and Decision Making",
+   "Farnam Street — behavioral economics reading list",
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community",
+   "expert",
+   "list"
+  ],
+  "n": 4,
+  "n_kinds": 3,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Thinking in Bets",
+  "author": "Annie Duke",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making",
+   "Five Books — Edouard Mathieu, Using data to understand the world",
+   "Hacker News"
+  ],
+  "kinds": [
+   "community",
+   "expert",
+   "list"
+  ],
+  "n": 3,
+  "n_kinds": 3,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+  "author": "John Carreyrou",
+  "sources": [
+   "FT Business Book of the Year",
+   "Reddit(Gemini 경유)",
+   "Hacker News"
+  ],
+  "kinds": [
+   "award",
+   "community"
+  ],
+  "n": 3,
+  "n_kinds": 2,
+  "axes": []
+ },
+ {
+  "original": "Judgment under Uncertainty: Heuristics and Biases",
+  "author": "Daniel Kahneman",
+  "sources": [
+   "Five Books — Jonah Lehrer, Decision-making",
+   "Farnam Street — behavioral economics reading list",
+   "Hacker News"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 3,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Nudge",
+  "author": "Richard H. Thaler",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making",
+   "Shepherd — Olivier Sibony, how we make decisions",
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert",
+   "list"
+  ],
+  "n": 3,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism",
+  "author": "George Akerlof",
+  "sources": [
+   "Farnam Street — behavioral economics reading list",
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Behavioral Game Theory: Experiments in Strategic Interaction",
+  "author": "Colin Camerer",
+  "sources": [
+   "Farnam Street — behavioral economics reading list",
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Blink",
+  "author": "Malcolm Gladwell",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making",
+   "Hacker News"
+  ],
+  "kinds": [
+   "community",
+   "list"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Evidence-Based Policy",
+  "author": "Nancy Cartwright",
+  "sources": [
+   "Shepherd — Bas van Fraassen, probability and risk",
+   "Discourse"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Extraordinary Popular Delusions and the Madness of Crowds",
+  "author": "Charles Mackay",
+  "sources": [
+   "Five Books — Jonah Lehrer, Decision-making",
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "How We Know What Isn't So",
+  "author": "Thomas Gilovich",
+  "sources": [
+   "Five Books — Jonah Lehrer, Decision-making",
+   "Discourse"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "How to Lie with Statistics",
+  "author": "Darrell Huff",
+  "sources": [
+   "Shepherd — Bas van Fraassen, probability and risk",
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Misbehaving: The Making of Behavioural Economics",
+  "author": "Richard Thaler",
+  "sources": [
+   "FT Business Book of the Year",
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "award",
+   "community"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": []
+ },
+ {
+  "original": "Noise: A Flaw in Human Judgment",
+  "author": "Daniel Kahneman",
+  "sources": [
+   "Five Books — Sebastian Park, Making Good Decisions",
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "expert",
+   "list"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Positively Fifth Street",
+  "author": "James McManus",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff",
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "Range: Why Generalists Triumph in a Specialized World",
+  "author": "David Epstein",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making",
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award",
+   "list"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Superforecasting",
+  "author": "Philip E. Tetlock",
+  "sources": [
+   "Five Books — Edouard Mathieu, Using data to understand the world",
+   "Hacker News"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Biggest Game in Town",
+  "author": "A. Alvarez",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff",
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community",
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "The Paradox of Choice",
+  "author": "Barry Schwartz",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making",
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert",
+   "list"
+  ],
+  "n": 2,
+  "n_kinds": 2,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Demon Haunted World",
+  "author": "Carl Sagan",
+  "sources": [
+   "Reddit(Gemini 경유)",
+   "Hacker News"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 2,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Games, Gods and Gambling",
+  "author": "F. N. David",
+  "sources": [
+   "Shepherd — Luck, winning, losing and seeing opportunity",
+   "Shepherd — Bas van Fraassen, probability and risk"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Influence",
+  "author": "Robert B. Cialdini",
+  "sources": [
+   "Shepherd — Olivier Sibony, how we make decisions",
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 2,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Black Swan",
+  "author": "Nassim Nicholas Taleb",
+  "sources": [
+   "Reddit(Gemini 경유)",
+   "Hacker News"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 2,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "A Season in Sinji",
+  "author": "J. L. Carr",
+  "sources": [
+   "Five Books — Ed Smith on luck"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "A Short History of Financial Euphoria",
+  "author": "John Kenneth Galbraith",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "A Splendid Exchange: How Trade Shaped the World",
+  "author": "William J. Bernstein",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "A Suitable Boy",
+  "author": "Vikram Seth",
+  "sources": [
+   "Five Books — Ed Smith on luck"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "A Very Short Introduction to Game Theory",
+  "author": "Ken Binmore",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Abundance: How We Build a Better Future",
+  "author": "Ezra Klein",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Adaptive Markets: Financial Evolution at the Speed of Thought",
+  "author": "Andrew W. Lo",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Algorithms to Live By",
+  "author": "Brian Christian",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Alibaba: The House That Jack Ma Built",
+  "author": "Duncan Clark",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Amarillo Slim in a World Full of Fat People",
+  "author": "Amarillo Slim Preston",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Ancillary Justice",
+  "author": "Ann Leckie",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "Antifragile",
+  "author": "Nassim Nicholas Taleb",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Aspects of Wagner",
+  "author": "Bryan Magee",
+  "sources": [
+   "Five Books — Ed Smith on luck"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Big Data: A Revolution That Will Transform How We Live, Work, and Think",
+  "author": "Viktor Mayer-Schönberger",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Big Deal: A Year as a Professional Poker Player",
+  "author": "Anthony Holden",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Breakdown of Will",
+  "author": "George Ainslie",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Breaking the Chain",
+  "author": "Stacie Webb",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Breakneck: China's Quest to Engineer the Future",
+  "author": "Dan Wang",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "But What If We're Wrong?",
+  "author": "Chuck Klosterman",
+  "sources": [
+   "Five Books — Sebastian Park, Making Good Decisions"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Capital in the Twenty-First Century",
+  "author": "Thomas Piketty",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Capitalism in America: A History",
+  "author": "Alan Greenspan",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Check Raising the Devil",
+  "author": "Mike Matusow",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "China Shakes The World: A Titan's Rise and Troubled Future – and the Challenge for America",
+  "author": "James Kynge",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Chip War: The Fight for the World's Most Critical Technology",
+  "author": "Chris Miller",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Choices, Values, and Frames",
+  "author": "Daniel Kahneman",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Chokepoints: How the Global Economy Became a Weapon of War",
+  "author": "Edward Fishman",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Cobalt Red: How the blood of the Congo powers our lives",
+  "author": "Siddharth Kara",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Cold Steel: The Multi-billion-dollar Battle for a Global Industry",
+  "author": "Tim Bouquet",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Combinatorial Game Theory",
+  "author": "Aaron Siegel",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Creativity, Inc. Overcoming the Unseen Forces that Stand in the Way of True Inspiration",
+  "author": "Ed Catmull",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Dead in the Water: Murder and Fraud in the World's Most Secretive Industry",
+  "author": "Matthew Campbell",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Demonic Males",
+  "author": "Richard Wrangham",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Digital Gold: The Untold Story of Bitcoin",
+  "author": "Nathaniel Popper",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "DisneyWar",
+  "author": "James B. Stewart",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Disorder: Hard Times in the 21st Century",
+  "author": "Helen Thompson",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Drop: Making Great Decisions",
+  "author": "Helen McKibben",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "EVOLVE or Be Slaughtered",
+  "author": "Derrick Chevalier",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Elon Musk",
+  "author": "Walter Isaacson",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Escape From Freedom",
+  "author": "Erich Fromm",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Exhalation",
+  "author": "Ted Chiang",
+  "sources": [
+   "Five Books — Sebastian Park, Making Good Decisions"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Exorbitant Privilege: The Rise and Fall of the Dollar and the Future of the International Monetary System",
+  "author": "Barry Eichengreen",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Explaining Humans",
+  "author": "Camilla Pang",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "Explaining Social Behavior",
+  "author": "Jon Elster",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Factfulness",
+  "author": "Hans Rosling",
+  "sources": [
+   "Five Books — Edouard Mathieu, Using data to understand the world"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Farsighted",
+  "author": "Steven Johnson",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Fast Second: How Smart Companies Bypass Radical Innovation to Enter and Dominate New Markets",
+  "author": "Constantinos C. Markides",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Fault Lines: How Hidden Fractures Still Threaten the World Economy",
+  "author": "Raghuram G. Rajan",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Five Days at Memorial",
+  "author": "Sheri Fink",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Fooled by Randomness",
+  "author": "Nassim Nicholas Taleb",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+  "author": "Steven Levitt",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Game Theory",
+  "author": "Steven Tadelis",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Game Theory 101: The Complete Textbook",
+  "author": "William Spaniel",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Game Theory: A Nontechnical Introduction",
+  "author": "Morton Davis",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Games of Strategy",
+  "author": "Avinash K. Dixit, Susan Skeath, David Reiley",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Going Infinite",
+  "author": "Michael Lewis",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Good Strategy Bad Strategy: The Difference and Why It Matters",
+  "author": "Richard Rumelt",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Hello World",
+  "author": "Hannah Fry",
+  "sources": [
+   "Five Books — Edouard Mathieu, Using data to understand the world"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Heuristics and Biases",
+  "author": "",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Hopscotch",
+  "author": "Julio Cortázar",
+  "sources": [
+   "Shepherd — Luck, winning, losing and seeing opportunity"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "House of Debt: How They (and You) Caused the Great Recession, and How We Can Prevent It from Happening Again",
+  "author": "Atif Mian",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "How Big Things Get Done: The surprising factors behind every successful project, from home renovations to space exploration and everything in between",
+  "author": "Bent Flyvbjerg",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "How Not to Be Wrong",
+  "author": "Jordan Ellenberg",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "How Pleasure Works",
+  "author": "Paul Bloom",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "How Statesmen Think",
+  "author": "Robert Jervis",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "How The Mind Works",
+  "author": "Steven Pinker",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "How We Decide",
+  "author": "Jonah Lehrer",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "How to Change",
+  "author": "Katy Milkman",
+  "sources": [
+   "Shepherd — Olivier Sibony, how we make decisions"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "How to Think Clearly",
+  "author": "Rolf Dobelli",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Identity Economics",
+  "author": "",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "In Fed We Trust",
+  "author": "David Wessel",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Introduction to Game Theory",
+  "author": "Martin J. Osborne",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Inventing Reality",
+  "author": "Michael Parenti",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Invisible Women: Exposing Data Bias in a World Designed for Men",
+  "author": "Caroline Criado-Perez",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Irrational Exuberance",
+  "author": "Robert J. Shiller",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Janesville: An American Story",
+  "author": "Amy Goldstein",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Judgment in Managerial Decision Making",
+  "author": "",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Kentucky to Missouri",
+  "author": "Joyce B. Crawford",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Lean In: Women, Work, and the Will to Lead",
+  "author": "Sheryl Sandberg",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Life's a Gamble",
+  "author": "Mike Sexton",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Lords of Finance: The Bankers Who Broke the World",
+  "author": "Liaquat Ahamed",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Loserthink",
+  "author": "Scott Adams",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Luck: A Personal Account of Fortune, Chance and Risk in Thirteen Investigations",
+  "author": "",
+  "sources": [
+   "Shepherd — Luck, winning, losing and seeing opportunity"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Makers and Takers: The Rise of Finance and the Fall of American Business",
+  "author": "Rana Foroohar",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Manias, Panics, and Crashes",
+  "author": "",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Material World: A substantial story of our past and future",
+  "author": "Ed Conway",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "McMafia: A Journey Through the Global Criminal Underworld",
+  "author": "Misha Glenny",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Mind Set!",
+  "author": "John Naisbitt",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Mindset",
+  "author": "Carol Dweck",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Mistakes Were Made But Not By Me",
+  "author": "Carol Tavris and Elliot Aronson",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Money Games",
+  "author": "Weijian Shan",
+  "sources": [
+   "Five Books — Sebastian Park, Making Good Decisions"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Moneyball",
+  "author": "Michael Lewis",
+  "sources": [
+   "Five Books — Ed Smith on luck"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "More Than You Know",
+  "author": "",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "New Power: How Power Works in Our Hyperconnected World - and How to Make It Work for You",
+  "author": "Jeremy Heimans",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Night Soldiers",
+  "author": "Alan Furst",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "Obliquity",
+  "author": "John Kay",
+  "sources": [
+   "Five Books — Ed Smith on luck"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+  "author": "Abhijit V. Banerjee",
+  "sources": [
+   "FT Business Book of the Year"
+  ],
+  "kinds": [
+   "award"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Psychology of Intelligence Analysis",
+  "author": "Richards J. Heuer, Jr.",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Rational Decisions",
+  "author": "Ken Binmore",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Rationality",
+  "author": "Steven Pinker",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Rationality for Mortals: How People Cope with Uncertainty",
+  "author": "Gerd Gigerenzer and Ralph Hertwig",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Rationality: From AI to Zombies",
+  "author": "Eliezer Yudkowski",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Sex and World Peace",
+  "author": "Valerie Hudson",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Shigidi and the Brass Head of Obalufon",
+  "author": "Wole Talabi",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "Strategy of Conflict",
+  "author": "Thomas Schelling",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Tap Dancing on Everest",
+  "author": "Mimi Zieman",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "The Art of Choosing",
+  "author": "Sheena Iyengar",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Art of Strategy",
+  "author": "Avinash K. Dixit and Barry Nalebuff",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Bad Seed",
+  "author": "William March",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The City We Became",
+  "author": "N. K. Jemisin",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "The Coaching Habit",
+  "author": "Michael Bungay Stanier",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "The Edge of Islam",
+  "author": "Janet McIntosh",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Emergence of Probability",
+  "author": "Ian Hacking",
+  "sources": [
+   "Shepherd — Bas van Fraassen, probability and risk"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Evolution of Cooperation",
+  "author": "Robert Axelrod",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Gambler",
+  "author": "Fyodor Dostoevsky",
+  "sources": [
+   "Shepherd — Luck, winning, losing and seeing opportunity"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Godfather of Poker",
+  "author": "Doyle Brunson",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Little Book of Behavioral Investing",
+  "author": "",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Mental Game of Poker",
+  "author": "Jared Tendler",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Mismeasure of Man",
+  "author": "Stephen Jay Gould",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Moneymaker Effect",
+  "author": "Eric Raskin",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "The Moral Animal",
+  "author": "Robert Wright",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "The Noble Hustle",
+  "author": "Colson Whitehead",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "The Player of Games",
+  "author": "Iain M. Banks",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Power of Habit",
+  "author": "Charles Duhigg",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Professor, the Banker, and the Suicide King",
+  "author": "Michael Craig",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Psychology of Influence",
+  "author": "Robert Cialdini",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Psychology of Money",
+  "author": "Morgan Housel",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Scout Mindset",
+  "author": "Julia Galef",
+  "sources": [
+   "Shepherd — Olivier Sibony, how we make decisions"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Signal and the Noise",
+  "author": "Nate Silver",
+  "sources": [
+   "Five Books — Edouard Mathieu, Using data to understand the world"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Theory That Would Not Die",
+  "author": "Sharon Bertsch McGrayne",
+  "sources": [
+   "Shepherd — Bas van Fraassen, probability and risk"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Undoing Project",
+  "author": "Michael Lewis",
+  "sources": [
+   "Goodreads list — Best Books on Thinking and Decision Making"
+  ],
+  "kinds": [
+   "list"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Visual Display of Quantitative Information",
+  "author": "Edward Tufte",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "The Wild Ass's Skin",
+  "author": "Honoré de Balzac",
+  "sources": [
+   "Shepherd — Luck, winning, losing and seeing opportunity"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "The Winner's Curse",
+  "author": "Richard Thaler",
+  "sources": [
+   "Five Books — Jonah Lehrer, Decision-making"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Theory of Decision under Uncertainty",
+  "author": "Itzhak Gilboa",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Theory of Games and Economic Behavior",
+  "author": "John von Neumann and Oskar Morgenstern",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Think Twice",
+  "author": "Michael Mauboussin",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Thinking and Deciding",
+  "author": "Jonathan Baron",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Today Was A Good Day",
+  "author": "Edward Benzel",
+  "sources": [
+   "Shepherd — books like The Biggest Bluff"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "전체"
+  ]
+ },
+ {
+  "original": "Tribe",
+  "author": "Sebastian Junger",
+  "sources": [
+   "Five Books — cognitive biases 주제 페이지"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Ulysses and the Sirens",
+  "author": "Jon Elster",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Understanding media, the extension of man",
+  "author": "Marshall McLuhan",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "Why Smart People Make Big Money Mistakes",
+  "author": "Gary Belsky",
+  "sources": [
+   "Farnam Street — behavioral economics reading list"
+  ],
+  "kinds": [
+   "expert"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": [
+   "주제"
+  ]
+ },
+ {
+  "original": "Winning Ways for Your Mathematical Plays",
+  "author": "Elwyn R. Berlekamp, John H. Conway, Richard K. Guy",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ },
+ {
+  "original": "You Are Not So Smart",
+  "author": "David McRaney",
+  "sources": [
+   "Reddit(Gemini 경유)"
+  ],
+  "kinds": [
+   "community"
+  ],
+  "n": 1,
+  "n_kinds": 1,
+  "axes": []
+ }
+]

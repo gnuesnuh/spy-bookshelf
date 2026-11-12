@@ -43,6 +43,16 @@
 - PLAYBOOK 4절 집계(`<slug>.rank.json`)는 아직 수작업이다. 위 메모 파일 + `awards.json` + `community/*.json` + `*.gemini.json`을 읽어 원제 기준으로 묶고 근거 수를 세는 스크립트를 로컬에서 만들 수 있다. 만들지 여부는 사용자와 정한다.
 - 단계 0의 객관식 질문은 로컬 세션에서도 AskUserQuestion으로 한다.
 
-### 시험 4번 (bluff-decision)
-아직 하지 않았다. 새 목록을 만드는 일이고 Gemini 호출(선불 크레딧)이 들어가서, 사용자에게 먼저 확인한다.
-
+### 시험 4번 (bluff-decision) — 완료 (2026-11-13)
+사용자 확인 후 PLAYBOOK 순서대로 만들었다. 축은 요청서대로 '주제: 의사결정'으로 두고 묻지 않았다. (사용자 메모: 단계 0의 객관식 질문은 이번에 새로 정한 절차이고, 지금까지 실제로 물어본 적은 없다.)
+- 읽은 페이지(직접 열어 확인): Five Books 3건(Sebastian Park · Jonah Lehrer 의사결정 · Edouard Mathieu 데이터), Farnam Street 의사결정 심리 목록, Time(Re:Think Decision Making 참가자 추천), Alliance for Decision Education 추천 도서, Annie Duke 블로그(본문 3권만 읽힘). URL은 `data/sources/web/bluff-decision.json`.
+- 못 연 것: Shepherd·bookdna·thegreatestbooks는 WebFetch 403, 로컬 요청으로는 Shepherd 본문이 스크립트 렌더링이라 책 목록이 안 나왔다. 2순위 포커 책의 Shepherd·Five Books(Coren)·Nolan Dalla 근거는 기존 `bluff` 목록의 것을 그대로 썼다.
+- 커뮤니티: `community_fetch.py bluff-decision`(의사결정 검색어 4개) 428건 — 이 축에서는 언급이 얇았다(Thinking in Bets 2스레드 등). 기존 `bluff.json`의 HN 언급과 합쳐 '커뮤니티(HN)' 1곳으로 셌다. Gemini는 새로 부르지 않고 기존 `bluff.gemini.json`을 썼다.
+- 어워드: 소스 캐시에서 후보 제목을 직접 대조(The Black Swan·Misbehaving = FT 경영서 명단, The Drunkard's Walk·Moonwalking with Einstein = Royal Society 후보). `ft_business`는 수상/후보 구분이 안 읽혀 '명단'으로만 적었다.
+- 집계: `data/queries/bluff-decision.rank.json`. 목록 25권 = 기준 1 + 1순위 18(판단·확률) + 2순위 5(포커 논픽션 4, 심리 도전기 1) + 3순위 1(같은 저자).
+- 결과: 국내판 19권(1순위 17/18), 전자책·구독 가능 13권, 미번역 5권 → 목표 충족, 4순위(국내서)까지 내려가지 않았다. 국내판 19권 모두 YES24 원제 일치.
+- 기존 `bluff`와 비교: `bluff`는 포커 책이 12권(실전서 포함)이고 국내판 13권·전자책 8권. `bluff-decision`은 포커 책 4권, 국내판 19권·전자책 13권. 겹치는 책은 기준 도서 포함 14권.
+- 하면서 걸린 것
+  - How to Measure Anything은 YES24에 원제가 같은 다른 저자 책(『측정의 과학』)이 있었다. 저자 대조로 걸러져 '국내판 없음'이 됐다.
+  - 리뷰 요약 재사용이 원제 표기 차이(Superforecasting ↔ Superforecasting: The Art…)와 동시 조회 경합 때문에 안 됐다 → 고쳤다(`build_data._work_key`).
+  - 영상화는 위키데이터 요청 제한(429)으로 이번에도 못 붙였다.

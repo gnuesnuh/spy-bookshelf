@@ -1,0 +1,257 @@
+{
+ "query": "블러프 (의사결정 축)",
+ "title": "『블러프』를 좋아했다면 — 불확실성 속 의사결정 25선",
+ "subtitle": "축: 주제(불확실성 속 의사결정, 운과 실력). 근거: Five Books 3건(Sebastian Park·Jonah Lehrer·Edouard Mathieu), Farnam Street, Time(Re:Think Decision Making), Alliance for Decision Education, Annie Duke, Reddit(Gemini 경유), 커뮤니티(HN), 어워드(FT 경영서·Royal Society) — 종류 5가지(어워드·언론·전문 목록·전문가 추천·커뮤니티). 2순위는 같은 주제의 다른 축(포커 논픽션·심리 도전기), 3순위는 같은 저자.",
+ "books": [
+  [
+   "기준 도서",
+   "",
+   "The Biggest Bluff",
+   "마리아 코니코바",
+   "기준 도서 · Five Books(Sebastian Park, 좋은 결정)",
+   "심리학 박사가 1년 만에 포커 챔피언이 되기까지의 실험기. 운과 실력, 주의력과 감정 통제를 다룬다.",
+   "The Biggest Bluff",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Thinking in Bets",
+   "애니 듀크",
+   "Five Books(Edouard Mathieu, 데이터로 판단하기) · Alliance for Decision Education 추천 도서 · Reddit(Gemini 경유) · 커뮤니티(HN) (4곳)",
+   "포커 챔피언 출신 저자가 '결정의 질과 결과의 질은 다르다'는 생각을 풀어 쓴 책. 『블러프』가 체험으로 보여 준 것을 원리로 정리한 쪽.",
+   "Thinking in Bets",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Superforecasting: The Art and Science of Prediction",
+   "필립 E. 테틀록|필립 테틀록",
+   "Five Books(Edouard Mathieu, 데이터로 판단하기) · Annie Duke 추천 · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (4곳)",
+   "예측을 잘하는 사람들이 불확실한 정보를 어떻게 확률로 다루는지 추적한 연구. 운과 실력을 가르는 훈련이라는 점에서 이어진다.",
+   "Superforecasting",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Thinking, Fast and Slow",
+   "대니얼 카너먼",
+   "Farnam Street 의사결정 심리 목록 · Alliance for Decision Education 추천 도서 · Reddit(Gemini 경유) · 커뮤니티(HN) (4곳)",
+   "판단을 흐리는 직관과 편향의 지도. 『블러프』가 포커 테이블에서 마주친 인지 함정들의 원전에 해당한다.",
+   "Thinking, Fast and Slow",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Nudge",
+   "리처드 탈러|리처드 H. 탈러|리처드 세일러",
+   "Farnam Street 의사결정 심리 목록 · Time·Re:Think Decision Making 참가자 추천 · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (4곳)",
+   "사람이 실제로 어떻게 선택하는지에서 출발해 더 나은 선택을 돕는 설계를 다룬다.",
+   "Nudge",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Noise: A Flaw in Human Judgment",
+   "대니얼 카너먼",
+   "Five Books(Sebastian Park, 좋은 결정) · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (3곳)",
+   "같은 사안에 판단이 들쭉날쭉한 '잡음' 문제. 『블러프』와 같은 Five Books 목록(좋은 결정에 관한 책)에 올랐다.",
+   "Noise",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "The Signal and the Noise",
+   "네이트 실버",
+   "Five Books(Edouard Mathieu, 데이터로 판단하기) · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (3곳)",
+   "예측이 왜 틀리는지를 포커·야구·선거 사례로 설명한다. 저자도 포커 플레이어 출신이다.",
+   "The Signal and the Noise",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Predictably Irrational",
+   "댄 애리얼리",
+   "Five Books(Jonah Lehrer, 의사결정) · Farnam Street 의사결정 심리 목록 · Alliance for Decision Education 추천 도서 (3곳)",
+   "사람의 비합리가 일정한 방향으로 반복된다는 것을 실험으로 보여 주는 행동경제학 입문.",
+   "Predictably Irrational",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "The Black Swan",
+   "나심 니콜라스 탈레브",
+   "Farnam Street 의사결정 심리 목록 · 커뮤니티(HN) · FT 올해의 경영서 2007 명단 (3곳)",
+   "확률로 다룰 수 없는 극단적 사건과 사후 설명의 함정. 운을 실력으로 착각하는 문제를 가장 세게 밀어붙인다.",
+   "The Black Swan",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Decisive",
+   "칩 히스",
+   "Time·Re:Think Decision Making 참가자 추천 · Alliance for Decision Education 추천 도서 · 커뮤니티(HN) (3곳)",
+   "선택지를 넓히고 확증 편향을 줄이는 실천 절차를 제시하는 의사결정 실용서.",
+   "Decisive",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "How We Know What Isn't So",
+   "토머스 길로비치|토마스 길로비치",
+   "Five Books(Jonah Lehrer, 의사결정) · Farnam Street 의사결정 심리 목록 · Reddit(Gemini 경유) (3곳)",
+   "우연한 패턴을 실력이나 법칙으로 믿게 되는 이유를 다룬 인지심리 고전.",
+   "How We Know What Isn't So",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "The Drunkard's Walk",
+   "레너드 믈로디노프",
+   "Farnam Street 의사결정 심리 목록 · Alliance for Decision Education 추천 도서 · Royal Society 과학도서상 2009 후보 (3곳)",
+   "일상과 성공에서 우연이 차지하는 몫을 확률의 역사와 함께 풀어 쓴 교양서.",
+   "The Drunkard's Walk",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "How to Measure Anything",
+   "더글러스 허버드|더글러스 W. 허버드|더글라스 허바드",
+   "Farnam Street 의사결정 심리 목록 · Time·Re:Think Decision Making 참가자 추천 · 커뮤니티(HN) (3곳)",
+   "불확실한 것을 확률 구간으로 추정하고 줄여 가는 방법을 다루는 실무서.",
+   "How to Measure Anything",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Fooled by Randomness",
+   "나심 니콜라스 탈레브",
+   "Farnam Street 의사결정 심리 목록 · Alliance for Decision Education 추천 도서 (2곳)",
+   "운을 실력으로 착각하는 문제를 트레이더의 시선으로 다룬다. 『블러프』의 '운과 실력' 질문과 가장 가깝다.",
+   "Fooled by Randomness",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "The Scout Mindset",
+   "줄리아 갈렙|줄리아 갈레프",
+   "Alliance for Decision Education 추천 도서 · Reddit(Gemini 경유) (2곳)",
+   "자기 믿음을 지키려는 태도와 정확히 보려는 태도의 차이. 틀렸음을 받아들이는 훈련이라는 점에서 이어진다.",
+   "The Scout Mindset",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Misbehaving",
+   "리처드 탈러|리처드 H. 탈러|리처드 세일러",
+   "커뮤니티(HN) · FT 올해의 경영서 2015 명단 (2곳)",
+   "행동경제학이 만들어진 과정을 당사자가 회고한 책. 이론보다 이야기 쪽이다.",
+   "Misbehaving",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "Mistakes Were Made (But Not by Me)",
+   "캐럴 태브리스|캐롤 태브리스",
+   "Farnam Street 의사결정 심리 목록 · Reddit(Gemini 경유) (2곳)",
+   "틀린 결정을 인정하지 못하고 정당화하는 심리. 패배 뒤의 자기 점검이라는 『블러프』의 주제와 맞닿는다.",
+   "Mistakes Were Made (But Not by Me)",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "The Paradox of Choice",
+   "배리 슈워츠",
+   "Farnam Street 의사결정 심리 목록 · Time·Re:Think Decision Making 참가자 추천 (2곳)",
+   "선택지가 많을수록 결정이 나빠지고 만족이 줄어드는 이유를 다룬다.",
+   "The Paradox of Choice",
+   ""
+  ],
+  [
+   "[1순위] 판단·확률",
+   "",
+   "But What If We're Wrong?",
+   "척 클로스터먼",
+   "Five Books(Sebastian Park, 좋은 결정)",
+   "지금 확신하는 것이 훗날 틀린 것으로 판명될 가능성을 따져 보는 에세이. 『블러프』와 같은 Five Books 목록에 올랐다.",
+   "But What If We're Wrong?",
+   ""
+  ],
+  [
+   "[2순위] 포커 논픽션",
+   "",
+   "The Biggest Game in Town",
+   "앨 앨버레즈|알 알바레즈",
+   "Shepherd · Five Books(Victoria Coren, 포커) · Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) (4곳)",
+   "1981년 월드시리즈 오브 포커를 취재한 포커 논픽션의 고전. 소재는 같고 결은 르포다.",
+   "The Biggest Game in Town",
+   ""
+  ],
+  [
+   "[2순위] 포커 논픽션",
+   "",
+   "Positively Fifth Street",
+   "제임스 맥매너스",
+   "Shepherd · Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) (3곳)",
+   "취재하러 간 작가가 직접 대회에 뛰어든 기록. '글 쓰는 사람이 포커판에 들어간다'는 형식이 『블러프』와 같다.",
+   "Positively Fifth Street",
+   ""
+  ],
+  [
+   "[2순위] 포커 논픽션",
+   "",
+   "Big Deal",
+   "앤서니 홀든",
+   "Five Books(Victoria Coren, 포커) · Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) (3곳)",
+   "전기 작가가 1년간 프로 포커 선수로 살아 본 기록. 1년 도전기라는 형식의 선배 격.",
+   "Big Deal",
+   ""
+  ],
+  [
+   "[2순위] 포커 논픽션",
+   "",
+   "The Professor, the Banker, and the Suicide King",
+   "마이클 크레이그",
+   "Nolan Dalla 포커 서사 Top10 · Reddit(Gemini 경유) · 커뮤니티(HN) (3곳)",
+   "억만장자 은행가와 최고 프로들의 초고액 승부를 다룬 실화.",
+   "The Professor, the Banker, and the Suicide King",
+   ""
+  ],
+  [
+   "[2순위] 심리 도전기",
+   "",
+   "Moonwalking with Einstein",
+   "조슈아 포어",
+   "Reddit(Gemini 경유) · Royal Society 과학도서상 2012 후보 (2곳)",
+   "기자가 1년간 훈련해 기억력 대회에 나간 기록. 소재는 다르지만 '초보자의 1년 도전 + 심리학'이라는 형식이 같다.",
+   "Moonwalking with Einstein",
+   ""
+  ],
+  [
+   "[3순위] 같은 저자",
+   "",
+   "The Confidence Game",
+   "마리아 코니코바",
+   "Reddit(Gemini 경유) · 커뮤니티(HN) (2곳)",
+   "코니코바의 전작. 사기꾼이 사람의 판단을 어떻게 무너뜨리는지를 다룬다.",
+   "The Confidence Game",
+   ""
+  ]
+ ]
+}

@@ -483,7 +483,7 @@ def enrich(b):
                   or (b["goodreads"] or {}).get("cover") or "")
     if b["id"] in SCREEN:   # scripts/collect_adaptations.py 결과
         b["screen"] = SCREEN[b["id"]]
-    rid = b["id"] if b["id"] in REVIEWS else _review_by_work().get((b.get("original"), b.get("author")))
+    rid = b["id"] if b["id"] in REVIEWS else _review_by_work().get(_work_key(b.get("original"), b.get("author")))
     if rid in REVIEWS:  # scripts/summarize_reviews.py 결과. 다른 목록에서 이미 요약한 같은 책이면 그것을 쓴다
         b["review"] = REVIEWS[rid]
         b.pop("reviewCount", None)
@@ -521,6 +521,14 @@ def review_count(book_id):
         return None
 
 
+def _work_key(original, author):
+    """같은 책인지 가리는 열쇠: 부제 뺀 원제 + 첫 번째 저자 표기의 성. (Superforecasting ↔ Superforecasting: The Art…)"""
+    o = original or ""
+    main = matching.jn(o) if matching.is_ja(o) else matching.en(re.split(r"[:(]", o)[0])
+    first = (author or "").split("|")[0].split()
+    return (main or o, norm(first[-1]) if first else "")
+
+
 _RBW = None
 
 
@@ -528,14 +536,15 @@ def _review_by_work():
     """(원제, 저자) → 리뷰를 수집해 둔 책 id. 같은 책이 여러 목록에 나올 때 요약을 다시 만들지 않기 위한 색인."""
     global _RBW
     if _RBW is None:
-        _RBW = {}
+        idx = {}   # 여러 권을 동시에 조회하므로, 다 만든 뒤에 한 번에 넘긴다
         for f in sorted((DATA / "reviews").glob("*.json")):
             try:
                 d = json.loads(f.read_text(encoding="utf-8"))
             except ValueError:
                 continue
             if d.get("id") in REVIEWS:
-                _RBW.setdefault((d.get("original"), d.get("author")), d["id"])
+                idx.setdefault(_work_key(d.get("original"), d.get("author")), d["id"])
+        _RBW = idx
     return _RBW
 
 

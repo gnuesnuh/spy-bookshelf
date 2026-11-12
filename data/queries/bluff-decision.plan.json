@@ -1,0 +1,107 @@
+{
+ "slug": "bluff-decision",
+ "chosen": [
+  "주제"
+ ],
+ "terms": [
+  "decision making under uncertainty",
+  "luck versus skill",
+  "probabilistic thinking",
+  "cognitive biases and judgment"
+ ],
+ "plan": [
+  {
+   "kind": "expert",
+   "name": "Shepherd 유사 도서",
+   "search": "shepherd.com books like \"The Biggest Bluff\""
+  },
+  {
+   "kind": "expert",
+   "name": "원저자 추천 도서",
+   "search": "Maria Konnikova recommended books interview",
+   "skipped": "Konnikova의 추천 인터뷰 없음(Five Books 인물 페이지 확인: 본인 책만)"
+  },
+  {
+   "kind": "expert",
+   "name": "Five Books (decision making under uncertainty)",
+   "search": "fivebooks.com best books decision making under uncertainty"
+  },
+  {
+   "kind": "press",
+   "name": "언론 추천 목록 (decision making under uncertainty)",
+   "search": "best books decision making under uncertainty Guardian OR NYT OR Economist OR FT",
+   "skipped": "검색 결과에 언론 결산 목록 없음(블로그·요약 사이트만) — 언론 소스 공백"
+  },
+  {
+   "kind": "list",
+   "name": "Goodreads 목록 (decision making under uncertainty)",
+   "search": "goodreads list decision making under uncertainty"
+  },
+  {
+   "kind": "expert",
+   "name": "Five Books (luck versus skill)",
+   "search": "fivebooks.com best books luck versus skill"
+  },
+  {
+   "kind": "press",
+   "name": "언론 추천 목록 (luck versus skill)",
+   "search": "best books luck versus skill Guardian OR NYT OR Economist OR FT",
+   "skipped": "검색 결과에 언론 결산 목록 없음(블로그·요약 사이트만) — 언론 소스 공백"
+  },
+  {
+   "kind": "list",
+   "name": "Goodreads 목록 (luck versus skill)",
+   "search": "goodreads list luck versus skill"
+  },
+  {
+   "kind": "expert",
+   "name": "Five Books (probabilistic thinking)",
+   "search": "fivebooks.com best books probabilistic thinking",
+   "note": "Edouard Mathieu 인터뷰 사용"
+  },
+  {
+   "kind": "press",
+   "name": "언론 추천 목록 (probabilistic thinking)",
+   "search": "best books probabilistic thinking Guardian OR NYT OR Economist OR FT",
+   "skipped": "검색 결과에 언론 결산 목록 없음(블로그·요약 사이트만) — 언론 소스 공백"
+  },
+  {
+   "kind": "list",
+   "name": "Goodreads 목록 (probabilistic thinking)",
+   "search": "goodreads list probabilistic thinking"
+  },
+  {
+   "kind": "expert",
+   "name": "Five Books (cognitive biases and judgment)",
+   "search": "fivebooks.com best books cognitive biases and judgment"
+  },
+  {
+   "kind": "press",
+   "name": "언론 추천 목록 (cognitive biases and judgment)",
+   "search": "best books cognitive biases and judgment Guardian OR NYT OR Economist OR FT",
+   "skipped": "검색 결과에 언론 결산 목록 없음(블로그·요약 사이트만) — 언론 소스 공백"
+  },
+  {
+   "kind": "list",
+   "name": "Goodreads 목록 (cognitive biases and judgment)",
+   "search": "goodreads list cognitive biases and judgment"
+  },
+  {
+   "kind": "award",
+   "name": "어워드 축",
+   "cmd": "python scripts/award_candidates.py bluff-decision --seed \"The Biggest Bluff\"",
+   "fallback": "python scripts/award_candidates.py bluff-decision --genre nonfiction",
+   "skipped": "--seed 실패(어워드에 없는 책) → fallback --genre business 실행"
+  },
+  {
+   "kind": "community",
+   "name": "HN·Discourse·Lemmy",
+   "cmd": "python scripts/community_fetch.py bluff-decision \"The Biggest Bluff\" \"decision making under uncertainty\" \"luck versus skill\" \"probabilistic thinking\" \"cognitive biases and judgment\""
+  },
+  {
+   "kind": "community",
+   "name": "Reddit(Gemini 경유)",
+   "cmd": "python scripts/gemini_candidates.py bluff-decision \"The Biggest Bluff (Maria Konnikova) — liked for: decision making under uncertainty, luck versus skill, probabilistic thinking, cognitive biases and judgment\""
+  }
+ ]
+}

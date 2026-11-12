@@ -1,0 +1,17 @@
+{
+ "_doc": "축(axis)별로 실행할 검색 템플릿. {term}=axes.json의 search_terms 각각, {orig}=원제, {author}=원저자. plan_sources.py 가 읽는다.",
+ "common": [
+  {"kind": "expert", "name": "Shepherd 유사 도서", "q": "shepherd.com books like \"{orig}\""},
+  {"kind": "expert", "name": "원저자 추천 도서", "q": "{author} recommended books interview"}
+ ],
+ "per_term": [
+  {"kind": "expert", "name": "Five Books", "q": "fivebooks.com best books {term}"},
+  {"kind": "press", "name": "언론 추천 목록", "q": "best books {term} Guardian OR NYT OR Economist OR FT"},
+  {"kind": "list", "name": "Goodreads 목록", "q": "goodreads list {term}"}
+ ],
+ "scripts": [
+  {"kind": "award", "name": "어워드 축", "cmd": "python scripts/award_candidates.py {slug} --seed \"{orig}\"", "fallback": "python scripts/award_candidates.py {slug} --genre {genre}"},
+  {"kind": "community", "name": "HN·Discourse·Lemmy", "cmd": "python scripts/community_fetch.py {slug} \"{orig}\" {terms_quoted}"},
+  {"kind": "community", "name": "Reddit(Gemini 경유)", "cmd": "python scripts/gemini_candidates.py {slug} \"{orig} by {author} ({terms_comma})\"", "note": "시드 형식 고정: '원제 by 저자 (키워드, …)'. 대시·긴 문장형 시드는 후보 0권이 나왔다(2026-11-13)"}
+ ]
+}
