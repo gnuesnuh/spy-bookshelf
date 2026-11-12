@@ -159,7 +159,25 @@
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441985458i/1972._SX240_.jpg",
    "untranslated": true,
-   "reviewCount": 15
+   "review": {
+    "text": "마이클 밀켄과 내부자 거래 스캔들을 방대한 자료로 재구성한 금융 범죄 실화로, 흥미진진하게 읽힌다는 평이 많다. 금융위기 이후에 읽으니 당시의 충격이 오히려 작게 느껴진다는 반응도 있다. 자료가 너무 촘촘해 읽기 무겁다는 불만과, 지금은 역사 기록으로 읽힌다는 평이 함께 나온다.",
+    "pros": [
+     "1980년대 월가 스캔들의 상세한 기록",
+     "범죄 실화다운 재미"
+    ],
+    "cons": [
+     "자료가 지나치게 촘촘해 무거움",
+     "시대가 지나 역사서처럼 읽힘"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "6b74d1727444ee2db5a00467c3ffc2ae",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "미번역 명작",
@@ -220,7 +238,25 @@
    },
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382356059i/100788._SX240_.jpg",
    "untranslated": true,
-   "reviewCount": 15
+   "review": {
+    "text": "드렉셀과 밀켄이 정크본드 시장을 만들고 적대적 인수 붐을 일으킨 과정을 가장 상세하게 다룬 책이라는 평이다. 금융업에 관심 있는 독자에게는 필독서로 꼽힌다. 반면 인물보다 거래 구조에 집중해 몰입이 어렵고 읽는 데 오래 걸린다는 반응이 있으며, 『Den of Thieves』를 대신 권하는 독자도 있다.",
+    "pros": [
+     "정크본드·적대적 인수의 상세한 역사",
+     "금융업 지망자 필독서라는 평"
+    ],
+    "cons": [
+     "거래 설명 위주라 몰입이 어려움",
+     "읽는 데 오래 걸림"
+    ],
+    "domestic": "",
+    "sources": {
+     "goodreads": 15,
+     "ridi": 0,
+     "yes24": 0
+    },
+    "hash": "4cbf4d1247e54aa2d536116446a2be81",
+    "by": "Claude(세션 내 요약)"
+   }
   },
   {
    "category": "월가 딜·내부자 서사",
