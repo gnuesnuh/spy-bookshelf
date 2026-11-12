@@ -455,8 +455,9 @@ def enrich(b):
                   or (b["goodreads"] or {}).get("cover") or "")
     if b["id"] in SCREEN:   # scripts/collect_adaptations.py 결과
         b["screen"] = SCREEN[b["id"]]
-    if b["id"] in REVIEWS:  # scripts/summarize_reviews.py 결과
-        b["review"] = REVIEWS[b["id"]]
+    rid = b["id"] if b["id"] in REVIEWS else _review_by_work().get((b.get("original"), b.get("author")))
+    if rid in REVIEWS:  # scripts/summarize_reviews.py 결과. 다른 목록에서 이미 요약한 같은 책이면 그것을 쓴다
+        b["review"] = REVIEWS[rid]
     return dict(title=b["title"], author=b["author"], original=b["original"], cand=cand,
                 result={k2: v["status"] + ("|" + v.get("matched", "") if v.get("matched") else "")
                         for k2, v in stores.items()})
@@ -474,6 +475,24 @@ def enrich_all(books, on_done=None, workers=6):
     with ThreadPoolExecutor(max_workers=workers) as ex:
         list(ex.map(work, range(len(books))))
     return reports
+
+
+_RBW = None
+
+
+def _review_by_work():
+    """(원제, 저자) → 리뷰를 수집해 둔 책 id. 같은 책이 여러 목록에 나올 때 요약을 다시 만들지 않기 위한 색인."""
+    global _RBW
+    if _RBW is None:
+        _RBW = {}
+        for f in sorted((DATA / "reviews").glob("*.json")):
+            try:
+                d = json.loads(f.read_text(encoding="utf-8"))
+            except ValueError:
+                continue
+            if d.get("id") in REVIEWS:
+                _RBW.setdefault((d.get("original"), d.get("author")), d["id"])
+    return _RBW
 
 
 def list_path(slug):

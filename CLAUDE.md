@@ -54,8 +54,11 @@ YES24 이용 정책: 화면에 YES24 출처 표기 + 상품 링크 연결. **전
 ## 명령
 ```
 python scripts/sources_ja.py [--refresh]            # 일본 랭킹(このミス·週刊文春·本屋大賞) → data/sources/ja/*.json (소스 캐시)
-python scripts/build_ja_list.py <slug> [시작 끝] [--top 30] [--sources konomys,bunshun,honya]
-                                                    # 소스 캐시 집계 → data/queries/<slug>.json + <slug>.unresolved.json
+python scripts/build_ja_list.py <slug> --seed "흑뢰성" [--genre mystery] [--top 25]
+                                                    # 제목 질의: 기준 도서와 함께 랭킹에 오른 작품·같은 작가·비슷한 시기 상위작
+python scripts/build_ja_list.py <slug> --genre mystery|fiction|all [시작 끝] [--top 30]
+                                                    # 장르 질의: 해당 장르 랭킹의 점수 상위작
+                                                    # 둘 다 data/queries/<slug>.json + <slug>.unresolved.json 을 만든다
 python scripts/build_data.py [--refresh]            # 기준 시트 → data/books.json + data/lists.js
 python scripts/build_query.py <slug> [--list]       # data/queries/<slug>.json → <slug>.result.json + lists.js + 추천_<질의>.xlsx
                                                     #   --list: 목록만 먼저 올림(입점 칸은 웹앱에서 '조회 중')
