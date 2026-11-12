@@ -1,4 +1,8 @@
 {
+ "slug": "spy",
+ "query": "스파이 소설·스릴러",
+ "title": "스파이 소설 & 논픽션 명작 + 확장 장르 추천",
+ "subtitle": "기준 시트(레딧 r/books 추천, CWA 대거상, 텔레그래프 역대 최고 20 등)의 65권",
  "updated": "2026-11-13",
  "books": [
   {
@@ -49,9 +53,9 @@
      "rating": 9.6,
      "sheet": "YES24 가능",
      "paper": {
-      "status": "일시품절",
-      "url": "https://www.yes24.com/product/goods/384052",
-      "matched": "자칼의 날"
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/2120025",
+      "matched": "자칼의 날 1"
      }
     }
    },
@@ -60,11 +64,57 @@
     "author": "Frederick Forsyth",
     "rating": 4.27,
     "count": 150315,
+    "work": "1792180",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405364996i/540020._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/540020.The_Day_of_the_Jackal"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "자칼의 날 1",
+    "original": "The Day of the Jackal",
+    "publisher": "국일미디어",
+    "date": "2006",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/1148000439/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "자칼의 날",
+      "original": "The Day of the Jackal",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w185/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+      "url": "https://www.themoviedb.org/movie/4909",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "movie",
+      "title": "자칼",
+      "original": "The Jackal",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w185/oXF26QmDEaRaH9Fbhs3NXtcnryx.jpg",
+      "url": "https://www.themoviedb.org/movie/4824",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "tv",
+      "title": "데이 오브 더 자칼",
+      "original": "The Day of the Jackal",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w185/9cF0z0kd01sDO86Q4r2jdn97XVg.jpg",
+      "url": "https://www.themoviedb.org/tv/222766",
+      "watch": [
+       "wavve"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "암살범과 추적자가 맞붙는 과정을 치밀한 세부 묘사로 그려 몰입감과 긴장감이 뛰어나다는 평이 많고, 결말을 알아도 끝까지 읽힌다는 반응이 있다. 반면 인물 묘사가 얕고 감정적 울림이 약하며 등장인물이 많아 산만하다는 아쉬움도 나온다.",
     "pros": [
@@ -145,11 +195,47 @@
     "author": "John le Carré",
     "rating": 4.06,
     "count": 111652,
+    "work": "2491780",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349070201i/10073506._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "팅커, 테일러, 솔저, 스파이",
+    "original": "Tinker, Tailor, Soldier, Spy",
+    "publisher": "열린책들",
+    "date": "2005",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/1242000899/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "Tinker Tailor Soldier Spy",
+      "original": "Tinker Tailor Soldier Spy",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w185/3HlMztiMrTnhU1u807MGUizEXxH.jpg",
+      "url": "https://www.themoviedb.org/tv/35430",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "movie",
+      "title": "팅커 테일러 솔저 스파이",
+      "original": "Tinker Tailor Soldier Spy",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w185/tINy5ptSurJXK7s1ye4CwPCoLqM.jpg",
+      "url": "https://www.themoviedb.org/movie/49517",
+      "watch": [
+       "Watcha"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "남아 있는 후기는 모두 국내 독자의 것으로, 소설 자체는 흥미롭고 명작이라는 점은 인정하지만 번역 품질에 대한 불만이 압도적이다. 직역투와 원어를 그대로 옮긴 표현이 많아 문장을 알아듣기 어렵다는 지적이 반복된다.",
     "pros": [],
@@ -226,11 +312,35 @@
     "author": "John le Carré",
     "rating": 4.09,
     "count": 136005,
+    "work": "1177001",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327719782i/19494._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/19494.The_Spy_Who_Came_In_from_the_Cold"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "추운 나라에서 돌아온 스파이",
+    "original": "The Spy Who Came in from the Cold",
+    "publisher": "열린책들",
+    "date": "2009",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/1242000894/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "추운 곳에서 온 스파이",
+      "original": "The Spy Who Came In from the Cold",
+      "year": 1965,
+      "poster": "https://image.tmdb.org/t/p/w185/lN3PWv6cW22mqXDcgGZgK1Aa2gh.jpg",
+      "url": "https://www.themoviedb.org/movie/13580",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "냉전기 스파이 세계의 냉혹함과 도덕적 모호함을 그린 고전으로, 영리한 플롯과 반전, 심리 묘사가 큰 찬사를 받습니다. 화려한 액션을 기대하면 맞지 않고 지루하다는 소수 의견도 있습니다.",
     "pros": [
@@ -312,11 +422,47 @@
     "author": "John le Carré",
     "rating": 3.85,
     "count": 25416,
+    "work": "79985",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348724026i/1735330._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/1735330.The_Night_Manager"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "나이트 매니저 1",
+    "original": "THE NIGHT MANAGER",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2016",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/510000431/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "나이트 매니저",
+      "original": "The Night Manager",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w185/AsvwyjA0sYXmfvqk3bv7fEINlZc.jpg",
+      "url": "https://www.themoviedb.org/tv/61859",
+      "watch": [
+       "Amazon Prime Video"
+      ],
+      "source": "wikidata"
+     },
+     {
+      "kind": "tv",
+      "title": "द नाइट मैनेजर",
+      "original": "द नाइट मैनेजर",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w185/1anVoLwguecmFqsNx0Ic8cIzmuW.jpg",
+      "url": "https://www.themoviedb.org/tv/218953",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "호텔 야간 지배인이 무기 밀매 조직에 잠입하는 설정과 문장력은 인정받지만 평가가 갈린다. 인물과 냉전 이후 정세 묘사가 좋다는 호평과, 지나치게 공들여 써서 전개가 느리고 읽기 힘들었다는 불만이 함께 나온다. 드라마를 계기로 읽은 독자가 많다.",
     "pros": [
@@ -398,11 +544,45 @@
     "author": "John le Carré",
     "rating": 4.3,
     "count": 43536,
+    "work": "2144486",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348407722i/18999._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/18999.Smiley_s_People"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "스마일리의 사람들",
+    "original": "Smiley's People",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2013",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/510000391/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "Smiley's People",
+      "original": "",
+      "year": 1982,
+      "poster": "",
+      "url": "http://www.wikidata.org/entity/Q4000816",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "tv",
+      "title": "Smiley's People",
+      "original": "Smiley's People",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w185/aGNRfWcIjIlVJfHsIgSfH7ZcMSq.jpg",
+      "url": "https://www.themoviedb.org/tv/20053",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "카를라 3부작의 만족스러운 결말이라는 평이 압도적이다. 스마일리와 작가의 지적인 면모, 인물을 깊이 알게 하는 느린 호흡, 앞선 두 권보다 빠른 도입부가 호평받는다. 앞 권들을 먼저 읽어야 제대로 즐길 수 있고 줄거리가 복잡하다는 점은 감안해야 한다.",
     "pros": [
@@ -483,11 +663,24 @@
     "author": "John le Carré",
     "rating": 3.83,
     "count": 24493,
+    "work": "67011206",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562590175i/43904017._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/43904017-agent-running-in-the-field"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "에이전트 러너",
+    "original": "Agent running in the field ",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/510001161/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "여든여덟에 쓴 작품인데도 르 카레다운 화자의 목소리와 시의성 있는 소재가 살아 있다는 호평이 많다. 초반은 느리지만 중반부터 몰입된다는 반응이 반복된다. 반면 지루하고 무의미했다는 혹평도 있어 오랜 팬에게 더 맞는 책이라는 평이다.",
     "pros": [
@@ -568,11 +761,38 @@
     "author": "Mick Herron",
     "rating": 4.05,
     "count": 99032,
+    "work": "11252875",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700520011i/56534999._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/56534999-slow-horses"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "슬로 호시스",
+    "original": "Slow Horses",
+    "publisher": "비채",
+    "date": "2026",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/1570000341/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "'슬로 호시스' - Slow Horses",
+      "original": "Slow Horses",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w185/q2euJL6499Xuw7IBi207aKxOesn.jpg",
+      "url": "https://www.themoviedb.org/tv/95480",
+      "watch": [
+       "Apple TV",
+       "TVING"
+      ],
+      "source": "tmdb"
+     }
+    ]
+   },
    "review": {
     "text": "망가진 MI5 요원들의 좌천지 슬라우 하우스를 배경으로 한 블랙 유머와 영국식 풍자, 개성 강한 캐릭터가 호평을 받는다. 초반 전개가 느리고 인물 소개에 시간이 걸리며 플롯이 다소 복잡하다는 불만이 있고, 문체가 지나치게 꾸며졌다는 평도 소수 있다.",
     "pros": [
@@ -632,9 +852,10 @@
     "yes24": {
      "status": "no",
      "source": "api",
-     "note": "검색 결과 없음",
+     "note": "연결된 eBook은 절판·판매 종료",
      "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%A0%88%EB%93%9C%20%EC%8A%A4%ED%8C%A8%EB%A1%9C%EC%9A%B0",
      "sheet": "YES24 가능",
+     "bookRating": 9.3,
      "paper": {
       "status": "절판",
       "url": "https://www.yes24.com/product/goods/23157812",
@@ -647,11 +868,37 @@
     "author": "Jason  Matthews",
     "rating": 3.95,
     "count": 59894,
+    "work": "21526451",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361806944i/15803037._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/15803037-red-sparrow"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "레드 스패로우 1",
+    "original": "RED SPARROW",
+    "publisher": "오픈하우스",
+    "date": "2015",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://image.yes24.com/goods/23157812/L",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "레드 스패로",
+      "original": "Red Sparrow",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w185/gEguR1qDAlEHfKhhYH9asgvsUBn.jpg",
+      "url": "https://www.themoviedb.org/movie/401981",
+      "watch": [
+       "Disney Plus"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "전직 CIA 요원이 쓴 만큼 첩보 실무 묘사가 상세하고 냉전식 심리전이 긴장감 있다는 호평이 있다. 반면 노골적인 성·폭력 묘사, 불필요하게 장황한 서술, 친미적 성향과 평면적 인물에 대한 불만이 크고 일부는 지루해서 중도에 포기했다고 한다.",
     "pros": [
@@ -720,8 +967,8 @@
      "rating": 8.9,
      "sheet": "YES24 가능",
      "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/58869467",
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/180251",
       "matched": "바늘구멍"
      }
     }
@@ -731,11 +978,35 @@
     "author": "Ken Follett",
     "rating": 4.22,
     "count": 175424,
+    "work": "395229",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327939511i/92364._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/92364.Eye_of_the_Needle"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "바늘구멍",
+    "original": "Eye Of The Needle",
+    "publisher": "예하출판",
+    "date": "1994",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/371002164/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "바늘구멍",
+      "original": "Eye of the Needle",
+      "year": 1981,
+      "poster": "https://image.tmdb.org/t/p/w185/nDPnfXCuh280WHPk7xTfG7cDlAh.jpg",
+      "url": "https://www.themoviedb.org/movie/10863",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "D-데이를 앞두고 독일 스파이를 쫓는 추격과 서스펜스가 빠르고 몰입감 있다는 평이 압도적이다. 냉혹한 악역과 섬에서 맞서는 여성 인물이 매력적이라는 의견도 많다. 일부는 진부하고 예측 가능하다고 보며 문학성은 높지 않다는 평도 있다.",
     "pros": [
@@ -814,11 +1085,35 @@
     "author": "Viet Thanh Nguyen",
     "rating": 4.0,
     "count": 146006,
+    "work": "42713530",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718982183i/23168277._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/23168277-the-sympathizer"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "동조자",
+    "original": "The Sympathizer",
+    "publisher": "민음사",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/509001826/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "동조자",
+      "original": "The Sympathizer",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w185/fOU9AuAIVxyFHyUi1vftXEkO7v7.jpg",
+      "url": "https://www.themoviedb.org/tv/129398",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "베트남전을 미국이 아닌 베트남 사람의 시선, 그것도 이중간첩이자 혼혈인 화자의 시선으로 그려낸 점과 유머러스하면서 날카로운 문장이 주로 호평받는다. 다만 풍자 어조가 과하게 느껴지고 고문 장면 등 중반 이후가 부담스럽거나 이중성 주제가 다소 도식적이라는 평도 있다.",
     "pros": [
@@ -862,26 +1157,32 @@
      "status": "no",
      "source": "auto",
      "sheet": "밀리 미입점",
-     "url": "https://www.millie.co.kr/v3/search/result/%EB%A7%88%ED%83%80%EB%A0%88%EC%84%B8%20%EC%84%9C%ED%81%B4"
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%A7%88%ED%83%80%EB%A0%88%EC%A6%88%20%EC%84%9C%ED%81%B4"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "리디 미입점",
-     "url": "https://ridibooks.com/search?q=%EB%A7%88%ED%83%80%EB%A0%88%EC%84%B8%20%EC%84%9C%ED%81%B4"
+     "url": "https://ridibooks.com/search?q=%EB%A7%88%ED%83%80%EB%A0%88%EC%A6%88%20%EC%84%9C%ED%81%B4"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "크레마 미입점",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%A7%88%ED%83%80%EB%A0%88%EC%84%B8%20%EC%84%9C%ED%81%B4"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%A7%88%ED%83%80%EB%A0%88%EC%A6%88%20%EC%84%9C%ED%81%B4"
     },
     "yes24": {
      "status": "no",
      "source": "api",
      "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%A7%88%ED%83%80%EB%A0%88%EC%84%B8%20%EC%84%9C%ED%81%B4",
-     "sheet": "일부 가능"
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%A7%88%ED%83%80%EB%A0%88%EC%A6%88%20%EC%84%9C%ED%81%B4",
+     "sheet": "일부 가능",
+     "bookRating": 9.5,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/5959074",
+      "matched": "마타레즈 서클 1"
+     }
     }
    },
    "goodreads": {
@@ -889,11 +1190,24 @@
     "author": "Robert Ludlum",
     "rating": 4.07,
     "count": 42609,
+    "work": "2254814",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348885108i/31231._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/31231.The_Matarese_Circle"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "마타레즈 서클 1",
+    "original": "The Mataresse Circle",
+    "publisher": "노블마인",
+    "date": "2011",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348885108i/31231._SX240_.jpg",
+   "cover": "https://image.yes24.com/goods/5959074/L",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "미국과 소련의 최고 스파이가 적대감을 접고 손잡는 구도와 쉴 새 없는 속도감, 시간이 지나도 낡지 않는 거대 음모 설정이 좋다는 평이 많다. 반면 세계를 장악한 보이지 않는 조직이라는 설정이 비현실적이고 제임스 본드 같은 구식 스타일이라 취향이 갈린다는 의견도 있다.",
     "pros": [
@@ -964,11 +1278,24 @@
     "author": "Tom Clancy",
     "rating": 4.11,
     "count": 62827,
+    "work": "17028815",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319381380i/382549._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/382549.The_Cardinal_of_the_Kremlin"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319381380i/382549._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "냉전 말기의 분위기와 첨단 무기, 소련 고위층에 심은 스파이를 빼내는 고전적 첩보 구도가 재미있다는 평이 많고, 클라크라는 인물을 매력으로 꼽는 독자가 많다. 다만 분량이 길어 늘어지고 등장인물이 많으며 시대에 뒤처진 시각이 거슬린다는 불만이 반복된다.",
     "pros": [
@@ -1013,26 +1340,27 @@
      "status": "no",
      "source": "auto",
      "sheet": "밀리 미입점",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%B4%9D%20%ED%8C%8C%EB%8A%94%20%EB%82%A8%EC%9E%90"
+     "url": "https://www.millie.co.kr/v3/search/result/%EA%B1%B4%20%EC%85%80%EB%9F%AC"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "리디셀렉트 가능",
-     "url": "https://ridibooks.com/search?q=%EC%B4%9D%20%ED%8C%8C%EB%8A%94%20%EB%82%A8%EC%9E%90"
+     "url": "https://ridibooks.com/search?q=%EA%B1%B4%20%EC%85%80%EB%9F%AC"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "크레마 미입점",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%B4%9D%20%ED%8C%8C%EB%8A%94%20%EB%82%A8%EC%9E%90"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EA%B1%B4%20%EC%85%80%EB%9F%AC"
     },
     "yes24": {
      "status": "no",
      "source": "api",
      "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%B4%9D%20%ED%8C%8C%EB%8A%94%20%EB%82%A8%EC%9E%90",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EA%B1%B4%20%EC%85%80%EB%9F%AC",
      "sheet": "YES24 가능",
+     "bookRating": 7,
      "paper": {
       "status": "절판",
       "url": "https://www.yes24.com/product/goods/4517555",
@@ -1045,11 +1373,24 @@
     "author": "Hugh Laurie",
     "rating": 3.67,
     "count": 24467,
+    "work": "1128909",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480110444i/45234._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/45234.The_Gun_Seller"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "건 셀러",
+    "original": "The Gun Seller",
+    "publisher": "가우디",
+    "date": "2011",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://image.yes24.com/goods/4517555/L",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "배우 휴 로리 특유의 냉소적이고 재치 넘치는 문체와 자조적인 화자가 큰 인기로, 스파이물 패러디이자 스릴러로 즐겁게 읽는다는 평이 많다. 반면 모든 문장을 재치 있게 쓰려다 전개가 느슨해지고 배신과 이중 배신이 얽혀 줄거리가 혼란스럽다는 지적이 있다.",
     "pros": [
@@ -1120,11 +1461,24 @@
     "author": "Trevanian",
     "rating": 4.17,
     "count": 20567,
+    "work": "1326919",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388187747i/1059._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/1059.Shibumi"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388187747i/1059._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "슈퍼 암살자 니콜라이 헬의 과장된 매력과 일본 문화, 바둑, 바스크 지방에 이르는 폭넓은 배경, 미국식 영웅담을 비트는 풍자가 즐겁다는 평이 있다. 하지만 주인공이 지나치게 비현실적이고 후반부 전개가 늘어지며 유치하다고 느끼는 독자도 많아 평가가 크게 갈린다.",
     "pros": [
@@ -1195,11 +1549,24 @@
     "author": "Daniel Silva",
     "rating": 3.99,
     "count": 105035,
+    "work": "2153394",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391616227i/93794._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/93794.The_Kill_Artist"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391616227i/93794._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "이스라엘 요원이자 미술 복원가라는 주인공의 설정과 팔레스타인 갈등 배경, 빠른 전개의 첩보 서사가 재미있다는 평이 있고, 시리즈를 이어 읽고 싶다는 독자도 많다. 반면 평범한 장르물이라는 인상과 납작한 인물, 지나치게 빠른 시점 전환 때문에 몰입이 어렵다는 불만도 반복된다.",
     "pros": [
@@ -1281,11 +1648,45 @@
     "author": "Graham Greene",
     "rating": 3.98,
     "count": 76339,
+    "work": "1469913",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753926448i/3698._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/3698.The_Quiet_American"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "조용한 미국인",
+    "original": "THE QUIET AMERICAN",
+    "publisher": "민음사",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/509001822/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "콰이어트 아메리칸",
+      "original": "The Quiet American",
+      "year": 1958,
+      "poster": "https://image.tmdb.org/t/p/w185/67Ks7m063DsocmWmo2DyTSuFXZr.jpg",
+      "url": "https://www.themoviedb.org/movie/85514",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "movie",
+      "title": "콰이어트 아메리칸",
+      "original": "The Quiet American",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w185/nLooNNrvzpf49G7HsB9siQT4036.jpg",
+      "url": "https://www.themoviedb.org/movie/8198",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "순수한 선의가 낳는 파국을 영국 기자와 미국인 관찰자를 통해 보여주며, 훗날 베트남전을 예견한 듯한 통찰과 절제된 문장이 뛰어나다는 극찬이 압도적이다. 일부 독자는 냉소적이고 우울한 화자의 잠언 같은 문장과 태도가 거슬린다고 느낀다.",
     "pros": [
@@ -1366,11 +1767,35 @@
     "author": "Graham Greene",
     "rating": 3.94,
     "count": 43957,
+    "work": "1912267",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753926525i/133394._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/133394.Our_Man_in_Havana"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "아바나의 우리 사람",
+    "original": "Our Man in Havana",
+    "publisher": "열린책들",
+    "date": "2025",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/1242001314/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "하바나의 사나이",
+      "original": "Our Man in Havana",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w185/6R6zIKywC8rNo6fT1YBDeEAUmEb.jpg",
+      "url": "https://www.themoviedb.org/movie/25495",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "진공청소기 판매원이 돈을 위해 가짜 정보원을 꾸며내는 블랙코미디로, 영국 정보부를 비꼬는 풍자와 유쾌한 전개가 호평을 받는다. 한편 그린의 무게 있는 작품을 기대하면 가볍게 느껴지고, 이야기가 표면에만 머물러 비슷한 장면이 반복된다는 아쉬움도 있다.",
     "pros": [
@@ -1445,9 +1870,9 @@
      "rating": 10,
      "sheet": "YES24 가능",
      "paper": {
-      "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/103291149",
-      "matched": "39계단 큰글씨책"
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/3539653",
+      "matched": "39계단"
      }
     }
    },
@@ -1456,11 +1881,70 @@
     "author": "John Buchan",
     "rating": 3.59,
     "count": 49667,
+    "work": "2422487",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391320797i/153492._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/153492.The_39_Steps"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "39계단",
+    "original": "The 39 Steps",
+    "publisher": "문예출판사",
+    "date": "2009",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/805031138/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "39 계단",
+      "original": "The 39 Steps",
+      "year": 1935,
+      "poster": "https://image.tmdb.org/t/p/w185/oC81jK6aAug4MA0xzYVngHmjsZS.jpg",
+      "url": "https://www.themoviedb.org/movie/260",
+      "watch": [
+       "wavve",
+       "Watcha",
+       "TVING",
+       "Artiflix"
+      ],
+      "source": "wikidata"
+     },
+     {
+      "kind": "movie",
+      "title": "The 39 Steps",
+      "original": "The 39 Steps",
+      "year": 1959,
+      "poster": "https://image.tmdb.org/t/p/w185/4W6uCqZK8X2JSmq3iD5sboJO8XP.jpg",
+      "url": "https://www.themoviedb.org/movie/25386",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "movie",
+      "title": "The Thirty Nine Steps",
+      "original": "The Thirty Nine Steps",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w185/pnUMLpPoce6wslljzhePJQlaEnx.jpg",
+      "url": "https://www.themoviedb.org/movie/60287",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "movie",
+      "title": "39계단",
+      "original": "The 39 Steps",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w185/8N537ufRENaGUEJR0JTrRoK93rR.jpg",
+      "url": "https://www.themoviedb.org/movie/16877",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "도망자 추리 모험물의 원형 격으로 짧은 분량에 쫓고 쫓기는 속도감과 영국식 유머가 살아 있다는 평이 많다. 다만 우연이 지나치게 많고 시대에 뒤처진 표현이 거슬리며, 히치콕 영화판보다 밋밋하다고 느끼는 독자가 많아 평가가 갈린다.",
     "pros": [
@@ -1505,26 +1989,27 @@
      "status": "no",
      "source": "auto",
      "sheet": "밀리 미입점",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%B9%B4%EC%A7%80%EB%85%B8%20%EB%A1%9C%EC%96%84"
+     "url": "https://www.millie.co.kr/v3/search/result/007%20%EC%B9%B4%EC%A7%80%EB%85%B8%20%EB%A1%9C%EC%96%84"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "리디 미입점",
-     "url": "https://ridibooks.com/search?q=%EC%B9%B4%EC%A7%80%EB%85%B8%20%EB%A1%9C%EC%96%84"
+     "url": "https://ridibooks.com/search?q=007%20%EC%B9%B4%EC%A7%80%EB%85%B8%20%EB%A1%9C%EC%96%84"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "크레마 미입점",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%B9%B4%EC%A7%80%EB%85%B8%20%EB%A1%9C%EC%96%84"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=007%20%EC%B9%B4%EC%A7%80%EB%85%B8%20%EB%A1%9C%EC%96%84"
     },
     "yes24": {
      "status": "no",
      "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%B9%B4%EC%A7%80%EB%85%B8%20%EB%A1%9C%EC%96%84",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=007%20%EC%B9%B4%EC%A7%80%EB%85%B8%20%EB%A1%9C%EC%96%84",
      "sheet": "YES24 가능",
+     "bookRating": 6.9,
      "paper": {
       "status": "절판",
       "url": "https://www.yes24.com/product/goods/5222349",
@@ -1537,11 +2022,55 @@
     "author": "Ian Fleming",
     "rating": 3.73,
     "count": 102104,
+    "work": "2503304",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682789243i/3758._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/3758.Casino_Royale"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "007 카지노 로얄",
+    "original": "Casino Royale",
+    "publisher": "뿔(웅진문학에디션)",
+    "date": "2011",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://image.yes24.com/goods/5222349/L",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "Casino Royale",
+      "original": "Casino Royale",
+      "year": 1954,
+      "poster": "https://image.tmdb.org/t/p/w185/7kNicraL9YigHLioQXPBOdbdleW.jpg",
+      "url": "https://www.themoviedb.org/movie/281661",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "movie",
+      "title": "007 카지노 로얄",
+      "original": "Casino Royale",
+      "year": 1967,
+      "poster": "https://image.tmdb.org/t/p/w185/Ah4e2cnzGYvJWgdD3U6qSWQ94mm.jpg",
+      "url": "https://www.themoviedb.org/movie/12208",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "movie",
+      "title": "007 카지노 로얄",
+      "original": "Casino Royale",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w185/2e9maVDTkHXjEB3Bk1oBvZ5Xs0M.jpg",
+      "url": "https://www.themoviedb.org/movie/36557",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "영화 속 슈퍼 영웅과 달리 불안하고 실패도 하는 인간적인 본드와 카지노 대결, 그리고 반전 있는 로맨스가 신선하다는 평이 있다. 하지만 전반부 카드 게임 묘사가 길고 건조하게 느껴지고, 본드의 여성관과 냉혹함이 불편하다는 의견도 꾸준하다.",
     "pros": [
@@ -1585,26 +2114,31 @@
      "status": "no",
      "source": "auto",
      "sheet": "밀리 미입점",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%97%AC%ED%96%89%EC%9E%90"
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%95%84%EC%9D%B4%20%EC%95%B0%20%ED%95%84%EA%B7%B8%EB%A6%BC"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "리디 미입점",
-     "url": "https://ridibooks.com/search?q=%EC%97%AC%ED%96%89%EC%9E%90"
+     "url": "https://ridibooks.com/search?q=%EC%95%84%EC%9D%B4%20%EC%95%B0%20%ED%95%84%EA%B7%B8%EB%A6%BC"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "크레마 미입점",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%97%AC%ED%96%89%EC%9E%90"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%95%84%EC%9D%B4%20%EC%95%B0%20%ED%95%84%EA%B7%B8%EB%A6%BC"
     },
     "yes24": {
      "status": "no",
      "source": "api",
      "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%97%AC%ED%96%89%EC%9E%90",
-     "sheet": "YES24 가능"
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%95%84%EC%9D%B4%20%EC%95%B0%20%ED%95%84%EA%B7%B8%EB%A6%BC",
+     "sheet": "YES24 가능",
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/65298925",
+      "matched": "아이 앰 필그림 1"
+     }
     }
    },
    "goodreads": {
@@ -1612,11 +2146,24 @@
     "author": "Terry Hayes",
     "rating": 4.31,
     "count": 211176,
+    "work": "20434723",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403345411i/18144124._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/18144124-i-am-pilgrim"
    },
+   "korean": {
+    "how": "수동 검수",
+    "title": "아이 앰 필그림",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
    "untranslated": false,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403345411i/18144124._SX240_.jpg",
+   "cover": "https://image.yes24.com/goods/65298925/L",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "방대한 스케일과 인물 묘사, 감정적 여운이 있는 후반부를 들어 최고의 스파이 스릴러라는 극찬이 있는 반면, 우연이 남발되고 문장이 유치하며 곳곳에 성차별과 우익적 시각이 보인다는 혹평도 거의 같은 비중으로 갈린다. 분량이 길고 늘어진다는 점도 공통된 불만이다.",
     "pros": [
@@ -1687,11 +2234,35 @@
     "author": "Len Deighton",
     "rating": 4.07,
     "count": 15611,
+    "work": "3095609",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175120651i/482120._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/482120.Berlin_Game"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175120651i/482120._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "Game, Set, and Match",
+      "original": "Game, Set, and Match",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w185/oBdqyyGSWFjWSp8d2xFeSFaF6wH.jpg",
+      "url": "https://www.themoviedb.org/tv/27771",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "영웅이 아닌 지친 인간으로 그려진 버나드 샘슨과 냉전기 베를린의 분위기, 배신과 불신이 서서히 깊어지는 심리전이 호평받는다. 반면 초반이 매우 느리고 액션이 적으며 전문 용어와 복잡한 줄거리가 부담스럽고, 기대에 못 미친다는 의견도 있다.",
     "pros": [
@@ -1762,11 +2333,35 @@
     "author": "I.S. Berry",
     "rating": 3.7,
     "count": 8129,
+    "work": "98736160",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683135436i/62919887._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/62919887-the-peacock-and-the-sparrow"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683135436i/62919887._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "The Peacock and the Sparrow",
+      "original": "The Peacock and the Sparrow",
+      "year": null,
+      "poster": "https://image.tmdb.org/t/p/w185/mBWZXcNmqyJx2c0ywNST6f1I6wE.jpg",
+      "url": "https://www.themoviedb.org/movie/1649293",
+      "watch": [],
+      "source": "tmdb"
+     }
+    ]
+   },
    "review": {
     "text": "전직 CIA 요원 작가가 그린 바레인의 현지 분위기와 환멸에 찬 스파이의 내면, 시적인 문장이 호평받으며 신인 데뷔작으로 인상적이라는 평이 많다. 반면 호감 가지 않는 냉소적 주인공과 평면적 조연, 약한 긴장감 탓에 지루하다는 반응도 있다.",
     "pros": [
@@ -1837,11 +2432,35 @@
     "author": "Robert Littell",
     "rating": 4.27,
     "count": 6640,
+    "work": "1206943",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330110402i/1218465._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/1218465.The_Company"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330110402i/1218465._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "더 컴퍼니",
+      "original": "The Company",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w185/rxBchxWLVuqjG4kk1IhDAUMghr9.jpg",
+      "url": "https://www.themoviedb.org/tv/5314",
+      "watch": [],
+      "source": "tmdb"
+     }
+    ]
+   },
    "review": {
     "text": "냉전기 CIA의 수십 년 역사를 여러 인물의 삶으로 풀어낸 대작으로, 실제 사건을 배경 삼은 구성과 몰입감 있는 전개가 호평받습니다. 르 카레에 견줄 만한 스파이 서사라는 평도 있습니다. 다만 900쪽에 가까운 분량이 부담스럽고 장르 소설 취향이 아니면 지루하다는 의견도 있습니다.",
     "pros": [
@@ -1910,11 +2529,24 @@
     "author": "David McCloskey",
     "rating": 4.15,
     "count": 28257,
+    "work": "88729204",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613788178i/56769571._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/56769571-damascus-station"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613788178i/56769571._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "전직 CIA 출신 작가가 시리아 내전기의 첩보 활동을 사실적으로 그려 긴장감이 좋다는 평이 많습니다. 총격보다 스파이 기법에 집중한 점도 칭찬받습니다. 반면 주인공이 지나치게 완벽하고 로맨스와 폭력 묘사가 진부하며 인물 깊이가 얕다는 불만이 꽤 있습니다.",
     "pros": [
@@ -1984,11 +2616,24 @@
     "author": "Oliver Harris",
     "rating": 3.84,
     "count": 2981,
+    "work": "67780818",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605205925i/51114592._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/51114592-a-shadow-intelligence"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605205925i/51114592._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "카자흐스탄을 무대로 한 영국 정보부 요원의 이야기로, 문장이 좋고 속도감과 깊이가 있다는 호평이 있습니다. 그러나 정치 상황 설명이 부족하고 등장인물과 세부 정보가 지나치게 많아 따라가기 어렵다는 의견이 반복됩니다. 초반이 느리고 대화가 적어 건조하다는 평도 있습니다.",
     "pros": [
@@ -2058,11 +2703,49 @@
     "author": "Len Deighton",
     "rating": 3.9,
     "count": 18643,
+    "work": "2155765",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295903974i/171624._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/171624.The_Ipcress_File"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295903974i/171624._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "국제 첩보국",
+      "original": "The Ipcress File",
+      "year": 1965,
+      "poster": "https://image.tmdb.org/t/p/w185/iCNRK7NVhBvNpiyMRmCpTBFNoLO.jpg",
+      "url": "https://www.themoviedb.org/movie/15247",
+      "watch": [
+       "Watcha"
+      ],
+      "source": "wikidata"
+     },
+     {
+      "kind": "tv",
+      "title": "더 입크리스 파일: 국제첩보국",
+      "original": "The Ipcress File",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w185/m4Er0o2CuDqbKsJ8zh5va7Ue2TO.jpg",
+      "url": "https://www.themoviedb.org/tv/114926",
+      "watch": [
+       "Watcha"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "냉전 스파이물의 고전으로 노동계급 출신 화자의 냉소적 시선과 반 제임스 본드적 현실감이 좋다는 평이 있습니다. 하지만 줄거리가 뒤엉켜 무슨 일인지 파악하기 어렵고 고전이라는 명성에 못 미친다는 의견이 많이 갈립니다.",
     "pros": [
@@ -2132,11 +2815,24 @@
     "author": "Charles McCarry",
     "rating": 3.89,
     "count": 2508,
+    "work": "1459721",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442590301i/651044._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/651044.The_Miernik_Dossier"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442590301i/651044._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "보고서, 전문, 일기 등 문서 모음 형식으로 구성된 독특한 스파이 소설로 현실감 있고 지적이라는 호평이 많습니다. 결말이 열려 있어 여운이 남는다는 평도 있습니다. 다만 서술 형식에 적응하는 데 시간이 걸리고 다소 건조하다는 의견이 있습니다.",
     "pros": [
@@ -2206,11 +2902,24 @@
     "author": "Norman Mailer",
     "rating": 3.89,
     "count": 2654,
+    "work": "2409551",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541871085i/381365._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/381365.Harlot_s_Ghost"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541871085i/381365._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "냉전기 CIA를 다룬 방대한 대작으로 CIA 내부 세계를 깊이 파고든 점과 풍성한 문장이 높이 평가됩니다. 반면 장황한 심리학적 설명, 지나치게 긴 분량, 끝나지 않는 미완성 결말에 대한 불만이 자주 나옵니다.",
     "pros": [
@@ -2277,8 +2986,20 @@
     }
    },
    "goodreads": null,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
-   "cover": ""
+   "cover": "",
+   "screen": {
+    "status": "ok",
+    "items": []
+   }
   },
   {
    "id": "1-30",
@@ -2329,11 +3050,24 @@
     "author": "Bret Easton Ellis",
     "rating": 3.55,
     "count": 26473,
+    "work": "2115530",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403179508i/9913._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/9913.Glamorama"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403179508i/9913._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "90년대 연예계와 소비문화를 풍자하는 문제작으로, 일부는 인생 소설로 꼽으며 높게 평가합니다. 하지만 초반이 느리고 인물이 혐오스러우며 폭력과 충격 묘사가 과하다는 반응과, 작가가 같은 소재를 반복한다는 지적이 있습니다.",
     "pros": [
@@ -2403,11 +3137,24 @@
     "author": "William  Boyd",
     "rating": 4.0,
     "count": 18370,
+    "work": "215458226",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721713350i/215198466._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/215198466-gabriel-s-moon"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721713350i/215198466._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "콩고 사태를 배경으로 여행 작가가 얼떨결에 스파이가 되는 이야기로, 술술 읽히고 시대 분위기가 좋다는 평이 많습니다. 다만 인물과 줄거리가 가볍고 유치하다는 비판, 주인공의 여성 묘사에 대한 불만이 반복되며 평가가 갈립니다.",
     "pros": [
@@ -2477,11 +3224,24 @@
     "author": "Charles Cumming",
     "rating": 4.1,
     "count": 8568,
+    "work": "75986846",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649964389i/60813289._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/60813289-box-88"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649964389i/60813289._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "영국과 미국의 비밀 조직 소속 첩보원을 다룬 스파이 스릴러로, 과거와 현재를 오가는 구성과 르 카레풍 분위기가 호평받습니다. 반면 설정이 비현실적이고 예측 가능하며 복잡한 조직 관계가 헷갈린다는 의견이 있습니다.",
     "pros": [
@@ -2563,11 +3323,24 @@
     "author": "Ben Macintyre",
     "rating": 4.51,
     "count": 99000,
+    "work": "59145602",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522906662i/37542581._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/37542581-the-spy-and-the-traitor"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "스파이와 배신자",
+    "original": "The Spy and The Traitor",
+    "publisher": "열린책들",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/1242001210/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "냉전 시기 KGB 이중간첩의 실화를 소설처럼 긴박하게 풀어내 몰입도가 높다는 평이 압도적입니다. 작가의 이야기 솜씨와 인간적 시선도 칭찬받습니다. 다만 취재원이 주인공에게 우호적이라 시각이 한쪽으로 기운다는 지적이 있습니다.",
     "pros": [
@@ -2636,11 +3409,24 @@
     "author": "Ben Macintyre",
     "rating": 4.15,
     "count": 21679,
+    "work": "846926",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320497271i/655627._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/655627.Agent_Zigzag"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320497271i/655627._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "범죄자에서 이중간첩이 된 인물의 실화로, 소설보다 기막힌 이야기를 흥미롭게 풀어냈다는 평이 많습니다. 한편 후반으로 갈수록 다소 길고 반복적이며 사건 나열식 서술이 답답하다는 의견도 일부 있습니다.",
     "pros": [
@@ -2709,11 +3495,24 @@
     "author": "David E. Hoffman",
     "rating": 4.24,
     "count": 16797,
+    "work": "42913846",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428686782i/23463183._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/23463183-the-billion-dollar-spy"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428686782i/23463183._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "소련 내부 정보원의 실화를 기밀 해제 자료로 풀어낸 논픽션으로, 첩보 기법과 CIA 활동을 알 수 있다는 점이 좋다는 평이 있습니다. 반면 세부 사항이 많고 반복적이며 기술 용어가 난해해 지루하고, CIA가 관료적으로 그려진다는 불만이 많습니다.",
     "pros": [
@@ -2783,11 +3582,24 @@
     "author": "Howard Blum",
     "rating": 4.14,
     "count": 2278,
+    "work": "56364043",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545828878i/40222509._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/40222509-in-the-enemy-s-house"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545828878i/40222509._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "원자폭탄 기밀 유출 스파이 추적을 암호 해독가와 FBI 요원의 시선으로 다룬 논픽션으로, 소설처럼 읽히고 세부가 흥미롭다는 평이 많습니다. 다만 초반이 인물 소개로 어렵고 주제가 다소 건조하며 첩보 기법 설명이 지루하다는 의견도 있습니다.",
     "pros": [
@@ -2857,11 +3669,35 @@
     "author": "Ben Macintyre",
     "rating": 4.21,
     "count": 31791,
+    "work": "37842388",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413129627i/18773666._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/18773666-a-spy-among-friends"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413129627i/18773666._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "친구라는 이름의 가면",
+      "original": "A Spy Among Friends",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w185/jWB27W5tuNiRBJbVIbxI68q0buP.jpg",
+      "url": "https://www.themoviedb.org/tv/138624",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "케임브리지 스파이 킴 필비와 친구 사이의 배신을 다룬 논픽션으로, 흡인력 있는 문장과 우정과 배신의 인간적 이야기가 큰 호평을 받습니다. 영국 정보부의 무능도 흥미롭게 그려집니다. 다만 일부는 지루하고 읽기 어렵다고 평합니다.",
     "pros": [
@@ -2926,8 +3762,20 @@
     }
    },
    "goodreads": null,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
-   "cover": ""
+   "cover": "",
+   "screen": {
+    "status": "ok",
+    "items": []
+   }
   },
   {
    "id": "1-39",
@@ -2978,11 +3826,24 @@
     "author": "Peter     Wright",
     "rating": 3.74,
     "count": 3536,
+    "work": "956466",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699849236i/167450866._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/167450866-spycatcher-by-peter-wright"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699849236i/167450866._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "전 MI5 간부의 회고록으로, 정보기관 내부의 이중간첩 추적과 도청·잠입 일화가 놀랍고 편집증적 긴장을 준다는 평이 많다. 반면 문장이 건조하고 인물마다 곁가지 설명이 길며 약어가 많아 읽기 힘들다는 불만도 반복된다. 출간 금지 소동이 알려진 만큼 기대하면 의외로 밋밋하다는 의견도 있다.",
     "pros": [
@@ -3052,11 +3913,24 @@
     "author": "Annie Jacobsen",
     "rating": 4.31,
     "count": 8309,
+    "work": "65072667",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551108605i/41716921._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/41716921-surprise-kill-vanish"
    },
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
    "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551108605i/41716921._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "CIA의 암살·비밀공작을 사람 중심으로 풀어 빠르게 읽히고 정보량이 많다는 호평이 이어진다. 다만 공작이 실패하는 사례가 많이 나오고, 저자가 미국의 행위를 지나치게 옹호하거나 특정 취재원에 기대어 균형이 부족하다는 비판이 있다. 제목에 비해 CIA 전체사는 아니라는 지적도 있다.",
     "pros": [
@@ -3138,11 +4012,35 @@
     "author": "Robert   Harris",
     "rating": 3.83,
     "count": 21687,
+    "work": "1708442",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328042877i/895185._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/895185.The_Ghost"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "유령 작가",
+    "original": "The Ghost",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2016",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/510000830/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "유령 작가",
+      "original": "The Ghost Writer",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w185/iyteuJFvGy8a1WbHdKRKuO4QBYg.jpg",
+      "url": "https://www.themoviedb.org/movie/11439",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "전직 영국 총리의 회고록을 대필하는 작가가 비밀에 접근하는 정치 스릴러로, 빠른 전개와 음모의 긴장감, 대필 작업의 디테일이 호평받는다. 총리가 블레어를 연상시키는 설정이 분명하다는 점은 재미 요소이기도 하다. 후반부가 다소 힘이 빠진다는 평과 작가의 다른 작품보다 못하다는 의견이 있다.",
     "pros": [
@@ -3222,11 +4120,37 @@
     "author": "Robert   Harris",
     "rating": 4.13,
     "count": 86202,
+    "work": "49650754",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456938720i/29397486._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/29397486-conclave"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "콘클라베 (영화 특별판)",
+    "original": "Conclave",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2025",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/510000718/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "콘클라베",
+      "original": "Conclave",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w185/p1ELcxvzCa1uSCpRfDs4KddGn4x.jpg",
+      "url": "https://www.themoviedb.org/movie/974576",
+      "watch": [
+       "Disney Plus"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "교황 선거 과정의 절차와 추기경들의 권력 다툼을 긴장감 있게 그려 손에서 놓기 어렵다는 평이 많고, 인물과 분위기도 호평받는다. 다만 마지막 반전이 지나치게 억지스럽다는 비판이 있다. 영화보다 소설이 낫다는 의견도 눈에 띈다.",
     "pros": [
@@ -3295,11 +4219,24 @@
     "author": "Robert   Harris",
     "rating": 4.23,
     "count": 35329,
+    "work": "24349001",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378711003i/18007532._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/18007532-an-officer-and-a-spy"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378711003i/18007532._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "드레퓌스 사건을 피카르 중령의 시점에서 재구성한 역사 스릴러로, 철저한 고증과 몰입감, 부당한 진실 은폐를 파헤치는 긴장이 극찬받는다. 역사 지식이 없어도 흥미롭게 읽힌다는 의견이 많다. 뚜렷한 단점은 드물고 소수만 특정 대목의 속도를 아쉬워한다.",
     "pros": [
@@ -3366,11 +4303,24 @@
     "author": "Robert   Harris",
     "rating": 3.89,
     "count": 31082,
+    "work": "54306435",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489391219i/33539583._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/33539583-munich"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489391219i/33539583._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "1938년 뮌헨 협정 직전을 두 옛 친구의 시선으로 그린 역사 스릴러로, 조사가 탄탄하고 시대 분위기가 생생하다는 호평이 많다. 그러나 전반부가 느리고 단조로우며 긴장감이 기대보다 약하다는 불만이 반복된다. 결말을 알고 읽는 역사물이라 한계가 있다는 평도 있다.",
     "pros": [
@@ -3439,11 +4389,24 @@
     "author": "Jeffrey Archer",
     "rating": 4.0,
     "count": 18565,
+    "work": "133736",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924938i/78977._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/78977.The_Eleventh_Commandment"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924938i/78977._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "러시아 대통령 암살을 둘러싼 정치 공작 스릴러로, 150쪽쯤부터 속도가 붙으면 술술 읽힌다는 평이 있다. 반면 줄거리가 얇고 개연성이 떨어지며 결말이 예측되거나 실망스럽다는 불만이 많다. 작가의 대표작은 아니라는 의견이 반복된다.",
     "pros": [
@@ -3513,11 +4476,35 @@
     "author": "Tom Clancy",
     "rating": 4.12,
     "count": 394095,
+    "work": "1112006",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281995542i/19691._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/19691.The_Hunt_for_Red_October"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281995542i/19691._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "붉은 10월",
+      "original": "The Hunt for Red October",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w185/dZzpU4FG0cFwubumycLl57HP9NH.jpg",
+      "url": "https://www.themoviedb.org/movie/1669",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "소련 핵잠수함 망명 작전을 다룬 기술 스릴러로, 철저한 군사 고증과 손에 땀을 쥐는 긴장감이 호평받는다. 해군 출신 독자도 정확하다고 평했다. 반면 기술 설명이 과해 지루하다거나 문체가 안 맞는다는 의견도 일부 있다.",
     "pros": [
@@ -3586,11 +4573,35 @@
     "author": "Tom Clancy",
     "rating": 4.17,
     "count": 217211,
+    "work": "5054702",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328007145i/32682._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/32682.Patriot_Games"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328007145i/32682._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "패트리어트 게임",
+      "original": "Patriot Games",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w185/jPWcMMnpGChfKyyI85yMiVez6JE.jpg",
+      "url": "https://www.themoviedb.org/movie/9869",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "테러 사건에 휘말린 잭 라이언의 이야기로, 초반 액션과 치밀한 작전 묘사를 좋아하는 독자가 있다. 한편 분량이 길고 장황하며 인물이 평면적이고 주인공이 지나치게 완벽하다는 비판이 많다. 평가가 크게 갈리고 다소 시대에 뒤처졌다는 의견도 있다.",
     "pros": [
@@ -3670,11 +4681,38 @@
     "author": "Blake Crouch",
     "rating": 4.13,
     "count": 830578,
+    "work": "43161998",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680i/27833670._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/27833670-dark-matter"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "30일의 밤",
+    "original": "Dark Matter",
+    "publisher": "푸른숲",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/2189000237/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "'30일의 밤' - Dark Matter",
+      "original": "Dark Matter",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w185/gX5UFWLNdtWIrR0uXOKHKGtVLH6.jpg",
+      "url": "https://www.themoviedb.org/tv/196322",
+      "watch": [
+       "Apple TV",
+       "TVING"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "평행 우주와 선택의 문제를 파고드는 빠른 SF 스릴러로, 독창적인 설정과 몰입감 있는 후반부, 가족에 대한 감정선이 호평받는다. 반면 문장이 상투적이고 인물이 평면적이며 교훈을 직접 설명한다는 비판, 다중우주 설정을 남용한다는 평이 있다.",
     "pros": [
@@ -3744,8 +4782,8 @@
      "sheet": "YES24 가능",
      "paper": {
       "status": "판매중",
-      "url": "https://www.yes24.com/product/goods/180385906",
-      "matched": "마션 + 아르테미스 + 프로젝트 헤일메리"
+      "url": "https://www.yes24.com/product/goods/101375755",
+      "matched": "프로젝트 헤일메리"
      }
     }
    },
@@ -3754,11 +4792,35 @@
     "author": "Andy Weir",
     "rating": 4.51,
     "count": 1937889,
+    "work": "79106958",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833i/54493401._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "프로젝트 헤일메리",
+    "original": "Project Hail Mary",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2026",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/510001099/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "프로젝트 헤일메리",
+      "original": "Project Hail Mary",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w185/94PWwAT8MYL5i5SVplngTryLATS.jpg",
+      "url": "https://www.themoviedb.org/movie/687163",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "기억을 잃고 우주선에서 깨어난 과학 교사의 생존과 외계 생명체와의 우정이 유쾌하고 감동적이라는 평이 압도적이며 과학 설명도 재미있다고 한다. 소수는 주인공이 지나치게 만능이고 설정이 비현실적이며 인물이 평면적이라고 비판한다. 오디오북 호평도 많다.",
     "pros": [
@@ -3827,11 +4889,45 @@
     "author": "Michael Crichton",
     "rating": 3.91,
     "count": 278172,
+    "work": "997271",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587497243i/7670._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/7670.The_Andromeda_Strain"
    },
+   "korean": {
+    "how": "수동 검수",
+    "title": "안드로메다 스트레인",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
    "untranslated": false,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587497243i/7670._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "안드로메다의 위기",
+      "original": "The Andromeda Strain",
+      "year": 1971,
+      "poster": "https://image.tmdb.org/t/p/w185/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg",
+      "url": "https://www.themoviedb.org/movie/10514",
+      "watch": [],
+      "source": "wikidata"
+     },
+     {
+      "kind": "tv",
+      "title": "안드로메다의 위기",
+      "original": "The Andromeda Strain",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w185/6sLbP198qk1czySbc6yE0RnHYY.jpg",
+      "url": "https://www.themoviedb.org/tv/19997",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "우주에서 온 병원체가 마을을 덮치는 과정을 보고서처럼 담담하게 풀어낸 하드 SF로, 과학적 사실감과 긴장이 호평받는다. 그러나 문체가 건조하고 전문 용어가 많아 어렵고, 결말이 맥 빠진다는 불만과 스릴러적 재미가 부족하다는 평이 반복된다.",
     "pros": [
@@ -3916,11 +5012,24 @@
     "author": "M.W. Craven",
     "rating": 4.3,
     "count": 28577,
+    "work": "60997012",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521730075i/39346652._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/39346652-the-puppet-show"
    },
+   "korean": {
+    "how": "음역 일치",
+    "title": "퍼핏 쇼",
+    "original": "",
+    "publisher": "위즈덤하우스",
+    "date": "2023",
+    "verdict": "likely"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/734002475/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "워싱턴 포와 사회성이 서툰 천재 분석가 틸리의 콤비, 영국 컴브리아의 음울한 배경, 속도감 있는 연쇄살인 플롯이 호평받는다. 다만 초반에 인물에 적응하는 데 시간이 걸린다는 말과, 흔한 경찰물 공식에 과찬이라는 비판도 소수 있다.",
     "pros": [
@@ -4006,11 +5115,24 @@
     "author": "M.W. Craven",
     "rating": 4.36,
     "count": 17493,
+    "work": "63191392",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558350628i/40657648._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/40657648-black-summer"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "블랙 서머",
+    "original": "Black Summer",
+    "publisher": "위즈덤하우스",
+    "date": "2025",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/734002975/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "전작에 못지않은 영리한 플롯과 포, 틸리의 유머러스한 호흡이 칭찬받고, 짧은 챕터 덕에 손을 떼기 어렵다는 평이 많다. 반면 틸리의 신선함이 줄었고 이야기가 억지스럽게 늘어지는 대목이 있다는 지적이 있다.",
     "pros": [
@@ -4081,11 +5203,24 @@
     "author": "M.W. Craven",
     "rating": 4.3,
     "count": 12374,
+    "work": "75137161",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623805951i/50235448._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/50235448-dead-ground"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623805951i/50235448._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "포와 틸리의 대화와 유머, 정보기관과 정치가 얽힌 복잡한 사건이 빠르게 몰입된다는 호평이 많다. 그러나 시리즈 중 가장 복잡해 초반이 혼란스럽고 주인공들의 비중이 줄어 약하게 느꼈다는 의견도 꽤 있다.",
     "pros": [
@@ -4156,11 +5291,24 @@
     "author": "M.W. Craven",
     "rating": 4.5,
     "count": 12993,
+    "work": "91479438",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647691479i/58341336._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/58341336-the-botanist"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647691479i/58341336._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "밀실 같은 불가능 범죄 두 건을 교묘하게 엮은 플롯, 유머, 포와 틸리의 케미가 호평의 중심이다. 시리즈 최고작으로 꼽는 독자가 있는 반면, 범인이 지나치게 완벽하고 인물 묘사가 상투적이라는 불만도 있다.",
     "pros": [
@@ -4204,26 +5352,27 @@
      "status": "no",
      "source": "auto",
      "sheet": "밀리의서재 가능",
-     "url": "https://www.millie.co.kr/v3/search/result/%EB%96%A8%EC%96%B4%EC%A0%B8"
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%97%B4%EC%84%B8%20%EB%B2%88%EC%A7%B8%20%EB%B0%B0%EC%8B%AC%EC%9B%90"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "리디 단권 가능",
-     "url": "https://ridibooks.com/search?q=%EB%96%A8%EC%96%B4%EC%A0%B8"
+     "url": "https://ridibooks.com/search?q=%EC%97%B4%EC%84%B8%20%EB%B2%88%EC%A7%B8%20%EB%B0%B0%EC%8B%AC%EC%9B%90"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "크레마 미입점",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%96%A8%EC%96%B4%EC%A0%B8"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%97%B4%EC%84%B8%20%EB%B2%88%EC%A7%B8%20%EB%B0%B0%EC%8B%AC%EC%9B%90"
     },
     "yes24": {
      "status": "no",
      "source": "api",
-     "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%96%A8%EC%96%B4%EC%A0%B8",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%97%B4%EC%84%B8%20%EB%B2%88%EC%A7%B8%20%EB%B0%B0%EC%8B%AC%EC%9B%90",
      "sheet": "YES24 가능",
+     "bookRating": 8.8,
      "paper": {
       "status": "절판",
       "url": "https://www.yes24.com/product/goods/70972195",
@@ -4236,11 +5385,24 @@
     "author": "Steve Cavanagh",
     "rating": 4.19,
     "count": 134607,
+    "work": "57852930",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509935137i/36543419._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/36543419-thirteen"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "열세 번째 배심원",
+    "original": "THIRTEEN",
+    "publisher": "북로드",
+    "date": "2019",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://image.yes24.com/goods/70972195/L",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "배심원단에 연쇄살인범이 숨어든다는 설정이 독창적이고, 반전이 계속되며 책을 놓기 어렵다는 평이 압도적이다. 시리즈 중간 권이지만 단독으로 읽어도 무리가 없다. 주인공의 활약이 비현실적이라 몰입이 깨졌다는 의견도 있다.",
     "pros": [
@@ -4300,9 +5462,10 @@
     "yes24": {
      "status": "no",
      "source": "api",
-     "note": "검색 결과 없음",
+     "note": "연결된 eBook은 절판·판매 종료",
      "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%8D%B0%EB%93%9C%20%EC%8B%AC%ED%94%8C",
      "sheet": "YES24 가능",
+     "bookRating": 8.3,
      "paper": {
       "status": "절판",
       "url": "https://www.yes24.com/product/goods/8080628",
@@ -4315,11 +5478,24 @@
     "author": "Peter James",
     "rating": 4.06,
     "count": 33496,
+    "work": "689644",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439269103i/703353._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/703353.Dead_Simple"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "데드 심플",
+    "original": "DEAD SIMPLE",
+    "publisher": "살림출판사",
+    "date": "2012",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://image.yes24.com/goods/8080628/L",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "산 채로 관에 묻힌 사람을 찾는 설정의 긴장감과 로이 그레이스 형사의 매력, 경찰 수사 묘사가 호평받는다. 한편 분량에 비해 장황하고 묘사가 늘어지며, 영매를 믿는 주인공과 구식 성 인식이 거슬린다는 불만이 많다.",
     "pros": [
@@ -4384,6 +5560,7 @@
      "note": "검색 결과 없음",
      "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%9D%B8%EC%96%B4%EC%9D%98%20%EB%85%B8%EB%9E%98",
      "sheet": "YES24 가능",
+     "bookRating": 7.6,
      "paper": {
       "status": "품절",
       "url": "https://www.yes24.com/product/goods/5250530",
@@ -4396,11 +5573,24 @@
     "author": "Val McDermid",
     "rating": 3.95,
     "count": 28981,
+    "work": "88269",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389270695i/459386._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/459386.The_Mermaids_Singing"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "인어의 노래",
+    "original": "The Mermaids Singing (1995)",
+    "publisher": "랜덤하우스코리아",
+    "date": "2011",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://image.yes24.com/goods/5250530/L",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "프로파일러 토니와 캐럴 형사의 입체적 캐릭터와 연쇄살인범의 심리를 파고드는 구성이 호평받는다. 반면 중세 고문 도구를 쓰는 잔혹한 묘사가 지나치다는 반응이 많고, 성소수자 묘사의 고정관념과 구식 면모에 대한 비판도 있다.",
     "pros": [
@@ -4462,9 +5652,10 @@
     "yes24": {
      "status": "no",
      "source": "api",
-     "note": "검색 결과 없음",
+     "note": "연결된 eBook은 절판·판매 종료",
      "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%A7%A4%EB%93%AD%EA%B3%BC%20%EC%8B%AD%EC%9E%90%EA%B0%80",
      "sheet": "YES24 가능",
+     "bookRating": 8.4,
      "paper": {
       "status": "절판",
       "url": "https://www.yes24.com/product/goods/18821328",
@@ -4477,11 +5668,24 @@
     "author": "Ian Rankin",
     "rating": 3.8,
     "count": 59474,
+    "work": "3127921",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388781809i/634407._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/634407.Knots_and_Crosses"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "매듭과 십자가",
+    "original": "KNOTS AND CROSSES",
+    "publisher": "오픈하우스",
+    "date": "2015",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://image.yes24.com/goods/18821328/L",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "상처 입은 형사 리버스의 인물 탐구와 어둡고 음울한 에든버러 분위기가 매력으로 꼽히며, 시리즈의 출발점으로 읽을 만하다는 평이다. 다만 초반 진행이 느리고 사건이 단순하며, 주인공에게 거리감을 느꼈다는 의견도 있다.",
     "pros": [
@@ -4543,9 +5747,15 @@
     "yes24": {
      "status": "no",
      "source": "api",
-     "note": "검색 결과 없음",
+     "note": "연결된 eBook은 절판·판매 종료",
      "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%93%9C%EB%9D%BC%EC%9D%B4",
-     "sheet": "YES24 가능"
+     "sheet": "YES24 가능",
+     "bookRating": 8.7,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/44147795",
+      "matched": "드라이"
+     }
     }
    },
    "goodreads": {
@@ -4553,11 +5763,38 @@
     "author": "Jane Harper",
     "rating": 4.06,
     "count": 279645,
+    "work": "47804789",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456113132i/27824826._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/27824826-the-dry"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "드라이",
+    "original": "The Dry",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456113132i/27824826._SX240_.jpg",
+   "cover": "https://image.yes24.com/goods/44147795/L",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "드라이",
+      "original": "The Dry",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w185/bmJwEXgphC20iBQFXdGd3zcaS8U.jpg",
+      "url": "https://www.themoviedb.org/movie/567797",
+      "watch": [
+       "wavve",
+       "Watcha"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "가뭄에 시달리는 호주 작은 마을의 분위기와 탄탄한 구성, 과거와 현재가 얽힌 미스터리가 호평받으며 범인을 짐작해도 동기는 맞추기 어렵다는 평이다. 한편 전개가 느리고 긴장감이 부족하며 과장된 호평에 못 미친다는 의견도 많다.",
     "pros": [
@@ -4638,11 +5875,24 @@
     "author": "Don Winslow",
     "rating": 4.37,
     "count": 52809,
+    "work": "158974",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467260965i/206236._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/206236.The_Power_of_the_Dog"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "개의 힘 1",
+    "original": "The Power of the Dog",
+    "publisher": "황금가지",
+    "date": "2020",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/111036692/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "멕시코 마약 카르텔과 미국 마약 전쟁을 방대한 규모로 그린 서사시 같은 스릴러로, 속도감과 조사의 깊이가 극찬받는다. 폭력과 고문 묘사가 매우 잔혹하고 등장인물이 많아 따라가기 벅차다는 점이 부담으로 언급된다.",
     "pros": [
@@ -4728,11 +5978,37 @@
     "author": "Michael Connelly",
     "rating": 4.15,
     "count": 224818,
+    "work": "48262",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265342i/32508._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/32508.The_Black_Echo"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "블랙 에코",
+    "original": "The Black Echo ",
+    "publisher": "알에이치코리아(RHK)",
+    "date": "2015",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/510000901/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "보슈",
+      "original": "Bosch",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w185/vtacLvdLgW3BNUj8DrC76X39Lfi.jpg",
+      "url": "https://www.themoviedb.org/tv/60585",
+      "watch": [
+       "Amazon Prime Video"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "해리 보슈라는 고독한 베트남전 참전 형사와 탄탄한 수사 전개, 마지막까지 이어지는 반전이 호평받는다. 한편 흔한 클리셰가 많고 사건이 평범하며 사건 관계자가 많아 산만하다는 비판도 눈에 띈다.",
     "pros": [
@@ -4793,9 +6069,15 @@
     "yes24": {
      "status": "no",
      "source": "api",
-     "note": "검색 결과 없음",
+     "note": "연결된 eBook은 절판·판매 종료",
      "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%B0%B0%EB%93%9C%20%EB%B8%94%EB%9F%AC%EB%93%9C",
-     "sheet": "YES24 가능"
+     "sheet": "YES24 가능",
+     "bookRating": 9,
+     "paper": {
+      "status": "절판",
+      "url": "https://www.yes24.com/product/goods/71538815",
+      "matched": "배드 블러드"
+     }
     }
    },
    "goodreads": {
@@ -4803,11 +6085,24 @@
     "author": "John Carreyrou",
     "rating": 4.4,
     "count": 296021,
+    "work": "59699437",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523311515i/37976541._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/37976541-bad-blood"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "배드 블러드",
+    "original": "Bad Blood",
+    "publisher": "와이즈베리",
+    "date": "2019",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
-   "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523311515i/37976541._SX240_.jpg",
+   "cover": "https://image.yes24.com/goods/71538815/L",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "테라노스 사기극을 철저한 취재로 추적해 소설처럼 술술 읽히며 손을 놓기 어렵다는 평이 압도적이다. 유명 인사들이 왜 속았는지에 대한 분석이 부족하고, 책임자들이 별다른 대가를 치르지 않아 답답하다는 아쉬움이 있다.",
     "pros": [
@@ -4850,26 +6145,27 @@
      "status": "no",
      "source": "auto",
      "sheet": "밀리 미입점",
-     "url": "https://www.millie.co.kr/v3/search/result/%EC%84%B8%EC%9D%B4%20%EB%82%98%EC%8B%B1"
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%84%B8%EC%9D%B4%20%EB%82%98%EC%94%BD"
     },
     "ridi": {
      "status": "no",
      "source": "auto",
      "sheet": "리디 단권 가능",
-     "url": "https://ridibooks.com/search?q=%EC%84%B8%EC%9D%B4%20%EB%82%98%EC%8B%B1"
+     "url": "https://ridibooks.com/search?q=%EC%84%B8%EC%9D%B4%20%EB%82%98%EC%94%BD"
     },
     "crema": {
      "status": "no",
      "source": "auto",
      "sheet": "크레마 미입점",
-     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%84%B8%EC%9D%B4%20%EB%82%98%EC%8B%B1"
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%84%B8%EC%9D%B4%20%EB%82%98%EC%94%BD"
     },
     "yes24": {
      "status": "no",
      "source": "api",
      "note": "검색 결과 없음",
-     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%84%B8%EC%9D%B4%20%EB%82%98%EC%8B%B1",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%84%B8%EC%9D%B4%20%EB%82%98%EC%94%BD",
      "sheet": "YES24 가능",
+     "bookRating": 9.4,
      "paper": {
       "status": "판매중",
       "url": "https://www.yes24.com/product/goods/99003858",
@@ -4882,11 +6178,37 @@
     "author": "Patrick Radden Keefe",
     "rating": 4.47,
     "count": 202911,
+    "work": "62303430",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537315266i/40163119._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/40163119-say-nothing"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "세이 나씽",
+    "original": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+    "publisher": "꾸리에북스",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://image.yes24.com/goods/99003858/L",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "tv",
+      "title": "잔혹한 침묵",
+      "original": "Say Nothing",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w185/xteex2aPV4O1mtwweoIL71tOWFU.jpg",
+      "url": "https://www.themoviedb.org/tv/245256",
+      "watch": [
+       "Disney Plus"
+      ],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "북아일랜드 분쟁과 한 여성의 실종 사건을 엮어 소설처럼 빠르게 읽히는 논픽션으로, 구성과 여러 입장을 아우르는 시각이 극찬받는다. 사건과 역사 배경이 오가는 구성이 오디오북으로는 따라가기 어렵다는 의견도 있다.",
     "pros": [
@@ -4956,11 +6278,24 @@
     "author": "Patrick Radden Keefe",
     "rating": 4.53,
     "count": 155962,
+    "work": "68254444",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611952534i/43868109._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/43868109-empire-of-pain"
    },
-   "untranslated": false,
+   "korean": {
+    "how": "못 찾음",
+    "title": null,
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "none"
+   },
+   "untranslated": true,
    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611952534i/43868109._SX240_.jpg",
+   "screen": {
+    "status": "ok",
+    "items": []
+   },
    "review": {
     "text": "새클러 가문과 옥시콘틴 사태를 깊이 있는 취재와 이야기 솜씨로 풀어내 분노와 함께 몰입하게 된다는 평이 지배적이다. 내용이 너무 불편하고 암울해 중간에 쉬어야 했다는 독자가 많고, 일부는 규제 방향에 의문을 제기한다.",
     "pros": [
@@ -5040,11 +6375,35 @@
     "author": "Jon Krakauer",
     "rating": 4.27,
     "count": 595552,
+    "work": "1816662",
     "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631501298i/1898._SX240_.jpg",
     "url": "https://www.goodreads.com/book/show/1898.Into_Thin_Air"
    },
+   "korean": {
+    "how": "원제 일치",
+    "title": "희박한 공기 속으로",
+    "original": "INTO THIN AIR",
+    "publisher": "민음인",
+    "date": "2025",
+    "verdict": "confirmed"
+   },
    "untranslated": false,
    "cover": "https://img.ridicdn.net/cover/682001737/xlarge",
+   "screen": {
+    "status": "ok",
+    "items": [
+     {
+      "kind": "movie",
+      "title": "파이널 K2",
+      "original": "Into Thin Air: Death on Everest",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w185/1lfzyHi7dnBRPYX9Hv7LzYFrlK3.jpg",
+      "url": "https://www.themoviedb.org/movie/32648",
+      "watch": [],
+      "source": "wikidata"
+     }
+    ]
+   },
    "review": {
     "text": "1996년 에베레스트 참사를 현장에서 겪은 저자의 생생한 기록으로, 문장력과 긴박한 전개가 호평받는다. 상업 등반의 문제와 당사자 평가를 둘러싼 논란, 저자의 서술에 대한 반발이 있고 일부는 감정적 거리감을 느꼈다고 한다.",
     "pros": [

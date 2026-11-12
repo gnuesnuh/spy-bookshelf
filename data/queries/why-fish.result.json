@@ -1,0 +1,1660 @@
+{
+ "slug": "why-fish",
+ "query": "물고기는 존재하지 않는다",
+ "title": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+ "subtitle": "Goodreads Choice 2020 과학 부문 후보작, 주요 문학·과학 저술상(퓰리처·새뮤얼 존슨·왕립학회·PEN/E.O.윌슨·아우구스트상), Shepherd 작가 추천, 원저자 인용 문헌 종합",
+ "updated": "2026-11-13",
+ "books": [
+  {
+   "id": "why-fish-1",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "같은 결: 과학×회고록",
+   "title": "물고기는 존재하지 않는다",
+   "original": "Why Fish Don't Exist",
+   "author": "룰루 밀러",
+   "awards": "기준 도서 · Goodreads Choice 2020 과학 부문 후보 · WaPo·NPR 2020 올해의 책",
+   "summary": "분류학자 데이비드 스타 조던의 집착과 몰락을 따라가며 상실을 견디는 법을 묻는 과학 회고록. 후반부의 반전과 '질서'에 대한 질문이 핵심.",
+   "note": "",
+   "grq": "Why Fish Don't Exist",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%8A%94%20%EC%A1%B4%EC%9E%AC%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4",
+     "matched": "물고기는 존재하지 않는다",
+     "reviews": 2517,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/852001243",
+     "matched": "물고기는 존재하지 않는다",
+     "rating": 4.4,
+     "count": 1123,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/105993437",
+     "matched": "물고기는 존재하지 않는다",
+     "rating": 9.0,
+     "reviews": 1813,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/105993437",
+     "matched": "물고기는 존재하지 않는다",
+     "rating": 9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/105526047",
+      "matched": "물고기는 존재하지 않는다"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Why Fish Don’t Exist: A Story of Loss, Love, and the Hidden Order of Life",
+    "author": "Lulu Miller",
+    "rating": 4.12,
+    "count": 64546,
+    "work": "71431307",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565526670i/50887097._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/50887097-why-fish-don-t-exist"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "물고기는 존재하지 않는다",
+    "original": "Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life",
+    "publisher": "곰출판",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/852001243/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-2",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "같은 결: 과학×회고록",
+   "title": "자연에 이름 붙이기",
+   "original": "Naming Nature",
+   "author": "캐럴 계숙 윤",
+   "awards": "『물고기는…』 결말의 '물고기라는 범주는 없다' 논거의 원전 · 같은 역자(정지인)",
+   "summary": "인간이 생물을 분류하는 직관(움벨트)과 분기학이 충돌하는 과정을 다룬 책. 『물고기는…』의 반전이 어디서 왔는지 그대로 이어 읽을 수 있다.",
+   "note": "",
+   "grq": "Naming Nature",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%9E%90%EC%97%B0%EC%97%90%20%EC%9D%B4%EB%A6%84%20%EB%B6%99%EC%9D%B4%EA%B8%B0",
+     "matched": "자연에 이름 붙이기",
+     "reviews": 46,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1046000224",
+     "matched": "자연에 이름 붙이기",
+     "rating": 4.8,
+     "count": 5,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/122792638",
+     "matched": "자연에 이름 붙이기",
+     "rating": 9.2,
+     "reviews": 111,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/122792638",
+     "matched": "자연에 이름 붙이기",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/122663789",
+      "matched": "자연에 이름 붙이기"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Naming Nature: The Clash Between Instinct and Science",
+    "author": "Carol Kaesuk Yoon",
+    "rating": 3.76,
+    "count": 709,
+    "work": "6278051",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358749788i/6100838._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/6100838-naming-nature"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "자연에 이름 붙이기",
+    "original": "NAMING NATURE",
+    "publisher": "윌북(willbook)",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/1046000224/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-3",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "같은 결: 과학×회고록",
+   "title": "메이블 이야기",
+   "original": "H Is for Hawk",
+   "author": "헬렌 맥도널드",
+   "awards": "2014 새뮤얼 존슨상(현 베일리 기퍼드상) · 2014 코스타 올해의 책",
+   "summary": "아버지를 잃은 작가가 참매를 길들이며 슬픔을 통과하는 회고록. 자연 관찰과 애도가 겹치는 구조가 『물고기는…』과 가장 닮았다.",
+   "note": "",
+   "grq": "H Is for Hawk",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%A9%94%EC%9D%B4%EB%B8%94%20%EC%9D%B4%EC%95%BC%EA%B8%B0"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/682000534",
+     "matched": "메이블 이야기",
+     "rating": 4,
+     "count": 4,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%A9%94%EC%9D%B4%EB%B8%94%20%EC%9D%B4%EC%95%BC%EA%B8%B0"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/20544293",
+     "matched": "메이블 이야기",
+     "rating": 8.9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/19984974",
+      "matched": "메이블 이야기"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "H is for Hawk",
+    "author": "Helen Macdonald",
+    "rating": 3.73,
+    "count": 86476,
+    "work": "26732095",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764500805i/18803640._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/18803640-h-is-for-hawk"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "메이블 이야기",
+    "original": "H Is for Hawk",
+    "publisher": "판미동",
+    "date": "2015",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/682000534/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-4",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "같은 결: 과학×회고록",
+   "title": "저녁의 비행",
+   "original": "Vesper Flights",
+   "author": "헬렌 맥도널드",
+   "awards": "Goodreads Choice 2020 과학 부문 후보",
+   "summary": "새·곤충·사슴을 관찰한 41편의 에세이. 짧게 끊어 읽기 좋고 문장의 밀도가 높다.",
+   "note": "",
+   "grq": "Vesper Flights",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%A0%80%EB%85%81%EC%9D%98%20%EB%B9%84%ED%96%89"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/682001541",
+     "matched": "저녁의 비행",
+     "rating": 5,
+     "count": 1,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%A0%80%EB%85%81%EC%9D%98%20%EB%B9%84%ED%96%89"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/105847849",
+     "matched": "저녁의 비행",
+     "rating": 9.9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/105276173",
+      "matched": "저녁의 비행"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Vesper Flights",
+    "author": "Helen Macdonald",
+    "rating": 4.08,
+    "count": 8596,
+    "work": "63662583",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582053771i/48637750._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/48637750-vesper-flights"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "저녁의 비행",
+    "original": "Vesper Flights",
+    "publisher": "판미동",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/682001541/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-5",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "같은 결: 과학×회고록",
+   "title": "삶, 죽음, 그리고 세상에서 가장 신비로운 물고기",
+   "original": "The Book of Eels",
+   "author": "패트릭 스벤손",
+   "awards": "2019 스웨덴 아우구스트상(논픽션) · 원제 부제 'A Father, a Son and the World's Most Enigmatic Fish'",
+   "summary": "아버지와 장어를 잡던 기억과 장어 생태의 미스터리를 번갈아 쓴 책. 한 생물에 대한 집착과 가족사가 겹친다는 점에서 가장 가까운 짝.",
+   "note": "",
+   "grq": "The Book of Eels",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%82%B6%2C%20%EC%A3%BD%EC%9D%8C%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4%20%EB%AC%BC%EA%B3%A0%EA%B8%B0"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%82%B6%2C%20%EC%A3%BD%EC%9D%8C%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4%20%EB%AC%BC%EA%B3%A0%EA%B8%B0"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%82%B6%2C%20%EC%A3%BD%EC%9D%8C%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4%20%EB%AC%BC%EA%B3%A0%EA%B8%B0"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%82%B6%2C%20%EC%A3%BD%EC%9D%8C%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4%20%EB%AC%BC%EA%B3%A0%EA%B8%B0",
+     "sheet": "",
+     "paper": {
+      "status": "일시품절",
+      "url": "https://www.yes24.com/product/goods/96432279",
+      "matched": "삶, 죽음, 그리고 세상에서 가장 신비로운 물고기"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Book of Eels: Our Enduring Fascination with the Most Mysterious Creature in the Natural World",
+    "author": "Patrik Svensson",
+    "rating": 3.91,
+    "count": 24219,
+    "work": "69096465",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582073834l/51938590._SX240_SY75_.jpg",
+    "url": "https://www.goodreads.com/book/show/51938590-the-book-of-eels"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "삶, 죽음, 그리고 세상에서 가장 신비로운 물고기",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://image.yes24.com/goods/96432279/L",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-6",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "같은 결: 과학×회고록",
+   "title": "랩걸",
+   "original": "Lab Girl",
+   "author": "호프 자런",
+   "awards": "2016 전미도서비평가협회상(자서전)",
+   "summary": "식물학자의 연구실 생활과 조울증, 동료와의 우정을 나무 이야기와 엮은 회고록. 과학자가 쓴 문학적 자서전의 대표작.",
+   "note": "",
+   "grq": "Lab Girl",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%9E%A9%20%EA%B1%B8",
+     "matched": "랩 걸",
+     "reviews": 88,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/754047367",
+     "matched": "랩걸",
+     "rating": 4.5,
+     "count": 250,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/118786224",
+     "matched": "랩걸",
+     "rating": 9.2,
+     "reviews": 315,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/172495597",
+     "matched": "랩걸",
+     "rating": 9.2,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/36390807",
+      "matched": "랩걸 Lab Girl"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Lab Girl",
+    "author": "Hope Jahren",
+    "rating": 3.98,
+    "count": 73554,
+    "work": "45572105",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441826687i/25733983._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/25733983-lab-girl"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "랩걸 Lab Girl",
+    "original": "Lab Girl",
+    "publisher": "알마",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754047367/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-7",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "같은 결: 과학×회고록",
+   "title": "수영의 이유",
+   "original": "Why We Swim",
+   "author": "보니 추이",
+   "awards": "Goodreads Choice 2020 과학 부문 후보",
+   "summary": "생존·건강·공동체·몰입·경쟁의 다섯 갈래로 인간이 왜 헤엄치는지 탐구한 에세이. 가볍게 읽히는 과학 저널리즘.",
+   "note": "",
+   "grq": "Why We Swim",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%88%98%EC%98%81%EC%9D%98%20%EC%9D%B4%EC%9C%A0"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%88%98%EC%98%81%EC%9D%98%20%EC%9D%B4%EC%9C%A0"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%88%98%EC%98%81%EC%9D%98%20%EC%9D%B4%EC%9C%A0"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "연결된 eBook은 절판·판매 종료",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%88%98%EC%98%81%EC%9D%98%20%EC%9D%B4%EC%9C%A0",
+     "sheet": "",
+     "bookRating": 9.4,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/103389002",
+      "matched": "수영의 이유"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Why We Swim",
+    "author": "Bonnie Tsui",
+    "rating": 3.94,
+    "count": 11726,
+    "work": "71323107",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585507220l/52905471._SX240_SY75_.jpg",
+    "url": "https://www.goodreads.com/book/show/52905471-why-we-swim"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "수영의 이유",
+    "original": "Why We Swim",
+    "publisher": "김영사",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/103389002/L",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-8",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "분류·진화·생명의 질서",
+   "title": "내 안의 물고기",
+   "original": "Your Inner Fish",
+   "author": "닐 슈빈",
+   "awards": "PBS 3부작 다큐멘터리 원작 · 틱타알릭 발견자",
+   "summary": "인간의 손·이빨·귀 속에 남은 물고기 시절의 흔적을 해부학으로 짚는다. '물고기'라는 범주를 다른 각도에서 다시 보게 한다.",
+   "note": "",
+   "grq": "Your Inner Fish",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%82%B4%20%EC%95%88%EC%9D%98%20%EB%AC%BC%EA%B3%A0%EA%B8%B0"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%82%B4%20%EC%95%88%EC%9D%98%20%EB%AC%BC%EA%B3%A0%EA%B8%B0"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%82%B4%20%EC%95%88%EC%9D%98%20%EB%AC%BC%EA%B3%A0%EA%B8%B0"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%82%B4%20%EC%95%88%EC%9D%98%20%EB%AC%BC%EA%B3%A0%EA%B8%B0",
+     "sheet": "",
+     "bookRating": 9.1,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/3423502",
+      "matched": "내 안의 물고기"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Your Inner Fish: a Journey into the 3.5-Billion-Year History of the Human Body",
+    "author": "Neil Shubin",
+    "rating": 4.04,
+    "count": 30333,
+    "work": "1656975",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320439515i/1662160._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/1662160.Your_Inner_Fish"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "내 안의 물고기",
+    "original": "Your Inner Fish",
+    "publisher": "김영사",
+    "date": "2009",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/3423502/L",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-9",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "분류·진화·생명의 질서",
+   "title": "유전자의 내밀한 역사",
+   "original": "The Gene",
+   "author": "싯다르타 무케르지",
+   "awards": "NYT 베스트셀러",
+   "summary": "멘델부터 유전자 편집까지의 역사. 조던이 앞장선 우생학 운동이 어떻게 국가 폭력이 됐는지 더 넓은 맥락에서 보여준다.",
+   "note": "",
+   "grq": "The Gene: An Intimate History",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EB%82%B4%EB%B0%80%ED%95%9C%20%EC%97%AD%EC%82%AC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EB%82%B4%EB%B0%80%ED%95%9C%20%EC%97%AD%EC%82%AC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EB%82%B4%EB%B0%80%ED%95%9C%20%EC%97%AD%EC%82%AC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EB%82%B4%EB%B0%80%ED%95%9C%20%EC%97%AD%EC%82%AC",
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/36954725",
+      "matched": "유전자의 내밀한 역사"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Gene: An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "rating": 4.34,
+    "count": 58674,
+    "work": "46190748",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452452965i/27276428._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/27276428-the-gene"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "유전자의 내밀한 역사",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://image.yes24.com/goods/36954725/L",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-10",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "분류·진화·생명의 질서",
+   "title": "여섯 번째 대멸종",
+   "original": "The Sixth Extinction",
+   "author": "엘리자베스 콜버트",
+   "awards": "2015 퓰리처상 일반 논픽션",
+   "summary": "현재 진행 중인 대멸종을 현장 취재로 기록. 자연의 질서가 인간 때문에 어떻게 무너지는지 냉정하게 보여준다.",
+   "note": "",
+   "grq": "The Sixth Extinction",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%97%AC%EC%84%AF%20%EB%B2%88%EC%A7%B8%20%EB%8C%80%EB%A9%B8%EC%A2%85",
+     "matched": "여섯 번째 대멸종",
+     "reviews": 15,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "select",
+     "url": "https://ridibooks.com/books/1648000650",
+     "matched": "여섯 번째 대멸종",
+     "rating": 4.8,
+     "count": 8,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/116068512",
+     "matched": "여섯 번째 대멸종",
+     "rating": 9.5,
+     "reviews": 32,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/116068512",
+     "matched": "여섯 번째 대멸종",
+     "rating": 9.5,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/115257540",
+      "matched": "여섯 번째 대멸종"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Sixth Extinction: An Unnatural History",
+    "author": "Elizabeth Kolbert",
+    "rating": 4.15,
+    "count": 82997,
+    "work": "25095506",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372677697i/17910054._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/17910054-the-sixth-extinction"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "여섯 번째 대멸종",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://img.ridicdn.net/cover/1648000650/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-11",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "분류·진화·생명의 질서",
+   "title": "작은 것들이 만든 거대한 세계",
+   "original": "Entangled Life",
+   "author": "멀린 셸드레이크",
+   "awards": "2021 왕립학회 과학도서상 · Goodreads Choice 2020 과학 부문 4위",
+   "summary": "균류의 네트워크가 숲과 인간의 몸, 생태계를 어떻게 엮는지. '개체'와 '종'의 경계를 흔드는 점이 『물고기는…』의 문제의식과 맞닿는다.",
+   "note": "",
+   "grq": "Entangled Life",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%9E%91%EC%9D%80%20%EA%B2%83%EB%93%A4%EC%9D%B4%20%EB%A7%8C%EB%93%A0%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EC%84%B8%EA%B3%84",
+     "matched": "작은 것들이 만든 거대한 세계",
+     "reviews": 6,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/754041353",
+     "matched": "작은 것들이 만든 거대한 세계",
+     "rating": 4.5,
+     "count": 8,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/101891820",
+     "matched": "작은 것들이 만든 거대한 세계",
+     "rating": 9.8,
+     "reviews": 43,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/101891820",
+     "matched": "작은 것들이 만든 거대한 세계",
+     "rating": 9.8,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/99301247",
+      "matched": "작은 것들이 만든 거대한 세계"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures",
+    "author": "Merlin Sheldrake",
+    "rating": 4.31,
+    "count": 56453,
+    "work": "73100236",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575341220l/52668915._SX240_SY75_.jpg",
+    "url": "https://www.goodreads.com/book/show/52668915-entangled-life"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "작은 것들이 만든 거대한 세계",
+    "original": "Entangled Life",
+    "publisher": "아날로그(글담)",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754041353/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-12",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "분류·진화·생명의 질서",
+   "title": "이토록 굉장한 세계",
+   "original": "An Immense World",
+   "author": "에드 용",
+   "awards": "NYT 2022 올해의 책 10권",
+   "summary": "동물마다 다른 감각 세계(움벨트)를 탐험하는 책. 인간 중심의 분류를 내려놓게 만든다.",
+   "note": "",
+   "grq": "An Immense World",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%9D%B4%ED%86%A0%EB%A1%9D%20%EA%B5%89%EC%9E%A5%ED%95%9C%20%EC%84%B8%EA%B3%84"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/280000204",
+     "matched": "이토록 굉장한 세계",
+     "rating": 4.7,
+     "count": 7,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%9D%B4%ED%86%A0%EB%A1%9D%20%EA%B5%89%EC%9E%A5%ED%95%9C%20%EC%84%B8%EA%B3%84"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/118677620",
+     "matched": "이토록 굉장한 세계",
+     "rating": 9.7,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/118164947",
+      "matched": "이토록 굉장한 세계"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us",
+    "author": "Ed Yong",
+    "rating": 4.46,
+    "count": 39872,
+    "work": "92905730",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652105350i/59575939._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/59575939-an-immense-world"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "이토록 굉장한 세계",
+    "original": "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us",
+    "publisher": "어크로스",
+    "date": "2023",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/280000204/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-13",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "분류·진화·생명의 질서",
+   "title": "내 속엔 미생물이 너무도 많아",
+   "original": "I Contain Multitudes",
+   "author": "에드 용",
+   "awards": "NYT 베스트셀러",
+   "summary": "모든 생물이 미생물과 공생하는 '집합체'라는 시각. 개체라는 경계 자체를 다시 묻는다.",
+   "note": "",
+   "grq": "I Contain Multitudes",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%82%B4%20%EC%86%8D%EC%97%94%20%EB%AF%B8%EC%83%9D%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%AC%B4%EB%8F%84%20%EB%A7%8E%EC%95%84"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/280000092",
+     "matched": "내 속엔 미생물이 너무도 많아",
+     "rating": 4.8,
+     "count": 4,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%82%B4%20%EC%86%8D%EC%97%94%20%EB%AF%B8%EC%83%9D%EB%AC%BC%EC%9D%B4%20%EB%84%88%EB%AC%B4%EB%8F%84%20%EB%A7%8E%EC%95%84"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/44813681",
+     "matched": "내 속엔 미생물이 너무도 많아",
+     "rating": 8.8,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/44335996",
+      "matched": "내 속엔 미생물이 너무도 많아"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "I Contain Multitudes: The Microbes Within Us and a Grander View of Life",
+    "author": "Ed Yong",
+    "rating": 4.16,
+    "count": 34012,
+    "work": "47255162",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445606162i/27213168._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/27213168-i-contain-multitudes"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "내 속엔 미생물이 너무도 많아",
+    "original": "I CONTAIN MULTITUDES",
+    "publisher": "어크로스",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/280000092/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-14",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "동물의 마음과 자연 관찰",
+   "title": "문어의 영혼",
+   "original": "The Soul of an Octopus",
+   "author": "사이 몽고메리",
+   "awards": "2015 전미도서상 논픽션 최종 후보",
+   "summary": "수족관 문어들과 교감하며 의식과 마음의 경계를 탐색한 기록. 따뜻한 문체의 자연 에세이.",
+   "note": "",
+   "grq": "The Soul of an Octopus",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%AC%B8%EC%96%B4%EC%9D%98%20%EC%98%81%ED%98%BC"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%EB%AC%B8%EC%96%B4%EC%9D%98%20%EC%98%81%ED%98%BC"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%AC%B8%EC%96%B4%EC%9D%98%20%EC%98%81%ED%98%BC"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%EB%AC%B8%EC%96%B4%EC%9D%98%20%EC%98%81%ED%98%BC",
+     "sheet": "",
+     "bookRating": 7.9,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/42657817",
+      "matched": "문어의 영혼"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness",
+    "author": "Sy Montgomery",
+    "rating": 3.94,
+    "count": 64342,
+    "work": "42099445",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425611143i/22609485._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/22609485-the-soul-of-an-octopus"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "문어의 영혼",
+    "original": "The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness",
+    "publisher": "글항아리",
+    "date": "2017",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/42657817/L",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-15",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "동물의 마음과 자연 관찰",
+   "title": "아더 마인즈",
+   "original": "Other Minds",
+   "author": "피터 고프리스미스",
+   "awards": "철학자의 두족류 의식 연구 · 2026 재출간",
+   "summary": "문어를 통해 마음의 진화를 철학적으로 추적. 『문어의 영혼』과 짝으로 읽기 좋다.",
+   "note": "",
+   "grq": "Other Minds",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%95%84%EB%8D%94%20%EB%A7%88%EC%9D%B8%EC%A6%88"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/2262000023",
+     "matched": "아더 마인즈",
+     "rating": 0,
+     "count": 0,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%95%84%EB%8D%94%20%EB%A7%88%EC%9D%B8%EC%A6%88"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/109742801",
+     "matched": "아더 마인즈",
+     "rating": 10,
+     "sheet": "",
+     "paper": {
+      "status": "품절",
+      "url": "https://www.yes24.com/product/goods/73031707",
+      "matched": "아더 마인즈"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Other Minds",
+    "author": "Peter Godfrey-Smith",
+    "rating": 3.87,
+    "count": 30091,
+    "work": "48126419",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606353700i/28116739._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/28116739-other-minds"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "아더 마인즈",
+    "original": "Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness",
+    "publisher": "이김",
+    "date": "2019",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/2262000023/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-16",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "동물의 마음과 자연 관찰",
+   "title": "새들의 방식",
+   "original": "The Bird Way",
+   "author": "제니퍼 애커먼",
+   "awards": "Goodreads Choice 2020 과학 부문 후보",
+   "summary": "새들의 소통·작업·놀이·양육·사고 방식을 최신 연구로 정리. 관찰의 즐거움이 큰 책.",
+   "note": "",
+   "grq": "The Bird Way",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%83%88%EB%93%A4%EC%9D%98%20%EB%B0%A9%EC%8B%9D"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1669000063",
+     "matched": "새들의 방식",
+     "rating": 0,
+     "count": 0,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%83%88%EB%93%A4%EC%9D%98%20%EB%B0%A9%EC%8B%9D"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/109860303",
+     "matched": "새들의 방식",
+     "rating": 9.9,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/105983572",
+      "matched": "새들의 방식"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Bird Way: A New Look at How Birds Talk, Work, Play, Parent, and Think",
+    "author": "Jennifer Ackerman",
+    "rating": 4.23,
+    "count": 4483,
+    "work": "73425275",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577251095l/51802456._SX240_SY75_.jpg",
+    "url": "https://www.goodreads.com/book/show/51802456-the-bird-way"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "새들의 방식",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://img.ridicdn.net/cover/1669000063/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-17",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "동물의 마음과 자연 관찰",
+   "title": "동쪽 빙하의 부엉이",
+   "original": "Owls of the Eastern Ice",
+   "author": "조너선 C. 슬래트",
+   "awards": "2021 PEN/E.O. 윌슨 과학저술상",
+   "summary": "러시아 연해주에서 세계 최대의 부엉이를 찾아 보호하려는 현장 연구 모험기. 소설처럼 읽힌다.",
+   "note": "",
+   "grq": "Owls of the Eastern Ice",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%8F%99%EC%AA%BD%20%EB%B9%99%ED%95%98%EC%9D%98%20%EB%B6%80%EC%97%89%EC%9D%B4",
+     "matched": "동쪽 빙하의 부엉이",
+     "reviews": 4,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/4086000228",
+     "matched": "동쪽 빙하의 부엉이",
+     "rating": 0,
+     "count": 0,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%8F%99%EC%AA%BD%20%EB%B9%99%ED%95%98%EC%9D%98%20%EB%B6%80%EC%97%89%EC%9D%B4"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/130167822",
+     "matched": "동쪽 빙하의 부엉이",
+     "rating": 10,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/108585639",
+      "matched": "동쪽 빙하의 부엉이"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Owls of the Eastern Ice: A Quest to Find and Save the World's Largest Owl",
+    "author": "Jonathan C. Slaght",
+    "rating": 4.19,
+    "count": 6754,
+    "work": "73380992",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569893852l/51542211._SX240_SY75_.jpg",
+    "url": "https://www.goodreads.com/book/show/51542211-owls-of-the-eastern-ice"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "동쪽 빙하의 부엉이",
+    "original": "Owls of the Eastern Ice : The Quest to Find and Save the World's Largest Owl",
+    "publisher": "책읽는수요일",
+    "date": "2022",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/4086000228/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-18",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "동물의 마음과 자연 관찰",
+   "title": "자연이 법을 어길 때",
+   "original": "Fuzz",
+   "author": "메리 로치",
+   "awards": "Shepherd 작가 추천(『물고기는…』 유사 도서)",
+   "summary": "곰·코끼리·원숭이 등 사람과 충돌하는 야생동물 문제를 유머러스하게 취재. 메리 로치 특유의 재미.",
+   "note": "",
+   "grq": "Fuzz: When Nature Breaks the Law",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%9E%90%EC%97%B0%EC%9D%B4%20%EB%B2%95%EC%9D%84%20%EC%96%B4%EA%B8%B8%20%EB%95%8C"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/1242001351",
+     "matched": "자연이 법을 어길 때",
+     "rating": 4,
+     "count": 1,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%9E%90%EC%97%B0%EC%9D%B4%20%EB%B2%95%EC%9D%84%20%EC%96%B4%EA%B8%B8%20%EB%95%8C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/167470902",
+     "matched": "자연이 법을 어길 때",
+     "rating": 9.6,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/166373665",
+      "matched": "자연이 법을 어길 때"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Fuzz: When Nature Breaks the Law",
+    "author": "Mary Roach",
+    "rating": 3.84,
+    "count": 32404,
+    "work": "88729211",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619615618i/56769577._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/56769577-fuzz"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "자연이 법을 어길 때",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://img.ridicdn.net/cover/1242001351/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-19",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "동물의 마음과 자연 관찰",
+   "title": "눈부신 심연",
+   "original": "The Brilliant Abyss",
+   "author": "헬렌 스케일스",
+   "awards": "Shepherd 작가 추천(『물고기는…』 유사 도서)",
+   "summary": "심해 생물의 경이와 심해 채굴·남획 위기를 함께 다룬 해양생물학자의 책.",
+   "note": "",
+   "grq": "The Brilliant Abyss",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%88%88%EB%B6%80%EC%8B%A0%20%EC%8B%AC%EC%97%B0",
+     "matched": "눈부신 심연",
+     "reviews": 0,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/862002532",
+     "matched": "눈부신 심연",
+     "rating": 0,
+     "count": 0,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "yes",
+     "url": "https://cremaclub.yes24.com/BookClub/Detail/124348685",
+     "matched": "눈부신 심연",
+     "rating": 9.5,
+     "reviews": 6,
+     "source": "auto",
+     "sheet": ""
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/124348685",
+     "matched": "눈부신 심연",
+     "rating": 9.5,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/123363460",
+      "matched": "눈부신 심연"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Brilliant Abyss",
+    "author": "Helen Scales",
+    "rating": 4.04,
+    "count": 3062,
+    "work": "87044281",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605554914i/55825856._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/55825856-the-brilliant-abyss"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "눈부신 심연",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://img.ridicdn.net/cover/862002532/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-20",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "자연 에세이·소설 확장",
+   "title": "향모를 땋으며",
+   "original": "Braiding Sweetgrass",
+   "author": "로빈 월 키머러",
+   "awards": "NYT 장기 베스트셀러 · Shepherd 작가 추천",
+   "summary": "식물학자이자 포타와토미족인 저자가 과학과 토착 지혜를 엮은 에세이. 자연을 '분류'가 아닌 '관계'로 보자는 제안.",
+   "note": "",
+   "grq": "Braiding Sweetgrass",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%96%A5%EB%AA%A8%EB%A5%BC%20%EB%95%8B%EC%9C%BC%EB%A9%B0"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%ED%96%A5%EB%AA%A8%EB%A5%BC%20%EB%95%8B%EC%9C%BC%EB%A9%B0"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%96%A5%EB%AA%A8%EB%A5%BC%20%EB%95%8B%EC%9C%BC%EB%A9%B0"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%ED%96%A5%EB%AA%A8%EB%A5%BC%20%EB%95%8B%EC%9C%BC%EB%A9%B0",
+     "sheet": "",
+     "bookRating": 9.7,
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/96792329",
+      "matched": "향모를 땋으며 (보급판)"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants",
+    "author": "Robin Wall Kimmerer",
+    "rating": 4.49,
+    "count": 193652,
+    "work": "24362458",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775928i/17465709._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/17465709-braiding-sweetgrass"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "향모를 땋으며 (보급판)",
+    "original": "Braiding Sweetgrass",
+    "publisher": "에이도스",
+    "date": "2021",
+    "verdict": "confirmed"
+   },
+   "cover": "https://image.yes24.com/goods/96792329/L",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-21",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "자연 에세이·소설 확장",
+   "title": "나무 수업",
+   "original": "The Hidden Life of Trees",
+   "author": "페터 볼레벤",
+   "awards": "독일 장기 베스트셀러 · 국제 번역 다수",
+   "summary": "숲 관리인이 들려주는 나무들의 소통과 협력. 가볍게 읽히는 자연 입문서.",
+   "note": "",
+   "grq": "The Hidden Life of Trees",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EB%82%98%EB%AC%B4%20%EC%88%98%EC%97%85"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/734001509",
+     "matched": "나무 수업",
+     "rating": 4.6,
+     "count": 9,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EB%82%98%EB%AC%B4%20%EC%88%98%EC%97%85"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/24845552",
+     "matched": "나무 수업",
+     "rating": 9.4,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/24807672",
+      "matched": "나무 수업"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Hidden Life of Trees: What They Feel, How They Communicate: Discoveries from a Secret World",
+    "author": "Peter Wohlleben",
+    "rating": 4.06,
+    "count": 94308,
+    "work": "48295241",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464281905i/28256439._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/28256439-the-hidden-life-of-trees"
+   },
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "나무 수업",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://img.ridicdn.net/cover/734001509/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-22",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "자연 에세이·소설 확장",
+   "title": "언더랜드",
+   "original": "Underland",
+   "author": "로버트 맥팔레인",
+   "awards": "영국 대표 자연 작가의 지하 세계 탐사기",
+   "summary": "동굴·지하묘지·빙하 아래 등 '아래의 세계'를 여행하며 시간과 상실을 사유한 에세이.",
+   "note": "",
+   "grq": "Underland: A Deep Time Journey",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "yes",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%96%B8%EB%8D%94%EB%9E%9C%EB%93%9C",
+     "matched": "언더랜드",
+     "reviews": 1,
+     "source": "auto",
+     "sheet": ""
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/3665000030",
+     "matched": "언더랜드",
+     "rating": 4.8,
+     "count": 9,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%96%B8%EB%8D%94%EB%9E%9C%EB%93%9C"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/92084770",
+     "matched": "언더랜드",
+     "rating": 9.4,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/91356623",
+      "matched": "언더랜드"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "Underland: A Deep Time Journey",
+    "author": "Robert Macfarlane",
+    "rating": 4.22,
+    "count": 22668,
+    "work": "68561061",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597184024i/53121631._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/53121631-underland"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "언더랜드",
+    "original": "UNDERLAND",
+    "publisher": "소소의책",
+    "date": "2020",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/3665000030/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-23",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "자연 에세이·소설 확장",
+   "title": "오버스토리",
+   "original": "The Overstory",
+   "author": "리처드 파워스",
+   "awards": "2019 퓰리처상 소설",
+   "summary": "나무와 얽힌 아홉 사람의 이야기가 하나로 모이는 장편. 논픽션 대신 소설로 같은 주제를 이어가고 싶을 때.",
+   "note": "",
+   "grq": "The Overstory",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%EC%98%A4%EB%B2%84%EC%8A%A4%ED%86%A0%EB%A6%AC"
+    },
+    "ridi": {
+     "status": "buy",
+     "url": "https://ridibooks.com/books/754046856",
+     "matched": "오버스토리",
+     "rating": 4,
+     "count": 3,
+     "source": "auto",
+     "sheet": ""
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%EC%98%A4%EB%B2%84%EC%8A%A4%ED%86%A0%EB%A6%AC"
+    },
+    "yes24": {
+     "status": "yes",
+     "source": "api",
+     "note": "판매중",
+     "url": "https://www.yes24.com/product/goods/167497846",
+     "matched": "오버스토리",
+     "rating": 8.5,
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/69316212",
+      "matched": "오버스토리"
+     }
+    }
+   },
+   "goodreads": {
+    "title": "The Overstory",
+    "author": "Richard Powers",
+    "rating": 4.1,
+    "count": 211966,
+    "work": "57662223",
+    "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562786502i/40180098._SX240_.jpg",
+    "url": "https://www.goodreads.com/book/show/40180098-the-overstory"
+   },
+   "korean": {
+    "how": "원제 일치",
+    "title": "오버스토리",
+    "original": "The Overstory",
+    "publisher": "은행나무",
+    "date": "2019",
+    "verdict": "confirmed"
+   },
+   "cover": "https://img.ridicdn.net/cover/754046856/xlarge",
+   "untranslated": false
+  },
+  {
+   "id": "why-fish-24",
+   "list": "『물고기는 존재하지 않는다』를 좋아했다면 — 과학·자연 논픽션 24선",
+   "category": "국내 확장",
+   "title": "현산어보를 찾아서",
+   "original": "-",
+   "author": "이태원",
+   "awards": "정약전 『자산어보』 현장 추적 · 국내서(전 5권)",
+   "summary": "흑산도에서 정약전이 기록한 물고기들을 생물학 교사가 직접 찾아 나선 기록. 한국판 '물고기 분류' 이야기.",
+   "note": "",
+   "grq": "",
+   "sheet": {},
+   "stores": {
+    "millie": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://www.millie.co.kr/v3/search/result/%ED%98%84%EC%82%B0%EC%96%B4%EB%B3%B4%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C"
+    },
+    "ridi": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://ridibooks.com/search?q=%ED%98%84%EC%82%B0%EC%96%B4%EB%B3%B4%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C"
+    },
+    "crema": {
+     "status": "no",
+     "source": "auto",
+     "sheet": "",
+     "url": "https://cremaclub.yes24.com/BookClub/Search?query=%ED%98%84%EC%82%B0%EC%96%B4%EB%B3%B4%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C"
+    },
+    "yes24": {
+     "status": "no",
+     "source": "api",
+     "note": "검색 결과 없음",
+     "url": "https://www.yes24.com/Product/Search?domain=EBOOK&query=%ED%98%84%EC%82%B0%EC%96%B4%EB%B3%B4%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C",
+     "sheet": "",
+     "paper": {
+      "status": "판매중",
+      "url": "https://www.yes24.com/product/goods/320076",
+      "matched": "현산어보를 찾아서 3"
+     }
+    }
+   },
+   "goodreads": null,
+   "korean": {
+    "how": "서점 제목 일치",
+    "title": "현산어보를 찾아서 3",
+    "original": null,
+    "publisher": null,
+    "date": null,
+    "verdict": "likely"
+   },
+   "cover": "https://image.yes24.com/goods/320076/L",
+   "untranslated": false
+  }
+ ]
+}

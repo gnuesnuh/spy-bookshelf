@@ -1,6 +1,6 @@
 """data/books.json 의 각 책에 대해 실제 독자 리뷰를 수집해 data/reviews/<id>.json 에 저장한다.
 
-사용법:  python scripts/collect_reviews.py            (캐시 사용)
+사용법:  python scripts/collect_reviews.py [목록이름]   (캐시 사용. 목록이름 예: why-fish, 생략하면 기준 시트)
         python scripts/collect_reviews.py --refresh  (다시 수집)
 
 수집처 (COLLECTORS 에 함수를 추가하면 수집처가 늘어난다)
@@ -18,7 +18,7 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from build_data import DATA, fetch  # noqa: E402
+from build_data import DATA, fetch, load_list  # noqa: E402
 
 OUT = DATA / "reviews"
 MAX_CHARS = 700   # 리뷰 1개당 보관 길이
@@ -108,7 +108,8 @@ REGION = {"goodreads": "overseas", "ridi": "domestic", "yes24": "domestic"}
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     OUT.mkdir(parents=True, exist_ok=True)
-    books = json.loads((DATA / "books.json").read_text(encoding="utf-8"))["books"]
+    slug = ([a for a in sys.argv[1:] if not a.startswith("--")][:1] or [None])[0]          # 목록 이름(예: why-fish). 없으면 기준 시트
+    books = [b for b in load_list(slug)["books"] if b.get("stores")]
     total = {k: 0 for k in COLLECTORS}
     for b in books:
         got = {}

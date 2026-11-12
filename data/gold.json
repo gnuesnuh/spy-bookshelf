@@ -1,0 +1,1432 @@
+[
+ {
+  "id": "1-1",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Day of the Jackal",
+  "author": "프레더릭 포사이스",
+  "sheet_title": "자칼의 날",
+  "korean_title": "자칼의 날 1",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Day of the Jackal",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-2",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Tinker, Tailor, Soldier, Spy",
+  "author": "존 르 카레",
+  "sheet_title": "팅커, 테일러, 솔저, 스파이",
+  "korean_title": "팅커, 테일러, 솔저, 스파이",
+  "verdict": "verified",
+  "evidence": "원제 일치: Tinker, Tailor, Soldier, Spy",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디셀렉트 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-3",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Spy Who Came in from the Cold",
+  "author": "존 르 카레",
+  "sheet_title": "추운 나라에서 돌아온 스파이",
+  "korean_title": "추운 나라에서 돌아온 스파이",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Spy Who Came in from the Cold",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디셀렉트 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-4",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Night Manager",
+  "author": "존 르 카레",
+  "sheet_title": "나이트 매니저",
+  "korean_title": "나이트 매니저 2",
+  "verdict": "verified",
+  "evidence": "원제 일치: THE NIGHT MANAGER",
+  "stores": {
+   "millie": "yes",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-5",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Smiley's People",
+  "author": "존 르 카레",
+  "sheet_title": "스마일리의 사람들",
+  "korean_title": "스마일리의 사람들",
+  "verdict": "verified",
+  "evidence": "원제 일치: Smiley's People",
+  "stores": {
+   "millie": "yes",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디셀렉트 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-6",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Agent Running in the Field",
+  "author": "존 르 카레",
+  "sheet_title": "에이전트 러닝 인 더 필드",
+  "korean_title": "에이전트 러너",
+  "verdict": "verified",
+  "evidence": "원제 일치: Agent running in the field ",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디셀렉트 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-7",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Slow Horses",
+  "author": "믹 헤론",
+  "sheet_title": "슬로 호시스 (슬라우 하우스 시리즈)",
+  "korean_title": "슬로 호시스",
+  "verdict": "verified",
+  "evidence": "원제 일치: Slow Horses",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-8",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Red Sparrow Trilogy",
+  "author": "제이슨 매튜스",
+  "sheet_title": "레드 스패로우 3부작",
+  "korean_title": "레드 스패로우 2",
+  "verdict": "verified",
+  "evidence": "원제 일치: RED SPARROW",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-9",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Eye of the Needle",
+  "author": "켄 폴릿",
+  "sheet_title": "바늘구멍",
+  "korean_title": "바늘구멍",
+  "verdict": "verified",
+  "evidence": "원제 일치: Eye Of The Needle",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-10",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Sympathizer",
+  "author": "비엣 타인 응우옌",
+  "sheet_title": "동조자",
+  "korean_title": "동조자",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Sympathizer",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-11",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Matarese Circle",
+  "author": "로버트 러들럼",
+  "sheet_title": "마타레세 서클",
+  "korean_title": "마타레즈 서클 2",
+  "verdict": "verified_alias",
+  "evidence": "원제 일치: The Mataresse Circle",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "일부 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-12",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Cardinal of the Kremlin",
+  "author": "톰 클랜시",
+  "sheet_title": "크렘린의 추기경",
+  "korean_title": null,
+  "verdict": "unverifiable",
+  "evidence": "톰 클랜시 검색 결과가 40건 상한에서 세트 상품으로 채워짐. 구판·절판 가능",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "일부 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-13",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Gun Seller",
+  "author": "휴 로리",
+  "sheet_title": "총 파는 남자",
+  "korean_title": "건 셀러",
+  "verdict": "verified_alias",
+  "evidence": "원제 일치: The Gun Seller",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디셀렉트 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-14",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Shibumi",
+  "author": "트레바니안",
+  "sheet_title": "시부미",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "트레바니안 국내 출간작은 『아이거 빙벽』뿐",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-15",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Gabriel Allon Series",
+  "author": "대니얼 실바",
+  "sheet_title": "가브리엘 알론 시리즈",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "대니얼 실바 국내 출간작 검색 결과 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "일부 출간",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-16",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Quiet American",
+  "author": "그레이엄 그린",
+  "sheet_title": "조용한 미국인",
+  "korean_title": "조용한 미국인",
+  "verdict": "verified",
+  "evidence": "원제 일치: THE QUIET AMERICAN",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-17",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Our Man in Havana",
+  "author": "그레이엄 그린",
+  "sheet_title": "우리들의 아바나 사나이",
+  "korean_title": "아바나의 우리 사람",
+  "verdict": "verified",
+  "evidence": "원제 일치: Our Man in Havana",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-18",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Thirty-Nine Steps",
+  "author": "존 버컨",
+  "sheet_title": "39계단",
+  "korean_title": "39계단",
+  "verdict": "verified",
+  "evidence": "원제 일치: The 39 Steps",
+  "stores": {
+   "millie": "yes",
+   "ridi": "select",
+   "crema": "yes"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디셀렉트 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-19",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Casino Royale / From Russia, with Love",
+  "author": "이언 플레밍",
+  "sheet_title": "카지노 로얄 / 러시아에서 사랑을 담아",
+  "korean_title": "007 카지노 로얄",
+  "verdict": "verified",
+  "evidence": "원제 일치: Casino Royale",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-20",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "I Am Pilgrim",
+  "author": "테리 헤이즈",
+  "sheet_title": "여행자",
+  "korean_title": "아이 앰 필그림",
+  "verdict": "verified_alias",
+  "evidence": "테리 헤이스 저, 원제 필드 비어 있음. 시트 제목 '여행자'는 오류",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-21",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Berlin Game",
+  "author": "렌 데이튼",
+  "sheet_title": "베를린 게임",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-22",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Peacock and the Sparrow",
+  "author": "I.S. 베리",
+  "sheet_title": "공작과 참새",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-23",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The Company",
+  "author": "로버트 리텔",
+  "sheet_title": "컴퍼니",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-24",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Damascus Station",
+  "author": "데이비드 맥클로스키",
+  "sheet_title": "다마스쿠스 스테이션",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-25",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Shadow Intelligence",
+  "author": "올리버 해리스",
+  "sheet_title": "섀도 인텔리전스",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-26",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "The IPCRESS File",
+  "author": "렌 데이튼",
+  "sheet_title": "아이피크레스 파일",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-27",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Paul Christopher Series",
+  "author": "찰스 맥캐리",
+  "sheet_title": "폴 크리스토퍼 시리즈",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-28",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Harlot's Ghost",
+  "author": "노먼 메일러",
+  "sheet_title": "하를롯의 유령",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-29",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "If Two of Them Are Dead",
+  "author": "아만다 스콧",
+  "sheet_title": "만약 그들 중 둘이 죽었다면",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-30",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Glamorama",
+  "author": "브렛 이스턴 엘리스",
+  "sheet_title": "글래머라마",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-31",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Gabriel's Moon",
+  "author": "윌리엄 보이드",
+  "sheet_title": "가브리엘의 달",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-32",
+  "list": "스파이 소설 & 논픽션",
+  "category": "소설",
+  "original": "Lachlan Kite Trilogy (BOX 88, Judas 62, Kennedy 35)",
+  "author": "찰스 커밍",
+  "sheet_title": "라클란 카이트 3부작 (BOX 88 등)",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-33",
+  "list": "스파이 소설 & 논픽션",
+  "category": "논픽션",
+  "original": "The Spy and the Traitor",
+  "author": "벤 매킨타이어",
+  "sheet_title": "스파이와 배신자",
+  "korean_title": "스파이와 배신자",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Spy and The Traitor",
+  "stores": {
+   "millie": "yes",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "1-34",
+  "list": "스파이 소설 & 논픽션",
+  "category": "논픽션",
+  "original": "Agent Zigzag / Operation Mincemeat",
+  "author": "벤 매킨타이어",
+  "sheet_title": "에이전트 지그재그 / 민스미트 작전",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "벤 매킨타이어 국내 출간작은 『스파이와 배신자』『콜디츠』뿐",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "eBook 절판",
+   "millie": "미입점",
+   "ridi": "미입점",
+   "crema": "미입점"
+  }
+ },
+ {
+  "id": "1-35",
+  "list": "스파이 소설 & 논픽션",
+  "category": "논픽션",
+  "original": "The Billion Dollar Spy",
+  "author": "데이비드 E. 호프만",
+  "sheet_title": "억만 달러 스파이",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "데이비드 호프만 국내 출간작은 『데드핸드』뿐",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "확인 필요",
+   "ridi": "확인 필요",
+   "crema": "확인 필요"
+  }
+ },
+ {
+  "id": "1-36",
+  "list": "스파이 소설 & 논픽션",
+  "category": "논픽션",
+  "original": "In the Enemy's House",
+  "author": "하워드 블룸",
+  "sheet_title": "적의 집",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-37",
+  "list": "스파이 소설 & 논픽션",
+  "category": "논픽션",
+  "original": "A Spy Among Friends",
+  "author": "벤 매킨타이어",
+  "sheet_title": "친구들 사이의 스파이",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-38",
+  "list": "스파이 소설 & 논픽션",
+  "category": "논픽션",
+  "original": "Puppets / Marionettes",
+  "author": "존 휴즈-윌슨",
+  "sheet_title": "꼭두각시들",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-39",
+  "list": "스파이 소설 & 논픽션",
+  "category": "논픽션",
+  "original": "Spycatcher",
+  "author": "피터 라이트",
+  "sheet_title": "스파이캐처",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "1-40",
+  "list": "스파이 소설 & 논픽션",
+  "category": "논픽션",
+  "original": "Surprise, Kill, Vanish",
+  "author": "애니 제이콥슨",
+  "sheet_title": "서프라이즈, 킬, 배니시",
+  "korean_title": null,
+  "verdict": "untranslated",
+  "evidence": "시트·조회 모두 국내판 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "미번역",
+   "millie": "미출간",
+   "ridi": "미출간",
+   "crema": "미출간"
+  }
+ },
+ {
+  "id": "2-41",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "정치·권력 암투",
+  "original": "The Ghost",
+  "author": "로버트 해리스",
+  "sheet_title": "유령 작가",
+  "korean_title": "유령 작가",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Ghost",
+  "stores": {
+   "millie": "yes",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-42",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "정치·권력 암투",
+  "original": "Conclave",
+  "author": "로버트 해리스",
+  "sheet_title": "콘클라베",
+  "korean_title": "콘클라베 (영화 특별판)",
+  "verdict": "verified",
+  "evidence": "원제 일치: Conclave",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-43",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "정치·권력 암투",
+  "original": "An Officer and a Spy",
+  "author": "로버트 해리스",
+  "sheet_title": "장교와 스파이",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "로버트 해리스 국내 출간 16종에 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-44",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "정치·권력 암투",
+  "original": "Munich",
+  "author": "로버트 해리스",
+  "sheet_title": "뮌헨",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "로버트 해리스 국내 출간 16종에 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-45",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "정치·권력 암투",
+  "original": "The Eleventh Commandment",
+  "author": "제프리 아처",
+  "sheet_title": "열한 번째 계명",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "제프리 아처 국내 출간 7종에 없음",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-46",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "테크노·밀리터리",
+  "original": "The Hunt for Red October",
+  "author": "톰 클랜시",
+  "sheet_title": "붉은 10월",
+  "korean_title": null,
+  "verdict": "unverifiable",
+  "evidence": "톰 클랜시 검색 결과 40건 상한. 구판·절판 가능",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-47",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "테크노·밀리터리",
+  "original": "Patriot Games",
+  "author": "톰 클랜시",
+  "sheet_title": "패트리어트 게임",
+  "korean_title": null,
+  "verdict": "unverifiable",
+  "evidence": "톰 클랜시 검색 결과 40건 상한. 구판·절판 가능",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-48",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "테크노·밀리터리",
+  "original": "Dark Matter",
+  "author": "블레이크 크라우치",
+  "sheet_title": "다크 매터",
+  "korean_title": "30일의 밤",
+  "verdict": "verified",
+  "evidence": "원제 일치: Dark Matter",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-49",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "테크노·밀리터리",
+  "original": "Project Hail Mary",
+  "author": "앤디 위어",
+  "sheet_title": "프로젝트 헤일메리",
+  "korean_title": "프로젝트 헤일메리",
+  "verdict": "verified",
+  "evidence": "원제 일치: Project Hail Mary",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-50",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "테크노·밀리터리",
+  "original": "The Andromeda Strain",
+  "author": "마이클 크라이튼",
+  "sheet_title": "안드로메다 스트레인",
+  "korean_title": "안드로메다 스트레인",
+  "verdict": "verified_alias",
+  "evidence": "YES24 상품의 저자 필드가 비어 있어 자동 매칭 실패",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 미입점",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-51",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "The Puppet Show",
+  "author": "M.W. 크레이븐",
+  "sheet_title": "퍼핏 쇼",
+  "korean_title": "퍼핏 쇼",
+  "verdict": "verified",
+  "evidence": "원제 일치: 음역 일치",
+  "stores": {
+   "millie": "yes",
+   "ridi": "select",
+   "crema": "yes"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 가능"
+  }
+ },
+ {
+  "id": "2-52",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "Black Summer",
+  "author": "M.W. 크레이븐",
+  "sheet_title": "블랙 서머",
+  "korean_title": "블랙 서머",
+  "verdict": "verified",
+  "evidence": "원제 일치: Black Summer",
+  "stores": {
+   "millie": "yes",
+   "ridi": "select",
+   "crema": "yes"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 가능"
+  }
+ },
+ {
+  "id": "2-53",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "Dead Ground",
+  "author": "M.W. 크레이븐",
+  "sheet_title": "데드 그라운드",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "M.W. 크레이븐 국내 출간작은 퍼핏 쇼·블랙 서머·큐레이터 3종뿐",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-54",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "The Botanist",
+  "author": "M.W. 크레이븐",
+  "sheet_title": "보타니스트",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "M.W. 크레이븐 국내 출간작은 퍼핏 쇼·블랙 서머·큐레이터 3종뿐",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-55",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "Thirteen",
+  "author": "스티브 캐버너",
+  "sheet_title": "떨어져 (13)",
+  "korean_title": "열세 번째 배심원",
+  "verdict": "verified_alias",
+  "evidence": "원제 일치: THIRTEEN",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-56",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "Dead Simple",
+  "author": "피터 제임스",
+  "sheet_title": "데드 심플",
+  "korean_title": "데드 심플",
+  "verdict": "verified",
+  "evidence": "원제 일치: DEAD SIMPLE",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-57",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "The Mermaids Singing",
+  "author": "밸 맥더미드",
+  "sheet_title": "인어의 노래",
+  "korean_title": "인어의 노래",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Mermaids Singing (1995)",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-58",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "Knots and Crosses",
+  "author": "이언 랜킨",
+  "sheet_title": "매듭과 십자가",
+  "korean_title": "매듭과 십자가",
+  "verdict": "verified",
+  "evidence": "원제 일치: KNOTS AND CROSSES",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-59",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "The Dry",
+  "author": "제인 하퍼",
+  "sheet_title": "드라이",
+  "korean_title": "드라이",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Dry",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-60",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "The Power of the Dog",
+  "author": "돈 윈슬로",
+  "sheet_title": "개의 힘",
+  "korean_title": "개의 힘 1",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Power of the Dog",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-61",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "범죄·수사물(CWA)",
+  "original": "The Black Echo",
+  "author": "마이클 코넬리",
+  "sheet_title": "블랙 에코",
+  "korean_title": "블랙 에코",
+  "verdict": "verified",
+  "evidence": "원제 일치: The Black Echo ",
+  "stores": {
+   "millie": "yes",
+   "ridi": "buy",
+   "crema": "yes"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-62",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "르포·논픽션",
+  "original": "Bad Blood",
+  "author": "존 카레이루",
+  "sheet_title": "배드 블러드",
+  "korean_title": "배드 블러드",
+  "verdict": "verified",
+  "evidence": "원제 일치: Bad Blood",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리의서재 가능",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-63",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "르포·논픽션",
+  "original": "Say Nothing",
+  "author": "패트릭 라든 키프",
+  "sheet_title": "세이 나싱",
+  "korean_title": "세이 나씽",
+  "verdict": "verified_alias",
+  "evidence": "원제 일치: Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-64",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "르포·논픽션",
+  "original": "Empire of Pain",
+  "author": "패트릭 라든 키프",
+  "sheet_title": "고통의 제국",
+  "korean_title": null,
+  "verdict": "suspect",
+  "evidence": "패트릭 라든 키프 국내 출간작은 『세이 나씽』뿐",
+  "stores": {
+   "millie": "no",
+   "ridi": "no",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ },
+ {
+  "id": "2-65",
+  "list": "확장 장르 추천 (CWA·스릴러·논픽션)",
+  "category": "르포·논픽션",
+  "original": "Into Thin Air",
+  "author": "존 크라카우어",
+  "sheet_title": "희박한 공기 속으로",
+  "korean_title": "희박한 공기 속으로",
+  "verdict": "verified",
+  "evidence": "원제 일치: INTO THIN AIR",
+  "stores": {
+   "millie": "no",
+   "ridi": "buy",
+   "crema": "no"
+  },
+  "sheet_stores": {
+   "yes24": "YES24 가능",
+   "millie": "밀리 미입점",
+   "ridi": "리디 단권 가능",
+   "crema": "크레마 미입점"
+  }
+ }
+]

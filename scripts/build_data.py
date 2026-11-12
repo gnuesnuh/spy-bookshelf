@@ -16,7 +16,9 @@ import io
 import json
 import re
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -38,6 +40,10 @@ _sum = DATA / "summaries.json"   # scripts/summarize_reviews.py 가 수집 리�
 REVIEWS = json.loads(_sum.read_text(encoding="utf-8")) if _sum.exists() else {}
 
 
+_scr = DATA / "adaptations.json"
+SCREEN = json.loads(_scr.read_text(encoding="utf-8")) if _scr.exists() else {}
+
+
 def _yes24_key():
     """YES24 Open API 키: 환경변수 YES24_API_KEY 또는 프로젝트 루트의 .env 파일."""
     import os
@@ -54,18 +60,36 @@ YES24_KEY = _yes24_key()
 ALIASES = json.loads((ROOT / "scripts" / "aliases.json").read_text(encoding="utf-8"))
 
 
+_locks, _last = {}, {}
+_guard = threading.Lock()
+GAP = {"www.goodreads.com": 1.5, "apis.yes24.com": 0.25}   # 호스트별 최소 요청 간격(초), 기본 0.6
+
+
+def _throttle(url):
+    """같은 호스트에는 한 번에 한 요청, 최소 간격을 지킨다. 다른 호스트끼리는 동시에 나간다."""
+    host = urllib.parse.urlsplit(url).netloc
+    with _guard:
+        lock = _locks.setdefault(host, threading.Lock())
+    with lock:
+        wait = _last.get(host, 0) + GAP.get(host, 0.6) - time.time()
+        if wait > 0:
+            time.sleep(wait)
+        _last[host] = time.time()
+
+
 def fetch(url, binary=False, headers=None):
     key = hashlib.md5(url.encode()).hexdigest()
     f = CACHE / key
     if f.exists() and not REFRESH:
         raw = f.read_bytes()
     else:
+        _throttle(url)
         req = urllib.request.Request(url, headers={"User-Agent": UA, **(headers or {})})
         try:
             raw = urllib.request.urlopen(req, timeout=20).read()
         except urllib.error.HTTPError as e:
             body = e.read()
-            if e.code == 404 and b"SEARCH_001" in body:  # YES24 API: 검색 결과 없음
+            if e.code == 404 and (b"SEARCH_001" in body or b"GOODS_001" in body):  # YES24 API: 결과 없음
                 raw = body
             else:
                 print("  ! fetch failed", url[:70], e, file=sys.stderr)
@@ -79,8 +103,13 @@ def fetch(url, binary=False, headers=None):
             return None
         CACHE.mkdir(parents=True, exist_ok=True)
         f.write_bytes(raw)
-        time.sleep(0.6)
     return raw if binary else raw.decode("utf-8", errors="replace")
+
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import matching  # noqa: E402  (원제+저자 → 국내판 찾기, 공용 모듈)
+
+matching.configure(fetch, YES24_KEY)
 
 
 def norm(s):
@@ -174,7 +203,7 @@ def goodreads(orig, override=None):
     except ValueError:
         return None
     return [dict(title=b["bookTitleBare"], author=b["author"]["name"], rating=float(b["avgRating"]),
-                 count=b["ratingsCount"],
+                 count=b["ratingsCount"], work=str(b.get("workId") or ""),
                  cover="" if "nophoto" in b.get("imageUrl", "") else re.sub(r"\._S[XY]\d+_", "._SX240_", b.get("imageUrl", "")),
                  url="https://www.goodreads.com" + b["bookUrl"].split("?")[0])
             for b in rows[:5]]
@@ -206,10 +235,37 @@ def first(rows, pred):
     return None
 
 
+_gold = DATA / "gold.json"   # 검수 정답지: 자동 매칭이 놓친 국내판의 수동 판정
+GOLD = {g["id"]: g for g in json.loads(_gold.read_text(encoding="utf-8"))} if _gold.exists() else {}
+
+
+def find_korean_edition(book):
+    """원제+저자로 YES24 국내판을 찾는다 → (상품 dict 또는 None, 근거)."""
+    if not YES24_KEY or not book.get("original") or book["original"] == "-":
+        return None, "확인 불가"
+    return matching.find_korean(book["original"], book["author"])
+
+
 def check(book):
-    qs = queries(book["title"])
+    qs = queries(book["title"]) if book.get("title") else []
     stores = {}
     cand = {}
+    # 국내판을 먼저 확정하고, 그 제목을 서점 검색어 맨 앞에 둔다(시트 제목이 틀린 책 대비)
+    kr_item, kr_how = find_korean_edition(book)
+    if kr_item:
+        kt = matching.base_title(kr_item["title"])
+        qs = [kt] + [q for q in qs if norm(q) != norm(kt)]
+    gold = GOLD.get(book.get("id") or "", {})
+    gold_title = None
+    if not kr_item and gold.get("verdict") in ("verified", "verified_alias") and gold.get("korean_title"):
+        gold_title = gold["korean_title"]          # 자동으로 못 찾았지만 검수에서 확인된 국내 제목
+        kt = matching.base_title(gold_title)
+        qs = [kt] + [q for q in qs if norm(q) != norm(kt)]
+        kr_how = "수동 검수"
+    cand["korean"] = dict(how=kr_how, title=(kr_item and kr_item.get("title")) or gold_title,
+                          original=kr_item and kr_item.get("originalTitle"),
+                          publisher=kr_item and kr_item.get("publisher"),
+                          date=kr_item and str(kr_item.get("publishDate") or "")[:4])
 
     # 밀리의서재
     hit, failed, seen = None, False, []
@@ -261,7 +317,7 @@ def check(book):
                             reviews=hit["reviews"]) if hit else dict(status="unknown" if failed else "no"))
 
     # YES24 eBook: 시트 값
-    s = book["sheet"]["yes24"]
+    s = (book.get("sheet") or {}).get("yes24", "")
     st = "yes" if "YES24 가능" in s else "partial" if "일부" in s else "no"
     if stores["crema"]["status"] == "yes":
         st = "yes"  # 크레마클럽 도서는 YES24 eBook 상품이다
@@ -273,8 +329,8 @@ def check(book):
     # YES24 Open API 키가 있으면 시트 값 대신 실제 검색 결과로 덮어쓴다
     hit, failed, seen = None, False, []
     # 국내 제목이 시트와 다른 책을 잡기 위해 원제로도 검색하고, 원제(originalTitle)가 같은 한국어판을 인정한다
-    orig = re.sub(r"\(.*?\)", "", book["original"].split("/")[0]).strip()
-    for q in (qs + [orig]) if YES24_KEY else []:
+    orig = re.sub(r"\(.*?\)", "", (book.get("original") or "").split("/")[0]).strip().strip("-")
+    for q in [x for x in qs + [orig] if x] if YES24_KEY else []:
         rows = yes24(q)
         if rows is None:
             failed = True
@@ -297,24 +353,39 @@ def check(book):
 
     # YES24 종이책: 전자책이 없어도 종이책(판매중/절판)이 있는지 알려준다
     paper = None
-    for q in (qs + [orig]) if YES24_KEY else []:
+    for q in [x for x in qs + [orig] if x] if YES24_KEY and not kr_item else []:
         rows = yes24(q, "BOOK") or []
         ms = [r for r in rows if is_match(q, book["author"], r["title"], r["author"])
               or (re.search("[가-힣]", r["title"]) and norm(orig) and norm(orig) in norm(r["original"])
                   and author_key(book["author"])[:2] in norm(r["author"]))]
         ms.sort(key=lambda r: (0 if "판매중" in r["status"] else 1, r["title"]))
         paper = paper or first(ms, lambda r: True)
+    if kr_item:
+        paper = dict(status=kr_item.get("itemStatus") or "", url=kr_item.get("link") or "",
+                     title=kr_item.get("title") or "", cover=kr_item.get("cover") or "")
+        # EBOOK 검색이 놓친 전자책: 종이책에 연결된 eBook 상품이 실제로 판매 중인지 확인한다
+        if stores["yes24"]["status"] != "yes" and kr_item.get("ebookId"):
+            det = matching.item_detail(kr_item["ebookId"])
+            if det and "판매중" in (det.get("itemStatus") or ""):
+                stores["yes24"].update(status="yes", source="api", note="종이책에 연결된 eBook",
+                                       url=det.get("link") or kr_item.get("eBookLink"),
+                                       matched=det.get("title"), rating=det.get("starScore"))
+            elif det == {}:
+                stores["yes24"]["note"] = "연결된 eBook은 절판·판매 종료"
+        if not stores["yes24"].get("rating") and kr_item.get("starScore"):
+            stores["yes24"]["bookRating"] = kr_item["starScore"]
     if paper:
         stores["yes24"]["paper"] = dict(status=paper["status"], url=paper["url"], matched=paper["title"])
         covers.setdefault("paper", paper["cover"])
     for k in ("millie", "ridi", "crema"):
         stores[k]["source"] = "auto"
-        stores[k]["sheet"] = book["sheet"][k]
+        stores[k]["sheet"] = (book.get("sheet") or {}).get(k, "")
     stores["millie"].setdefault("url", "https://www.millie.co.kr/v3/search/result/" + urllib.parse.quote(qs[0]))
     stores["ridi"].setdefault("url", "https://ridibooks.com/search?q=" + urllib.parse.quote(qs[0]))
     stores["crema"].setdefault("url", "https://cremaclub.yes24.com/BookClub/Search?query=" + urllib.parse.quote(qs[0]))
 
-    gr = goodreads(book["original"], GR_PICK.get(book["title"], {}).get("q")) or []
+    has_orig = book.get("original") and book["original"] != "-"
+    gr = (goodreads(book["original"], book.get("grq") or GR_PICK.get(book.get("title"), {}).get("q")) or []) if has_orig else []
     cand["goodreads"] = gr
     cand["covers"] = covers
     return stores, cand
@@ -349,31 +420,73 @@ def load_sheet():
     return books
 
 
+def enrich(b):
+    """책 한 권에 서점 입점·국내판·평점·표지·영상화·리뷰 요약을 붙인다. 채점용 후보 기록을 돌려준다."""
+    stores, cand = check(b)
+    b["stores"] = stores
+    gr = cand["goodreads"]
+    pick = GR_PICK.get(b.get("title"), {}).get("i", 0)
+    b["goodreads"] = gr[pick] if pick is not None and len(gr) > pick else None
+    k = cand.pop("korean")
+    in_store = bool(stores["yes24"]["status"] == "yes" or stores["yes24"].get("paper")
+                    or any(stores[x]["status"] not in ("no", "unknown") for x in ("millie", "ridi", "crema")))
+    # 국내판 판정: confirmed(원제 일치) / likely(음역·수동 검수·서점 제목 일치) / none(못 찾음) / unknown(조회 실패)
+    verdict = ("confirmed" if k["how"] == "원제 일치" else "likely" if k["how"] in ("음역 일치", "수동 검수") or in_store
+               else "unknown" if k["how"] == "확인 불가" else "none")
+    how = k["how"] if k["title"] else ("서점 제목 일치" if in_store else k["how"])
+    if not k["title"] and stores["yes24"].get("paper"):   # 원제 대조는 못 했지만 제목+저자로 찾은 종이책
+        k["title"] = stores["yes24"]["paper"]["matched"]
+    b["korean"] = dict(k, verdict=verdict, how=how)
+    if not b.get("title"):  # 질의 목록에 한국어 제목을 안 적은 책은 찾은 국내 제목(없으면 원제)을 쓴다
+        b["title"] = matching.base_title(k["title"]) if k["title"] else b["original"]
+    b["untranslated"] = verdict == "none"
+    cv = cand.pop("covers")
+    # 국내판 표지 우선, 없으면 Goodreads 원서 표지
+    b["cover"] = (cv.get("ridi") or cv.get("crema") or cv.get("yes24") or cv.get("paper") or cv.get("millie")
+                  or (b["goodreads"] or {}).get("cover") or "")
+    if b["id"] in SCREEN:   # scripts/collect_adaptations.py 결과
+        b["screen"] = SCREEN[b["id"]]
+    if b["id"] in REVIEWS:  # scripts/summarize_reviews.py 결과
+        b["review"] = REVIEWS[b["id"]]
+    return dict(title=b["title"], author=b["author"], original=b["original"], cand=cand,
+                result={k2: v["status"] + ("|" + v.get("matched", "") if v.get("matched") else "")
+                        for k2, v in stores.items()})
+
+
+def enrich_all(books, on_done=None, workers=6):
+    """여러 권을 동시에 조회한다. 한 권이 끝날 때마다 on_done(book) 을 부른다(진행 상황 저장용)."""
+    reports = [None] * len(books)
+
+    def work(i):
+        reports[i] = enrich(books[i])
+        if on_done:
+            on_done(books[i])
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        list(ex.map(work, range(len(books))))
+    return reports
+
+
+def list_path(slug):
+    """목록 이름 → 결과 파일. 'spy'(기본)는 기준 시트, 그 밖은 data/queries/<slug>.result.json."""
+    return DATA / "books.json" if slug in (None, "", "spy") else DATA / "queries" / (slug + ".result.json")
+
+
+def load_list(slug=None):
+    return json.loads(list_path(slug).read_text(encoding="utf-8"))
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     books = load_sheet()
-    report = []
-    for b in books:
-        stores, cand = check(b)
-        b["stores"] = stores
-        gr = cand["goodreads"]
-        pick = GR_PICK.get(b["title"], {}).get("i", 0)
-        b["goodreads"] = gr[pick] if pick is not None and len(gr) > pick else None
-        b["untranslated"] = "미번역" in b["note"]
-        cv = cand["covers"]
-        # 국내판 표지 우선, 없으면 Goodreads 원서 표지
-        b["cover"] = cv.get("ridi") or cv.get("crema") or cv.get("yes24") or cv.get("paper") or cv.get("millie") or (b["goodreads"] or {}).get("cover") or ""
-        if b["id"] in REVIEWS:
-            b["review"] = REVIEWS[b["id"]]
-        cand.pop("covers")
-        report.append(dict(title=b["title"], author=b["author"], original=b["original"], cand=cand,
-                           result={k: v["status"] + ("|" + v.get("matched", "") if v.get("matched") else "")
-                                   for k, v in stores.items()}))
-        print(b["title"], "→", {k: v["status"] for k, v in stores.items()})
-    out = dict(updated=date.today().isoformat(), books=books)
+    report = enrich_all(books, lambda b: print(b["title"], "→", {k: v["status"] for k, v in b["stores"].items()}))
+    out = dict(slug="spy", query="스파이 소설·스릴러", title="스파이 소설 & 논픽션 명작 + 확장 장르 추천",
+               subtitle="기준 시트(레딧 r/books 추천, CWA 대거상, 텔레그래프 역대 최고 20 등)의 65권",
+               updated=date.today().isoformat(), books=books)
     (DATA / "books.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    (DATA / "books.js").write_text("window.BOOKS_DATA = " + json.dumps(out, ensure_ascii=False) + ";\n", encoding="utf-8")
     (CACHE / "report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
+    import build_site
+    build_site.main()
 
 
 if __name__ == "__main__":

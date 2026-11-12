@@ -4,13 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#14110f">
-<title>첩보 서가 — 전자책 입점 현황</title>
+<title>서가 — 추천 도서와 국내 전자책 현황</title>
 <link rel="stylesheet" href="app.css">
 </head>
 <body>
 <header class="top">
   <div class="top-in">
-    <h1>첩보 서가</h1>
+    <h1>서가</h1>
+    <select id="listSel" aria-label="추천 목록 선택"></select>
     <p class="sub" id="sub"></p>
     <div class="tabs" role="tablist">
       <button id="tab-books" role="tab" type="button">책</button>
@@ -38,7 +39,7 @@
   <p id="legend"></p>
   <button id="resetAll" type="button">내가 바꾼 토글 모두 되돌리기</button>
 </footer>
-<script src="data/books.js"></script>
+<script src="data/lists.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

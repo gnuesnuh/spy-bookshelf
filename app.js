@@ -1,6 +1,12 @@
 (function () {
   "use strict";
-  var DATA = window.BOOKS_DATA;
+  var LISTS = window.BOOK_LISTS || [];
+  var LIST_KEY = "books.list.v1";
+  var saved = null;
+  try { saved = localStorage.getItem(LIST_KEY); } catch (e) { saved = null; }
+  var fromUrl = new URLSearchParams(location.search).get("list");
+  var DATA = LISTS.filter(function (l) { return l.slug === (fromUrl || saved); })[0] || LISTS[0] || { books: [], title: "", updated: "" };
+  var EMPTY = { millie: { status: "pending" }, ridi: { status: "pending" }, crema: { status: "pending" }, yes24: { status: "pending" } };
   var KEY = "books.overrides.v1";
 
   // 화면에 보이는 서점 5칸. 리디는 셀렉트(구독)와 단권 구매를 나눠 보여준다.
@@ -16,8 +22,9 @@
   try { overrides = JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { overrides = {}; }
   function save() { try { localStorage.setItem(KEY, JSON.stringify(overrides)); } catch (e) { /* 저장 불가 환경 */ } }
 
+  function isPending(book) { return !book.stores; }
   function base(book, sid) {
-    var s = book.stores;
+    var s = book.stores || EMPTY;
     if (sid === "ridiSelect") return { on: s.ridi.status === "select", src: s.ridi, url: s.ridi.url };
     if (sid === "ridiBuy") return { on: s.ridi.status === "select" || s.ridi.status === "buy", src: s.ridi, url: s.ridi.url };
     return { on: s[sid].status === "yes", partial: s[sid].status === "partial", src: s[sid], url: s[sid].url };
@@ -47,6 +54,7 @@
   }
 
   function krRating(book) {
+    if (isPending(book)) return 0;
     var c = book.stores.crema, r = book.stores.ridi;
     var y = book.stores.yes24;
     if (y.rating) return y.rating;                // YES24 10점 만점
@@ -54,9 +62,13 @@
     if (r.rating && r.count) return r.rating * 2; // 리디 5점 만점 → 10점 환산
     return 0;
   }
+  function screenItems(book) { return (book.screen && book.screen.items) || []; }
+  function screenLabel(i) {
+    return (i.kind === "movie" ? "영화" : "드라마") + " " + (i.year || "공개 미정") + (i.source === "tmdb" ? " (추정)" : "");
+  }
   function storeCount(book) { return STORES.filter(function (s) { return isOn(book, s.id); }).length; }
 
-  var state = { q: "", stores: {}, cat: "", sort: "sheet", open: {}, author: "", view: "books" };
+  var state = { q: "", stores: {}, cat: "", sort: "sheet", open: {}, author: "", view: "books", screen: false };
   var $ = function (id) { return document.getElementById(id); };
   function el(tag, cls, text) {
     var n = document.createElement(tag);
@@ -64,6 +76,7 @@
     if (text != null) n.textContent = text;
     return n;
   }
+  var norm = function (x) { return (x || "").toLowerCase().replace(/[^0-9a-z가-힣]/g, ""); };
   var fmt = function (n) { return Number(n).toLocaleString("ko-KR"); };
 
   function visible() {
@@ -71,8 +84,9 @@
     var need = STORES.filter(function (s) { return state.stores[s.id]; });
     var rows = DATA.books.filter(function (b) {
       if (state.author && b.author !== state.author) return false;
-      if (q && (b.title + " " + b.original + " " + b.author).toLowerCase().indexOf(q) < 0) return false;
-      if (state.cat === "번역본" ? b.untranslated : state.cat && b.category !== state.cat) return false;
+      if (state.screen && !screenItems(b).length) return false;
+      if (q && (b.title + " " + b.original + " " + b.author + " " + ((b.korean || {}).title || "")).toLowerCase().indexOf(q) < 0) return false;
+      if (state.cat === "번역본" ? ["confirmed", "likely"].indexOf((b.korean || {}).verdict) < 0 : state.cat && b.category !== state.cat) return false;
       return need.every(function (s) { return isOn(b, s.id); });
     });
     var by = {
@@ -96,6 +110,12 @@
       c.onclick = function () { state.stores[s.id] = !state.stores[s.id]; render(); };
       box.appendChild(c);
     });
+    var sc = el("button", "chip", "영상화");
+    sc.type = "button";
+    sc.setAttribute("aria-pressed", String(state.screen));
+    sc.appendChild(el("b", null, DATA.books.filter(function (b) { return screenItems(b).length; }).length));
+    sc.onclick = function () { state.screen = !state.screen; render(); };
+    box.appendChild(sc);
     var cats = ["", "번역본"];
     DATA.books.forEach(function (b) { if (cats.indexOf(b.category) < 0) cats.push(b.category); });
     var cb = $("catChips");
@@ -110,6 +130,7 @@
   }
 
   function ratingsRow(book) {
+    if (isPending(book)) return null;
     var row = el("div", "ratings"), g = book.goodreads, r = book.stores.ridi, c = book.stores.crema, m = book.stores.millie;
     function add(label, score, max, count, unit) {
       var s = el("span");
@@ -151,7 +172,10 @@
     var info = el("div", "info");
     info.appendChild(el("div", "cat", book.category));
     var t = el("h2", "title", book.title);
-    if (book.untranslated) t.appendChild(el("span", "badge", "미번역"));
+    var kv = (book.korean || {}).verdict;
+    if (kv === "none") t.appendChild(el("span", "badge", "국내판 없음"));
+    else if (kv === "likely") t.appendChild(el("span", "badge", "국내판 유력"));
+    else if (kv === "unknown") t.appendChild(el("span", "badge", "국내판 확인 불가"));
     info.appendChild(t);
     var meta = el("div", "meta");
     var ab = el("button", "author", book.author);
@@ -162,6 +186,10 @@
     meta.appendChild(ab);
     meta.appendChild(document.createTextNode(" · " + book.original));
     info.appendChild(meta);
+    var kt = (book.korean || {}).title;
+    if (kt && norm(kt).indexOf(norm(book.title.split("(")[0].split("/")[0])) < 0) {
+      info.appendChild(el("div", "ktitle", "국내 제목: " + kt));
+    }
     var rr = ratingsRow(book);
     if (rr) info.appendChild(rr);
     topRow.appendChild(info);
@@ -175,18 +203,33 @@
       if (n.yes24) parts.push("YES24 " + n.yes24);
       head.appendChild(el("p", "src", "독자 리뷰 요약 · " + parts.join(" · ") + "건"));
     } else {
-      head.appendChild(el("p", "src", "시트 메모 (수집된 리뷰 없음)"));
+      head.appendChild(el("p", "src", "추천 포인트 (독자 리뷰 요약 전)"));
     }
     var dots = el("div", "dots");
-    STORES.forEach(function (s) {
+    if (isPending(book)) dots.appendChild(el("span", "dot wait", "국내 정보 조회 중…"));
+    else STORES.forEach(function (s) {
       dots.appendChild(el("span", "dot " + (isOn(book, s.id) ? "on" : "off"), s.short));
     });
-    var pp0 = book.stores.yes24.paper;
+    var si = screenItems(book);
+    if (si.length) {
+      var watch = [];
+      si.forEach(function (i) { (i.watch || []).forEach(function (w) { if (watch.indexOf(w) < 0 && !/with Ads/.test(w)) watch.push(w); }); });
+      dots.appendChild(el("span", "dot screen", "영상화 " + si.map(function (i) { return (i.kind === "movie" ? "영화" : "드라마") + " " + (i.year || "예정"); }).slice(0, 2).join(" · ")
+        + (si.length > 2 ? " 외 " + (si.length - 2) : "") + (watch.length ? " ▸ " + watch.slice(0, 2).join(", ") : "")));
+    }
+    var pp0 = !isPending(book) && book.stores.yes24.paper;
     if (pp0) dots.appendChild(el("span", "dot paper", "종이책 " + pp0.status));
     head.appendChild(dots);
     head.onclick = function () { state.open[book.id] = !open; render(); };
     art.appendChild(head);
     if (!open) return art;
+    if (isPending(book)) {
+      var pb = el("div", "body");
+      if (book.awards) pb.appendChild(el("p", "aw", book.awards));
+      pb.appendChild(el("p", "aw", "국내판·서점 입점 정보를 조회하는 중입니다. 잠시 뒤 새로고침하면 채워집니다."));
+      art.appendChild(pb);
+      return art;
+    }
 
     var body = el("div", "body");
     if (book.review) {
@@ -194,7 +237,15 @@
       if (r.pros && r.pros.length) body.appendChild(el("p", "pc", "＋ " + r.pros.join(" · ")));
       if (r.cons && r.cons.length) body.appendChild(el("p", "pc", "－ " + r.cons.join(" · ")));
       if (r.domestic) body.appendChild(el("p", "aw", "국내 독자: " + r.domestic));
-      body.appendChild(el("p", "aw", "시트 메모: " + book.summary));
+      body.appendChild(el("p", "aw", "추천 포인트: " + book.summary));
+    }
+    var k = book.korean;
+    if (k && k.title) {
+      body.appendChild(el("p", "aw", "국내판: 『" + k.title + "』" + (k.publisher ? " · " + k.publisher : "") + (k.date ? " " + k.date : "")
+        + " · " + (k.verdict === "confirmed" ? "확정 ✅" : "유력 ⚠️") + " (" + k.how + ")"));
+    } else if (k) {
+      body.appendChild(el("p", "aw", k.verdict === "unknown" ? "국내판: 확인 불가 (조회 실패)"
+        : k.verdict === "likely" ? "국내판: 유력 ⚠️ (서점 제목 일치)" : "국내판: YES24에서 찾지 못함"));
     }
     if (book.awards) body.appendChild(el("p", "aw", book.awards));
     if (book.note) body.appendChild(el("p", "aw", "비고: " + book.note));
@@ -204,6 +255,19 @@
       a.href = book.goodreads.url; a.target = "_blank"; a.rel = "noopener";
       gp.appendChild(a);
       body.appendChild(gp);
+    }
+    if (si.length) {
+      var sl = el("ul", "screens");
+      si.forEach(function (i) {
+        var li = el("li"), a = el("a", null, i.title + " — " + screenLabel(i) + " ↗");
+        a.href = i.url; a.target = "_blank"; a.rel = "noopener";
+        li.appendChild(a);
+        var w = (i.watch || []).filter(function (x) { return !/with Ads/.test(x); });
+        if (w.length) li.appendChild(el("span", "ott", "국내 OTT: " + w.join(", ")));
+        sl.appendChild(li);
+      });
+      body.appendChild(el("p", "aw", "영상화 작품"));
+      body.appendChild(sl);
     }
     var ul = el("ul", "stores");
     STORES.forEach(function (s) {
@@ -299,8 +363,21 @@
     $("resetAll").hidden = !mine;
   }
 
-  $("sub").textContent = "스파이·스릴러·논픽션 " + DATA.books.length + "권 · 입점 확인일 " + DATA.updated;
-  $("legend").textContent = "입점 여부는 밀리의서재·리디·크레마클럽 검색과 YES24 Open API로 확인한 값입니다. ↗ 로 서점에서 직접 확인한 뒤 토글로 고칠 수 있고, 수정은 이 기기에만 저장됩니다. 리뷰 요약은 Goodreads·리디·YES24에서 수집한 독자 리뷰를 요약한 것입니다.";
+  var waiting = DATA.books.filter(isPending).length;
+  $("sub").textContent = (DATA.subtitle ? DATA.subtitle + " · " : "") + DATA.books.length + "권 · 확인일 " + DATA.updated
+    + (waiting ? " · " + waiting + "권 조회 중" : "");
+  var sel = $("listSel");
+  LISTS.forEach(function (l) {
+    var o = el("option", null, l.title + " (" + l.books.length + ")");
+    o.value = l.slug; o.selected = l === DATA;
+    sel.appendChild(o);
+  });
+  sel.hidden = LISTS.length < 2;
+  sel.onchange = function () {
+    try { localStorage.setItem(LIST_KEY, sel.value); } catch (e) { /* 저장 불가 환경 */ }
+    location.search = "?list=" + encodeURIComponent(sel.value);
+  };
+  $("legend").textContent = "입점 여부는 밀리의서재·리디·크레마클럽 검색과 YES24 Open API로 확인한 값입니다. ↗ 로 서점에서 직접 확인한 뒤 토글로 고칠 수 있고, 수정은 이 기기에만 저장됩니다. 리뷰 요약은 Goodreads·리디·YES24에서 수집한 독자 리뷰를 요약한 것입니다. 영상화 정보는 위키데이터와 TMDB 기준이며, OTT 제공처는 TMDB(JustWatch 제공)의 국내 정보입니다.";
   $("tab-books").onclick = function () { state.view = "books"; render(); };
   $("tab-authors").onclick = function () { state.view = "authors"; render(); };
   $("authorFilter").onclick = function () { state.author = ""; render(); };
